@@ -1,0 +1,27 @@
+
+:root {
+	--cor-0:#ffffff; /* = Branco */
+	--cor-1:#333333; /* = Cinza Escuro */
+	--cor-2:#e2e1e0; /* = Cinza */
+	--cor-3:#eeeeee; /* = Cinza claro */
+	--cor-4:#01913a; /* = Verde */
+	--cor-5:#e00b1c; /* = Vermelho */
+	--cor-6:#fdea14; /* = Amarelo */
+	--cor-7:#3399cc; /* = Azul (TI) */
+	--cor-8:#005C90; /* = Azul para substituir o verde */
+
+	--sombra-box: 0 3px 4px 0px rgba(50, 50, 50, 0.5); /* Sombra leve para destaque */
+	--sombra-hover: 0 6px 10px 0px rgba(50, 50, 50, 0.75) /* sombra leve para destaque com o hover */
+
+
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: var(--cor-0);
+    
+}
+

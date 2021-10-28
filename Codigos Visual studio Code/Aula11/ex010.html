@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<h1>Sistema de multa</h1>
+
+Velocidade do veículo: <input type="number" name="txtvel"  id="txtvel" > Km/h
+<input type="button" value="Verificar" onclick="calcular()">
+<div id="res">
+
+
+</div>
+
+<script>
+    function calcular(){
+        var txtv = window.document.querySelector('imput#txtvel')
+        var res = window.document.querySelector('div#res')
+        var vel = Number(txtvel.value)
+        res.innerHTML = `<p>Sua velocidade atual é de <strong>${vel}Km/h</strong></p>`
+        if (vel > 60){
+            res.innerHTML += `você está <strong>MULTADO</strong> por exesso de velocidade!`
+        }
+        res.innerHTML += `<p>Dirija sempre com cinto de segurança!</p>`
+    }
+
+</script>
+
+<hr>
+
+<h1>Nacionalismo BR</h1>
+
+Você mora em que país?<input type="text" name="txtpais"  id="txtpais" >
+<input type="button" value="Verificar" onclick="nacao()">
+<div id="resp">
+
+
+</div>
+
+<script>
+    function nacao(){
+        var txtp = window.document.querySelector('imput#txtpais')
+        var resp = window.document.querySelector('div#resp')
+        var pais = (txtpais.value)
+        
+        resp.innerHTML = `<p>seu pais é <strong>${pais.toUpperCase()}</strong></p>`
+        
+        if (pais.toUpperCase() == 'BRASIL'){
+            resp.innerHTML += `Você é <strong>Brasileiro</strong>`
+        } else {
+            resp.innerHTML += `Você é <strong>Estrangeiro</strong>`
+        }
+        resp.innerHTML += `<p>Dirija sempre com cinto de segurança!</p>`
+    }
+
+</script>
+
+
+</script>
+
+</body>
+</html>

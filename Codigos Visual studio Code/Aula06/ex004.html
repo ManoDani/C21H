@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso de JavaScript</title>
+
+<style>
+body{
+    background-color: cornsilk;
+    margin: auto;
+    padding: 100px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+h1{
+    color: rgb(165, 42, 42);
+    font-size: 50px;
+    transition: 0.5s;
+    text-align: center;
+    justify-content: center;
+}
+
+p{
+    color: #555555;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+h1:hover{
+    font-size: 53px;
+    transition: 0.5s;
+}
+.a5{
+    color: rgb(165, 42, 42);
+    font-size: 25px;
+    font-style: italic;
+    transition: 0.5s;
+    text-align: center;
+    justify-content: center;
+}
+
+</style>
+
+</head>
+<body>
+
+<div class="block">    
+<h1>Olá, Mundo!</h1>
+<p>Vamos falar de JavaScript</p>
+<p></p>
+
+</div>
+<div></div>
+<div>
+
+</div>
+
+<script>
+
+
+</script>
+
+
+    <script>
+
+        var nome = (window.prompt(`Qual seu Nome?`))
+        var n1 = Number(window.prompt('Vamos fazer uma soma, Digite um número'))
+        var n2 = Number(window.prompt('Agora digite outro número'))
+        var nota = n1 + n2
+        window.alert(`a soma entre ${n1} e ${n2} é igual a ${nota}, essa será sua Nota!`)
+
+        window.alert(`a nota de ${nome} é ${nota}`)
+
+        document.write(`<div class="a5"> Seu nome (${nome}) tem ${nome.length} letras; </div>`)
+        var nota2 = Number(nota) + Number(nome.length)
+
+        document.write(`<div class="a5"> Parabéns, e você tiru a nota ${nota2}! <br> (${n1}+${n2}=${nota} + ${nome.length}) </div>`)
+        document.write(`<div class="a5">Seu nome em maiúscula ${nome.toUpperCase()}</div>`)
+        document.write(`<div class="a5">Seu nome em minúscula ${nome.toLowerCase()}</div>`)
+
+    </script>
+
+</body>
+</html>

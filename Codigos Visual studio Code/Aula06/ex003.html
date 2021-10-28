@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso de JavaScript</title>
+
+<style>
+body{
+    background-color: cornsilk;
+    margin: auto;
+    padding: 100px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+h1{
+    color: rgb(165, 42, 42);
+    font-size: 50px;
+    transition: 0.5s;
+    text-align: center;
+    justify-content: center;
+}
+
+p{
+    color: #555555;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+h1:hover{
+    font-size: 53px;
+    transition: 0.5s;
+}
+
+</style>
+
+</head>
+<body>
+
+<div class="block">    
+<h1>Olá, Mundo!</h1>
+<p>Vamos falar de JavaScript</p>
+</div>
+<div></div>
+<div>
+
+</div>
+
+
+    <script>
+        var nome = (window.prompt(`Qual seu Nome?`))
+        var n1 = Number(window.prompt('digite um numero'))
+        var n2 = Number(window.prompt('digite outro numero'))
+        var nota = n1 + n2
+        window.alert(`a soma entre ${n1} e ${n2} é igual a ${nota}`)
+
+        window.alert(`a nota de ${nome} é ${nota}`)
+
+        // (number + number) para adição
+        // (string + string) para concatenação
+
+        // Number.parseInt(n) Para Números intiros (5, 8, 10)
+        // Number.parseFloat(n) Para Números com Pontos (5.5, 8.18, 10.518)
+
+        //string(s)
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso de JavaScript</title>
+
+<style>
+body{
+    background-color: cornsilk;
+    margin: auto;
+    padding: 100px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+h1{
+    color: rgb(165, 42, 42);
+    font-size: 50px;
+    transition: 0.5s;
+    text-align: center;
+    justify-content: center;
+}
+
+p{
+    color: #555555;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+h1:hover{
+    font-size: 53px;
+    transition: 0.5s;
+}
+.a5{
+    color: rgb(165, 42, 42);
+    font-size: 25px;
+    font-style: italic;
+    transition: 0.5s;
+    text-align: center;
+    justify-content: center;
+}
+.mensagem{
+    background: rgb(165, 42, 42);
+    color: antiquewhite;
+    font-weight: bold;
+}
+
+
+</style>
+
+</head>
+<body>
+
+<div class="block">    
+    <h1>Olá, Mundo! 005</h1>
+    <p>Vamos falar de JavaScript</p>
+    <p>agora estamos com a atualização <strong>automática</strong></p>
+    <div class="mensagem" id=msg> Clique em mim</div>
+    <div name="new">Outra Mensagem</div>
+</div>
+
+<script>
+
+var p1 = window.document.getElementsByTagName('p')[1]
+window.document.write('<p>Está escrito assim: "' + p1.innerText + '" </p><br>')
+window.document.write('<p>Está escrito assim: "' + p1.innerHTML + '"</p>')
+p1.style.color = 'blue'
+p1.style.background = 'White'
+
+
+var d = window.document.getElementById('msg')
+d.style.background = 'red'
+d.style.color = 'white'
+d.innerText = 'estou aguardando'
+window.document.getElementById('msg').innerText = 'azul'
+
+var m = window.document.getElementsByName('new')[0]
+m.innerText ='new mensagem'
+
+//navegador mais recente
+var f = window.document.querySelector('div#msg') //id msg #
+var f = window.document.querySelector('div.msg') //class mensagem .
+f.style.color = 'blue'
+
+
+</script>
+
+</body>
+</html>
