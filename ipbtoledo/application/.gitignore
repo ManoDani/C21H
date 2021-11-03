@@ -1,0 +1,13 @@
+/.idea/
+/cache/
+/docs/
+/logs/
+/node_modules/
+/public/css/
+/public/fonts/
+/public/upload/
+/vendor/
+.env
+.sass-cache
+phpcs.xml
+phpunit.xml
