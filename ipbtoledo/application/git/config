@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@gitlab.com:farol360/ipbtoledo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[lfs "https://gitlab.com/farol360/ipbtoledo.git/info/lfs"]
+	locksverify = false
