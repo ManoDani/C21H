@@ -1,0 +1,82 @@
+Return-Path: <mkxqdtuy@ketraco.co.ke>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id GMxrGUskZmH4CwAA85qOww
+	(envelope-from <mkxqdtuy@ketraco.co.ke>)
+	for <contato+spam@ipbtoledo.com.br>; Tue, 12 Oct 2021 21:11:55 -0300
+Return-path: <mkxqdtuy@ketraco.co.ke>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 12 Oct 2021 21:11:55 -0300
+Received: from mail.ketraco.co.ke ([41.215.60.130]:57400 helo=mailgate.ketraco.co.ke)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <mkxqdtuy@ketraco.co.ke>)
+	id 1maRs5-0000zV-IF
+	for contato@ipbtoledo.com.br; Tue, 12 Oct 2021 21:11:55 -0300
+Received: from mail.ketraco.co.ke (172-245-186-129-host.colocrossing.com [172.245.186.129])
+	by mailgate.ketraco.co.ke  with ESMTP id 19D0AB5H011107-19D0AB5J011107;
+	Wed, 13 Oct 2021 03:10:13 +0300
+Message-Id: <202110130010.19D0AB5H011107-19D0AB5J011107@mailgate.ketraco.co.ke>
+From: "O Mercado Digital" <mkxqdtuy@ketraco.co.ke>
+To: contato@ipbtoledo.com.br
+Content-Type: text/plain
+Reply-To: acessenossositeabaixo@gmail.com
+Date: Tue, 12 Oct 2021 17:10:14 -0700
+X-Spam-Status: Yes, score=12.6
+X-Spam-Score: 126
+X-Spam-Bar: ++++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Temos um produto com um desconto especial !! Com a Smart TV
+    32'' da Panasonic, não faltará diversão e entretenimento. Com ela, você ganha
+    acesso a vídeos, filmes (Youtube, Netflix, etc) e muito mais. 
+ Content analysis details:   (12.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.0 HK_RANDOM_ENVFROM      Envelope sender username looks random
+  1.0 HK_RANDOM_FROM         From username looks random
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: omercadaodigital.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.0 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  0.5 CTE_8BIT_MISMATCH      Header says 7bits but body disagrees
+  2.5 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: YES
+Subject:    Smart Tv com super desconto!
+
+
+Temos um produto com um desconto especial !!
+
+Com a Smart TV 32'' da Panasonic, não faltará diversão e entretenimento. Com ela, você ganha acesso a 
+
+vídeos, filmes (Youtube, Netflix, etc) e muito mais.
+
+Navegar na internet com o web browser da Smart TV ficará muito fácil e rápido graças ao seu potente 
+
+processador Dual Core.
+
+Por meio da entrada USB, você reproduz diversos tipos de arquivos de mídia, incluindo fotos, vídeos e 
+
+músicas.
+
+Características:
+- Produto bivolt
+- Acesso ao Wifi
+- Reproduz fotos, vídeos e músicas, através da entrada USB
+- Compatível com Netflix e Youtube
+- Função Guide para verificar toda a programação eletrônica nos canais digitais
+
+Acesse o link abaixo e compre agora mesmo:
+https://www.omercadaodigital.com.br/produto/smart-tv-panasonic-led-hd-32-70874

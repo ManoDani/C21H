@@ -1,0 +1,90 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id 2E+WCjNGyWB/BgAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Tue, 15 Jun 2021 21:30:43 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 15 Jun 2021 21:30:43 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1ltJS7-0000bB-01
+	for contato@ipbtoledo.com.br; Tue, 15 Jun 2021 21:30:43 -0300
+X-Failed-Recipients: contato385@divulgabrasil.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <a1be802cbbad4e35a36364aeeb0cbe47@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1623803442-eximdsn-1758013237
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ltJS7-0000bB-01@server.mundotk.com.br>
+Date: Tue, 15 Jun 2021 21:30:43 -0300
+
+--1623803442-eximdsn-1758013237
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contato385@divulgabrasil.com
+    retry timeout exceeded
+
+--1623803442-eximdsn-1758013237
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;contato385@divulgabrasil.com
+Status: 5.0.0
+
+--1623803442-eximdsn-1758013237
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=51802 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1ltDAQ-00042T-Dt
+	for contato385@divulgabrasil.com; Tue, 15 Jun 2021 14:48:03 -0300
+Date: Tue, 15 Jun 2021 17:48:03 +0000
+To: Aurora Rizzato <contato385@divulgabrasil.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <a1be802cbbad4e35a36364aeeb0cbe47@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Aurora Rizzato
+
+                    EMAIL: contato385@divulgabrasil.com
+
+                    TELEFONE: (11) 976835978
+                    
+
+
+                    CORPO DA MENSAGEM: Aumente suas vendas de fim de ano com marketing direto. Envie mais de 250.000 mensagens POR DIA, direto na caixa de entrada, ofertando seu produto, serviço, link de afiliado... o que você quiser divulgar. 
+
+https://www.divulgaonline.com.br
+
+Obs. As mensagens na caixa de entrada, iguais a esta ao
+custo máximo R$13,00 por dia. 
+
+Boas Vendas!
+
+
+--1623803442-eximdsn-1758013237--

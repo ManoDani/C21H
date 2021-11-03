@@ -1,0 +1,135 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id gAv/C/epWmEpXAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Mon, 04 Oct 2021 04:15:03 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 04 Oct 2021 04:15:03 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mXIBj-0006Pv-0D
+	for contato@ipbtoledo.com.br; Mon, 04 Oct 2021 04:15:03 -0300
+X-Failed-Recipients: carloseduardo_842@uol.com.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <74c0e3e7267935459344e7048e90a1f3@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1633331702-eximdsn-53618750
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mXIBj-0006Pv-0D@server.mundotk.com.br>
+Date: Mon, 04 Oct 2021 04:15:03 -0300
+
+--1633331702-eximdsn-53618750
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  carloseduardo_842@uol.com.br
+    host mx.uol.com.br [200.147.36.15]
+    SMTP error from remote mail server after RCPT TO:<carloseduardo_842@uol.com.br>:
+    550 5.1.1 <carloseduardo_842@uol.com.br>: Recipient address rejected:
+    User unknown in relay recipient table
+
+--1633331702-eximdsn-53618750
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;carloseduardo_842@uol.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx.uol.com.br
+Diagnostic-Code: smtp; 550 5.1.1 <carloseduardo_842@uol.com.br>: Recipient address rejected: User unknown in relay recipient table
+
+--1633331702-eximdsn-53618750
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=57278 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mXIBf-0006P2-Fz
+	for carloseduardo_842@uol.com.br; Mon, 04 Oct 2021 04:15:00 -0300
+Date: Mon, 4 Oct 2021 07:14:53 +0000
+To: Carlos Eduardo Almeida <carloseduardo_842@uol.com.br>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <74c0e3e7267935459344e7048e90a1f3@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Carlos Eduardo Almeida
+
+                    EMAIL: carloseduardo_842@uol.com.br
+
+                    TELEFONE: (11) 945592303
+                    
+
+
+                    CORPO DA MENSAGEM:          Olá, Ipbtoledo tudo bem! 
+
+
+Gostaria de aumentar suas vendas em seus negócios?
+Veja alguns de nossos serviços que podemos oferecer para te ajudar: 
+
+
+1-Enviar mensagem em formulário de contato dentro de sites (podendo ser enviado até 200.000 contatos por dia, monte seu plano de envios ). 
+
+2-Campanha de e-mail Marketing Digital profissional sem SPAM. 
+
+3-Gerar tráfego de seu site organicamente, aumente o Ranking nas pesquisas dentro do Google, deixe seu site nas melhores posições na hora das buscas para seus futuros clientes. 
+
+4-Enviar campanhas profissionais por WhatsApp. 
+
+5-Listas segmentas por região de seu negócio em qualquer lugar do País. (basta nos dizer qual o seu segmento que faremos para você toda a busca por palavra-chave, bairro, cidade, estado). 
+
+6-Aumente seus Views da sua página no Youtube, sendo orgânica e não paga (mencionar quantas Views quer ter em sua página diária). 
+
+7-Validar lista de e-mail, deixando apenas os e-mails validos no mercado Ativo, pode ser e-mails físico ou jurídico que validamos para você. 
+
+8-Criamos listas de grupos para WhatsApp segmentado. 
+
+9-Tenha uma Máquina de Viralização em seus negócios , em sua empresa e faça viralizar e aumentar suas vendas. 
+
+
+
+Conheça nossa Agência de Marketing Digital e veja o que temos para sua empresa e seus negócios ? 
+
+https://www.agenciadigitalraiz.com.br 
+
+
+Abraços 
+Carlos Eduardo 
+
+
+Obrigado por sua atenção ! 
+Nos vemos por lá! 
+Um grande abraço. 
+
+
+* ´¨) 
+.• ¸.•* ´¨) 
+(¸.•´ Agência Digital Raiz 
+
+
+Não tenho interesse neste produto: 
+http://www.sairdalista.site ?u=http://www.ipbtoledo.com.br&c=3e84d31ad28454DFCC4F
+
+
+--1633331702-eximdsn-53618750--

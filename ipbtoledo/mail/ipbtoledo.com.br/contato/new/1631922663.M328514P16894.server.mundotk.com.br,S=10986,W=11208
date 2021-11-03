@@ -1,0 +1,222 @@
+Return-Path: <omintsegurosaude-2j@saudebrasilconvenio.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id uJKpEucpRWH+QQAA85qOww
+	(envelope-from <omintsegurosaude-2j@saudebrasilconvenio.com.br>)
+	for <contato@ipbtoledo.com.br>; Fri, 17 Sep 2021 20:51:03 -0300
+Return-path: <omintsegurosaude-2j@saudebrasilconvenio.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 17 Sep 2021 20:51:03 -0300
+Received: from cloud659496.saudebrasilconvenio.com.br ([193.111.251.117]:58106)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <omintsegurosaude-2j@saudebrasilconvenio.com.br>)
+	id 1mRNdB-0004MG-U6
+	for contato@ipbtoledo.com.br; Fri, 17 Sep 2021 20:51:03 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=9c071g; d=saudebrasilconvenio.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=omintsegurosaude-2j@saudebrasilconvenio.com.br;
+ bh=ukEBehL+b6qfFO61tsagVNqjnr8=;
+ b=CAs/JSDoz8BS2psYfktnwFbVigwT86Xi3QZgsckYJRmjr9v8rLJBj2j1r7KYak9wybk2XBnjFnwm
+   1dwhZLUS/MU5BHD/ASgRqt4DQua3L/QLfaGo+ADvgFqBkgYmegGv6xOSjwQ4XyMvvoe4q6nWr9tz
+   2zPKZuNFUJdzQfvyN/o=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=9c071g; d=saudebrasilconvenio.com.br;
+ b=yLR32l/VgvzJaTK94FmsfX/CfieOV+H00+4YRAhFS+e2kvpXGCC3re7YD1WHcSsCkGDXUahirLAn
+   +0Y2XKqPQhpECl0x/BE4OXSzd6/b034Um5z4QrvXgsWyzNyEevX1gThUo1eJIEaijayWSYT5YBnv
+   w6AsFWfzGPa5mfh6nm4=;
+Date: Fri, 17 Sep 2021 20:50:17 -0300
+To: contato@ipbtoledo.com.br
+From: Sara Alessandra | Atendimento Omint <omintsegurosaude-2j@saudebrasilconvenio.com.br>
+Subject: =?iso-8859-1?Q?Omint,_O_melhor_atendimento_por_um_pre=E7o_justo?=
+Message-ID: <g5f4i4s41426f453f4w5g5t4w5j4i544l4p274o4t534i5x5@saudebrasilconvenio.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ddtxERo2dUQiIMFtJZHqBNeQcVMQwC8CbPnIu42q8"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  [](http://ec2-54-94-74-213.sa-east-1.compute.amazonaws.com/?qs=24r2y2z2r284q2x2y2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231624r4h55464q4141694d494v5s5v4m5l4m5f4s264j4m424j5y5&lin=11420)
+    
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: imgur.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image
+                             area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+--b1_ddtxERo2dUQiIMFtJZHqBNeQcVMQwC8CbPnIu42q8
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+[](http://ec2-54-94-74-213.sa-east-1.compute.amazonaws.com/?qs=3D24r2y2z2r2=
+84q2x2y2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231624r4h5546=
+4q4141694d494v5s5v4m5l4m5f4s264j4m424j5y5&lin=3D11420)=0A=0A=0A=0AOmint, n=
+=C3=B3s vamos superar todas as suas expectativas.=0A=0A=0ACoberturas difere=
+nciadas. Excel=C3=AAncia em cada detalhe: da melhor rede credenciada do Bra=
+sil ao reembolso de valores expressivos.=0A=0A*Valores reduzidos em at=
+=C3=A9 40% para CNP, confira.=0A=0A=0ATenha acesso aos melhores hospitais d=
+o Brasil, com cobertura nacional:=0A=0A- Hospital S=C3=ADrio Liban=C3=AAs;=
+=0A- Hospital Albert Einstein;=0A- Rede S=C3=A3o Luiz;=0A- E v=C3=A1rios ou=
+tros.=0A=0A=0APara fazer uma cota=C3=A7=C3=A3o =C3=A9 rapidinho, dura apena=
+s 10 segundos.=0A=0A[solicitar cota=C3=A7=C3=A3o](http://ec2-54-94-74-213.s=
+a-east-1.compute.amazonaws.com/?qs=3D24r2y2z2r284q2x2y2e42473k5m4r5k474n4j4=
+d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231624r4h55464q4141694d494v5s5v4m5l4m5f4s=
+264j4m424j5y5&lin=3D11420)=0A=0A=0A=0A=C2=A9 2014 - 2021 BuscaPlanos. Todos=
+ os direitos reservados.=0A=0A=0AConsultoria Plano de Sa=C3=BAde, Av Brigad=
+eiro Faria Lima, S=C3=A3o Paulo, SP, 01451-912, Brazil=0A=0A=0Acontato@ipbt=
+oledo.com.br - 20:50:17=0A=0AVoc=C3=AA recebeu este e-mail por constar em u=
+ma lista de nossos parceiros em 17/09/2021=0A=0ASe desejar por n=C3=A3o rec=
+eber mais nossas newsletters, [cancele o recebimento.](http://ec2-54-94-74-=
+213.sa-east-1.compute.amazonaws.com/?qr=3D24r2y2z2r284q2x2y2e42473k5m4r5k47=
+4n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231624r4h55464q4141694d494v5s5v4m5l4=
+m5f4s264j4m424j5y5)
+--b1_ddtxERo2dUQiIMFtJZHqBNeQcVMQwC8CbPnIu42q8
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang=3D"pt-br" >
+<head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8" >
+=09<title></title>
+=09<style type=3D"text/css" >body{margin:0;padding:0;}
+=09</style>
+</head>
+<body>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width: 600px;" >
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"right" height=3D"60" >
+=09=09=09<div align=3D"center" ><br />
+=09=09=09<br />
+=09=09=09<a href=3D"http://ec2-54-94-74-213.sa-east-1.compute.amazonaws.com=
+/?qs=3D24r2y2z2r284q2x2y2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t2=
+64p4231624r4h55464q4141694d494v5s5v4m5l4m5f4s264j4m424j5y5&lin=3D11420" tar=
+get=3D"_blank" ><img alt=3D"Omint_os melhores planos" border=3D"0" height=
+=3D"324" src=3D"https://i.imgur.com/DBGWRFj.jpg" width=3D"576" /></a></div>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"width: 550px;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=3D"font: normal 24px/28px 'Arial',sans-serif;" =
+>
+=09=09=09=09=09=09<p align=3D"center" style=3D"line-height: 1.0;" ><br />
+=09=09=09=09=09=09<span style=3D"color: #102A46;" ><strong>Omint, n&oacute;=
+s vamos superar todas as suas expectativas. </strong></span></p>
+
+=09=09=09=09=09=09<p style=3D"line-height: 1.2; font: normal 20px/28px 'Ari=
+al',sans-serif;" ><br />
+=09=09=09=09=09=09Coberturas diferenciadas. Excel&ecirc;ncia em cada detalh=
+e: da melhor rede credenciada do Brasil ao reembolso de valores expressivos=
+.</p>
+
+=09=09=09=09=09=09<p style=3D"line-height: 1.2; color: #eb6a18; font: norma=
+l 20px/28px 'Arial',sans-serif;" >*Valores reduzidos em at&eacute; 40% para=
+ CNP, confira.</p>
+
+=09=09=09=09=09=09<p align=3D"center" style=3D"line-height: 1.0;" ><br />
+=09=09=09=09=09=09<strong>Tenha acesso aos melhores hospitais do Brasil</st=
+rong>, com cobertura nacional:</p>
+
+=09=09=09=09=09=09<ul>
+=09=09=09=09=09=09=09<li style=3D"line-height: 1.3; font: normal 20px/28px =
+'Arial',sans-serif;" >Hospital S&iacute;rio Liban&ecirc;s;</li>
+=09=09=09=09=09=09=09<li style=3D"line-height: 1.3; font: normal 20px/28px =
+'Arial',sans-serif;" >Hospital Albert Einstein;</li>
+=09=09=09=09=09=09=09<li style=3D"line-height: 1.3; font: normal 20px/28px =
+'Arial',sans-serif;" >Rede S&atilde;o Luiz;</li>
+=09=09=09=09=09=09=09<li style=3D"line-height: 1.3; font: normal 20px/28px =
+'Arial',sans-serif;" >E v&aacute;rios outros.</li>
+=09=09=09=09=09=09</ul>
+
+=09=09=09=09=09=09<p align=3D"center" style=3D"line-height: 1.2;" ><br />
+=09=09=09=09=09=09Para fazer uma cota&ccedil;&atilde;o <strong>&eacute; rap=
+idinho, dura apenas 10 segundos</strong>.<br />
+=09=09=09=09=09=09<br />
+=09=09=09=09=09=09<a href=3D"http://ec2-54-94-74-213.sa-east-1.compute.amaz=
+onaws.com/?qs=3D24r2y2z2r284q2x2y2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v=
+2j5k4h4t264p4231624r4h55464q4141694d494v5s5v4m5l4m5f4s264j4m424j5y5&lin=3D1=
+1420" style=3D"display: block; background-color: #102A46; text-transform: u=
+ppercase; color: #ffffff; font-weight: bold; font-size: 26px; text-decorati=
+on: none; padding: 25px 0; border-radius: 50px;" target=3D"_blank" >solicit=
+ar cota&ccedil;&atilde;o</a></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td height=3D"80" style=3D"border-top: 1px dotted #6d6d6d=
+;" >
+=09=09=09=09=09=09<p style=3D"font: normal 14px 'Arial',sans-serif; text-al=
+ign: center; color: #6d6d6d;" ><br />
+=09=09=09=09=09=09<span>&copy; 2014 - 2021 BuscaPlanos. Todos os direitos r=
+eservados.</span></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<div style=3D"text-align: center; background-color: #fff; padding-top: 10px=
+; padding-bottom: 10px; font-size: 8pt; font-family: sans-serif;" >
+<p style=3D"text-align: center; text-decoration: none; color: #666;" >Consu=
+ltoria Plano de Sa&uacute;de, Av Brigadeiro Faria Lima, S&atilde;o Paulo, S=
+P, 01451-912, Brazil</p>
+</div>
+
+<div style=3D"text-align: center; background-color: #fff; padding-top: 10px=
+; padding-bottom: 10px; font-size: 8pt; font-family: sans-serif;" >
+<div align=3D"left" style=3D"text-align: center;" ><span style=3D"font-fami=
+ly: arial, helvetica, sans-serif; font-size: x-small;" >contato@ipbtoledo.c=
+om.br - 20:50:17&nbsp;<br />
+<br />
+Voc&ecirc; recebeu este e-mail por constar em uma lista de nossos parceiros=
+ em 17/09/2021</span><br />
+<br />
+&nbsp;
+<pre>
+<span style=3D"font-family: arial, helvetica, sans-serif; font-size: x-smal=
+l;" >Se desejar por n&atilde;o receber mais nossas newsletters,  <a href=3D=
+"http://ec2-54-94-74-213.sa-east-1.compute.amazonaws.com/?qr=3D24r2y2z2r284=
+q2x2y2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231624r4h55464q=
+4141694d494v5s5v4m5l4m5f4s264j4m424j5y5" >cancele o recebimento.</a> </span=
+></pre>
+<br />
+<br />
+&nbsp;</div>
+</div>
+<img src=3D"http://ec2-54-94-74-213.sa-east-1.compute.amazonaws.com/?qo=3D2=
+4r2y2z2r284q2x2y2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p42316=
+24r4h55464q4141694d494v5s5v4m5l4m5f4s264j4m424j5y5" alt=3D"" width=3D1 heig=
+ht=3D1 style=3D"border:0 none;display:block;height:auto;line-height:100%;ou=
+tline:none;-webkit-text-decoration:none;text-decoration:none"></body>
+</html>
+
+
+--b1_ddtxERo2dUQiIMFtJZHqBNeQcVMQwC8CbPnIu42q8--
+

@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id Gu8dAecZ/mCrLwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Sun, 25 Jul 2021 23:11:51 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sun, 25 Jul 2021 23:11:51 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1m7q5u-0003Ai-Pm
+	for contato@ipbtoledo.com.br; Sun, 25 Jul 2021 23:11:50 -0300
+X-Failed-Recipients: bernardo_547@divulgasite.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <895c868463e30adbe7e9848216e11df8@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1627265510-eximdsn-2144654857
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1m7q5u-0003Ai-Pm@server.mundotk.com.br>
+Date: Sun, 25 Jul 2021 23:11:50 -0300
+
+--1627265510-eximdsn-2144654857
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  bernardo_547@divulgasite.com
+    retry timeout exceeded
+
+--1627265510-eximdsn-2144654857
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;bernardo_547@divulgasite.com
+Status: 5.0.0
+
+--1627265510-eximdsn-2144654857
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=51664 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1m7q3q-000339-Jy
+	for bernardo_547@divulgasite.com; Sun, 25 Jul 2021 23:09:43 -0300
+Date: Mon, 26 Jul 2021 02:09:42 +0000
+To: Bernardo Nascimento <bernardo_547@divulgasite.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <895c868463e30adbe7e9848216e11df8@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Bernardo Nascimento 
+
+                    EMAIL: bernardo_547@divulgasite.com
+
+                    TELEFONE: (11) 912345678 
+                    
+
+
+                    CORPO DA MENSAGEM: Gostaria de deixar seu SITE no topo das pesquisas e não sabe como? 
+
+
+Aumente o POSICIONAMENTO de seu site e com um custo baixo e muito mais seu www.ipbtoledo.com.br merece o melhor. 
+
+Não deixe para amanhã o que você pode fazer hoje, não perca mais tempo. 
+
+Ipbtoledo veja o que podemos fazer por você!
+
+
+
+https://www.agenciadigitalraiz.com.br 
+
+
+Abraços! 
+Bernardo 
+
+
+Não tenho interesse neste produto: 
+http://www.sairdalista.site ?u=http://www.ipbtoledo.com.br&c=3e84d31ad28454DFCC4F
+
+
+--1627265510-eximdsn-2144654857--

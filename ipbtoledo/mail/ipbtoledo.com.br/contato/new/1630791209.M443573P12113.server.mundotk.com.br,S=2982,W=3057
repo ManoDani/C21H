@@ -1,0 +1,75 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id EhA9GSnmM2FRLwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Sat, 04 Sep 2021 18:33:29 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sat, 04 Sep 2021 18:33:29 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mMdI1-00039G-6y
+	for contato@ipbtoledo.com.br; Sat, 04 Sep 2021 18:33:29 -0300
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <ae7027ef1a18eab51413cd7a7ecf2db0@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1630791209-eximdsn-1262484911
+MIME-Version: 1.0
+Subject: Warning: message 1mLt4a-0000nh-Oi delayed 48 hours
+Message-Id: <E1mMdI1-00039G-6y@server.mundotk.com.br>
+Date: Sat, 04 Sep 2021 18:33:29 -0300
+
+--1630791209-eximdsn-1262484911
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 48 hours on the queue on server.mundotk.com.br.
+
+The message identifier is:     1mLt4a-0000nh-Oi
+The date of the message is:    Thu, 2 Sep 2021 20:12:32 +0000
+The subject of the message is: Contato via Website
+
+The address to which the message has not yet been delivered is:
+
+  extrategiasdemarketing_629@divulgamais.com
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.
+
+--1630791209-eximdsn-1262484911
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: delayed
+Final-Recipient: rfc822;extrategiasdemarketing_629@divulgamais.com
+Status: 4.0.0
+
+--1630791209-eximdsn-1262484911
+Content-type: text/rfc822-headers
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=35376 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mLt4a-0000nh-Oi
+	for extrategiasdemarketing_629@divulgamais.com; Thu, 02 Sep 2021 17:12:32 -0300
+Date: Thu, 2 Sep 2021 20:12:32 +0000
+To: =?UTF-8?Q?Ol=C3=A1_sou_Joao_Vitor_Pinto_Quero_lhe_perguntar_sobre_extrate?=
+ =?UTF-8?Q?gias_de__Marketing?= <extrategiasdemarketing_629@divulgamais.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <ae7027ef1a18eab51413cd7a7ecf2db0@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+--1630791209-eximdsn-1262484911--

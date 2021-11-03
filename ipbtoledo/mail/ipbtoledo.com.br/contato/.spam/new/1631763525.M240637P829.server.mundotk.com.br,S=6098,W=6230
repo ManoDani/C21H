@@ -1,0 +1,132 @@
+Return-Path: <nrfmbkwg@fm6reinsertion.ma>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id cOR1DUW8QmE9AwAA85qOww
+	(envelope-from <nrfmbkwg@fm6reinsertion.ma>)
+	for <contato+spam@ipbtoledo.com.br>; Thu, 16 Sep 2021 00:38:45 -0300
+Return-path: <nrfmbkwg@fm6reinsertion.ma>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 16 Sep 2021 00:38:45 -0300
+Received: from [41.250.249.205] (port=60882 helo=mail.fm6reinsertion.ma)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <nrfmbkwg@fm6reinsertion.ma>)
+	id 1mQiER-0000MJ-01
+	for contato@ipbtoledo.com.br; Thu, 16 Sep 2021 00:38:45 -0300
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.fm6reinsertion.ma (Postfix) with ESMTP id 6EC11682FCB3;
+	Thu, 16 Sep 2021 04:15:26 +0100 (+01)
+Received: from mail.fm6reinsertion.ma ([127.0.0.1])
+	by localhost (mail.fm6reinsertion.ma [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id vD295Lzu_biC; Thu, 16 Sep 2021 04:15:26 +0100 (+01)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.fm6reinsertion.ma (Postfix) with ESMTP id 0FE14682FC93;
+	Thu, 16 Sep 2021 04:15:26 +0100 (+01)
+DKIM-Filter: OpenDKIM Filter v2.10.3 mail.fm6reinsertion.ma 0FE14682FC93
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fm6reinsertion.ma;
+	s=8E2D3506-6723-11EB-B917-810BC2C83098; t=1631762126;
+	bh=QE4Tt2p5Iq4f+XzsIdhjQCpUa8QI9Q8NL1QbQHketWs=;
+	h=From:To:Date:Message-Id;
+	b=PdQesiGNvitV9myfhV+xxYQUXBQf0ZdKH5lTkperEwjqT9OmC4omG52srkerqgVn8
+	 QVBOjZvHvLuuHKL/oZOyl89QtNJUH1GqZ6M8itl8bPzSFv7AZXO/tRgzAmalsTO1d2
+	 GukfTn3SJpam0iB4x0BlMWRNScQftHmXNCbNIO2bK34076KOdQYCqyn546rdowBv+F
+	 at3gjx6ZkwUdVoFQJ+IiqNEHcsP2LOcF8exgOK1tsCKK5FcKsUNtXlJTVBMkv2lRan
+	 VUVzBVeyHwGup/kSMwidmBwLNu/yIGu+jzEzsWYajsX0+nDoCJJXF+eTmFyGLM6G8q
+	 S8hQBCkcPS9Lg==
+X-Virus-Scanned: amavisd-new at fm6reinsertion.ma
+Received: from mail.fm6reinsertion.ma ([127.0.0.1])
+	by localhost (mail.fm6reinsertion.ma [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id n-_DP-CX4KyJ; Thu, 16 Sep 2021 04:15:26 +0100 (+01)
+Received: from mail.fm6reinsertion.ma (_gateway [11.13.17.1])
+	by mail.fm6reinsertion.ma (Postfix) with ESMTP id E9C6167FABA3;
+	Thu, 16 Sep 2021 04:14:55 +0100 (+01)
+From: "Money Now" <nrfmbkwg@fm6reinsertion.ma>
+To: contato@trattoriamagnavita.com.br
+Content-Type: text/plain
+Reply-To: rendadoseusonho2021@gmail.com
+Date: Wed, 15 Sep 2021 20:15:24 -0700
+Message-Id: <20210916031455.E9C6167FABA3@mail.fm6reinsertion.ma>
+X-Spam-Status: Yes, score=16.4
+X-Spam-Score: 164
+X-Spam-Bar: ++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Os Segredos do Maior Mercado do Mundo! - Você vai ganhar em
+    Dólar de onde estiver. - Sua Liberdade Financeira. - Dinheiro para realizar
+    seus sonhos. - Tempo livre para viver como quiser. Acesse: 
+ Content analysis details:   (16.4 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.0 HK_RANDOM_FROM         From username looks random
+  0.6 HK_RANDOM_ENVFROM      Envelope sender username looks random
+  0.5 FROM_LOCAL_NOVOWEL     From: localpart has series of non-vowel
+                             letters
+  1.3 RCVD_IN_VALIDITY_RPBL  RBL: Relay in Validity RPBL,
+                             https://senderscore.org/blocklistlookup/
+                            [41.250.249.205 listed in bl.score.senderscore.com]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: eduzz.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in
+                             digit
+                             [rendadoseusonho2021[at]gmail.com]
+  1.0 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.8 CTE_8BIT_MISMATCH      Header says 7bits but body disagrees
+  2.5 MONEY_NOHTML           Lots of money in plain text
+  2.2 MONEY_FREEMAIL_REPTO   Lots of money from someone using free
+                             email?
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  2.0 MONEY_FROM_41          Lots of money from Africa
+X-Spam-Flag: YES
+Subject:    A Renda dos seus sonhos
+
+
+Os Segredos do Maior Mercado do Mundo!
+
+- Você vai ganhar em Dólar de onde estiver.
+- Sua Liberdade Financeira.
+- Dinheiro para realizar seus sonhos.
+- Tempo livre para viver como quiser.
+
+Acesse:
+
+https://p.eduzz.com/903987?a=58699610
+
+Tenha uma ferramenta para ganhar em Dólar, de onde quiser.
+
+A única oportunidade para você assistir AO VIVO já e começar a lucrar no ato!
+
+Vagas extremamente limitadas.
+
+BÔNUS 1: PARTICIPAÇÃO NO TORNEIO DE TRADE COM PRÊMIOS AVALIADOS EM MAIS DE R
+
+$50.000,00
+
+BÔNUS 2: 22h DE OPERAÇÕES AO VIVO JUNTO COM PROFISSIONAIS. 
+
+GARANTA SUA VAGA! 
+
+Atenciosamente,
+
+Marcelo Almeida.
+
+Contatos:
+Email: rendadoseusonho2021@gmail.com
+WhatsApp: (17) 99656-8499

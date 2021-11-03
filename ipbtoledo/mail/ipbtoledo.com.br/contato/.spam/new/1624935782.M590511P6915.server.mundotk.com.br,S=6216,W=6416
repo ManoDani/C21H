@@ -1,0 +1,200 @@
+Return-Path: <root@envio6.serrafaturas10.online>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id GPpXImaN2mADGwAA85qOww
+	(envelope-from <root@envio6.serrafaturas10.online>)
+	for <contato+spam@ipbtoledo.com.br>; Tue, 29 Jun 2021 00:03:02 -0300
+Return-path: <root@envio6.serrafaturas10.online>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 29 Jun 2021 00:03:02 -0300
+Received: from envio6.serrafaturas10.online ([20.89.19.66]:43106)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <root@envio6.serrafaturas10.online>)
+	id 1ly41a-0001rQ-8B
+	for contato@ipbtoledo.com.br; Tue, 29 Jun 2021 00:03:02 -0300
+Received: by envio6.serrafaturas10.online (Postfix, from userid 0)
+	id 144024ABA5; Tue, 29 Jun 2021 02:26:45 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=envio6.serrafaturas10.online; s=mail; t=1624933622;
+	bh=TWdk9y64N+r+jREBpJ8ew7bqkWvZPoLbIMs5+epice8=;
+	h=Subject:From:To:Date;
+	b=MGvnxRPc8tYyHmXjHMTX3tgLsEdf5esmjPvB3D6sXJTSI+APYAABUq6QzoqHZkkYK
+	 TIPN+o3nhU4axhjSouESJ6oy1SOBGnX8baJp2IBsZvgYPJT2Mz8SGxsPVDL8JPpTFq
+	 SjJ2zW9tQOJTlECYcwkWu5cY5lg4kvK5AWOdITxs=
+content-type: text/html
+MIME-Version: 1.0
+X-Priority: 1
+X-MSmail-Priority: High
+Priority: urgent
+Importance: high
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-Newsreader: Microsoft Outlook Express 6.00.2800.140
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Message-ID: <pWpJ4vG7lq2qeGpeCF05uWaTlr4u7tpBk@envio6.serrafaturas10.online>
+From: Correios_Brasil <root@envio6.serrafaturas10.online>
+To: contato@ipbtoledo.com.br
+Date: Tue, 29 Jun 2021 02:26:45 +0000 (UTC)
+X-Spam-Status: Yes, score=9.8
+X-Spam-Score: 98
+X-Spam-Bar: +++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  ﻿ Prezado Prezado(a), contato@ipbtoledo.com.br 
+ Content analysis details:   (9.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: serrafaturas10.online]
+  0.0 URIBL_PH_SURBL         Contains an URL listed in the PH SURBL blocklist
+                             [URIs: siklus.net]
+  2.0 PDS_OTHER_BAD_TLD      Untrustworthy TLDs
+                             [URI: envio6.serrafaturas10.online]
+                             [(online)]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.7 HTML_IMAGE_ONLY_20     BODY: HTML: images with 1600-2000 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image
+                             area
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  1.6 FROM_SUSPICIOUS_NTLD_FP From abused NTLD
+  0.3 HTML_SHORT_LINK_IMG_3  HTML is very short with a linked image
+  0.5 FROM_SUSPICIOUS_NTLD   From abused NTLD
+  0.0 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+  0.0 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:    =?UTF-8?Q?=E2=9C=85_?= Encomenda Aguardando Retirada Ultimo Aviso , 29/06/2021  
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+<head>
+
+<meta http-equiv="Content-Language" content="pt-br" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Prezado</title>
+
+<style type="text/css">
+
+.style1 {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.style2 {
+
+	color: #FF0000;
+
+}
+
+.style4 {
+
+	background-color: #FFE600;
+
+}
+
+</style>
+
+</head>
+
+
+
+<body>
+
+
+
+<table style="width: 516px" align="center" class="style4">
+
+	<tr>
+
+		<td><img alt="" src="https://i.gyazo.com/2e4e52acff8beaedae62fac007d3f38a.png" width="583" height="55" /></td>
+
+	</tr>
+
+	<tr>
+
+		<td class="style1"><br />
+
+		<table style="width: 98%" align="center" class="style4">
+
+			<tr>
+
+				<td><strong>Prezado(a), contato@ipbtoledo.com.br</strong><br />
+
+				<br />
+
+				Após Diversas Tentativas de Entrega sem sucesso viemos através 
+
+				desse alertar que o prazo para resgatar sua encomenda na Agência 
+
+				dos correios vence no dia <span class="style2"><strong>
+
+				30/06/2021.</strong></span><br />
+
+				<br />
+
+				Devido a Pandemia de <strong>Covid-19</strong> e a alta demanda 
+
+				nas entregas pedimos que baixe o formulário no link abaixo para 
+
+				que possa agendar o horario e a Agencia mais próxima para 
+
+				retirada do seu Pedido.<br />
+
+				<br />
+
+				<br />
+
+				<center><a href="http://siklus.net/captcha/ag/?hash=contato@ipbtoledo.com.br"><img alt="" src="https://i.gyazo.com/2236c3b85e70fb9464e8ad3566d87a34.png" width="388" height="33" /></A></center></td>
+
+			</tr>
+
+		</table>
+
+		<br />
+
+		</td>
+
+	</tr>
+
+	<tr>
+
+		<td><img alt="" src="https://i.gyazo.com/8b99127ecbd3517ccc06d40eb230ec9d.png" width="583" height="135" /></td>
+
+	</tr>
+
+</table>
+
+
+
+</body>
+
+
+
+</html>
+
+

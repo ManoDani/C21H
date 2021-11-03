@@ -1,0 +1,77 @@
+Return-Path: <jcwmc@mail.yjlglobal.com>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id EOJyDkRpUmDOawAA85qOww
+	(envelope-from <jcwmc@mail.yjlglobal.com>)
+	for <contato+spam@ipbtoledo.com.br>; Wed, 17 Mar 2021 17:40:36 -0300
+Return-path: <jcwmc@mail.yjlglobal.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Wed, 17 Mar 2021 17:40:36 -0300
+Received: from [183.251.50.162] (port=53519 helo=mail.yjlglobal.com)
+	by server.mundotk.com.br with esmtp (Exim 4.93)
+	(envelope-from <jcwmc@mail.yjlglobal.com>)
+	id 1lMcxz-0007CT-Mz
+	for contato@ipbtoledo.com.br; Wed, 17 Mar 2021 17:40:36 -0300
+Received: from mail.yjlglobal.com ([23.94.92.195]) by mail.yjlglobal.com with Microsoft SMTPSVC(10.0.14393.0);
+	 Thu, 18 Mar 2021 04:07:48 +0800
+From: "Antonio Perez Domingo" <jcwmc@yjlglobal.com>
+To: contato@ipbtoledo.com.br
+Content-Type: text/plain
+Date: Wed, 17 Mar 2021 13:07:48 -0700
+Message-ID: <WIN-JGQN57PVAN6n6VS002cd05f@mail.yjlglobal.com>
+X-OriginalArrivalTime: 17 Mar 2021 20:07:49.0334 (UTC) FILETIME=[34478F60:01D71B69]
+X-Spam-Status: Yes, score=8.6
+X-Spam-Score: 86
+X-Spam-Bar: ++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Gunten morgen, Mein Name ist Antonio Perez Domingo, Ich habe
+    Ihnen zuvor eine Nachricht bezüglich einer Transaktion in Höhe von 13, 5
+   Millionen US-Dollar gesendet, die mein verstorbener Kunde vor seinem plötzlichen
+    [...] 
+ Content analysis details:   (8.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.6 HK_RANDOM_ENVFROM      Envelope sender username looks random
+  1.0 HK_RANDOM_FROM         From username looks random
+  0.5 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  1.0 CTE_8BIT_MISMATCH      Header says 7bits but body disagrees
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  2.5 TO_NO_BRKTS_PCNT       To: lacks brackets + percentage
+X-Spam-Flag: YES
+Subject:    Ich werde mich =?ISO-8859-1?Q?=FCber?= Ihre dringende Antwort auf
+ diese E-Mail freuen
+
+
+Gunten morgen,
+
+Mein Name ist Antonio Perez Domingo, Ich habe Ihnen zuvor eine Nachricht bezüglich einer Transaktion in Höhe von 13, 5 Millionen US-Dollar gesendet, die mein verstorbener Kunde vor seinem plötzlichen Tod hinterlassen hat.
+
+Ich melde mich noch einmal bei Ihnen, da ich nach Durchsicht Ihres Profils fest davon überzeugt bin, dass Sie die Transaktion sehr gut mit mir abwickeln können.
+
+Wenn Sie interessiert sind, möchte ich darauf hinweisen, dass nach der Transaktion 10% dieses Geldes unter Wohltätigkeitsorganisationen aufgeteilt werden sollen, während die restlichen 90% zwischen uns aufgeteilt werden, also jeweils 45%.
+
+Diese Transaktion ist zu 100% risikofrei.
+Bitte antworten Sie mir so schnell wie möglich, um weitere Erläuterungen zur Transaktion zu erhalten, meine E-Mail: 
+
+antonio@dpagbogado.com 
+
+Hochachtungsvoll,
+
+Ich hoffe von Ihnen so schnell wie möglich zu hören
+
+Mit freundlichen Grüssen
+Antonio Perez Domingo,
+Rechtsanwalt.
+TEL:   + 34 910 604 214
+Mobil: +34 610 654 778
+Fax:     + 34 919 011 786
+E-mail antonio@dpagbogado.com

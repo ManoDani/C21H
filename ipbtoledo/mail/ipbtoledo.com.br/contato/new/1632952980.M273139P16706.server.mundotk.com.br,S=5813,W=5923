@@ -1,0 +1,110 @@
+Return-Path: <contatos@agenciadms.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id 4AJUD5TiVGFCQQAA85qOww
+	(envelope-from <contatos@agenciadms.com.br>)
+	for <contato@ipbtoledo.com.br>; Wed, 29 Sep 2021 19:03:00 -0300
+Return-path: <contatos@agenciadms.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Wed, 29 Sep 2021 19:03:00 -0300
+Received: from odg4njayyja4.agenciadms.com.br ([186.251.131.44]:37711)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <contatos@agenciadms.com.br>)
+	id 1mVhfC-0004Nm-2R
+	for contato@ipbtoledo.com.br; Wed, 29 Sep 2021 19:03:00 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=agenciadms.com.br;
+ h=Reply-To:Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=Uk0XLGfnP/AqvaUN2fFO3lTxuG77eo9U8ye8Q45ZNao=;
+ b=KNoi3YA7mnbBuSoZuG4zPthDJWgHO6IakHGxCYUbC4O+jjh9rJWgTrKa156I+Xtqg1OKt9Tj9Kn0
+   Qjyec5Vf/eFxURYk3jEUaYTWuzPHxcvliCIuvFfhfoSczCOqRhiVbu/jusEU0KP/qGGOjMeHlhpG
+   01otn2qurF0BSEUgRvg7Ry9gYU2GVqTYOtTp7kQpi5v/cbY1zupZiuO9H/vu/rutreYT3rauoqIL
+   P3iFcyjSxYTpVN1L6kWc6p86nGASyobx/dxFyl6NgXfBEvsEF5QgL2GsAhLNdpMpVTdf13G1d5+D
+   txwa4MCkz+b2h/1pyeMIYiwWgtX6/i3N064jCg==
+Organization: Contatos
+Reply-To: consultoresexpansao@gmail.com
+Message-ID: <eebe121afe792745fb02192800146e12@agenciadms.com.br>
+From: "Contatos" <contatos@agenciadms.com.br>
+To: <contato@ipbtoledo.com.br>
+Subject: =?windows-1252?Q?Solicita=E7=E3o_de_autoriza=E7=E3o_para_envio_de_folder.?=
+Date: Wed, 29 Sep 2021 18:42:28 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=SPLITOR00A_001_271495092D"
+X-Spam-Status: No, score=2.3
+X-Spam-Score: 23
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Boa tarde! Tudo bem Somos uma empresa, especializada em Consultoria
+    Estratégica na gestão de pessoas e negócios com foco em expansão orgânica
+    de profissionais e equipes com atuação assessoria comercial, Treinamento
+   e Des [...] 
+ Content analysis details:   (2.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: agenciadms.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------=SPLITOR00A_001_271495092D
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: base64
+
+Qm9hIHRhcmRlISAgDQoNClR1ZG8gYmVtDQoNClNvbW9zIHVtYSBlbXByZXNhLCBlc3BlY2lhbGl6
+YWRhIGVtIENvbnN1bHRvcmlhIEVzdHJhdOlnaWNhIG5hIGdlc3TjbyBkZSBwZXNzb2FzIA0KZSBu
+ZWfzY2lvcyBjb20gZm9jbyBlbSBleHBhbnPjbyBvcmfibmljYSBkZSBwcm9maXNzaW9uYWlzIGUg
+ZXF1aXBlcyBjb20gDQphdHVh5+NvIGFzc2Vzc29yaWEgY29tZXJjaWFsLCBUcmVpbmFtZW50byBl
+IERlc2Vudm9sdmltZW50bywgIEIuSS4gRmluYW5jZWlybywgDQplbnRyZSBvdXRyYXMgcGFzdGFz
+Lg0KDQpEZXN0YSBmb3JtYSwgZ29zdGFyaWFtb3MgZGUgc29saWNpdGFyIHN1YSBhdXRvcml6Yefj
+bywgcGFyYSBsaGUgZW52aWFyIG5vc3NvIA0KZm9sZGVyIG91IGFwZXNlbnRh5+NvLiANCg0KQ2Fz
+byBjb25jb3JkZSwgYmFzdGEgcmVzcG9uZGVyIGNvbSAiYXV0b3Jpem8iLiANCg0KT2JyaWdhZG8u
+DQoNCkF0ZW5jaW9zYW1lbnRlLA0KDQpEZXB0by4gZGUgZXhwYW5z428gZGUgbmVn82Npb3MuDQoN
+Cg0KUGFyYSBxdWFpc3F1ZXIgc29saWNpdGHn9WVzOiBjb25zdWx0b3Jlc2V4cGFuc2FvQGdtYWls
+LmNvbQ==
+
+------=SPLITOR00A_001_271495092D
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxodG1sPg0KPGhlYWQ+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250
+ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9d2luZG93cy0xMjUyIj4NCjwvaGVhZD4NCjxib2R5IHN0
+eWxlPSJGT05ULUZBTUlMWTogVmVyZGFuYSI+DQo8cD5Cb2EgdGFyZGUhJm5ic3A7IDwvcD4NCjxw
+PlR1ZG8gYmVtPC9wPg0KPHA+U29tb3MgdW1hIGVtcHJlc2EsIGVzcGVjaWFsaXphZGEgZW0gQ29u
+c3VsdG9yaWEgRXN0cmF06WdpY2EgbmEgZ2VzdONvIGRlIA0KcGVzc29hcyA8YnI+ZSBuZWfzY2lv
+cyBjb20gZm9jbyBlbSBleHBhbnPjbyBvcmfibmljYSBkZSBwcm9maXNzaW9uYWlzIGUgZXF1aXBl
+cyANCmNvbSA8YnI+YXR1YefjbyBhc3Nlc3NvcmlhIGNvbWVyY2lhbCwgVHJlaW5hbWVudG8gZSBE
+ZXNlbnZvbHZpbWVudG8sJm5ic3A7IEIuSS4gDQpGaW5hbmNlaXJvLCA8YnI+ZW50cmUgb3V0cmFz
+IHBhc3Rhcy48L3A+DQo8cD5EZXN0YSBmb3JtYSwgZ29zdGFyaWFtb3MgZGUgc29saWNpdGFyIHN1
+YSBhdXRvcml6YefjbywgcGFyYSBsaGUgZW52aWFyIG5vc3NvIA0KPGJyPmZvbGRlciBvdSBhcGVz
+ZW50Yefjby4gPC9wPg0KPHA+Q2FzbyBjb25jb3JkZSwgYmFzdGEgcmVzcG9uZGVyIGNvbSAiYXV0
+b3Jpem8iLiA8L3A+DQo8cD5PYnJpZ2Fkby48L3A+DQo8cD5BdGVuY2lvc2FtZW50ZSw8L3A+DQo8
+cD5EZXB0by4gZGUgZXhwYW5z428gZGUgbmVn82Npb3MuPC9wPg0KPHA+PGJyPlBhcmEgcXVhaXNx
+dWVyIHNvbGljaXRh5/VlczogPGEgaHJlZj0ibWFpbHRvOmNvbnN1bHRvcmVzZXhwYW5zYW9AZ21h
+aWwuY29tIj5jb25zdWx0b3Jlc2V4cGFuc2FvQGdtYWlsLmNvbTwvYT48L3A+DQo8L2JvZHk+DQo8
+L2h0bWw+
+
+------=SPLITOR00A_001_271495092D--
+

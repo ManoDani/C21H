@@ -1,0 +1,87 @@
+Return-Path: <maria2025vs@fibpad.com>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id kO2tEMIZPWHRZgAA85qOww
+	(envelope-from <maria2025vs@fibpad.com>)
+	for <contato+spam@ipbtoledo.com.br>; Sat, 11 Sep 2021 18:04:02 -0300
+Return-path: <maria2025vs@fibpad.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sat, 11 Sep 2021 18:04:02 -0300
+Received: from de221.om94.fibpad.com ([89.163.221.94]:33798)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <maria2025vs@fibpad.com>)
+	id 1mPAAI-00071W-Is
+	for contato@ipbtoledo.com.br; Sat, 11 Sep 2021 18:04:02 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dkim; d=fibpad.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=maria1583tg@fibpad.com;
+ bh=uQsabIc7TgE9FNYZSeJ+BCw5i9+thi8uiNE7lcEmo38=;
+ b=ljFDM/VYjvK15J79M/k7dG7BVGtbK+8DFEnhHOQSKEktkH6/2Wx0KGIstM9Gz6VRwMRwms/Epjr1
+   21tM/L+lQFcYPTgvGeHVb23iDyOaXGKF81EIyqGzb0LnM+fRQgXqIfBUNE1CfFJTKHNyYkMuROIq
+   BXTKBJXBDOEF9aGNeDo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=fibpad.com;
+ b=LxkKmk88k2kIjdHtO1Fb77PVDyNzztoexg+DscyhpTsCZ+2F0JxCpS5vJG6rWWYRe+XE2+pfqIqE
+   ro++kOcZEsp7llcKX+fH2ZTSEVPVgRCzUlMCo6Bouzf4hbaOKqQTATOtdDjGiPn5gqzLAhuit/fa
+   3KXKV+b7A4ynGGaXz9Y=;
+From: maria1583tg@fibpad.com (Maria Alvarez)
+To: contato@ipbtoledo.com.br
+Date: 11 Sep 2021 18:02:21 +0200
+Message-ID: <20210911180221.9100804E040729B6@fibpad.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: Yes, score=10.0
+X-Spam-Score: 100
+X-Spam-Bar: ++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Ola, eu quero consultar se voce recebi o e-mail que enviei
+    ha alguns dias, como nao recebi uma resposta, e por isso que eu pergunto.
+    Esperando uma resposta Saudacoes. 
+ Content analysis details:   (10.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: fibpad.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.1 DATE_IN_PAST_03_06     Date: is 3 to 6 hours before Received: date
+  0.0 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image
+                             area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.8 HTML_IMAGE_ONLY_08     BODY: HTML: images with 400-800 bytes of
+                             words
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  2.6 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: YES
+Subject:    Espero uma confirmação - 1534
+
+<!DOCTYPE html>
+
+<HTML><HEAD>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10570.1001"></HEAD>
+<BODY>
+<P>
+Ola, eu quero consultar se voce recebi o e-mail que enviei ha alguns dias, =
+como nao recebi uma resposta, e por isso que eu pergunto.<BR><BR>Esperando =
+uma resposta<BR><BR>Saudacoes.<BR><BR>Maria.<BR>1259</P><IMG src=3D"https:/=
+/fibpad.com/br/tracer.php?ca=3Dbr&amp;e=3Dcontato@ipbtoledo.com.br" width=
+=3D0 height=3D0></BODY></HTML>

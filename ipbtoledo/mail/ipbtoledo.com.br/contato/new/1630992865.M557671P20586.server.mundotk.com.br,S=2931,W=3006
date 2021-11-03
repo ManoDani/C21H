@@ -1,0 +1,75 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id CzBhIOH5NmFqUAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Tue, 07 Sep 2021 02:34:25 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 07 Sep 2021 02:34:25 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mNTkX-0005Lw-BN
+	for contato@ipbtoledo.com.br; Tue, 07 Sep 2021 02:34:25 -0300
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <793a26111e19bdd10ac1b31b36591d4a@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1630992865-eximdsn-321095636
+MIME-Version: 1.0
+Subject: Warning: message 1mN6yQ-0005fD-1j delayed 24 hours
+Message-Id: <E1mNTkX-0005Lw-BN@server.mundotk.com.br>
+Date: Tue, 07 Sep 2021 02:34:25 -0300
+
+--1630992865-eximdsn-321095636
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 24 hours on the queue on server.mundotk.com.br.
+
+The message identifier is:     1mN6yQ-0005fD-1j
+The date of the message is:    Mon, 6 Sep 2021 05:15:12 +0000
+The subject of the message is: Contato via Website
+
+The address to which the message has not yet been delivered is:
+
+  salariomagico_146@divulgarmais.com
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.
+
+--1630992865-eximdsn-321095636
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: delayed
+Final-Recipient: rfc822;salariomagico_146@divulgarmais.com
+Status: 4.0.0
+
+--1630992865-eximdsn-321095636
+Content-type: text/rfc822-headers
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=46076 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mN6yQ-0005fD-1j
+	for salariomagico_146@divulgarmais.com; Mon, 06 Sep 2021 02:15:13 -0300
+Date: Mon, 6 Sep 2021 05:15:12 +0000
+To: =?UTF-8?Q?Ipbtoledo_Quer_garantir_um_sal=C3=A1rio_REALMENTE_m=C3=A1gico?=
+ =?UTF-8?Q?=3F=3F?= <salariomagico_146@divulgarmais.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <793a26111e19bdd10ac1b31b36591d4a@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+--1630992865-eximdsn-321095636--

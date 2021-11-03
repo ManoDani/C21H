@@ -1,0 +1,122 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id 8DziHWgWMmFQeAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Fri, 03 Sep 2021 09:34:48 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 03 Sep 2021 09:34:48 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mM8PA-0001Sh-9h
+	for contato@ipbtoledo.com.br; Fri, 03 Sep 2021 09:34:48 -0300
+X-Failed-Recipients: naorespondaaqui@email.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <b5f61fb9b94b1997399038cdae9b4750@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1630672488-eximdsn-383702475
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mM8PA-0001Sh-9h@server.mundotk.com.br>
+Date: Fri, 03 Sep 2021 09:34:48 -0300
+
+--1630672488-eximdsn-383702475
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  naorespondaaqui@email.com
+    host mx00.mail.com [74.208.5.20]
+    SMTP error from remote mail server after RCPT TO:<naorespondaaqui@email.com>:
+    550 Requested action not taken: mailbox unavailable
+
+--1630672488-eximdsn-383702475
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;naorespondaaqui@email.com
+Status: 5.0.0
+Remote-MTA: dns; mx00.mail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+--1630672488-eximdsn-383702475
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=42606 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mM8P9-0001SY-Cd
+	for naorespondaaqui@email.com; Fri, 03 Sep 2021 09:34:47 -0300
+Date: Fri, 3 Sep 2021 12:34:47 +0000
+To: Marcia Alves <naorespondaaqui@email.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <b5f61fb9b94b1997399038cdae9b4750@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Marcia Alves 
+
+                    EMAIL: naorespondaaqui@email.com
+
+                    TELEFONE: (11) 912345678
+                    
+
+
+                    CORPO DA MENSAGEM: Olá, tudo bem?
+
+Olha só, quem visita seu site, tem apenas alguns segundos para ver se encontra o que você oferece de forma clara e objetiva, e se não encontrar ele simplesmente vai embora ou deixa para voltar depois (muitas vezes nunca volta).
+
+Pensando nisso, criamos nosso Apresentador Virtual para Sites!
+
+Isso mesmo! O que você acha de ter um Apresentador Virtual, ou melhor, um verdadeiro "vendedor online" em seu site, apresentando sua empresa, seus produtos e serviços, 24 horas por dia e atraíndo a atenção de qualquer visitante em seu site?
+
+------------
+
+Conheça nosso trabalho, acesse: https://seuapresentador.com
+
+------------
+
+Importante. Não tem mensalidade e nem limite de uso, além disso, você poderá usar em quantas páginas você desejar!
+
+Oferecemos vários modelos de Apresentador Virtual, a instalação é bem fácil e se precisar de ajuda, nós mesmo instalamos pra você em até 1 dia útil.
+
+Aproveite e adquira seu Apresentador Virtual essa semana pelo preço de uma pizza!
+
+------------
+
+Veja como funciona: https://seuapresentador.com
+
+------------
+
+Grande Abraço,
+
+Obrigado pela atenção.
+
+Marcia Alves 
+
+------------
+
+Não tenho interesse, pois minhas vendas vão muito bem: 
+http://www.sairdalista.site?u=http://www.ipbtoledo.com.br&c=03fe275ee62a324071AE
+
+
+--1630672488-eximdsn-383702475--

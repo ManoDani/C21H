@@ -1,0 +1,81 @@
+Return-Path: <erros@brindesdrica.net.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id McAsHLRb82CyXwAA85qOww
+	(envelope-from <erros@brindesdrica.net.br>)
+	for <contato@ipbtoledo.com.br>; Sat, 17 Jul 2021 19:37:40 -0300
+Return-path: <erros@brindesdrica.net.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sat, 17 Jul 2021 19:37:40 -0300
+Received: from smtp.brindesdrica.net.br ([212.129.12.197]:43862)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <erros@brindesdrica.net.br>)
+	id 1m4svl-0005eu-HK
+	for contato@ipbtoledo.com.br; Sat, 17 Jul 2021 19:37:40 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=brindesdrica.net.br; s=mail; h=Content-Transfer-Encoding:Content-Type:
+	Reply-To:From:Date:Message-ID:Subject:To:Sender:Cc:MIME-Version:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=95tIhgil/lHfeC0LNUqNpOQgrJUSraME1EKPejLMr7g=; b=9iJ1tLLGIAr3Yd4JyomD1CqQVp
+	PeBGNiL/3dQs2j9tsHr4+fcIZ96hGlk+pGaCvoycbKxg8PsTMs8q6f+KcaR6ZrUQTJP9F4yuivx7d
+	z7wRwFcrrcGnbweB6A3vQ5GspgAv1J+hGX+qGi8Bm124tuqB4U+aLwn8h8VSHv87wrPQ=;
+Received: from brindesd by vesta.aquariovt.com with local (Exim 4.92.3)
+	(envelope-from <erros@brindesdrica.net.br>)
+	id 1m4cot-0003De-Fz
+	for contato@ipbtoledo.com.br; Sat, 17 Jul 2021 02:24:59 -0300
+To: contato@ipbtoledo.com.br
+Subject: Nuvem anti stress personalizada
+X-PHP-Originating-Script: 1002:email.php
+Message-ID: <9f8a46f12b871ef4a62918d9d788cd59@brindesdrica.net.br>
+Date: Mon, 12 Jul 2021 16:16:19 -0300
+From: "Brindes drica" <contato@brindesdrica.net.br>
+Reply-To: contato@brindesdrica.com.br
+X-Mailer-LID: 28
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="e934b84815830cb55a110cae694380b4"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+--e934b84815830cb55a110cae694380b4
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de email não pode ler esta mensagem.
+
+Para visualizá-la online, por favor, clique aqui:
+http://brindesdrica.net.br/display.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&S=191&L=28&N=122
+
+Para parar de receber nossos conteúdo acesse o link:
+http://brindesdrica.net.br/unsubscribe.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&L=28&N=191
+
+--e934b84815830cb55a110cae694380b4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Olá Cliente de tecnologia,</p><p><br></p><p>Ofereça para seu cliente
+uma nuvem anti stress personalizada, divulgue sua marca com um brinde que
+caracteriza seu serviço de Cloud.</p><p>Fazemos várias cores.
+Novidade&nbsp; da www.brindesdrica.com.br.</p><p><br></p><p><img
+src="http://brindesdrica.net.br/admin/temp/newsletters/122/b426d23f5c8a86a4240486cdcaea78f0.png"
+style="width: 463.516px; height: 347.637px;"><br></p><p><span
+style="font-weight: bolder;">e-mail: contato@brindesdrica.com.br&nbsp;
+&nbsp; ou&nbsp; &nbsp; WhatsApp&nbsp; (11)
+97599-1550</span></p><p>Obrigado!</p><p>Equipe BrindesDrica</p><a
+href="http://brindesdrica.net.br/unsubscribe.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&L=28&N=191">Quero
+me descadastrar dessa campanha</a><br/><img title=Novidade alt=Novidade
+height=42 width=242 src=http://brindesdrica.net.br/transparente.png>
+
+<img
+src="http://brindesdrica.net.br/open.php?M=1395578&L=28&N=191&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--e934b84815830cb55a110cae694380b4--
+

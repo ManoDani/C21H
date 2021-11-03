@@ -1,0 +1,851 @@
+Return-Path: <root@br54.bielthaseguros.com>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id MFk/GVp3G2HgXAAA85qOww
+	(envelope-from <root@br54.bielthaseguros.com>)
+	for <contato+spam@ipbtoledo.com.br>; Tue, 17 Aug 2021 05:46:18 -0300
+Return-path: <root@br54.bielthaseguros.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 17 Aug 2021 05:46:18 -0300
+Received: from br54.bielthaseguros.com ([80.85.136.149]:58140)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <root@br54.bielthaseguros.com>)
+	id 1mFujc-0006DN-ER
+	for contato@ipbtoledo.com.br; Tue, 17 Aug 2021 05:46:18 -0300
+Received: by br54.bielthaseguros.com (Postfix, from userid 0)
+	id C32C2B26DD; Tue, 17 Aug 2021 05:08:02 +0000 (UTC)
+To: contato@ipbtoledo.com.br
+X-Mailer: Microsoft Office Outlook, Build 17.551210
+From: INFORME !<mail@informe.misclop.me>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="44dfbe08a5d804e024f3f3e392f85c3a"
+Content-Transfer-Encoding: 7bit
+Message-Id: <20210817062705.C32C2B26DD@br54.bielthaseguros.com>
+Date: Tue, 17 Aug 2021 05:08:02 +0000 (UTC)
+X-Spam-Status: Yes, score=18.3
+X-Spam-Score: 183
+X-Spam-Bar: ++++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  NFe Olá, cliente! (a), Anexamos o arquivo correspondente
+   ao documento eletrônico 987542167 nos formatos PDF e XML, válidos legalmente.
+    
+ Content analysis details:   (18.3 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: srhaimoveis.com]
+  0.0 URIBL_PH_SURBL         Contains an URL listed in the PH SURBL blocklist
+                             [URIs: srhaimoveis.com]
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: srhaimoveis.com]
+  2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                             [80.85.136.149 listed in psbl.surriel.com]
+  1.1 DATE_IN_PAST_03_06     Date: is 3 to 6 hours before Received: date
+  0.8 DKIM_ADSP_NXDOMAIN     No valid author signature and domain not in
+                             DNS
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  0.0 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of
+                             .info|.us|.me|.me.uk|.biz|xyz|id|rocks|life
+                              domains in spam/malware
+  0.0 FROM_MISSP_MSFT        From misspaced + supposed Microsoft tool
+  2.7 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.0 TO_NO_BRKTS_HTML_ONLY  To: lacks brackets and HTML only
+X-Spam-Flag: YES
+Subject:    NF-e   (719589)
+
+This is a MIME encoded message.
+
+--44dfbe08a5d804e024f3f3e392f85c3a
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>NFe</title>
+</head>
+
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; width: 670px; height: 417px;" border="0" cellpadding="0" cellspacing="0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <td style="width: 644px; text-align: center;"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <td style="width: 644px; height: 177px;" align="left">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <p _msthash="3063528" _msttexthash="193219" style="color: rgb(32, 31, 30); font-family: &quot;Segoe UI&quot;,&quot;Segoe UI Web (West European)&quot;,&quot;Segoe UI&quot;,-apple-system,BlinkMacSystemFont,Roboto,&quot;Helvetica Neue&quot;,sans-serif; font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); text-align: center;">Ol&aacute;,
+cliente!<span style="font-weight: bold;">&nbsp;</span>(a),<span style="color: rgb(51, 51, 255); font-weight: bold;"></span><span style="color: rgb(51, 204, 255); font-weight: bold;"></span></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <p _msthash="3063529" _msttexthash="6765993" style="color: rgb(32, 31, 30); font-family: &quot;Segoe UI&quot;,&quot;Segoe UI Web (West European)&quot;,&quot;Segoe UI&quot;,-apple-system,BlinkMacSystemFont,Roboto,&quot;Helvetica Neue&quot;,sans-serif; font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); text-align: center;">Anexamos
+o arquivo correspondente ao documento eletr&ocirc;nico 987542167 nos
+formatos PDF e XML, v&aacute;lidos legalmente.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <td style="width: 644px;" align="left"><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <div style="text-align: center;"><span style="color: rgb(32, 31, 30); font-family: &quot;Segoe UI&quot;,&quot;Segoe UI Web (West European)&quot;,&quot;Segoe UI&quot;,-apple-system,BlinkMacSystemFont,Roboto,&quot;Helvetica Neue&quot;,sans-serif; font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;"><span></span></span><a style="border: 0px none ; margin: 0px; padding: 0px; font-style: normal; font-weight: 400; font-stretch: inherit; font-size: 15px; line-height: inherit; font-family: &quot;Segoe UI&quot;,&quot;Segoe UI Web (West European)&quot;,&quot;Segoe UI&quot;,-apple-system,BlinkMacSystemFont,Roboto,&quot;Helvetica Neue&quot;,sans-serif; vertical-align: baseline; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: n
+ one; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);" _mstmutation="1" data-linkindex="1" data-auth="NotApplicable" rel="noopener noreferrer" target="_blank" href="http://www.srhaimoveis.com/cognimgr?upn=fEp9kRTLE1-2FuNZw9MYbFWQ1ValVFzKxxI-2FniziHmDW9n0chOC6HXz7WyrR-2B7NpsP8TW-2F6IgM3aqmhVGzg3Zxo6Vb-2FIm7TAgm-2BsM-2FkVb54epp0L2gGF8S-2BIbq3e62e7IBMYtQ4MaUWInMmhgKb1l3AanxerdCeKsEKfJxOzEHuJti86UHsTmqwGj1jUQx-2BelEF-2FW-2BqjWZNx3DDqYdyY25gA-3D-3Dc5zO_mSdDBAW1x88ry1ia-2BQGEI2oQA93LTUAYe4qcgKpqWBzvtNOsXn1occSm5vAdgEX7n74GfcyI7ZW-2BKyInlawxrmOIilzQniMPXTLd5x-2FUsrJLj5-2BbhMPn-2B-2FXTPT9gVXW5p2nFvN9QmE-2FdKowK4-2B4Oy4uK4JOzAUfzUufvkklJNwktAD0uiaMl8oCKo2h0HuK05GUHKSI34y0a105RQVXszT0rwb-2FHEn7fvdZHIQrzdbw-3D">Obs:&nbsp; Clique no link para acessar o arquivo.</a><span style="color: rgb(32, 31, 30); font-family: &quot;Segoe UI&quot;,&quot;Segoe UI Web (West European)&quot;,&quot;Segoe UI&quot;,-apple-system,BlinkMacSystemFont,Roboto,&quot;Helvetica Neue&
+ quot;,sans-serif; font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline ! important; float: none;"><span></span> &nbsp;para
+fazer download do pdf da Danfe.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </span></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <a class="mytemp-e9" href="http://www.srhaimoveis.com/cognimgr?E4O38AK65I5M38AL62C3M27DRYDWI/PDF_NF-e257478" target="_blank" rel="noreferrer noopener" style="border: 1px solid rgb(19, 115, 181); margin: 6px auto; padding: 14px 7px; font-size: 15px; text-decoration: none; max-width: 210px; font-family: proxima_nova,&quot;Open Sans&quot;,&quot;lucida grande&quot;,&quot;Segoe UI&quot;,arial,verdana,&quot;lucida sans unicode&quot;,tahoma,sans-serif; width: 210px; color: rgb(255, 255, 255); text-align: center; display: block; background-color: rgb(0, 126, 230);">Exibir
+datalhes da NF-e</a><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <p _msthash="3064503" _msttexthash="4066361" style="color: rgb(32, 31, 30); font-family: &quot;Segoe UI&quot;,&quot;Segoe UI Web (West European)&quot;,&quot;Segoe UI&quot;,-apple-system,BlinkMacSystemFont,Roboto,&quot;Helvetica Neue&quot;,sans-serif; font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255); text-align: center;"><small>N&atilde;o
+responda a esta mensagem, pois trata-se de um envio automatizado de
+documentos.</small></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+

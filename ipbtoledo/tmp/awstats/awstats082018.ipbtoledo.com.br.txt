@@ -1,0 +1,362 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201808 will be lost/reset.
+# Last config file used to build this data file was /home/ipbtoledocom/tmp/awstats/awstats.ipbtoledo.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2681                
+POS_VISITOR 12871               
+POS_DAY 13034               
+POS_DOMAIN 3297                
+POS_LOGIN 3534                
+POS_ROBOT 3689                
+POS_WORMS 3821                
+POS_EMAILSENDER 3952                
+POS_EMAILRECEIVER 4095                
+POS_SESSION 13683               
+POS_SIDER 13830               
+POS_FILETYPES 4230                
+POS_DOWNLOADS 4331                
+POS_OS 11294               
+POS_BROWSER 11383               
+POS_SCREENSIZE 11471               
+POS_UNKNOWNREFERER 11545               
+POS_UNKNOWNREFERERBROWSER 11693               
+POS_ORIGIN 11836               
+POS_SEREFERRALS 11968               
+POS_PAGEREFS 12112               
+POS_SEARCHWORDS 12260               
+POS_KEYWORDS 12412               
+POS_MISC 2345                
+POS_ERRORS 12471               
+POS_CLUSTER 3390                
+POS_SIDER_404 12562               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180901000855 26 4354 9516548745785
+FirstTime 0
+LastTime 20180831122605
+LastUpdate 20180901091218 26 0 25 0 0
+TotalVisits 1                   
+TotalUnique 1                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 20 37 9272
+1 0 0 0 19 43 10545
+2 0 0 0 24 41 10060
+3 0 0 0 20 38 9512
+4 0 0 0 13 27 6784
+5 0 0 0 28 49 10955
+6 0 0 0 20 37 9104
+7 0 0 0 17 35 8747
+8 0 0 0 24 33 8191
+9 0 0 0 30 46 11305
+10 0 0 0 19 47 11757
+11 0 0 0 17 35 8489
+12 2 2 67820 10 36 8908
+13 0 0 0 16 26 6295
+14 0 0 0 34 55 13454
+15 0 0 0 13 32 7993
+16 0 0 0 20 43 10637
+17 0 0 0 25 48 11899
+18 0 0 0 28 61 15610
+19 0 0 0 14 25 6138
+20 0 0 0 16 28 6642
+21 0 0 0 18 30 7592
+22 0 0 0 17 29 7303
+23 0 102 6663 34 57 13520
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 2 101 74234
+gb 0 3 249
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+Unknown 2 67820 0 0
+txt 102 6663 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 96
+/.well-known/pki-validation/51DE8A0058A5F8FBA175308EC1B4DD72.txt 6 0 480
+/.well-known/pki-validation/D27F34EF9763A86672B74821FF92D84D.txt 2 0 154
+/.well-known/pki-validation/74581411B4DCCE23B1778DADDD335F96.txt 1 0 64
+/.well-known/pki-validation/C23393F856AE7C785AD6270461BAE558.txt 1 0 64
+/.well-known/pki-validation/E19537A3116B333BCAEF19656CE4C2A0.txt 1 0 64
+/.well-known/pki-validation/DC144CB3E483218FA3B717793CF40E80.txt 1 0 64
+/.well-known/pki-validation/E324E92ECD7B56CFA2BB8B8889897B62.txt 1 0 64
+/.well-known/pki-validation/C3CB6C0FCB09A97EBC64369CFDB6696C.txt 1 0 64
+/.well-known/pki-validation/846C8B4FBF7278004B0991F06D99ECF5.txt 1 0 64
+/.well-known/pki-validation/B576BE3659843A88D0AA81284B240A24.txt 1 0 64
+/.well-known/pki-validation/AB957AB60C6FD99B46AE0031C13D07F4.txt 1 0 64
+/.well-known/pki-validation/03247871228940C03EC207CBC2D1DCA0.txt 1 0 64
+/.well-known/pki-validation/361BAD091D7ADC13B99F594D9E531193.txt 1 0 64
+/.well-known/pki-validation/F2BF20DBE606B9AB1EB860AB0A49FDF1.txt 1 0 64
+/.well-known/pki-validation/270131BEB32AD7FFB91043B522715E63.txt 1 0 64
+/.well-known/pki-validation/20FAAA9876E9E793AA0D02C56C25C5BD.txt 1 0 64
+/.well-known/pki-validation/8E32C02DB2269A15C0871F6DD79DCACF.txt 1 0 64
+/.well-known/pki-validation/34E34E1574D72A69C525287B2ABD3372.txt 1 0 64
+/.well-known/pki-validation/732604EB169B578CC115CD94A5715359.txt 1 0 64
+/.well-known/pki-validation/6915187604973EE15C474660732B3D1C.txt 1 0 64
+/.well-known/pki-validation/C8B0B368BE2989C932B91F20597A9E09.txt 1 0 64
+/.well-known/pki-validation/61E401CCC7E2D8BAC9DAC6A0EE5FB84F.txt 1 0 64
+/.well-known/pki-validation/325ACC309AA70C3ABA4C1F3D3C3A2D58.txt 1 0 64
+/.well-known/pki-validation/053450E1882D17D849145F35CCD3EEC5.txt 1 0 64
+/.well-known/pki-validation/692E3BB5E5E078305DE5B7C8806982E2.txt 1 0 64
+/.well-known/pki-validation/F9CE77345E9C5D7179442F06E44ABDCF.txt 1 0 64
+/.well-known/pki-validation/D5548317F583C526A4E57B9DD08ED973.txt 1 0 64
+/.well-known/pki-validation/B1C5ADA9BBA1F71B00A0E9B81B7354A1.txt 1 0 64
+/.well-known/pki-validation/834A2108D1ADA56A16B0CD65E1A91845.txt 1 0 64
+/.well-known/pki-validation/4299BDEA5ADBE95A2A4DFBB12C9E6847.txt 1 0 64
+/.well-known/pki-validation/B108121A5DBC12BA6F0B4B828F6244E3.txt 1 0 64
+/.well-known/pki-validation/8E13DF8AAF85D69F23235F42457508D6.txt 1 0 64
+/.well-known/pki-validation/898DD125D8DC151920BDF87A4143C9EB.txt 1 0 64
+/.well-known/pki-validation/630272289DAF233E9CBCB905B2DE0280.txt 1 0 64
+/.well-known/pki-validation/404822F53A5D95A8B7C7A9BAA3D2D92C.txt 1 0 64
+/.well-known/pki-validation/F1FB5402EBEC8E14434D1E5438353614.txt 1 0 64
+/.well-known/pki-validation/8C93AA1383159D6F3991F608462F7471.txt 1 0 64
+/.well-known/pki-validation/D227BB37B5599B9D9A3DF595561FF1A9.txt 1 0 64
+/.well-known/pki-validation/1EBDAFA5C24076DFE99DA7BDDF4E856F.txt 1 0 64
+/.well-known/pki-validation/E7AFFBA7D0B9307AAAFAFCB479ABCE32.txt 1 0 64
+/.well-known/pki-validation/29857E9908958AFF25A0AA3E3F488B68.txt 1 0 64
+/.well-known/pki-validation/0115ABA0DD1D57C264443BAA230FF0F6.txt 1 0 64
+/.well-known/pki-validation/802D6B15AEE2C4D5B631F25AE1E6987A.txt 1 0 64
+/.well-known/pki-validation/B784599EB549F1EBC5BF004C01071965.txt 1 0 64
+/.well-known/pki-validation/6140ADE45E3DC958425CF0FAF4D527FA.txt 1 0 64
+/.well-known/pki-validation/C264611E7EBF96C546AEA1BD90896DC5.txt 1 0 64
+/.well-known/pki-validation/2A61CCB028888A794361EDE6697E7BDA.txt 1 0 64
+/.well-known/pki-validation/384F1947F2A002FB69D2514D9BE98193.txt 1 0 64
+/.well-known/pki-validation/4EA0B9417887DD44861C40AC4228935C.txt 1 0 64
+/.well-known/pki-validation/751F5E334333A25D45A91C3E937E29E3.txt 1 0 64
+/.well-known/pki-validation/4D1FE400BE0AD61F914AF4D7449B5A88.txt 1 0 64
+/.well-known/pki-validation/A41CD41955FBC1C9F2269446AD755447.txt 1 0 64
+/.well-known/pki-validation/F745E30B7CC2CC9CE7385868CB756263.txt 1 0 64
+/.well-known/pki-validation/D43400632D683692550A2F3469AD5913.txt 1 0 64
+/.well-known/pki-validation/52FFDCECBE361562408C95C6DF7BEBDE.txt 1 0 64
+/.well-known/pki-validation/C68587BDC80D1E642D88D661029F8E6C.txt 1 0 77
+/.well-known/pki-validation/CC229A27C6B1FFC328CD0DD5A5696297.txt 1 0 64
+/.well-known/pki-validation/85270C4AC50540F724E8739A7DE546AD.txt 1 0 64
+/.well-known/pki-validation/69336DEED3BD99452AF4A1EDE2187F63.txt 1 0 64
+/.well-known/pki-validation/8287FB392E304741E9AF5897FA6B95C0.txt 1 0 64
+/.well-known/pki-validation/E58E1F86235F6AF84F4E5160F6FE26CF.txt 1 0 64
+/.well-known/pki-validation/5C5B555F1DF5C69EF77B0635EA597739.txt 1 0 64
+/.well-known/pki-validation/19D3886CBB3FAB4F230475A5046C2FD6.txt 1 0 64
+/.well-known/pki-validation/FE2FB0A21B7D93CE9742C4A0D9254CEC.txt 1 0 64
+/.well-known/pki-validation/61376E1A83EEB267E48D3106D14E1226.txt 1 0 64
+/.well-known/pki-validation/27833AA08300CE07C71EBE581008292E.txt 1 0 64
+/.well-known/pki-validation/BE78DDB20C575AB8D7D2397F22E87A20.txt 1 0 64
+/.well-known/pki-validation/1F5CAEC94B515577C664C82DF2808729.txt 1 0 64
+/.well-known/pki-validation/C3621302C4CF87F779B88EAB0C444371.txt 1 0 64
+/.well-known/pki-validation/4030C14E518C19C70079283CD676CA51.txt 1 0 64
+/.well-known/pki-validation/AA734D60E81FBAC4324D035EC5D635CE.txt 1 0 64
+/.well-known/pki-validation/9C77A75253387C6ED5C6279675D230A5.txt 1 0 64
+/.well-known/pki-validation/9EEB4644B88295025556D8CE97929642.txt 1 0 64
+/.well-known/pki-validation/7BF5CBCD61421C8A4FFDE94AD00B6A7B.txt 1 0 64
+/.well-known/pki-validation/94F3D8A6480B4A88808C603A23F389E1.txt 1 0 64
+/.well-known/pki-validation/F35FA4A040E0DF762A3B98C74ED7B2A0.txt 1 0 64
+/.well-known/pki-validation/1C76F12518382081525F1DFC3859D350.txt 1 0 64
+/.well-known/pki-validation/11EB41EDAFE5F64B54BC083CC9C1464D.txt 1 0 64
+/.well-known/pki-validation/72B9890FD4DD963CE8957457ACD162D7.txt 1 0 64
+/.well-known/pki-validation/875E2D1508143F052BB761802C026598.txt 1 0 64
+/.well-known/pki-validation/6519E8AA175C82E3EA775BA4381660D2.txt 1 0 64
+/.well-known/pki-validation/E8E528F68F16EC134FD6DEE817254FDC.txt 1 0 64
+/.well-known/pki-validation/0B279FCE50D5939ECD5B17E176317884.txt 1 0 64
+/.well-known/pki-validation/32C04805C76BDEB325C40BAB8EA26C2C.txt 1 0 64
+/.well-known/pki-validation/4131AACFECC9832E6A87B38A8F9E2AD6.txt 1 0 64
+/.well-known/pki-validation/29EAD9EA0C433C1778468812575D1254.txt 1 0 64
+/.well-known/pki-validation/0BA898D0AE52D2591FE473FE9CC8B954.txt 1 0 64
+/.well-known/pki-validation/819ECA7F021F56D13CF7B79A0CED7CCF.txt 1 0 64
+/.well-known/pki-validation/155A13FC8D1474A768445A4EC2122FD9.txt 1 0 64
+/.well-known/pki-validation/4A23E09705312CAC63C020B411FB7842.txt 1 0 64
+/.well-known/pki-validation/D2061394A73F43B79B37320A2630EF1F.txt 1 0 64
+/.well-known/pki-validation/867B9F3461B8CB1F701EA8D5D37355C4.txt 1 0 64
+/.well-known/pki-validation/E361A9E3708DC7A820855C48641027D5.txt 1 0 64
+/.well-known/pki-validation/9FAFA7749981463553945C5CF5ED9983.txt 1 0 64
+/.well-known/pki-validation/32B1087FAF5B095971AA82DE67EECD76.txt 1 0 64
+/.well-known/pki-validation/0CF8A45BE25968EC219BD60FBB335D85.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+Unknown 103 1
+win10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 2
+chrome68.0.3440.106 1 1
+Unknown 103 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+COMODO_DCV 20180831232510
+WhatsApp/2.18.248_A 20180831122519
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.18.248_A 20180831122519
+COMODO_DCV 20180831232510
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2 104
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+301 938 230712
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3
+168.194.160.251 2 2 67820 20180831122605
+91.199.212.132 0 3 249 
+104.200.31.242 0 99 6414 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180801 0 3 192 0
+20180802 0 3 192 0
+20180803 0 3 192 0
+20180804 0 12 903 0
+20180805 0 3 192 0
+20180806 0 3 192 0
+20180807 0 3 192 0
+20180808 0 3 192 0
+20180809 0 3 192 0
+20180810 0 3 192 0
+20180811 0 3 192 0
+20180812 0 3 192 0
+20180813 0 3 192 0
+20180814 0 3 192 0
+20180815 0 3 192 0
+20180816 0 3 192 0
+20180817 0 3 192 0
+20180818 0 3 192 0
+20180819 0 3 192 0
+20180820 0 3 192 0
+20180821 0 3 192 0
+20180822 0 3 192 0
+20180823 0 3 192 0
+20180824 0 3 192 0
+20180825 0 3 192 0
+20180826 0 3 192 0
+20180827 0 3 192 0
+20180828 0 3 192 0
+20180829 0 3 192 0
+20180830 0 3 192 0
+20180831 2 5 68012 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/webmail 2 67820 1 1
+END_SIDER

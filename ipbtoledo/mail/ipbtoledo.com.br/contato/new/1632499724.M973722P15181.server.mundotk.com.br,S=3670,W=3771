@@ -1,0 +1,101 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id gFpGOQz4TWFNOwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Fri, 24 Sep 2021 13:08:44 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 24 Sep 2021 13:08:44 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mTnki-00049S-P4
+	for contato@ipbtoledo.com.br; Fri, 24 Sep 2021 13:08:44 -0300
+X-Failed-Recipients: construir_784@uol.com.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <43f3bb62a462e2f782dcb7e532a123a8@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1632499724-eximdsn-1465670687
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mTnki-00049S-P4@server.mundotk.com.br>
+Date: Fri, 24 Sep 2021 13:08:44 -0300
+
+--1632499724-eximdsn-1465670687
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  construir_784@uol.com.br
+    host mx.uol.com.br [200.147.36.15]
+    SMTP error from remote mail server after RCPT TO:<construir_784@uol.com.br>:
+    550 5.1.1 <construir_784@uol.com.br>: Recipient address rejected:
+    User unknown in relay recipient table
+
+--1632499724-eximdsn-1465670687
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;construir_784@uol.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx.uol.com.br
+Diagnostic-Code: smtp; 550 5.1.1 <construir_784@uol.com.br>: Recipient address rejected: User unknown in relay recipient table
+
+--1632499724-eximdsn-1465670687
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=43784 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mTnke-00049I-O4
+	for construir_784@uol.com.br; Fri, 24 Sep 2021 13:08:41 -0300
+Date: Fri, 24 Sep 2021 16:08:41 +0000
+To: Ryan Donato <construir_784@uol.com.br>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <43f3bb62a462e2f782dcb7e532a123a8@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Ryan Donato
+
+                    EMAIL: construir_784@uol.com.br
+
+                    TELEFONE: (14) 9.1234.5678
+                    
+
+
+                    CORPO DA MENSAGEM: Olá Ipbtoledo, tudo bem? Aqui é o Ryan! 
+
+Ipbtoledo, 
+
+O Livro Digital - Como Construir ou Reformar sua Casa tem como objetivo ajudar você que quer construir ou reformar sua casa sem ter muitas dores de cabeça.
+
+A linguagem deste Livro Digital é simples, didática, fácil e intuitiva para você que deseja saber de todos os detalhes para construir ou reformar a sua casa, mas não entende muito ou quer aprender sobre Construção Civil.
+
+Não perca tempo, clique ou copie o link em seu navegador.
+
+Ipbtoledo, viste nosso SITE https://sites.google.com/view/construir-ou-reformar-sua-casa/ e saiba mais! 
+
+Te vejo em nosso site! 
+Ryan 
+
+
+--1632499724-eximdsn-1465670687--

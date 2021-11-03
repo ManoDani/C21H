@@ -1,0 +1,82 @@
+Return-Path: <contatos@mxagencia.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id aHyQF1LF92B2fwAA85qOww
+	(envelope-from <contatos@mxagencia.com.br>)
+	for <contato@ipbtoledo.com.br>; Wed, 21 Jul 2021 03:57:22 -0300
+Return-path: <contatos@mxagencia.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Wed, 21 Jul 2021 03:57:22 -0300
+Received: from ztu1yjvlodcw.mxagencia.com.br ([186.251.131.68]:40874)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <contatos@mxagencia.com.br>)
+	id 1m66A0-0001dN-Dj
+	for contato@ipbtoledo.com.br; Wed, 21 Jul 2021 03:57:22 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=mxagencia.com.br;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=uA9iCUI4GTUu2xf0ogsGCfs/84A5K+IveTCrp3trm5Y=;
+ b=xzd71fDnAL4n57GIU5l8u5MliN4fou717Z1J1HF8Nioht6PKOds3CU3wNe3gzPyzl1fdhrNy6G17
+   N+qRTuMUxMeYzHjmMF3ejPNjBE3solwyi6I5pF1j1HHq0qGDZb3Mq9mPyf49xYtEX43uDdhtjf47
+   o9wg0MC7Y5Ec6vhQLeu386SFg+sJFgojhGT/hDQQHsOc1qj6p42MSy2YtJLhInxg2FFL8osTzA8a
+   FPpXa65Vj3WZcvbnv6cqszmmm70GVoNfriXXd5ApvsBOcdU3u7mN81l13laDz1VU4/z3Qitp8f/6
+   rCSgyH4vNgq2zfNbmRO+a9hGUKxzpvT+6LCj6Q==
+Organization: Contatos
+Message-ID: <a98e6b23ec3aa7cb76ca39ae0011fc24@mxagencia.com.br>
+From: "Contatos" <contatos@mxagencia.com.br>
+To: <contato@ipbtoledo.com.br>
+Subject: Seu novosite em 2021.
+Date: Wed, 21 Jul 2021 03:49:10 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=SPLITOR00A_001_1179355608D"
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------=SPLITOR00A_001_1179355608D
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: base64
+
+T2zhLA0KDQpBcG9zdG8gcXVlIHNlcmlhIGJvbSB0ZXIgdW0gc2l0ZSBtb2Rlcm5vLCByZXNwb25z
+aXZvIGUgaW5jcmVtZW50YXIgc3VhcyB2ZW5kYXMuDQoNCkNvbmhl52Egbm9zc2EgZW1wcmVzYSBl
+IHNhaWJhIG8gcXVlIHBvZGVtb3MgZmF6ZXIgcGFyYSBhbGF2YW5jYXIgc2V1cyBuZWfzY2lvcywg
+DQoNCnRlbmhhIHVtIHNpdGUgcGVyc29uYWxpemFkbyBlIGV4Y2x1c2l2byBwYXJhIHZvY+ouIA0K
+DQpUYW1i6W0gdGVtb3MgYSBsaGUgb2ZlcmVjZXIsIG8gaW1wdWxzaW9uYW1lbnRvIHZpYSBHb29n
+bGUgQURTLCBGYWNlYm9vaywgSW5zdGFncmFtLCBMaW5rZWRpbiwgWW91VHViZSBldGMuLiANCg0K
+Q2xpcXVlIGFiYWl4byBlIHNhaWJhIG1haXMgaW5mb3JtYef1ZXM6DQoNCmh0dHA6Ly9zZXVub3Zv
+c2l0ZWFxdWkuY29tLmJyIA0KDQpPYnJpZ2Fkby4NCg0KQXRlbmNpb3NhbWVudGUsDQoNCkRTQ1Np
+dGVzDQoNCkRlcHRvLiBkZSB2ZW5kYXMNCg0KMTEgOSA5NzUyLTM2OTkgLSBXaGF0c2FwcA0KDQpQ
+YXJhIGRlbWFpcyBzb2xpY2l0Yef1ZXM6IHByZWF0ZW5kaW1lbnRvZHNjQG91dGxvb2suY29tDQo=
+
+------=SPLITOR00A_001_1179355608D
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxodG1sPg0KPGhlYWQ+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250
+ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9d2luZG93cy0xMjUyIj4NCjwvaGVhZD4NCjxib2R5IHN0
+eWxlPSJGT05ULUZBTUlMWTogVmVyZGFuYSI+DQo8cD5PbOEsPC9wPg0KPHA+QXBvc3RvIHF1ZSBz
+ZXJpYSBib20gdGVyIHVtIHNpdGUgbW9kZXJubywgcmVzcG9uc2l2byBlIGluY3JlbWVudGFyIHN1
+YXMgDQp2ZW5kYXMuPC9wPg0KPHA+Q29uaGXnYSBub3NzYSBlbXByZXNhIGUgc2FpYmEgbyBxdWUg
+cG9kZW1vcyBmYXplciBwYXJhIGFsYXZhbmNhciBzZXVzIA0KbmVn82Npb3MsIDwvcD4NCjxwPnRl
+bmhhIHVtIHNpdGUgcGVyc29uYWxpemFkbyBlIGV4Y2x1c2l2byBwYXJhIHZvY+ouIDwvcD4NCjxw
+PlRhbWLpbSB0ZW1vcyBhIGxoZSBvZmVyZWNlciwgbyBpbXB1bHNpb25hbWVudG8gdmlhIEdvb2ds
+ZSBBRFMsIEZhY2Vib29rLCANCkluc3RhZ3JhbSwgTGlua2VkaW4sIFlvdVR1YmUgZXRjLi4gPC9w
+Pg0KPHA+Q2xpcXVlIGFiYWl4byBlIHNhaWJhIG1haXMgaW5mb3JtYef1ZXM6PC9wPg0KPHA+PGEg
+aHJlZj0iaHR0cDovL3NldW5vdm9zaXRlYXF1aS5jb20uYnIiPmh0dHA6Ly9zZXVub3Zvc2l0ZWFx
+dWkuY29tLmJyPC9hPiANCjwvcD4NCjxwPk9icmlnYWRvLjwvcD4NCjxwPkF0ZW5jaW9zYW1lbnRl
+LDwvcD4NCjxwPkRTQ1NpdGVzPC9wPg0KPHA+RGVwdG8uIGRlIHZlbmRhczwvcD4NCjxwPjExIDkg
+OTc1Mi0zNjk5IC0gV2hhdHNhcHA8L3A+DQo8cD5QYXJhIGRlbWFpcyBzb2xpY2l0Yef1ZXM6IDxh
+IGhyZWY9Im1haWx0bzpwcmVhdGVuZGltZW50b2RzY0BvdXRsb29rLmNvbSI+cHJlYXRlbmRpbWVu
+dG9kc2NAb3V0bG9vay5jb208L2E+PGJyPjwvcD4NCjwvYm9keT4NCjwvaHRtbD4=
+
+------=SPLITOR00A_001_1179355608D--
+

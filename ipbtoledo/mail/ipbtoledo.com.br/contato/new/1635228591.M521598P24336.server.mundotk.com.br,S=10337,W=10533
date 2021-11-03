@@ -1,0 +1,196 @@
+Return-Path: <bradesco-proposta-natanael-fyi8@segurobrasilsaude.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id OA87Hq+bd2EQXwAA85qOww
+	(envelope-from <bradesco-proposta-natanael-fyi8@segurobrasilsaude.com.br>)
+	for <contato@ipbtoledo.com.br>; Tue, 26 Oct 2021 03:09:51 -0300
+Return-path: <bradesco-proposta-natanael-fyi8@segurobrasilsaude.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 26 Oct 2021 03:09:51 -0300
+Received: from cloud991274.segurobrasilsaude.com.br ([45.144.212.115]:60577)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <bradesco-proposta-natanael-fyi8@segurobrasilsaude.com.br>)
+	id 1mfFeb-0006LW-Mw
+	for contato@ipbtoledo.com.br; Tue, 26 Oct 2021 03:09:51 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=vei29a; d=segurobrasilsaude.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=bradesco-proposta-natanael-fyi8@segurobrasilsaude.com.br;
+ bh=tyqxWgYVVqXDNC67jIzdD+Z/sUk=;
+ b=M6cM35G/+uXPowjtvwJuQYqtfXtSyzi2R1NGtltajLS9pL1FEwHMzpspkElixoRY22tDQxqRsbxZ
+   AXS3Fy6zFdaJ1aAlvPcH+bv2/ui8XeoaxKcydK5g1vdDs0YL7uZYONyuyWAxP27UnEc8hRCU1rGU
+   yVVqqes7eUfzdy9mKXw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=vei29a; d=segurobrasilsaude.com.br;
+ b=uYZ66awA8kiZdRwVFek37OcMEMYitQeMMCkhCKlWh3fT6zZcDinC/L0pWl5bYe7Nug3n7R73gIT6
+   HDeYNybk7bxru0ssx5urmVFD9jgi4QSetSw6AM5lMwh5MLkhpdtFZFbBS6bJH1x5Ra+XPGzsx396
+   dyIzejI7iKMAX8GnEBg=;
+Date: Tue, 26 Oct 2021 03:08:42 -0300
+To: contato@ipbtoledo.com.br
+From: =?iso-8859-1?Q?Bradesco_Sa=FAde_=7C_Hannah_Victoria?= <bradesco-proposta-natanael-fyi8@segurobrasilsaude.com.br>
+Subject: =?iso-8859-1?Q?Descontos_e_vantagens_para_voc=EA,_simule_agora?=
+Message-ID: <g5f4i4s41426f453f4w5g5t4w5j4i544l4p274o4t534i5x5@segurobrasilsaude.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_qlKyr5XE77NPgJn2sSACKEF3oygytOPSD7MZnW5diJ8"
+X-Spam-Status: No, score=1.7
+X-Spam-Score: 17
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Olá, tudo bem? Você sabia que nunca foi tão fácil ter
+   um Plano de Saúde Bradesco? Se esse assunto te interessa continua comigo
+   que você já vai entender porque... A Bradesco tem uma nova linha de produtos
+    e você pode ter um plano de saúde de qualidade comprovada por um preço
+    que cabe no seu bolso. 
+ Content analysis details:   (1.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: segurobrasilsaude.com.br]
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: segurobrasilsaude.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+--b1_qlKyr5XE77NPgJn2sSACKEF3oygytOPSD7MZnW5diJ8
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ol=C3=A1, tudo bem?=0A=0A=0A=0AVoc=C3=AA sabia que nunca foi t=C3=A3o f=
+=C3=A1cil ter um Plano de Sa=C3=BAde Bradesco?=0ASe esse assunto te interes=
+sa continua comigo que voc=C3=AA j=C3=A1 vai entender porque...=0A=0A=0AA B=
+radesco tem uma nova linha de produtos e voc=C3=AA pode ter um plano de sa=
+=C3=BAde de qualidade comprovada por um pre=C3=A7o que cabe no seu bolso.=
+=0A=0A=0AE n=C3=A3o =C3=A9 s=C3=B3 isso...=0A=0A=0ASe voc=C3=AA utilizar se=
+u CNPJ na contrata=C3=A7=C3=A3o, poder=C3=A1 reduzir ainda mais o valor da =
+mensalidade e pagar at=C3=A9 40% menos...=0A=0A=0AEnt=C3=A3o "finalmente te=
+mos uma boa not=C3=ADcia"=0A=0A=0AE sabe o que =C3=A9 melhor???=0A=0A=0AVoc=
+=C3=AA pode resolver isso agora mesmo fazendo uma [cota=C3=A7=C3=A3o em nos=
+so site](http://ec2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qs=3D24=
+r2y253t2b4r2y233e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423166=
+4d4y5i4j4a4i4j5j4a4i4z5f5u4l5c4z334l4g4q2b4y5&lin=3D11572) ou [conversando =
+com um consultor pelo WhatsApp](http://ec2-18-228-138-208.sa-east-1.compute=
+.amazonaws.com/?qs=3D24r2y253t2b4r2y233e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b4=
+94m4v2j5k4h4t264p4231664d4y5i4j4a4i4j5j4a4i4z5f5u4l5c4z334l4g4q2b4y5&lin=3D=
+11573).=0A=0A=0ASe voc=C3=AA est=C3=A1 insatisfeito(a) com a rede e/ou pre=
+=C3=A7o do seu plano, ou com os reajustes abusivos, a hora =C3=A9 agora!=0A=
+=0A=0A=0AFa=C3=A7a sua cota=C3=A7=C3=A3o agora mesmo...=C3=A9 rapidinho, le=
+va apenas alguns segundos!=0A=0A[QUERO FAZER UMA COTA=C3=87=C3=83O ONLINE >=
+>>](http://ec2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qs=3D24r2y25=
+3t2b4r2y233e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231664d4y5=
+i4j4a4i4j5j4a4i4z5f5u4l5c4z334l4g4q2b4y5&lin=3D11572)=0A=0A=0A=0A[Clique aq=
+ui para ser removido](http://ec2-18-228-138-208.sa-east-1.compute.amazonaws=
+.com/?qr=3D24r2y253t2b4r2y233e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4=
+h4t264p4231664d4y5i4j4a4i4j5j4a4i4z5f5u4l5c4z334l4g4q2b4y5)
+--b1_qlKyr5XE77NPgJn2sSACKEF3oygytOPSD7MZnW5diJ8
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" >
+<html xmlns=3D"http://www.w3.org/1999/xhtml" >
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DISO-8859-=
+1" />
+<title>Untitled Document</title>
+<style type=3D"text/css" >
+<!--
+.style1 {font-family: Arial, Helvetica, sans-serif}
+.style2 {
+=09color: #97338a;
+=09font-weight: bold;
+=09font-size: 18px;
+}
+-->
+</style>
+</head>
+
+<body>
+<p class=3D"style1" >Ol&aacute;, tudo bem?</p>
+<p class=3D"style1" >&nbsp;</p>
+<p class=3D"style1" >Voc&ecirc; sabia que nunca foi t&atilde;o f&aacute;cil=
+ ter um&nbsp;<span class=3D"style2" >Plano  de Sa&uacute;de Bradesco?</span=
+><br />
+  Se esse assunto te interessa continua comigo que voc&ecirc; j&aacute; vai=
+  entender porque...<br />
+  <br />
+  &nbsp;<br />
+  A Bradesco tem uma nova linha de produtos e voc&ecirc; pode ter um plano =
+de sa&uacute;de de  qualidade comprovada&nbsp;por um pre&ccedil;o que cabe =
+no seu bolso.<br />
+  <br />
+  &nbsp;<br />
+  E n&atilde;o &eacute; s&oacute; isso...<br />
+  <br />
+  &nbsp;<br />
+  Se voc&ecirc; utilizar seu&nbsp;<strong>CNPJ</strong>&nbsp;na contrata&cc=
+edil;&atilde;o, poder&aacute;  reduzir ainda mais o valor da mensalidade e =
+pagar&nbsp;<strong>at&eacute; 40% menos</strong>...<br />
+  <br />
+  &nbsp;<br />
+  Ent&atilde;o  &quot;finalmente temos uma boa not&iacute;cia&quot;<br />
+  <br />
+  <br />
+  E sabe o que &eacute;  melhor???<br />
+  <br />
+  <br />
+Voc&ecirc;  pode resolver isso agora mesmo fazendo uma <a href=3D"http://ec=
+2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qs=3D24r2y253t2b4r2y233e4=
+2473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231664d4y5i4j4a4i4j5j4a=
+4i4z5f5u4l5c4z334l4g4q2b4y5&lin=3D11572" target=3D"_blank" ><strong>cota&cc=
+edil;&atilde;o em nosso site</strong></a> ou <a href=3D"http://ec2-18-228-1=
+38-208.sa-east-1.compute.amazonaws.com/?qs=3D24r2y253t2b4r2y233e42473k5m4r5=
+k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231664d4y5i4j4a4i4j5j4a4i4z5f5u4l=
+5c4z334l4g4q2b4y5&lin=3D11573" target=3D"_blank" ><strong>conversando  com =
+um consultor pelo WhatsApp</strong></a>.</p>
+<p class=3D"style1" ><br />
+  Se voc&ecirc;  est&aacute; insatisfeito(a) com a rede e/ou pre&ccedil;o d=
+o seu plano, ou com os reajustes  abusivos, <strong>a hora &eacute; agora!<=
+/strong></p>
+<p class=3D"style1" ><br />
+  &nbsp;<br />
+  <strong>Fa&ccedil;a sua cota&ccedil;&atilde;o agora mesmo...&eacute; rapi=
+dinho, leva apenas alguns  segundos!</strong></p>
+<p class=3D"style1" ><strong><a href=3D"http://ec2-18-228-138-208.sa-east-1=
+.compute.amazonaws.com/?qs=3D24r2y253t2b4r2y233e42473k5m4r5k474n4j4d3p5x5i5=
+z5h4e4b494m4v2j5k4h4t264p4231664d4y5i4j4a4i4j5j4a4i4z5f5u4l5c4z334l4g4q2b4y=
+5&lin=3D11572" target=3D"_blank" xhref=3D"http://saudeeseguros.com.br/link.=
+php?M=3D1759414&N=3D8&L=3D4&F=3DH" >QUERO  FAZER UMA COTA&Ccedil;&Atilde;O =
+ONLINE &gt;&gt;&gt;</a></strong><br />
+    <br />
+    <img src=3D"https://brasaude.s3.amazonaws.com/bradesco-saude-corretor-h=
+abilitado.png" alt=3D"Novidade Bradesco sa=FAde - corretor habilitado" name=
+=3D"_x0000_i1025" width=3D"100" height=3D"100" border=3D"0" id=3D"_x0000_i1=
+025" title=3D"Novidade" onerror=3D"top.fixImageError(this,'http://saudeeseg=
+uros.com.br/transparente.png')" /><br />
+    <br />
+<a href=3D"http://ec2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qr=3D=
+24r2y253t2b4r2y233e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231=
+664d4y5i4j4a4i4j5j4a4i4z5f5u4l5c4z334l4g4q2b4y5" xhref=3D"http://saudeesegu=
+ros.com.br/unsubscribe.php?M=3D1759414&C=3D763c756819fe6b3cc7aa40b7d5740404=
+&L=3D7&N=3D8" >Clique  aqui para ser removido</a></p>
+<img src=3D"http://ec2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qo=
+=3D24r2y253t2b4r2y233e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4=
+231664d4y5i4j4a4i4j5j4a4i4z5f5u4l5c4z334l4g4q2b4y5" alt=3D"" width=3D1 heig=
+ht=3D1 style=3D"border:0 none;display:block;height:auto;line-height:100%;ou=
+tline:none;-webkit-text-decoration:none;text-decoration:none"></body>
+</html>
+
+
+--b1_qlKyr5XE77NPgJn2sSACKEF3oygytOPSD7MZnW5diJ8--
+

@@ -1,0 +1,385 @@
+Return-Path: <erros@junoins.bhz.br>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id 8GFQHBSmYmDlMAAA85qOww
+	(envelope-from <erros@junoins.bhz.br>)
+	for <contato+spam@ipbtoledo.com.br>; Tue, 30 Mar 2021 01:16:20 -0300
+Return-path: <erros@junoins.bhz.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 30 Mar 2021 01:16:20 -0300
+Received: from [51.159.91.130] (port=55848 helo=smtp.junoins.bhz.br)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94)
+	(envelope-from <erros@junoins.bhz.br>)
+	id 1lR5nb-0002ns-7k
+	for contato@ipbtoledo.com.br; Tue, 30 Mar 2021 01:16:20 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=junoins.bhz.br; s=mail; h=Content-Transfer-Encoding:Content-Type:Reply-To:
+	From:Date:Message-ID:Subject:To:Sender:Cc:MIME-Version:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=HWKzV3RIvhORw4W730T9tX6Yzr2bMbCLLqxXRXbAKdw=; b=qd6oQ87ThlMGpW2uk3s7RrJbCy
+	oDyLAzrRVaMocxiQYFVWHd+l/gnjR6oJPxc9UfRUVyl8IqV+2OfZ+FuGJtTvyWaDKbh4/hRf99zZQ
+	TKecwEWj9phdiFWFcXyehUnISUHC4qBAezifwkR4V8PhHc3MWOIYtL7zgNm97ru7NLr8=;
+Received: from junoinsb by vesta.herbalvt.com.br with local (Exim 4.92.3)
+	(envelope-from <erros@junoins.bhz.br>)
+	id 1lR5mn-0004kG-0z
+	for contato@ipbtoledo.com.br; Tue, 30 Mar 2021 01:15:25 -0300
+To: contato@ipbtoledo.com.br
+X-PHP-Originating-Script: 1041:email.php
+Message-ID: <f859b1f29c98bc251d95a7d4d36e7697@junoins.bhz.br>
+Date: Sun, 28 Mar 2021 23:04:14 -0300
+From: "Daniel Gunar" <contato@junoins.bhz.br>
+Reply-To: contato@junoins.bhz.br
+X-Mailer-LID: 56
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="7c80b955b92f5d19ff6c4c85b12f4168"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: Yes, score=10.1
+X-Spam-Score: 101
+X-Spam-Bar: ++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Seu cliente de email não pode ler esta mensagem. Para visualizá-la
+    online, por favor, clique aqui: http://junoins.bhz.br/display.php?M=11037288&C=b7b8a250a4b53c509abaf14ee7674c79&S=58&L=56&N=95
+    Para parar de receber nossos conteúdo acesse o link: http://junoins.bhz.br/unsubscribe.php?M=11037288&C=b7b8a250a4b53c509abaf14ee7674c79&L=56&N=58
+    
+ Content analysis details:   (10.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.5 DATE_IN_PAST_24_48     Date: is 24 to 48 hours before Received: date
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  2.5 FONT_INVIS_MSGID       Invisible text + suspicious message ID
+  2.5 FONT_INVIS_NORDNS      Invisible text + no rDNS
+  2.0 HTML_TEXT_INVISIBLE_FONT HTML hidden text - word obfuscation?
+X-Spam-Flag: YES
+Subject:    =?UTF-8?B?RGVwdG8uQ29tcHJhczogQXZhbGlhw6fDo28gZGUgRm9ybmVjZWRvcmVzICwgQ3VzdG9zLCBOZWdvY2lhw6fDo28gZSBDb250cmF0b3M=?=
+
+--7c80b955b92f5d19ff6c4c85b12f4168
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de email não pode ler esta mensagem.
+
+Para visualizá-la online, por favor, clique aqui:
+http://junoins.bhz.br/display.php?M=11037288&C=b7b8a250a4b53c509abaf14ee7674c79&S=58&L=56&N=95
+
+Para parar de receber nossos conteúdo acesse o link:
+http://junoins.bhz.br/unsubscribe.php?M=11037288&C=b7b8a250a4b53c509abaf14ee7674c79&L=56&N=58
+
+--7c80b955b92f5d19ff6c4c85b12f4168
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<p><span style="font-size: 0.875rem; font-weight:
+initial;">TREINAMENTO:</span><span style="font-size: 0.875rem; font-weight:
+initial; white-space: pre;">	</span><span style="font-size: 0.875rem;
+font-weight: initial;">Departamento de Compras -&nbsp; 5
+módulos&nbsp;</span></p><p>MODALIDADE:<span style="white-space:
+pre;">	</span>Web-Ao vivo pela Plataforma Zoom</p><p><br></p><p>HORARIO DAS
+AULAS -&nbsp; 19H ÀS 23H -&nbsp; - COM GRAVAÇÃO DA AULA CASO O ALUNO
+PERCA ALGUM PERÍODO</p><p><br></p><p>AGENDA</p><p>05 e 12/04 -<span
+style="white-space: pre;">	</span>AVALIAÇÃO E QUALIFICAÇÃO DE
+FORNECEDORES&nbsp;&nbsp;<span style="font-weight:
+initial;">&nbsp;</span><span style="font-weight: initial;">-&nbsp;
+(8h//aula)</span></p><p>19 e 22/04 -&nbsp; &nbsp; COMPRAS ESTRATÉGICAS
+(FOCO REDUÇÃO DE CUSTOS)&nbsp; -&nbsp; (8h//aula)</p><p>27 e 28/04
+-&nbsp; &nbsp; TRIBUTAÇÃO PARA COMPRADORES&nbsp;<span style="font-weight:
+initial;">&nbsp;</span><span style="font-weight: initial;">-&nbsp;
+(8h//aula)</span></p><p>03 e 10/05 -&nbsp; &nbsp; NEGOCIAÇÃO PARA
+COMPRADORES&nbsp;<span style="font-weight: initial;">&nbsp;</span><span
+style="font-weight: initial;">-&nbsp; (8h//aula)</span></p><p>20 e 21/05
+-&nbsp; &nbsp; GESTÃO DE CONTRATOS PARA COMPRADORES&nbsp;<span
+style="font-weight: initial;">&nbsp;</span><span style="font-weight:
+initial;">-&nbsp; (8h//aula)</span></p><p><span style="font-size: 0.875rem;
+font-weight: initial;">Carga horária total:
+40h/aula</span></p><p><br></p><p><span style="font-weight:
+bolder;">Inscrições pode ser realizadas por módulo avulso&nbsp; (veja
+abaixo)&nbsp;</span></p><p><span style="font-weight: bolder;">Solicite a
+ementa completa pelo para o email:
+instrutoriabr@hotmail.com&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;</p><p><br></p><p>PROGRAMA:&nbsp;</p><p><span
+style="background-color: rgb(245, 245, 245); color: rgb(101, 101, 101);
+font-family: &quot;open sans&quot;, &quot;arial narrow&quot;; font-size:
+13px;"><span style="font-weight: bolder;">MÓDULO: AVALIAÇÃO E
+QUALIFICAÇÃO DE FORNECEDORES</span></span></p><p style="margin-right:
+0px; margin-bottom: 5px; margin-left: 0px; font-size: 13px; line-height:
+18.2px; font-family: &quot;open sans&quot;, &quot;arial narrow&quot;;
+padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);">PROGRAMA (8H/AULA):</p><p
+style="margin-right: 0px; margin-bottom: 5px; margin-left: 0px; font-size:
+13px; line-height: 18.2px; font-family: &quot;open sans&quot;, &quot;arial
+narrow&quot;; padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);">O COMPRADOR E A GESTÃO DE QUALIDADE
+DOS FORNECEDORES:<br>1. Critérios na busca de Fornecedores de Produtos e
+Serviços: Pós-venda, Localização, Preço, Habilidade Técnica,
+Capacidade Produtiva e Confiabilidade.<br>2. Desenvolvimento da Relação
+Comprador x Fornecedor – Como o comprador deve iniciar sua atividade na
+busca de uma parceria sólida?<br>3. Os Dez fatores que motivam a
+Avaliação e Qualificação de Fornecedores – O fornecedor só irá
+melhorar seus processos quando estes pontos importantes forem
+identificados.</p><p style="margin-right: 0px; margin-bottom: 5px;
+margin-left: 0px; font-size: 13px; line-height: 18.2px; font-family:
+&quot;open sans&quot;, &quot;arial narrow&quot;; padding: 0px 0px 8px;
+color: rgb(101, 101, 101); float: none; background-color: rgb(245, 245,
+245);">A QUALIFICAÇÃO DE FORNECEDORES DE PRODUTOS E SERVIÇOS:<br>1.
+Requisitos da NBR/ISO 9001:2015 – Requisitos que a norma exige para este
+processo.<br>2. As três etapas básicas para Qualificar os Fornecedores,
+segundo a Norma NBR/ISO 9001:2015.<br>3. A Gestão de Fornecedores:
+Planejamento, Comunicação, Controle e Gestão de Competências.<br>4.
+Critérios de Avaliação do Sistema de Gestão da Qualidade, quando
+houver.<br>5. Critérios de Análise de Riscos, principais fatores:
+Redução de Produção, Localização do Fornecedor, Imagem,
+Co-responsabilidades, Influência no processo e produto.<br>6. Sequência
+de Implantação de Análise der Riscos.<br>7. A Diferença entre
+Fornecedores de Produtos e Serviços.</p><p style="margin-right: 0px;
+margin-bottom: 5px; margin-left: 0px; font-size: 13px; line-height: 18.2px;
+font-family: &quot;open sans&quot;, &quot;arial narrow&quot;; padding: 0px
+0px 8px; color: rgb(101, 101, 101); float: none; background-color: rgb(245,
+245, 245);">AVALIAÇÃO E REAVALIAÇÃO CONTÍNUA DOS FORNECEDORES:<br>1.
+Parâmetros para IQF (Índice de Qualificação de Fornecedores) – Os
+principais parâmetros para iniciar uma avaliação de fornecedores.<br>2.
+Sequência de Implantação do IQF e particularidades de cada tipo de
+fornecedor.<br>3. Atribuições de Pesos para o IQF – Um fator importante
+nos processos de qualidade para atribuir responsabilidades aos
+processos.<br>4. Critérios para IQF total obtido na Avaliação e
+Reavaliação dos Fornecedores.<br>5. Classificação dos Fornecedores –
+Que ações devo tomar após nota obtida por cada Fornecedor.<br>6.
+Política para Fornecedores – Estabelecer uma política nas
+organizações é fato predominante para o sucesso<br>7. Exercícios
+Práticos em todos os m</p><hr style="box-sizing: border-box; color:
+rgb(128, 128, 128); font-family: &quot;Open Sans&quot;, Arial, Helvetica,
+sans-serif; font-size: 22px; background-color: rgb(245, 245, 245);"><p
+style="margin-right: 0px; margin-bottom: 5px; margin-left: 0px; font-size:
+13px; line-height: 18.2px; font-family: &quot;open sans&quot;, &quot;arial
+narrow&quot;; padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);"><span style="font-weight:
+bolder;">MÓDULO: GESTÃO DE COMPRAS – FOCO REDUÇÃO DE
+CUSTOS</span><br>PROGRAMA 8H/AULA</p><p style="margin-right: 0px;
+margin-bottom: 5px; margin-left: 0px; font-size: 13px; line-height: 18.2px;
+font-family: &quot;open sans&quot;, &quot;arial narrow&quot;; padding: 0px
+0px 8px; color: rgb(101, 101, 101); float: none; background-color: rgb(245,
+245, 245);">Capítulo I – Estratégias de Compras e O Supply
+Chain:<br>Importância das Compras na Competitividade.<br>Compras e o
+Supply Chain Management (SCM).<br>Logística 4.0 x Indústria 4.0 – A
+Evolução do conceito.<br>As Estratégias Competitivas e as Cinco Forças
+de Porter.<br>A Matriz de Gastos de Peter Kraljic<br>Planejamento
+Estratégico de Compras</p><p style="margin-right: 0px; margin-bottom: 5px;
+margin-left: 0px; font-size: 13px; line-height: 18.2px; font-family:
+&quot;open sans&quot;, &quot;arial narrow&quot;; padding: 0px 0px 8px;
+color: rgb(101, 101, 101); float: none; background-color: rgb(245, 245,
+245);">Capítulo II – Compras Urgentes x Normais – como Reduzir
+Custos:<br>Compras Normais x Emergenciais – Porque as Compras
+Emergenciais Acontecem – Quais os Impactos Negativos das Compras
+Urgentes.<br>Estratégias de Redução de Custos: Gastos, Matéria-Prima,
+Mão de Obra, Contas de Consumo, Impostos, Encargos Trabalhistas,
+Equipamentos, Despesas, Custos: Fixo e Variável, Perdas, Desperdícios,
+Investimentos.<br>Pequenas Reduções Diárias – Ganhos Anuais.</p><p
+style="margin-right: 0px; margin-bottom: 5px; margin-left: 0px; font-size:
+13px; line-height: 18.2px; font-family: &quot;open sans&quot;, &quot;arial
+narrow&quot;; padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);">Capítulo III – Gestão de
+Suprimentos:<br>Portais de Compras: E-procurement<br>Como Melhorar a
+Gestão de Suprimentos nas Empresas<br>O Mapeamento de
+Processos<br>Criação de Indicadores de Performance: (Saving /
+Avoidance)<br>Qualificação e Classificação de Fornecedores</p><p
+style="margin-right: 0px; margin-bottom: 5px; margin-left: 0px; font-size:
+13px; line-height: 18.2px; font-family: &quot;open sans&quot;, &quot;arial
+narrow&quot;; padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);">Capitulo IV – Negociando com o
+Breakdow x Custos:<br>Contratos em Aberto, Comodato e Compras
+Consignadas.<br>Negociando com o Cost Breakdow<br>Como Calcular e Apurar os
+Custos de Aquisição de Produtos<br>O que Devo Analisar nos Custos de
+Fornecimento.<br>Introdução ao estudo do Strategic Sourcing.</p><p
+style="margin-right: 0px; margin-bottom: 5px; margin-left: 0px; font-size:
+13px; line-height: 18.2px; font-family: &quot;open sans&quot;, &quot;arial
+narrow&quot;; padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);">&nbsp;</p><p style="margin-right:
+0px; margin-bottom: 5px; margin-left: 0px; font-size: 13px; line-height:
+18.2px; font-family: &quot;open sans&quot;, &quot;arial narrow&quot;;
+padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);"><span style="font-weight:
+bolder;">Módulo: TRIBUTAÇÃO/ FISCAL PARA COMPRADORES</span><br>PROGRAMA:
+8H/AULA</p><p style="margin-right: 0px; margin-bottom: 5px; margin-left:
+0px; font-size: 13px; line-height: 18.2px; font-family: &quot;open
+sans&quot;, &quot;arial narrow&quot;; padding: 0px 0px 8px; color: rgb(101,
+101, 101); float: none; background-color: rgb(245, 245, 245);">–
+Obrigação Tributária<br>– Regimes tributários: Lucro Real, Lucro
+Presumido e Simples Nacional<br>– Apuração de IRPJ e CSLL<br>–
+Apuração de PIS e COFINS: análise de aspectos gerais e aproveito de
+crédito.<br>– Apuração do ISS: análise de local de pagamento, base de
+cálculo, alíquota e peculiaridades impactantes na contratação de
+serviços.<br>– Apuração do IPI: operacionalização do referido
+tributos e suas consequência na aquisição de mercadorias.<br>–
+Apuração do ICMS: análise do ICMS contemplando temas polêmicos, tais
+como: substituição tributária e diferencial de alíquota.</p><p
+style="margin-right: 0px; margin-bottom: 5px; margin-left: 0px; font-size:
+13px; line-height: 18.2px; font-family: &quot;open sans&quot;, &quot;arial
+narrow&quot;; padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);">&nbsp;</p><p style="margin-right:
+0px; margin-bottom: 5px; margin-left: 0px; font-size: 13px; line-height:
+18.2px; font-family: &quot;open sans&quot;, &quot;arial narrow&quot;;
+padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);"><span style="font-weight:
+bolder;">Módulo: NEGOCIAÇÃO PARA COMPRADORES</span><br>PROGRAMA:
+8H/AULA</p><p style="margin-right: 0px; margin-bottom: 5px; margin-left:
+0px; font-size: 13px; line-height: 18.2px; font-family: &quot;open
+sans&quot;, &quot;arial narrow&quot;; padding: 0px 0px 8px; color: rgb(101,
+101, 101); float: none; background-color: rgb(245, 245, 245);">CONTEÚDO
+(8AULA)<br>Definição de Negociação.<br>A Evolução das Técnicas de
+Negociação.<br>Snake Oil Seeling ( Vendendo cobra e óleo).<br>Pyramid
+Selling ( Vendas em Pirâmide).<br>Técnica SPIN.<br>A Teoria da
+Ganha-Ganha: Ganha-Perde, Perde-Perde, Ganha-Ganha: Qual a melhor maneira
+de fechar um negócio em que ambos saiam ganhando?<br>Negociação,
+Casamento e Família: Quais as dificuldades e aprendizados.<br>Tempo,
+Informação e Poder: O segredo para o sucesso da Negociação. A
+Comunicação em Compras.<br>A Comunicação Formal, Informal, Internet e
+Comunicação não-violenta nas Negociações.<br>Os canais de
+Comunicação: Auditivo Visual e Cinestésico:<br>A Técnica do Rapport
+(espelhamento) nas Negociações<br>As Habilidades do Negociador: Escutar
+na essência, Empatia, Resiliência, Relacionamento Interpessoal, O olhar,
+O uso do celular e suas tecnologias, Calma nas decisões.<br>Técnicas de
+Negociação pelo telefone.<br>Os participantes do Processo de
+Negociação: Ritmo e Atitude.<br>Planejamento, Metas e o segredo da
+“gordura”.<br>A Técnica do Minimax.<br>Nem sempre a melhor
+negociação e o preço do produto/serviço.<br>Timing da
+Negociação.<br>Estratégias de Negociação.<br>Clima e Local.<br>Método
+Harvard de Negociação – Usando o BATNA nas
+negociações.<br>Introdução ao estudo da Linguagem
+Corporal.<br>Dinâmicas de grupo, exercícios práticos e vídeos
+didáticos.</p><p style="margin-right: 0px; margin-bottom: 5px;
+margin-left: 0px; font-size: 13px; line-height: 18.2px; font-family:
+&quot;open sans&quot;, &quot;arial narrow&quot;; padding: 0px 0px 8px;
+color: rgb(101, 101, 101); float: none; background-color: rgb(245, 245,
+245);">&nbsp;</p><p style="margin-right: 0px; margin-bottom: 5px;
+margin-left: 0px; font-size: 13px; line-height: 18.2px; font-family:
+&quot;open sans&quot;, &quot;arial narrow&quot;; padding: 0px 0px 8px;
+color: rgb(101, 101, 101); float: none; background-color: rgb(245, 245,
+245);"><span style="font-weight: bolder;">MÓDULO: GESTÃO DE
+CONTRATOS</span><br>PROGRAMA: 8H/AULA</p><p style="margin-right: 0px;
+margin-bottom: 5px; margin-left: 0px; font-size: 13px; line-height: 18.2px;
+font-family: &quot;open sans&quot;, &quot;arial narrow&quot;; padding: 0px
+0px 8px; color: rgb(101, 101, 101); float: none; background-color: rgb(245,
+245, 245);">PROGRAMA (8H/AULA)<br>1. Introdução à gestão de
+contratos<br>a. Contrato (Surgimento, Evolução, Conceito);<br>b. Entender
+a Gestão de Contratos nas empresas;<br>c. O impacto das mudanças da
+economia e seus reflexos nos contratos;<br>d. A COVID-19 e a Gestão dos
+Contratos.<br>e. A estrutura do contrato, seus riscos e como
+evitá-los.<br>2. Gestão de Contratos<br>a. Princípios da Boa fé
+objetiva e vontade de contratar;<br>b. Responsabilidade solidária,
+subsidiária e obrigações;<br>c. Cláusulas de prevenção de
+riscos;<br>d. Contratos de curta, longa duração;<br>e. Contratos de
+prazos determinado e indeterminado e os riscos.<br>3. Gestão Riscos
+Contratuais – sua empresa está segura?<br>a. Regularidade Fiscal:<br>–
+Identificação de Riscos e Oportunidades;<br>– Garantia ou Prevenção
+de Riscos?;<br>– Certidões: Quando e Quais solicitar?<br>b. O Porte das
+empresas e os riscos na contratação<br>– Identificação do tipo e
+porte das empresas;<br>– Porte das empresas x o Fisco<br>– os riscos da
+falta de gestão.<br>4. Compliance<br>a. O que é; qual sua importância e
+a relação com a Gestão de Riscos;<br>b. O impacto da Lei de Proteção
+de Dados Pessoais (LGPD) nos contratos.<br>c. Assinaturas Eletrônica e
+Digital<br>a. Conceito<br>b. Quais as diferenças e características?<br>c.
+Sua validade Jurídica;<br>e. Segurança da assinatura digital</p><p
+style="margin-right: 0px; margin-bottom: 5px; margin-left: 0px; font-size:
+13px; line-height: 18.2px; font-family: &quot;open sans&quot;, &quot;arial
+narrow&quot;; padding: 0px 0px 8px; color: rgb(101, 101, 101); float: none;
+background-color: rgb(245, 245, 245);"><span style="font-size: 0.875rem;
+background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family:
+Roboto, sans-serif; font-weight:
+initial;">_______________________________________________________</span></p><p><br></p><p>PROFESSORES</p><p><br></p><p><span
+style="font-weight: bolder;">DANIEL GUNAR</span></p><p>Curso Superior em
+Logística Empresarial – 1600h.&nbsp;<span style="font-size: 0.875rem;
+font-weight: initial;">Curso Extensão Docência na Educação Superior –
+96h.&nbsp;</span><span style="font-size: 0.875rem; font-weight:
+initial;">MBA Gestão da Produção, Logística e Cadeias de Valor (SCM)
+– Lato Sensu – 360h.&nbsp;</span><span style="font-size: 0.875rem;
+font-weight: initial;">22 anos de experiência prática na Gestão da
+Cadeia Logística, Transportes, Expedição, Estoques e Almoxarifados,
+Materiais e Compras (Supply Chain Management), no Desenvolvimento,
+Qualificação e Homologação de Fornecedores, liderança de grandes
+equipes, com atuação em empresas nacionais e multinacionais, nos
+seguimentos: automotivo (montadora), Metalúrgico, Químico, Construção
+Civil, Transportes e Tratores e Colheitadeiras.&nbsp;</span><span
+style="font-size: 0.875rem; font-weight: initial;">Professor e Palestrante
+desde 2008 das áreas de Gestão da Cadeia de Suprimentos (Supply Chain
+Management): Logística Industrial, Transportes, Produção, Compras,
+Negociação, Estoques, Almoxarifados, Armazenagem, Gestão e Liderança,
+Tecnologia de Logística, Qualidade e Produtividade Industrial, Avaliação
+de Fornecedores, com mais de 300 palestras ministradas a nível Brasil nas
+principais capitais do Sul, Sudeste, Nordeste, Norte e Centro-Oeste com a
+participação de pequenas, médias e grandes empresas de diversos
+segmentos, com excelentes avaliações, com mais de 2.000 alunos formados e
+mais de 35 cursos In Company realizados em empresas de diversos
+seguimentos: industriais, comerciais e serviços. Atuando também como
+consultor de empresas com trabalhos realizados para ganho de
+produtividade.</span></p><p><span style="font-size: 0.875rem;"><span
+style="font-weight: bolder;">DIEGO ALMADA
+BISI</span></span></p><p>Advogado. Professor e Palestrante. Pós Graduado
+em Direito Tributário. Mestrando em Direito Empresarial.</p><p><span
+style="font-size: 0.875rem;"><span style="font-weight: bolder;">GEDA
+LIMA</span></span></p><p>Especialista de Contratos, Diretora Presidente da
+GCL – Consultoria e Gestão de Contratos, Conselheira da ANGC –
+Associação Nacional dos Gestores de Contratos; Membro das Associações
+Americanas: IACCM – The International Association for Contract and
+Commercial Management e NCMA – National Contract Management Association.
+Formada em Letras e Direito, pós-Graduada pela Universidade Federal de
+Brasília e Palestrante de Gestão de Contratos incluindo boas práticas,
+administração, acordo de nível de serviço (SLA) e gerenciamento de
+nível de serviço (SLM).</p><p><span style="font-size: 0.875rem;
+font-weight:
+initial;">_______________________________________________________________________</span></p><p><span
+style="font-size: 0.875rem;"><span style="font-weight:
+bolder;">INVESTIMENTO E FORMAS DE PAGAMENTO</span></span></p><p><span
+style="font-size: 0.875rem; font-weight: initial;">- Inscrição em 5
+módulos:&nbsp; R$ 1.198,00&nbsp; para inscritos até 31/03 , após
+R$1498,00</span></p><p>- Inscrição em 4 módulos:&nbsp; R$ 998,00&nbsp;
+para inscritos até 31/03, após&nbsp; R$ 1398,00</p><p>- Inscrição em 3
+módulos:&nbsp; R$ 898,00 para inscritos até 31/03, após R$
+1298,00&nbsp;</p><p>- Inscrição em 2 módulos:&nbsp; &nbsp;R$&nbsp;
+698,00&nbsp;<span style="font-weight: initial;">para inscritos até 31/03,
+após R$ 998,00</span></p><p>- Inscrição em 1 módulo:&nbsp; &nbsp;
+&nbsp;R$&nbsp; &nbsp;449,00 <span style="font-weight: initial;">para
+inscritos até 31/03, após R$ 598,00</span></p><p><br></p><p><span
+style="font-size: 0.875rem;"><span style="font-weight: bolder;">FORMA DE
+PAGAMENTO</span></span></p><p><span style="font-size: 0.875rem;
+font-weight: initial;">- Boleto a vista</span></p><p>- Cartão até
+10x</p><p><br></p><p><span style="font-weight: bolder;">OS TREINAMENTOS
+OFERECEM</span></p><p>- 1 Acesso a sala virtual por inscrição</p><p>-
+Apostilas em PDF</p><p>- Certificado</p><p>&nbsp;</p><p><span
+style="font-weight: bolder;">MAIORES INFORMAÇÕES E
+INSCRIÇÕES</span></p><p>_______________________________________________________</p><p><span
+style="font-size: 0.875rem; font-weight: initial;">Email:</span><span
+style="font-size: 0.875rem; font-weight: initial; white-space:
+pre;">		</span><span style="font-size: 0.875rem; font-weight:
+initial;">instrutoriabr@hotmail.com</span></p><p>Whats App:<span
+style="white-space: pre;">	</span>11 9 7546 1991</p><p><span
+style="font-size: 0.875rem; font-weight: initial;">Site:&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;www. instrutoria. com.br</span></p><p><br></p><a
+href="http://junoins.bhz.br/unsubscribe.php?M=11037288&C=b7b8a250a4b53c509abaf14ee7674c79&L=56&N=58">Quero
+me descadastrar dessa campanha</a><br/><img title=Novidade alt=Novidade
+height=42 width=242 src=http://junoins.bhz.br/transparente.png>
+
+<img
+src="http://junoins.bhz.br/open.php?M=11037288&L=56&N=58&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--7c80b955b92f5d19ff6c4c85b12f4168--
+

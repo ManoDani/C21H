@@ -1,0 +1,106 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id WMz8GuYeP2ErMwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Mon, 13 Sep 2021 06:50:30 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 13 Sep 2021 06:50:30 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mPibe-0003UF-9X
+	for contato@ipbtoledo.com.br; Mon, 13 Sep 2021 06:50:30 -0300
+X-Failed-Recipients: brplr_798@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <63821242d5ddbaa06fcd590eb5ef71ed@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1631526630-eximdsn-1697641408
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mPibe-0003UF-9X@server.mundotk.com.br>
+Date: Mon, 13 Sep 2021 06:50:30 -0300
+
+--1631526630-eximdsn-1697641408
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  brplr_798@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.115.26]
+    SMTP error from remote mail server after RCPT TO:<brplr_798@gmail.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser c9si5231832otu.195 - gsmtp
+
+--1631526630-eximdsn-1697641408
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;brplr_798@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser c9si5231832otu.195 - gsmtp
+
+--1631526630-eximdsn-1697641408
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=51182 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mPibd-0003U4-F8
+	for brplr_798@gmail.com; Mon, 13 Sep 2021 06:50:29 -0300
+Date: Mon, 13 Sep 2021 09:50:29 +0000
+To: =?UTF-8?Q?Jo=C3=A3o_Pedro_Cruz?= <brplr_798@gmail.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <63821242d5ddbaa06fcd590eb5ef71ed@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:João Pedro Cruz
+
+                    EMAIL: brplr_798@gmail.com
+
+                    TELEFONE: (14) 9.1234.5678
+                    
+
+
+                    CORPO DA MENSAGEM: Olá Ipbtoledo, tudo bem? Aqui é o João Pedro! 
+
+Ipbtoledo, Você já pensou em ter seu próprio produto digital de alta qualidade sem ter que investir milhares de reais e incontáveis horas na criação? 
+ 
+Nosso site é para você que precisa de MATERIAIS para "criar" seu produto digital com qualidade para seu negócio, sem perder tempo em criar do zero. 
+
+Ou um e-book para aumentar seu conhecimento em uma determinada área. 
+
+Obs.: Estamos sempre inserindo novos e-books. 
+
+Ipbtoledo, viste nosso site https://www.brplr.com/ e saiba mais! 
+
+Te vejo em nosso site! 
+João Pedro 
+
+
+--1631526630-eximdsn-1697641408--

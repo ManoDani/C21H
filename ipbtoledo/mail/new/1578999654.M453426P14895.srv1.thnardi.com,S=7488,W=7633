@@ -1,0 +1,145 @@
+Return-Path: <contato@agencidigital.com.br>
+Delivered-To: ipbtoledocom@srv1.thnardi.com
+Received: from srv1.thnardi.com
+	by srv1.thnardi.com with LMTP
+	id 3Fc7GWafHV4vOgAApOPejg
+	(envelope-from <contato@agencidigital.com.br>)
+	for <ipbtoledocom@srv1.thnardi.com>; Tue, 14 Jan 2020 08:00:54 -0300
+Return-path: <contato@agencidigital.com.br>
+Envelope-to: ipbtoledo@ipbtoledo.com.br
+Delivery-date: Tue, 14 Jan 2020 08:00:54 -0300
+Received: from juanki.agencidigital.com.br ([69.30.223.138]:34956)
+	by srv1.thnardi.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <contato@agencidigital.com.br>)
+	id 1irJwH-0003s0-9C
+	for ipbtoledo@ipbtoledo.com.br; Tue, 14 Jan 2020 08:00:54 -0300
+DKIM-Signature: v=1; a=rsa-sha256; d=agencidigital.com.br;
+	s=agencidigital.com.br; q=dns/txt;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=KjwcFpMnuV10IoP5Xpk5opK7VdqWmK5eC+w8rfkp2og=;
+	b=pEgIKb3Smu805c9IjVMZsMk0t4h5GL3Cmyqg+HykVNq
+	 99jNXlNJ07JD+qAzBsg9foUhRZ4PX3/r7AXDH/Jbrhg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=agencidigital.com.br;
+	s=dkim; t=1578999292;
+	bh=KjwcFpMnuV10IoP5Xpk5opK7VdqWmK5eC+w8rfkp2og=;
+	h=From:Reply-To:To:Subject:Date:From:Subject;
+	b=G5RI9wVpI0iAg357AppFeMQRu+4iiSpR2P9i/0Vt9gt4JLPojyE8XK/eaXbxpv2oq
+	 gV7e1ul3Fxsi6Om4CnhQHspqnsxoq0lIWM6wwoYRRlK+2tBZVsaOdL+6x4vvYR+0gn
+	 g1xpxgGYS20+ZdxHqvUSNtWxlF4EXJNh1DvJts38=
+Message-ID: <36C4E1E2011907331235560B1AC162@DESKTOP-4ON41CL>
+From: contato@agencidigital.com.br
+Reply-To: contato@riade.udi.br
+To: ipbtoledo@ipbtoledo.com.br
+Subject: PARCERIA/REVENDA
+Date: Sat, 25 Jan 2020 07:51:17 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="Mark=_918872546459436273938"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "srv1.thnardi.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  <h3><font face="MS UI Gothic" color="Red">ipbtoledo@ipbtoledo.com.br
+    , veja se interessa...</font></h3> Interessa ser nosso parceiro? Representante,
+    revenda ou indicador ou Unidade de Sistema de gestão. Um ERP UNICO,DIFENCIADO,EXCLUSIVO
+    e FLEXIVEL, onde a maioria dos ajustes ou relatórios são executados [...]
+    
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: agencidigital.com.br]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+--Mark=_918872546459436273938
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<h3><font face=3D"MS UI Gothic" color=3D"Red">ipbtoledo@ipbtoledo.com.b=
+r , veja se interessa...</font></h3> 
+ 
+Interessa ser nosso parceiro? Representante, revenda ou indicador ou Un=
+idade de Sistema de gest=E3o.
+Um ERP UNICO,DIFENCIADO,EXCLUSIVO e FLEXIVEL, onde a maioria dos ajuste=
+s ou relat=F3rios s=E3o executados pelo parceiro ou cliente sem program=
+a=E7=E3o, deixando assim o cliente satisfeito.
+ERP que trabalha junto com MERCADO LIVRE.
+Saiba detalhes ou pe=E7a p/remover.
+Obrigado.
+Tainara da Rosa
+05130253650(cybersul com br)
+ 
+ 
+
+--Mark=_918872546459436273938
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<h3><font face=3D"MS UI Gothic" color=3D"Red">ipbtoledo@ipbtoledo.com.b=
+r , veja se interessa...</font></h3><DIV class=3DWordSection1>
+<P class=3DMsoNormal style=3D"TEXT-AUTOSPACE: ; mso-layout-grid-align: =
+none"><SPAN style=3D"COLOR: black; mso-ascii-font-family: Calibri; mso-=
+hansi-font-family: Calibri; mso-bidi-font-family: Calibri"><?xml:namesp=
+ace prefix =3D "o" ns =3D "urn:schemas-microsoft-com:office:office" /><=
+o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+<P class=3DMsoNormal><SPAN style=3D'COLOR: black; mso-ascii-font-family=
+: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times=
+ New Roman"; mso-fareast-font-family: "Times New Roman"; mso-fareast-la=
+nguage: PT-BR'>Interessa ser nosso parceiro? Representante, revenda ou =
+indicador ou Unidade de Sistema de gest=E3o.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN style=3D'COLOR: black; mso-ascii-font-family=
+: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times=
+ New Roman"; mso-fareast-font-family: "Times New Roman"; mso-fareast-la=
+nguage: PT-BR'>Um ERP <B style=3D"mso-bidi-font-weight: normal">UNICO,D=
+IFENCIADO,EXCLUSIVO e FLEXIVEL</B>, onde a maioria dos ajustes ou relat=
+=F3rios s=E3o executados pelo parceiro ou cliente sem programa=E7=E3o, =
+deixando assim o cliente satisfeito.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN style=3D'COLOR: black; mso-ascii-font-family=
+: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times=
+ New Roman"; mso-fareast-font-family: "Times New Roman"; mso-fareast-la=
+nguage: PT-BR'>ERP que trabalha junto com MERCADO LIVRE.<o:p></o:p></SP=
+AN></P>
+<P class=3DMsoNormal><SPAN style=3D'COLOR: black; mso-ascii-font-family=
+: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times=
+ New Roman"; mso-fareast-font-family: "Times New Roman"; mso-fareast-la=
+nguage: PT-BR'>Saiba detalhes ou pe=E7a p/remover.<o:p></o:p></SPAN></P=
+>
+<P class=3DMsoNormal><SPAN style=3D'COLOR: black; mso-ascii-font-family=
+: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times=
+ New Roman"; mso-fareast-font-family: "Times New Roman"; mso-fareast-la=
+nguage: PT-BR'>Obrigado.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN style=3D'COLOR: black; mso-ascii-font-family=
+: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times=
+ New Roman"; mso-fareast-font-family: "Times New Roman"; mso-fareast-la=
+nguage: PT-BR'>Tainara da Rosa<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN style=3D'COLOR: black; mso-ascii-font-family=
+: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times=
+ New Roman"; mso-fareast-font-family: "Times New Roman"; mso-fareast-la=
+nguage: PT-BR'>05130253650(cybersul com br)<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><SPAN style=3D'COLOR: black; mso-ascii-font-family=
+: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times=
+ New Roman"; mso-fareast-font-family: "Times New Roman"; mso-fareast-la=
+nguage: PT-BR'>&nbsp;<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><o:p>&nbsp;</o:p></P></DIV>
+
+--Mark=_918872546459436273938--

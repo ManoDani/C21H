@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id EHBOLOt3NmHAcAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Mon, 06 Sep 2021 17:19:55 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 06 Sep 2021 17:19:55 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mNL5v-0008V9-Im
+	for contato@ipbtoledo.com.br; Mon, 06 Sep 2021 17:19:55 -0300
+X-Failed-Recipients: extrategiasdemarketing_629@divulgamais.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <ae7027ef1a18eab51413cd7a7ecf2db0@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1630959595-eximdsn-1864241453
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mNL5v-0008V9-Im@server.mundotk.com.br>
+Date: Mon, 06 Sep 2021 17:19:55 -0300
+
+--1630959595-eximdsn-1864241453
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  extrategiasdemarketing_629@divulgamais.com
+    retry timeout exceeded
+
+--1630959595-eximdsn-1864241453
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;extrategiasdemarketing_629@divulgamais.com
+Status: 5.0.0
+
+--1630959595-eximdsn-1864241453
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=35376 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mLt4a-0000nh-Oi
+	for extrategiasdemarketing_629@divulgamais.com; Thu, 02 Sep 2021 17:12:32 -0300
+Date: Thu, 2 Sep 2021 20:12:32 +0000
+To: =?UTF-8?Q?Ol=C3=A1_sou_Joao_Vitor_Pinto_Quero_lhe_perguntar_sobre_extrate?=
+ =?UTF-8?Q?gias_de__Marketing?= <extrategiasdemarketing_629@divulgamais.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <ae7027ef1a18eab51413cd7a7ecf2db0@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Olá sou Joao Vitor Pinto Quero lhe perguntar sobre extrategias de  Marketing
+
+                    EMAIL: extrategiasdemarketing_629@divulgamais.com
+
+                    TELEFONE: (43) 9812345678
+                    
+
+
+                    CORPO DA MENSAGEM: Ipbtoledo Conheça Agora "152 Melhores Estratégias de Marketing Digital".
+
+click no link  abaixo!
+https://bit.ly/extrategiasdemarketingdigital
+
+Ou Link abaixo.
+ 
+
+
+Não quero extrategias de marketing 
+http://www.sairdalista.site?u=http://www.ipbtoledo.com.br&c=fd00678c497c2C895A5F
+
+
+--1630959595-eximdsn-1864241453--

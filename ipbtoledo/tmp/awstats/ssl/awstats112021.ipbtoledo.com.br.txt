@@ -1,0 +1,257 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202111 will be lost/reset.
+# Last config file used to build this data file was /home/ipbtoledocom/tmp/awstats/ssl/awstats.ipbtoledo.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2703                
+POS_VISITOR 3411                
+POS_DAY 3708                
+POS_DOMAIN 3856                
+POS_LOGIN 4121                
+POS_ROBOT 4276                
+POS_WORMS 4642                
+POS_EMAILSENDER 4773                
+POS_EMAILRECEIVER 4916                
+POS_SESSION 4992                
+POS_SIDER 5148                
+POS_FILETYPES 5371                
+POS_DOWNLOADS 5557                
+POS_OS 5605                
+POS_BROWSER 5717                
+POS_SCREENSIZE 5843                
+POS_UNKNOWNREFERER 5917                
+POS_UNKNOWNREFERERBROWSER 6024                
+POS_ORIGIN 6126                
+POS_SEREFERRALS 6257                
+POS_PAGEREFS 6420                
+POS_SEARCHWORDS 6568                
+POS_KEYWORDS 6720                
+POS_MISC 2367                
+POS_ERRORS 6779                
+POS_CLUSTER 3977                
+POS_SIDER_404 6875                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211101090532 396 89215 10251541489802
+FirstTime 20211101013320
+LastTime 20211101080935
+LastUpdate 20211101092939 396 0 396 0 0
+TotalVisits 4                   
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 6 9 24328
+1 5 5 36787 12 14 28872
+2 1 1 4134 6 8 21846
+3 0 0 0 7 8 25686
+4 0 0 0 7 10 26137
+5 0 0 0 7 8 24585
+6 0 0 0 8 11 28991
+7 0 0 0 7 8 22350
+8 3 17 6362416 4 5 14512
+9 0 0 0 5 7 20318
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+2.56.59.120 4 4 13116 20211101013357
+187.19.101.126 3 17 6362416 20211101080935 20211101080933 /fonts/bootstrap/glyphicons-halflings-regular.woff2
+34.122.177.182 1 1 4134 20211101025110
+37.113.11.121 1 1 23671 20211101015435
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20211101 9 23 6403337 4
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+il 4 4 13116
+br 3 17 6362416
+ru 1 1 23671
+us 1 1 4134
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 30 108480 20211101090310 0
+SemrushBot/ 15 53787 20211101090215 0
+Googlebot/ 14 50033 20211101090532 0
+bingbot/ 4 13826 20211101074631 0
+AhrefsBot/ 2 7365 20211101080221 0
+facebookexternalhit/ 1 0 20211101073005 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/users/signin 4 13116 1 1
+/ 4 36073 3 2
+/fonts/bootstrap/glyphicons-halflings-regular.woff2 1 18028 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+html 4 36073 0 0
+jpg 1 1980145 0 0
+css 1 23674 0 0
+Unknown 4 13116 0 0
+png 8 4324261 0 0
+svg 4 8040 0 0
+woff2 1 18028 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 1 1
+win10 17 3
+win8.1 1 1
+macosx15 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome95.0.4638.54 17 3
+Unknown 1 1
+chrome75.0.3770.100 1 1
+firefox77.0 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Ruby 20211101025110
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Ruby 20211101025110
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 6 6
+From1 0 0
+From2 2 2
+From3 0 0
+From4 1 15
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 1 4134
+302 21 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404

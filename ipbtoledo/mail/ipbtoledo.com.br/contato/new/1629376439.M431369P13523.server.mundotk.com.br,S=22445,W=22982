@@ -1,0 +1,537 @@
+Return-Path: <saude-gerente-s7@suportecotacaosaude.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id IH/KGLdPHmHTNAAA85qOww
+	(envelope-from <saude-gerente-s7@suportecotacaosaude.com.br>)
+	for <contato@ipbtoledo.com.br>; Thu, 19 Aug 2021 09:33:59 -0300
+Return-path: <saude-gerente-s7@suportecotacaosaude.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 19 Aug 2021 09:33:59 -0300
+Received: from cloud6780111.suportecotacaosaude.com.br ([45.144.214.22]:56334)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <saude-gerente-s7@suportecotacaosaude.com.br>)
+	id 1mGhF3-0003jF-0V
+	for contato@ipbtoledo.com.br; Thu, 19 Aug 2021 09:33:59 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=jooait; d=suportecotacaosaude.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=saude-gerente-s7@suportecotacaosaude.com.br;
+ bh=woNwm6Kzt8adbvqnfw0k6Gi+qLY=;
+ b=WHbi68ypB4oyQjBRfgd0oH3jLwD2RCr7e51oZoWUJx9K/gWNmo0gkiBBNkYSjo5Us0hs79BwnTMn
+   mplYbKXgdFigKcP3CcK3VVmw/1DdIVBMy1lhUvTeqdxybHgUykl5i8GQCIkDguEzd0Oo6GJ5LiKJ
+   mpAWfqn/4TamvrINe3E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=jooait; d=suportecotacaosaude.com.br;
+ b=nvCp8JWQ+CWodsPQEnUDKmUiloeM3tWp8dxBgCTFm55975udi6gYiRlnsZ7YoZHI4MXR4bBvagqB
+   FyEkd0SQhZt9NTG+E8ivLf3pDlH8HmVs0Y0rlZUnakCW1jIyIqT+eJMKuyvGQXev61LNsNgygLCI
+   pEvHkbDUKYjtXP5qcLY=;
+Date: Thu, 19 Aug 2021 09:33:05 -0300
+To: contato@ipbtoledo.com.br
+From: =?iso-8859-1?Q?Bela_Vit=F3ria_=7C_Cota=E7=E3o_Notredame?= <saude-gerente-s7@suportecotacaosaude.com.br>
+Subject: =?iso-8859-1?Q?Insatisfeito_com_a_rede_e/ou_valores_do_seu_conv=EAnio_m?=
+ =?iso-8859-1?Q?=E9dico=3F?=
+Message-ID: <g5f4i4s41426f453f4w5g5t4w5j4i544l4p274o4t534i5x5@suportecotacaosaude.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_60LH6o1VXByS7tTBFkO77xiHBWaPnQwfgpexl6CqlqE"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Olá, como vai? Insatisfeito com a rede e/ou valores do seu
+    convênio médico ou está sem convênio nesse momento? Nós estamos há
+   mais de 10 anos no mercado de seguros ajudando famílias e empresas na escolha
+    do melhor seguro saúde (custo x benefício), conforme o perfil e o momento
+    de cada cliente. 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: buscaplanos.net]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image
+                             area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+--b1_60LH6o1VXByS7tTBFkO77xiHBWaPnQwfgpexl6CqlqE
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ol=C3=A1, como vai?=0A=0A=0AInsatisfeito com a rede e/ou valores do seu con=
+v=C3=AAnio m=C3=A9dico ou est=C3=A1 sem conv=C3=AAnio nesse momento?=0A=0A=
+=0AN=C3=B3s estamos h=C3=A1 mais de 10 anos no mercado de seguros ajudando =
+fam=C3=ADlias e empresas na escolha do melhor seguro sa=C3=BAde (custo x be=
+nef=C3=ADcio), conforme o perfil e o momento de cada cliente.=0A=0A=0ATraba=
+lhamos com as melhores, e as principais seguradoras do pa=C3=ADs. Algumas d=
+elas est=C3=A3o abaixo:=0A=0A=0A=0A[](http://ec2-18-229-150-10.sa-east-1.co=
+mpute.amazonaws.com/?qs=3D24r2x253s2c4p2t2x2e42473k5m4r5k474n4j4d3p5x5i5z5h=
+4e4b494m4v2j5k4h4t264p42316m4m4s5i4o4d434x5k42494h5t5s4i5s4h554s264j4m424j5=
+y5&lin=3D11480)=0A=0A=0A=0AAgora voc=C3=AA pode cotar seu plano de sa=C3=
+=BAde com todas as seguradoras em um =C3=BAnico lugar, e PARA TODO BRASIL, =
+sem compromisso e rapidinho. Conseguimos at=C3=A9 40% de economia se voc=
+=C3=AA usar seu CNPJ.=0A=0A=0A=0A[](http://ec2-18-229-150-10.sa-east-1.comp=
+ute.amazonaws.com/?qs=3D24r2x253s2c4p2t2x2e42473k5m4r5k474n4j4d3p5x5i5z5h4e=
+4b494m4v2j5k4h4t264p42316m4m4s5i4o4d434x5k42494h5t5s4i5s4h554s264j4m424j5y5=
+&lin=3D11481)=0A=0A=0A=0AConte com o nosso time. Com certeza voc=C3=AA fica=
+r=C3=A1 muito satisfeito(a).=0A=0A=0A=0A[QUERO UMA COTA=C3=87=C3=83O AGORA=
+=0Asem compromisso](http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.co=
+m/?qs=3D24r2x253s2c4p2t2x2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t=
+264p42316m4m4s5i4o4d434x5k42494h5t5s4i5s4h554s264j4m424j5y5&lin=3D11480)=0A=
+=0A=0A=0A=0A=0AAcesse [buscaplanos.net](http://ec2-18-229-150-10.sa-east-1.=
+compute.amazonaws.com/?qs=3D24r2x253s2c4p2t2x2e42473k5m4r5k474n4j4d3p5x5i5z=
+5h4e4b494m4v2j5k4h4t264p42316m4m4s5i4o4d434x5k42494h5t5s4i5s4h554s264j4m424=
+j5y5&lin=3D11480)=0A=0A=0AFale com um dos nossos consultores!=0A=0ASe desej=
+a n=C3=A3o receber mais nossas newsletters, [cancele o recebimento.](http:/=
+/ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qr=3D24r2x253s2c4p2t2x2=
+e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p42316m4m4s5i4o4d434x5k=
+42494h5t5s4i5s4h554s264j4m424j5y5)
+--b1_60LH6o1VXByS7tTBFkO77xiHBWaPnQwfgpexl6CqlqE
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" >
+<head>
+=09<title></title>
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"=
+ /><meta name=3D"viewport" content=3D"width=3Ddevice-width" /><!--[if !mso]=
+><!----><!--<![endif]-->
+=09<style type=3D"text/css" >table { border-spacing: 0 !important; border-c=
+ollapse: collapse !important; }
+
+
+
+/*# sourceMappingURL=3Dnotinline.css.map */
+
+
+
+      @media screen and (max-width: 575px) { .he-col { width: 100% !importa=
+nt; }
+
+  table { display: table; }
+
+  div.he-col { display: inline-block !important; }
+
+  div.he-col.he-three, div.he-col.he-two, div.he-col.he-two-dot-four { widt=
+h: 50% !important; }
+
+  div.he-col.he-two-dot-four:last-child { width: 100% !important; }
+
+  div.he-col.he-two-dot-four.he-last { width: 100% !important; }
+
+  div.he-col table.he-image td { padding-left: 0 !important; padding-right:=
+ 0 !important; } }
+
+
+
+/*# sourceMappingURL=3Dmedia.css.map */
+
+
+
+    .style1 {
+=09font-family: arial, helvetica, sans-serif;
+=09font-size: 18px;
+=09color: #FFFFFF;
+}
+=09</style>
+=09<!--[if gte mso 12]>
+
+    <style>
+
+      .mso-right { padding-left: 20px; }
+
+
+
+.he-wrapper { margin: 0; }
+
+
+
+body .button table td { padding: 7px 0 !important; }
+
+
+
+/*# sourceMappingURL=3Doutlook.css.map */
+
+
+
+    </style><![endif]-->
+</head>
+<body style=3D"height: 100% !important; width: 100% !important; margin: 0 !=
+important; padding: 0 !important;" >
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100=
+%;" >
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" bgcolor=3D"#f1f5f8" style=3D"border-bottom: 0=
+px solid #f1f5f8 !important; border-top: 0px solid #f1f5f8 !important; padd=
+ing: 0px; margin: 0px; display: block;" ><!--[if (gte mso 9)|(IE)]>
+
+    <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"600" >
+
+      <tr>
+
+        <td align=3D"center" valign=3D"top" width=3D"600" ><![endif]-->
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"w=
+rapper email-header" style=3D"max-width: 600px; width: 100%;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" atr=3D"" class=3D"side-border" style=
+=3D"padding: 25px 0px 25px 0px;" valign=3D"top" >
+=09=09=09=09=09=09<p style=3D"margin: 0; text-align: center;" >&nbsp;</p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!--[if (gte mso 9)|(IE)]>
+
+        </td>
+
+      </tr>
+
+    </table><![endif]--></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" bgcolor=3D"#f1f5f8" ><!--[if (gte mso 9)|(IE)=
+]>
+
+    <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"600" >
+
+      <tr>
+
+        <td align=3D"center" valign=3D"top" width=3D"600" ><![endif]-->
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"w=
+rapper body" style=3D"max-width: 600px; width: 100%;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" atr=3D"" bgcolor=3D"C9D5EB" class=3D=
+"side-border" style=3D"padding: 35px 0px 20px 0px; border-bottom: 0px solid=
+ #0b4d8f !important; border-top: 0px solid #0b4d8f !important;" valign=3D"t=
+op" ><!--[if (gte mso 9)|(IE)]>
+
+  <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"600" >
+
+    <tr>
+
+      <td align=3D"left" valign=3D"top" width=3D"600" ><![endif]-->
+=09=09=09=09=09=09<div class=3D"he-wrapper he-col he-twelve he-last" style=
+=3D"margin: 0; display: table-cell; vertical-align: top; width: 600px;" >
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"he-wrapper he-col he-twelve" style=3D"margin: 0px;=
+ width: 100%;" >
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" >
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"wysiwyg" style=3D"width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"line-height: 1 !important;=
+ padding: 15px 15px 15px 15px; font-size: 14px; font-family: arial,helvetic=
+a,sans-serif;" >
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" ><span style=3D"color: #052F83;" ><sp=
+an style=3D"font-size: 28px;" ><strong><span style=3D"font-family: arial,he=
+lvetica,sans-serif;" >Ol&aacute;, como vai?</span></strong></span></span></=
+p>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"wysiwyg" style=3D"width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"line-height: 1.5 !importan=
+t; padding: 15px 15px 0px 15px; font-size: 14px; font-family: arial,helveti=
+ca,sans-serif;" >
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" ><span style=3D"color: #052F83;" ><sp=
+an style=3D"font-size: 18px;" ><span style=3D"font-family: arial,helvetica,=
+sans-serif;" >Insatisfeito com a rede e/ou valores do seu <strong>conv&ecir=
+c;nio m&eacute;dico </strong>ou <strong>est&aacute; sem conv&ecirc;nio ness=
+e momento?</strong></span></span></span></p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" ><br />
+=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #052F83;" ><span =
+style=3D"font-size: 18px;" ><span style=3D"font-family: arial,helvetica,san=
+s-serif;" >N&oacute;s estamos h&aacute; mais de 10 anos no mercado de segur=
+os ajudando fam&iacute;lias e empresas na escolha do melhor seguro sa&uacut=
+e;de <strong>(custo x benef&iacute;cio)</strong>, conforme o perfil e o mom=
+ento de cada cliente.</span></span></span></p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" ><br />
+=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"color: #052F83;" ><span =
+style=3D"font-size: 18px;" ><span style=3D"font-family: arial,helvetica,san=
+s-serif;" ><strong>Trabalhamos com as melhores, e as principais seguradoras=
+ do pa&iacute;s. Algumas delas est&atilde;o abaixo:</strong></span></span><=
+/span></p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p class=3D"style1" style=3D"margin: 0;=
+ line-height: inherit !important; text-align: center;" >&nbsp;</p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p class=3D"style1" style=3D"margin: 0;=
+ line-height: inherit !important; text-align: center;" ><span class=3D"he-w=
+rapper he-col he-twelve he-last" style=3D"margin: 0; display: table-cell; v=
+ertical-align: top; width: 600px;" ><span class=3D"style1" style=3D"margin:=
+ 0; line-height: inherit !important; text-align: center;" ><a href=3D"http:=
+//ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qs=3D24r2x253s2c4p2t2x=
+2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p42316m4m4s5i4o4d434x5=
+k42494h5t5s4i5s4h554s264j4m424j5y5&lin=3D11480" target=3D"_blank" ><img alt=
+=3D"todas as operadoras, as melhores cota=E7=F5es, tudo dentro do seu perfi=
+l, para melhor lhe atender. confira" border=3D"0" height=3D"260" src=3D"htt=
+ps://amilsaude.s3.amazonaws.com/clW2crk.jpg" width=3D"600" /></a></span></s=
+pan></p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" >&nbsp;</p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" ><span style=3D"color: #052F83;" ><sp=
+an style=3D"font-size: 18px;" ><span style=3D"font-family: arial,helvetica,=
+sans-serif;" >Agora voc&ecirc; pode cotar seu <strong>plano de sa&uacute;de=
+</strong> com todas as seguradoras em um &uacute;nico lugar, e <strong>PARA=
+ TODO BRASIL</strong>, sem compromisso e rapidinho. Conseguimos at&eacute; =
+<strong>40% de economia</strong> se voc&ecirc; usar seu <strong>CNPJ</stron=
+g>.</span></span></span></p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" >&nbsp;</p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" ><a href=3D"http://ec2-18-229-150-10.=
+sa-east-1.compute.amazonaws.com/?qs=3D24r2x253s2c4p2t2x2e42473k5m4r5k474n4j=
+4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p42316m4m4s5i4o4d434x5k42494h5t5s4i5s4h554=
+s264j4m424j5y5&lin=3D11481" target=3D"_blank" ><img alt=3D"cotacao pelo wha=
+tsapp" border=3D"0" height=3D"87" name=3D"" src=3D"https://brasaude.s3.amaz=
+onaws.com/download-whatsapp.png" width=3D"284" /></a></p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" >&nbsp;</p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inh=
+erit !important; text-align: center;" ><span style=3D"color: #052F83;" ><sp=
+an style=3D"font-size: 18px;" ><span style=3D"font-family: arial,helvetica,=
+sans-serif;" ><strong>Conte com o nosso time. Com certeza voc&ecirc; ficar&=
+aacute; muito satisfeito(a).</strong></span></span></span><br />
+=09=09=09=09=09=09=09=09=09=09=09=09&nbsp;</p>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"button" style=3D"width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"overflow:=
+ hidden; text-align: center; padding: 30px 0px 40px 0px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" style=3D"width: 75%; display: inline-tabl=
+e; border-collapse: separate;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding: 7px 0 !i=
+mportant; background-color: #FF7C14; border: 1px transparent solid; border-=
+radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; text-alig=
+n: center; border-collapse: separate; display: block;" valign=3D"middle" ><=
+a href=3D"http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qs=3D24=
+r2x253s2c4p2t2x2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p42316m=
+4m4s5i4o4d434x5k42494h5t5s4i5s4h554s264j4m424j5y5&lin=3D11480" style=3D"pad=
+ding: 7px 0 !important; display: block; color: #fff; text-decoration: none;=
+ text-align: center; font-family: arial; font-weight: bold; font-size: 20px=
+;" target=3D"_blank" >QUERO UMA COTA&Ccedil;&Atilde;O AGORA<br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09sem compromisso</a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09<!--[if (gte mso 9)|(IE)]>
+
+      </td>
+
+    </tr>
+
+  </table><![endif]--></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!--[if (gte mso 9)|(IE)]>
+
+        </td>
+
+      </tr>
+
+    </table><![endif]--></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" bgcolor=3D"#f1f5f8" ><!--[if (gte mso 9)|(IE)=
+]>
+
+    <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"600" >
+
+      <tr>
+
+        <td align=3D"center" valign=3D"top" width=3D"600" ><![endif]-->
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"w=
+rapper body" style=3D"max-width: 600px; width: 100%;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" atr=3D"" class=3D"side-border" style=
+=3D"padding: 35px 0px 20px 0px; border-bottom: 0px solid #e8ecf0 !important=
+; border-top: 0px solid #e8ecf0 !important;" valign=3D"top" ><!--[if (gte m=
+so 9)|(IE)]>
+
+  <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"600" >
+
+    <tr>
+
+      <td align=3D"left" valign=3D"top" width=3D"600" ><![endif]--><!--[if =
+(gte mso 9)|(IE)]>
+
+      </td>
+
+    </tr>
+
+  </table><![endif]--></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!--[if (gte mso 9)|(IE)]>
+
+        </td>
+
+      </tr>
+
+    </table><![endif]--></td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" bgcolor=3D"#f1f5f8" >
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"w=
+rapper body" style=3D"max-width: 600px; width: 100%;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" atr=3D"" bgcolor=3D"#f1f5f8" class=
+=3D"side-border" style=3D"padding: 0px 0px 0px 0px; border-bottom: 0px soli=
+d #ffffff !important; border-top: 0px solid #ffffff !important;" valign=3D"=
+top" ><!--[if (gte mso 9)|(IE)]>
+
+  <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"600" >
+
+    <tr>
+
+      <td align=3D"left" valign=3D"top" width=3D"600" ><![endif]-->
+=09=09=09=09=09=09<div class=3D"he-wrapper he-col he-twelve he-last" style=
+=3D"margin: 0; display: table-cell; vertical-align: top; width: 600px;" >
+=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inherit !important; t=
+ext-align: center;" ><span style=3D"color: #505050;" ><span style=3D"font-s=
+ize: 22px;" ><span style=3D"font-family: arial,helvetica,sans-serif;" >Aces=
+se <a href=3D"http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qs=
+=3D24r2x253s2c4p2t2x2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4=
+2316m4m4s5i4o4d434x5k42494h5t5s4i5s4h554s264j4m424j5y5&lin=3D11480" style=
+=3D"text-decoration: none;" target=3D"_blank" >buscaplanos.net</a></span></=
+span></span><br />
+=09=09=09=09=09=09&nbsp;</p>
+
+=09=09=09=09=09=09<p style=3D"margin: 0; line-height: inherit !important; t=
+ext-align: center;" ><span style=3D"color: #505050;" ><span style=3D"font-s=
+ize: 22px;" ><span style=3D"font-family: arial,helvetica,sans-serif;" >Fale=
+ com um dos nossos consultores!</span></span></span></p>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09&nbsp;
+
+=09=09=09<p>Se deseja n&atilde;o receber mais nossas newsletters, <a href=
+=3D"http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qr=3D24r2x253=
+s2c4p2t2x2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p42316m4m4s5i=
+4o4d434x5k42494h5t5s4i5s4h554s264j4m424j5y5" target=3D"_blank" >cancele o r=
+ecebimento.</a></p>
+=09=09=09<br />
+=09=09=09&nbsp;</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+
+      </td>
+
+    </tr>
+
+  </table><![endif]--><!--[if (gte mso 9)|(IE)]>
+
+        </td>
+
+      </tr>
+
+    </table><![endif]--><!--[if (gte mso 9)|(IE)]>
+
+    <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"600" >
+
+      <tr>
+
+        <td align=3D"center" valign=3D"top" width=3D"600" ><![endif]--><!--=
+[if (gte mso 9)|(IE)]>
+
+        </td>
+
+      </tr>
+
+    </table><![endif]--><!--[if (gte mso 9)|(IE)]>
+
+    <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" width=3D"600" >
+
+      <tr>
+
+        <td align=3D"center" valign=3D"top" width=3D"600" ><![endif]--><!--=
+[if (gte mso 9)|(IE)]>
+
+        </td>
+
+      </tr>
+
+    </table><![endif]--><img src=3D"http://ec2-18-229-150-10.sa-east-1.comp=
+ute.amazonaws.com/?qo=3D24r2x253s2c4p2t2x2e42473k5m4r5k474n4j4d3p5x5i5z5h4e=
+4b494m4v2j5k4h4t264p42316m4m4s5i4o4d434x5k42494h5t5s4i5s4h554s264j4m424j5y5=
+" alt=3D"" width=3D1 height=3D1 style=3D"border:0 none;display:block;height=
+:auto;line-height:100%;outline:none;-webkit-text-decoration:none;text-decor=
+ation:none"></body>
+</html>
+
+
+--b1_60LH6o1VXByS7tTBFkO77xiHBWaPnQwfgpexl6CqlqE--
+

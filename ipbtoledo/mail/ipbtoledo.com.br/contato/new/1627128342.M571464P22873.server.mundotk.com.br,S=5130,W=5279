@@ -1,0 +1,149 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id KJ1zIRYC/GBZWQAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Sat, 24 Jul 2021 09:05:42 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sat, 24 Jul 2021 09:05:42 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1m7GPW-0006pT-DS
+	for contato@ipbtoledo.com.br; Sat, 24 Jul 2021 09:05:42 -0300
+X-Failed-Recipients: naorespoda.marketing888@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <b6334284e78278d0483bf0b0dd41cb85@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1627128342-eximdsn-353317059
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1m7GPW-0006pT-DS@server.mundotk.com.br>
+Date: Sat, 24 Jul 2021 09:05:42 -0300
+
+--1627128342-eximdsn-353317059
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  naorespoda.marketing888@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.113.27]
+    SMTP error from remote mail server after RCPT TO:<naorespoda.marketing888@gmail.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d7si25274738otk.51 - gsmtp
+
+--1627128342-eximdsn-353317059
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;naorespoda.marketing888@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser d7si25274738otk.51 - gsmtp
+
+--1627128342-eximdsn-353317059
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=53668 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1m7GPW-0006pK-Dt
+	for naorespoda.marketing888@gmail.com; Sat, 24 Jul 2021 09:05:42 -0300
+Date: Sat, 24 Jul 2021 12:05:41 +0000
+To: TOTAL CONSULTAS <naorespoda.marketing888@gmail.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <b6334284e78278d0483bf0b0dd41cb85@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:TOTAL CONSULTAS
+
+                    EMAIL: naorespoda.marketing888@gmail.com
+
+                    TELEFONE: (11) 4329-0000
+                    
+
+
+                    CORPO DA MENSAGEM: Ola !   Ipbtoledo
+
+Consultas Cadastrais de CPF/CNPJ   Online, sob medida para sua empresa.    Sem clausulas de fidelidade
+
+***** SISTEMA PRE-PAGO   e   SISTEMA  PACOTES/PLANOS-POS PAGOS ******  
+*
+*** MAIOR PORTFOLIO DE CONSULTAS CADASTRAIS DO MERCADO. 
+
+****** Planos/Pacotes a partir de R$59,90.
+
+*****  Pacote exclusivo de Retricoes Financeiras R$119,90. Todas as pendencias detalhadas, com valor por consulta a partir de R$10,00.  
+
+*** 
+Score de credito gratuito em todas as consultas completas de CPF.
+*
+Ideal para todas as empresas que realizam consultas de restricoes, dividas, débitos, negativacoes, pendencias financeiras a nivel nacional.
+.   
+
+**** O QUE E A CONSULTA DE RESTRICOES COMPLETAS ?    ******
+*
+Consulta atraves do numero do CPF/CNPJ, as Pendencias financeiras e os Protestos a nivel Nacional (todas UFs), podendo ou Nao ser adicionado o Score de Credito.  
+
+O sistema também apresenta: 
+
+- Sintese cadastral 
+- Registro de débitos
+- Dividas vencidas
+- Cheques sem fundos (CCF)
+- Cheques - Todas ocorrencias. 
+- Restricoes comerciais dos segmentos do comercio, industria, servicos e bancos.
+- Detalhamento das pendencias e protestos a nivel nacional por UF Regionalizados.   
+- Sintese cadastral 
+- Alerta de Documentos Roubados  
+- Status do CPF/CNPJ na Receita Federal 
+*
+
+********  Conheca todos os Planos/Pacotes  *******
+*
+- Consultas de Faturamento Anual de Empresas.
+ 
+
+$$$$    REDUZA OS CUSTOS DE SUA EMPRESA .  
+
+***** ACESSE O SITE !   WWW.TOTALCONSULTAS.COM.BR  *****
+
+***** Contrate e Resolva tudo pelos Canais Digitais  *****
+ 
+
+Atenciosamente
+
+Pedro Miguel Herman. 
+
+www.totalconsultas.com.br
+
+*
+
+codigo = ZHh8eZT2
+
+
+--1627128342-eximdsn-353317059--

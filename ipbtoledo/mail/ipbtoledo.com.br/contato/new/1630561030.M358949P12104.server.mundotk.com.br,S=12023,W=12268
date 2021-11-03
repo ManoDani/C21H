@@ -1,0 +1,245 @@
+Return-Path: <omintsaude-y9s@oferecocotacaosaude.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id YC7LFAZjMGFILwAA85qOww
+	(envelope-from <omintsaude-y9s@oferecocotacaosaude.com.br>)
+	for <contato@ipbtoledo.com.br>; Thu, 02 Sep 2021 02:37:10 -0300
+Return-path: <omintsaude-y9s@oferecocotacaosaude.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 02 Sep 2021 02:37:10 -0300
+Received: from cloud274042.oferecocotacaosaude.com.br ([45.82.13.105]:52138)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <omintsaude-y9s@oferecocotacaosaude.com.br>)
+	id 1mLfPN-0003HM-KJ
+	for contato@ipbtoledo.com.br; Thu, 02 Sep 2021 02:37:10 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=adgriv; d=oferecocotacaosaude.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=omintsaude-y9s@oferecocotacaosaude.com.br;
+ bh=CI5wX8ytYtKi1DJ7v94uQOcuvRQ=;
+ b=Fl22XPJr+a0/i3Xnt+NmEVmfdFCJMg4xn9XXKCC6uJvTllB43XJSjkSprIH+xqaKDxlEE/VY7THu
+   Fhv9tTTXFhnx/Ih4U6EjTRQ5qTwHqBu70FM6++o5fs/ELgt2WmWz3r0Y5GTkCzSDxkgkELYKiy0i
+   FVoj6+rAV0OrNP0ZZRI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=adgriv; d=oferecocotacaosaude.com.br;
+ b=thA46wRCBQ0fKk08O4MwepxfM+ynQxY8dwXI7ORVrE+aauYmttBJAO2KYhzns2e0Y4bQ5Ax7MVIt
+   o5UgzymYtjxG6AXjv508YW6vuDOmzo0lGfScfe3+n3Yhmt/Xl+ZtY4JZq+dpX41/3Eam9QhVBM+l
+   z4C/GusB5W3j+J8we0c=;
+Date: Thu, 2 Sep 2021 02:36:24 -0300
+To: contato@ipbtoledo.com.br
+From: "Gleicyane Manuela | Consultor(a) Seguros" <omintsaude-y9s@oferecocotacaosaude.com.br>
+Subject: =?iso-8859-1?Q?Fwd:_[Omint_Sa=FAde]_Saiba_mais_sobre_nossos_planos?=
+Message-ID: <g5f4i4s41426f453f4w5g5t4w5j4i544l4p274o4t534i5x5@oferecocotacaosaude.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_073qmzhzq8f1HGkUmw4ZgOhzPWRycvDVEEqEFO0rQY"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  [](http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qs=24r2y2w2x2d4s2p2w2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423x574b4v55474n434x5k42494h5t5s4i5s4h554s264j4m424j5y5&lin=11435
+    [...] 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: oferecocotacaosaude.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image
+                             area
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+--b1_073qmzhzq8f1HGkUmw4ZgOhzPWRycvDVEEqEFO0rQY
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+[](http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qs=3D24r2y2w2x=
+2d4s2p2w2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423x574b4v554=
+74n434x5k42494h5t5s4i5s4h554s264j4m424j5y5&lin=3D11435)=0A=0A=0A=0A=0AOmint=
+, o plano de sa=C3=BAde mais completo do Brasil.=0A=0A=0A=0ACoberturas dife=
+renciadas. Excel=C3=AAncia em cada detalhe: da melhor rede credenciada do B=
+rasil ao reembolso de valores expressivos.=0A=0A*Valores reduzidos em at=
+=C3=A9 40% para CNPJ, e planos =E0 partir de 2 vidas, confira.=0A=0A=0ATenh=
+a acesso aos melhores hospitais do Brasil, com cobertura nacional:=0A=0A- H=
+ospital S=C3=ADrio Liban=C3=AAs;=0A- Hospital Albert Einstein;=0A- Fleury;=
+=0A- Rede D'or;=0A- Rede S=C3=A3o Luiz;=0A- E v=C3=A1rios outros.=0A=0A=0A[=
+](http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qs=3D24r2y2w2x2=
+d4s2p2w2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423x574b4v5547=
+4n434x5k42494h5t5s4i5s4h554s264j4m424j5y5&lin=3D11468)=0A=0APara fazer uma =
+cota=C3=A7=C3=A3o =C3=A9 rapidinho, dura apenas 20 segundos.=0A=0A[quero so=
+licitar cota=C3=A7=C3=A3o OMINT=0A](http://ec2-18-229-150-10.sa-east-1.comp=
+ute.amazonaws.com/?qs=3D24r2y2w2x2d4s2p2w2e42473k5m4r5k474n4j4d3p5x5i5z5h4e=
+4b494m4v2j5k4h4t264p423x574b4v55474n434x5k42494h5t5s4i5s4h554s264j4m424j5y5=
+&lin=3D11435)=0A=0A=0A=0A=C2=A9 2014 - 2021 - Simulador de Planos de Sa=
+=C3=BAde. Todos os direitos reservados.=0A=0A=0A=0ANewsletter enviada para =
+contato@ipbtoledo.com.br - 02:36:24=0A=0AVoc=C3=AA recebeu este e-mail por =
+constar em uma lista de nossos parceiros desde 02/09/2021=0A=0ASe desejar p=
+or n=C3=A3o receber mais nossas newsletters, [cancele o recebimento.](http:=
+//ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qr=3D24r2y2w2x2d4s2p2w=
+2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423x574b4v55474n434x5=
+k42494h5t5s4i5s4h554s264j4m424j5y5)
+--b1_073qmzhzq8f1HGkUmw4ZgOhzPWRycvDVEEqEFO0rQY
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html>
+<html lang=3D"pt-br" >
+<head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8" >
+<title></title>
+=09<style type=3D"text/css" >
+=09body{margin:0;padding:0;}
+    </style>
+</head>
+<body>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width: 600px;" >
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"right" height=3D"60" >
+=09=09=09<div align=3D"center" ><br />
+=09=09=09<br />
+=09=09=09<a href=3D"http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.co=
+m/?qs=3D24r2y2w2x2d4s2p2w2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t=
+264p423x574b4v55474n434x5k42494h5t5s4i5s4h554s264j4m424j5y5&lin=3D11435" ta=
+rget=3D"_blank" ><img alt=3D"Omint_os melhores planos" border=3D"0" height=
+=3D"308" src=3D"https://amilsaude.s3.amazonaws.com/omint.jpg" width=3D"573"=
+ /></a></div>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"width: 550px;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=3D"font: normal 24px/28px 'Arial',sans-serif;" =
+>
+=09=09=09=09=09=09<p align=3D"center" style=3D"line-height: 1.0;" ><br />
+=09=09=09=09=09=09<span style=3D"color: #102A46;" ><strong>&nbsp;</strong><=
+/span><span style=3D"color: #102A46;" ><strong>
+
+=09
+
+
+<p><span style=3D"color: #102A46;"><strong>Omint, o plano de sa&uacute;de m=
+ais completo do Brasil.</strong></span></p>
+
+
+</strong></span></p>
+
+=09=09=09=09=09=09<p style=3D"line-height: 1.2; font: normal 20px/28px 'Ari=
+al',sans-serif;" ><br />
+=09=09=09=09=09=09Coberturas diferenciadas. Excel&ecirc;ncia em cada detalh=
+e: da melhor rede credenciada do Brasil ao reembolso de valores expressivos=
+.</p>
+
+=09=09=09=09=09=09<p style=3D"line-height: 1.2; color: #eb6a18; font: norma=
+l 20px/28px 'Arial',sans-serif;" ><strong>*Valores reduzidos em at&eacute; =
+40% para CNPJ, e planos =E0 partir de 2 vidas, confira.</strong></p>
+
+=09=09=09=09=09=09<p align=3D"center" style=3D"line-height: 1.0;" ><br />
+=09=09=09=09=09=09<strong>Tenha acesso aos melhores hospitais do Brasil</st=
+rong>, com cobertura nacional:</p>
+
+=09=09=09=09=09=09<ul>
+=09=09=09=09=09=09=09<li style=3D"line-height: 1.3; font: normal 20px/28px =
+'Arial',sans-serif;" >Hospital S&iacute;rio Liban&ecirc;s;</li>
+=09=09=09=09=09=09=09<li style=3D"line-height: 1.3; font: normal 20px/28px =
+'Arial',sans-serif;" >Hospital Albert Einstein;</li>
+=09=09=09=09=09=09  <li style=3D"line-height: 1.3; font: normal 20px/28px '=
+Arial',sans-serif;" >Fleury;</li>
+=09=09=09=09=09=09=09<li style=3D"line-height: 1.3; font: normal 20px/28px =
+'Arial',sans-serif;" >Rede D'or;</li>
+=09=09=09=09=09=09=09<li style=3D"line-height: 1.3; font: normal 20px/28px =
+'Arial',sans-serif;" >Rede S&atilde;o Luiz;</li>
+=09=09=09=09=09=09=09<li style=3D"line-height: 1.3; font: normal 20px/28px =
+'Arial',sans-serif;" >E v&aacute;rios outros.</li>
+=09=09=09=09=09=09</ul>
+
+=09=09=09=09=09=09<p align=3D"center" style=3D"line-height: 1.2;" ><br>
+=09=09=09=09=09=09        <a href=3D"http://ec2-18-229-150-10.sa-east-1.com=
+pute.amazonaws.com/?qs=3D24r2y2w2x2d4s2p2w2e42473k5m4r5k474n4j4d3p5x5i5z5h4=
+e4b494m4v2j5k4h4t264p423x574b4v55474n434x5k42494h5t5s4i5s4h554s264j4m424j5y=
+5&lin=3D11468" target=3D"_blank" ><img src=3D"https://amilsaude.s3.amazonaw=
+s.com/Atendimento-via-Whatsapp.png" alt=3D"omint whatapp cotacao" name=3D""=
+ width=3D"288" height=3D"84" border=3D"0" ></a><br>
+=09=09=09=09=09      <br />
+=09=09=09=09=09=09Para fazer uma cota&ccedil;&atilde;o <strong>&eacute; rap=
+idinho, dura apenas 20 segundos</strong>.<br />
+=09=09=09=09=09=09<br />
+=09=09=09=09=09=09<a href=3D"http://ec2-18-229-150-10.sa-east-1.compute.ama=
+zonaws.com/?qs=3D24r2y2w2x2d4s2p2w2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4=
+v2j5k4h4t264p423x574b4v55474n434x5k42494h5t5s4i5s4h554s264j4m424j5y5&lin=3D=
+11435" style=3D"display: block; background-color: #102A46; text-transform: =
+uppercase; color: #ffffff; font-weight: bold; font-size: 26px; text-decorat=
+ion: none; padding: 25px 0; border-radius: 50px;" target=3D"_blank" >quero =
+solicitar cota=E7=E3o OMINT<br>
+=09=09=09=09=09=09</a></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td height=3D"80" style=3D"border-top: 1px dotted #6d6d6d=
+;" >
+=09=09=09=09=09=09<p style=3D"font: normal 14px 'Arial',sans-serif; text-al=
+ign: center; color: #6d6d6d;" ><br />
+=09=09=09=09=09=09<span>&copy; 2014 - 2021 - Simulador de Planos de Sa=FAde=
+. Todos os direitos reservados.</span></p>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<div style=3D"text-align: center; background-color: #fff; padding-top: 10px=
+; padding-bottom: 10px; font-size: 8pt; font-family: sans-serif;" ></div>
+
+<div style=3D"text-align: center; background-color: #fff; padding-top: 10px=
+; padding-bottom: 10px; font-size: 8pt; font-family: sans-serif;" >
+<div align=3D"left" style=3D"text-align: center;" ><span style=3D"font-fami=
+ly: arial, helvetica, sans-serif; font-size: x-small;" >Newsletter enviada =
+para contato@ipbtoledo.com.br - 02:36:24&nbsp;<br />
+<br />
+Voc&ecirc; recebeu este e-mail por constar em uma lista de nossos parceiros=
+ desde 02/09/2021</span><br />
+<br />
+&nbsp;
+<pre>
+<span style=3D"font-family: arial, helvetica, sans-serif; font-size: x-smal=
+l;" >Se desejar por n&atilde;o receber mais nossas newsletters,  <a href=3D=
+"http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qr=3D24r2y2w2x2d=
+4s2p2w2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423x574b4v55474=
+n434x5k42494h5t5s4i5s4h554s264j4m424j5y5" >cancele o recebimento.</a> </spa=
+n></pre>
+<br />
+<br />
+&nbsp;</div>
+</div>
+<img src=3D"http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qo=3D=
+24r2y2w2x2d4s2p2w2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423x=
+574b4v55474n434x5k42494h5t5s4i5s4h554s264j4m424j5y5" alt=3D"" width=3D1 hei=
+ght=3D1 style=3D"border:0 none;display:block;height:auto;line-height:100%;o=
+utline:none;-webkit-text-decoration:none;text-decoration:none"></body>
+</html>
+
+
+--b1_073qmzhzq8f1HGkUmw4ZgOhzPWRycvDVEEqEFO0rQY--
+

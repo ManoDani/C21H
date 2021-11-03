@@ -1,0 +1,171 @@
+Return-Path: <erros@inoveflexmoveis.com.br>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id YAKWJW7cb2FvHgAA85qOww
+	(envelope-from <erros@inoveflexmoveis.com.br>)
+	for <contato+spam@ipbtoledo.com.br>; Wed, 20 Oct 2021 06:07:58 -0300
+Return-path: <erros@inoveflexmoveis.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Wed, 20 Oct 2021 06:07:58 -0300
+Received: from vesta.inoveflexmoveis.com.br ([64.227.67.133]:57966)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <erros@inoveflexmoveis.com.br>)
+	id 1md7Zh-00020J-TN
+	for contato@ipbtoledo.com.br; Wed, 20 Oct 2021 06:07:58 -0300
+Received: from inovefle by vesta.inoveflexmoveis.com.br with local (Exim 4.94.2)
+	(envelope-from <erros@inoveflexmoveis.com.br>)
+	id 1md7Z2-0005Mz-WC
+	for contato@ipbtoledo.com.br; Wed, 20 Oct 2021 06:07:13 -0300
+To: contato@ipbtoledo.com.br
+X-PHP-Originating-Script: 1003:email.php
+Message-ID: <bbe56ec805c979b9b21ee5595120f847@inoveflexmoveis.com.br>
+Date: Wed, 20 Oct 2021 03:32:40 -0300
+From: "Gustavo Salvador " <contato@inoveflexmoveis.com.br>
+Reply-To: vendas@cadeiraparaescritorio.ind.br
+MIME-Version: 1.0
+X-Mailer-LID: 28,29,30
+List-Unsubscribe: <http://inoveflexmoveis.com.br/unsubscribe.php?M=17854949&C=24c5cf2592d688a1b4938e1bda0240ca&L=28&N=1027>
+X-Mailer-RecptId: 17854949
+X-Mailer-SID: 1027
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_e418cb7607e4b664dc884d157053cae0"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: Yes, score=6.2
+X-Spam-Score: 62
+X-Spam-Bar: ++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Seu cliente de e-mail não pode ler este e-mail. Para visualizá-lo
+    on-line, por favor, clique aqui: http://inoveflexmoveis.com.br/display.php?M=17854949&C=24c5cf2592d688a1b4938e1bda0240ca&S=1027&L=28
+    [...] 
+ Content analysis details:   (6.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: inoveflexmoveis.com.br]
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: inoveflexmoveis.com.br]
+  1.3 RCVD_IN_VALIDITY_RPBL  RBL: Relay in Validity RPBL,
+                             https://senderscore.org/blocklistlookup/
+                             [64.227.67.133 listed in bl.score.senderscore.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image
+                             area
+  3.0 XM_RECPTID             Has spammy message header
+X-Spam-Flag: YES
+Subject:    =?UTF-8?B?Q2FkZWlyYXMgUGFyYSBFc2NyaXTDs3JpbyBlIEhvbWUgT2ZmaWNlIA==?=
+
+--b1_e418cb7607e4b664dc884d157053cae0
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de e-mail não pode ler este e-mail.
+Para visualizá-lo on-line, por favor, clique aqui:
+http://inoveflexmoveis.com.br/display.php?M=17854949&C=24c5cf2592d688a1b4938e1bda0240ca&S=1027&L=28&N=5
+
+
+Para parar de receber nossos
+Emails:http://inoveflexmoveis.com.br/unsubscribe.php?M=17854949&C=24c5cf2592d688a1b4938e1bda0240ca&L=28&N=1027
+<a
+href="http://inoveflexmoveis.com.br/link.php?M=17854949&N=1027&L=5&F=T><img
+title=Novidade alt=Novidade height=42 width=242
+src=http://inoveflexmoveis.com.br/link.php?M=17854949&N=1027&L=6&F=T></a>
+
+--b1_e418cb7607e4b664dc884d157053cae0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body><strong><font face="andale mono, times">Bom
+dia.<br /><br /><strong>Meu nome &eacute; Gustavo Salvador, gostaria de
+te&nbsp;</strong></font><strong><font face="andale mono, times">fornecer<br
+/>m&oacute;veis para escrit&oacute;rio.</font><br /></strong></strong><br
+/>Segue abaixo uma Promo&ccedil;&atilde;o&nbsp;e tamb&eacute;m meus
+dados.<br /><br />&nbsp; Gustavo Salvador<br /><font size="1">&nbsp; &nbsp;
+&nbsp; &nbsp;Gerente Comercial</font><br /><br />&nbsp;&nbsp;<img
+height="20" width="20"
+src="https://www.i9flex.com.br/arquivo/index/399932/fone.jpg" />11 2238
+6677<br />&nbsp;&nbsp;<img height="20" width="20"
+src="https://www.i9flex.com.br/arquivo/index/399928/whattsapp.jpg" />11
+2238 6677&nbsp; &nbsp;whatsapp business<br /><br />&nbsp;<img height="15"
+width="20"
+src="https://www.i9flex.com.br/arquivo/index/399929/email(2).jpg"
+/>&nbsp;&nbsp;<a
+href="mailto:vendas@cadeiraparaescritorio.ind.br">vendas@cadeiraparaescritorio.ind.br</a><br
+/>acesse &nbsp;<a
+href="http://inoveflexmoveis.com.br/link.php?M=17854949&N=1027&L=2&F=H">www.cadeiraparaescritorio.ind.br&nbsp;&nbsp;</a><br
+/><br style="font-weight: bold;" /><span style="font-weight: bold;"><font
+size="2">Venha nos visitar na Av. Engenheiro Caetano &Aacute;lvares, 3860 -
+Imirim.<br /><a title="Cadeiras Para Escrit&oacute;rio Direto da
+F&aacute;brica "
+href="http://inoveflexmoveis.com.br/link.php?M=17854949&N=1027&L=1&F=H"><img
+src="https://www.i9flex.com.br/arquivo/index/489423/promocao_2021_4.jpg?ic=1"
+/></a><br /></font><font size="2"><a title="Cadeiras Para Escrit&oacute;rio
+Direto da F&aacute;brica "
+href="http://inoveflexmoveis.com.br/link.php?M=17854949&N=1027&L=1&F=H"><img
+height="1165" width="824"
+src="https://www.i9flex.com.br/arquivo/index/489422/promocao_2021_3.jpg?ic=1"
+/></a><br /><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br
+/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img
+src="https://www.i9flex.com.br/arquivo/index/460028/promo_19_11_3.jpg?ic=1"
+/><br />&nbsp;</font></span>Frete Gr&aacute;tis para compra acima de R$
+200,00 Para S&atilde;o Paulo Capital *&nbsp;<br />Demais Regi&otilde;es sob
+Consulta. Cobrimos or&ccedil;amentos,<br /><font size="1">desde que seja
+o&nbsp;mesmo material ***PROMO&Ccedil;AO V&Aacute;LIDA AT&Eacute;
+30/10/2021 OU AT&Eacute; O FINAL DO ESTOQUE, O QUE OCORRER PRIMEIRO<br
+/>***Condi&ccedil;&atilde;o de pagamento em 12X atrav&eacute;s do pague
+seguro uol. foto ilustrativa pagamento em 3x no cart&atilde;o de
+credito.</font>
+<p><font size="1" face="andale mono, times"><br />&nbsp; &nbsp; &nbsp;
+Atenciosamente.</font><br /><span style="font-weight: bold;"><font
+size="2">&nbsp; Gustavo Salvador<br /><font size="1">&nbsp; &nbsp; &nbsp;
+&nbsp;Gerente Comercial</font><br /><br />&nbsp;&nbsp;<img
+src="https://www.i9flex.com.br/arquivo/index/399932/fone.jpg" width="20"
+height="20" />11 2238 6677<br />&nbsp;&nbsp;<img
+src="https://www.i9flex.com.br/arquivo/index/399928/whattsapp.jpg"
+width="20" height="20" />1122386677<br /><br />&nbsp;<img
+src="https://www.i9flex.com.br/arquivo/index/399929/email(2).jpg"
+width="20" height="15" />&nbsp;<a
+href="mailto:vendas@cadeiraparaescritorio.ind.br">vendas@cadeiraparaescritorio.ind.br<br
+/><br /></a></font></span><img height="19" width="20"
+src="https://www.i9flex.com.br/arquivo/index/399933/site(2).jpg"
+style="font-size: small; font-weight: bold;" /><span style="font-size:
+small; font-weight: bold;">&nbsp;&nbsp;</span><span style="font-size:
+small; font-weight: bold;">&nbsp;</span><a
+href="http://inoveflexmoveis.com.br/link.php?M=17854949&N=1027&L=2&F=H"
+style="font-size: small; font-weight:
+bold;">www.cadeiraparaescritorio.ind.br&nbsp;&nbsp;</a></p>
+<p><span style="font-weight: bold;"><font size="2">&nbsp;<img height="24"
+width="20"
+src="https://www.i9flex.com.br/arquivo/index/399927/alfinete.jpg" />&nbsp;
+Av. Engenheiro Caetano &Aacute;lvares, 3860 - Imirim.</font></span></p>
+<br /><br /><br /><br /><br />
+<table id="body_holder" border="0" cellspacing="0" cellpadding="0"
+width="100%">
+<tbody>
+<tr>
+<td><font size="2" face="andale mono, times"><strong> </strong></font><br
+/> <br />i9 em Cadeiras Para Escrit&oacute;rio.</td>
+</tr>
+</tbody>
+</table><br/><img title=Novidade alt=Novidade height=42 width=242
+src=http://inoveflexmoveis.com.br/transparente.png><img
+src="http://inoveflexmoveis.com.br/open.php?M=17854949&L=28&N=1027&F=H&image=.jpg"
+height="1" width="10"><br/><a
+href="http://inoveflexmoveis.com.br/unsubscribe.php?M=17854949&C=24c5cf2592d688a1b4938e1bda0240ca&L=28&N=1027">Clique
+aqui para ser removido</a></body></html>
+
+--b1_e418cb7607e4b664dc884d157053cae0--
+

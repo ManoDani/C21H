@@ -1,0 +1,87 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id IMrYHnIM8WDiBQAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Fri, 16 Jul 2021 01:34:58 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 16 Jul 2021 01:34:58 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1m4FYw-0003mX-Br
+	for contato@ipbtoledo.com.br; Fri, 16 Jul 2021 01:34:58 -0300
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <86ea1b83b33a13db5dd359a483a77bf7@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1626410098-eximdsn-1165376499
+MIME-Version: 1.0
+Subject: Warning: message 1m3rrb-0008KC-Im delayed 24 hours
+Message-Id: <E1m4FYw-0003mX-Br@server.mundotk.com.br>
+Date: Fri, 16 Jul 2021 01:34:58 -0300
+
+--1626410098-eximdsn-1165376499
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 24 hours on the queue on server.mundotk.com.br.
+
+The message identifier is:     1m3rrb-0008KC-Im
+The date of the message is:    Thu, 15 Jul 2021 03:16:40 +0000
+The subject of the message is: Contato via Website
+
+The address to which the message has not yet been delivered is:
+
+  vendermaismkt@gmail.com
+    host alt1.gmail-smtp-in.l.google.com [142.250.152.26]
+    Delay reason: SMTP error from remote mail server after end of data:
+    421-4.7.0 [162.241.6.206      15] Our system has detected that this message is
+    421-4.7.0 suspicious due to the nature of the content and/or the links within.
+    421-4.7.0 To best protect our users from spam, the message has been blocked.
+    421-4.7.0 Please visit
+    421 4.7.0  https://support.google.com/mail/answer/188131 for more information. d1si7062026jak.77 - gsmtp
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.
+
+--1626410098-eximdsn-1165376499
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: delayed
+Final-Recipient: rfc822;vendermaismkt@gmail.com
+Status: 4.0.0
+Remote-MTA: dns; alt1.gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 421-4.7.0 [162.241.6.206      15] Our system has detected that this message is
+ 421-4.7.0 suspicious due to the nature of the content and/or the links within.
+ 421-4.7.0 To best protect our users from spam, the message has been blocked.
+ 421-4.7.0 Please visit
+ 421 4.7.0  https://support.google.com/mail/answer/188131 for more information. d1si7062026jak.77 - gsmtp
+
+--1626410098-eximdsn-1165376499
+Content-type: text/rfc822-headers
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=44360 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1m3rrb-0008KC-Im
+	for vendermaismkt@gmail.com; Thu, 15 Jul 2021 00:16:40 -0300
+Date: Thu, 15 Jul 2021 03:16:40 +0000
+To: Impulsiona Seguidores <vendermaismkt@gmail.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <86ea1b83b33a13db5dd359a483a77bf7@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+--1626410098-eximdsn-1165376499--

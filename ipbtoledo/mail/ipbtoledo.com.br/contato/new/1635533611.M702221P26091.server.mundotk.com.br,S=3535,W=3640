@@ -1,0 +1,105 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id mJ0yKStDfGHrZQAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Fri, 29 Oct 2021 15:53:31 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 29 Oct 2021 15:53:31 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mgX0N-0007V2-Hr
+	for contato@ipbtoledo.com.br; Fri, 29 Oct 2021 15:53:31 -0300
+X-Failed-Recipients: igor@localmarketing.com.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <ebe94d7f644038bb0791d86ab6052621@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1635533611-eximdsn-1164766891
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mgX0N-0007V2-Hr@server.mundotk.com.br>
+Date: Fri, 29 Oct 2021 15:53:31 -0300
+
+--1635533611-eximdsn-1164766891
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  igor@localmarketing.com.br
+    host mx1.hostinger.com.br [34.149.19.242]
+    SMTP error from remote mail server after RCPT TO:<igor@localmarketing.com.br>:
+    550 5.1.1 <igor@localmarketing.com.br>: Recipient address rejected:
+    User unknown in virtual mailbox table
+
+--1635533611-eximdsn-1164766891
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;igor@localmarketing.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx1.hostinger.com.br
+Diagnostic-Code: smtp; 550 5.1.1 <igor@localmarketing.com.br>: Recipient address rejected: User unknown in virtual mailbox table
+
+--1635533611-eximdsn-1164766891
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=55346 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mgX0F-0007Tf-Gx
+	for igor@localmarketing.com.br; Fri, 29 Oct 2021 15:53:24 -0300
+Date: Fri, 29 Oct 2021 18:53:24 +0000
+To: Igor de Souza <igor@localmarketing.com.br>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <ebe94d7f644038bb0791d86ab6052621@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Igor de Souza
+
+                    EMAIL: igor@localmarketing.com.br
+
+                    TELEFONE: (11) 976835978
+                    
+
+
+                    CORPO DA MENSAGEM: Ipbtoledo, aumente suas vendas: 
+
+- Software extrator de e-mails por palavras chaves. 
+- Software extrator de contatos de WhatsApp segmentado. 
+
+BRINDE: 
+- Software para envio de E-mails. 
+- 1 milhão E-mails pessoa jurídica. 
+- 8 milhões de E-mails pessoas físicas. 
+- Cursos e manuais sobre Marketing Digital. 
+
+Baixe agora: https://www.divulgamailing.com 
+Ou pesquise: DivulgaMailing no Google... 
+Assista o Vídeo: https://youtu.be/sF_Sf4EUTPQ 
+
+Boas vendas!
+Igor
+
+
+
+--1635533611-eximdsn-1164766891--

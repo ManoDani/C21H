@@ -1,0 +1,114 @@
+Return-Path: <erros@brindesdrica.net>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id KGg+E0woS2BuGwAA85qOww
+	(envelope-from <erros@brindesdrica.net>)
+	for <contato+spam@ipbtoledo.com.br>; Fri, 12 Mar 2021 05:37:32 -0300
+Return-path: <erros@brindesdrica.net>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 12 Mar 2021 05:37:32 -0300
+Received: from smtp.brindesdrica.net ([212.129.12.197]:46486)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <erros@brindesdrica.net>)
+	id 1lKdIV-0001qH-Ib
+	for contato@ipbtoledo.com.br; Fri, 12 Mar 2021 05:37:32 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=brindesdrica.net; s=mail; h=Content-Transfer-Encoding:Content-Type:Reply-To
+	:From:Date:Message-ID:Subject:To:Sender:Cc:MIME-Version:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=c2fbzIAnPoOoE7nf3zKCYU7HHLNJMZWmgVFyG8anDIo=; b=CnoUcBLC61hBNUl03w9MIhjjVr
+	QTkTDuVi1bwe4z5KStR+7HOkX78vZ5LC/8iu3yE3SWJndcZT60a8/HPgCmPM/cQJ7lZdfTy3+Gp2Q
+	pa28VsL+mgORXY6p4CHmj/6KzANdawC0oWXmN06O0ap/bUIj5Ca32Kfwu48VMj+34PeE=;
+Received: from brindesd by vesta.aquariovt.com with local (Exim 4.92.3)
+	(envelope-from <erros@brindesdrica.net>)
+	id 1lKdHq-0007yx-24
+	for contato@ipbtoledo.com.br; Fri, 12 Mar 2021 05:36:46 -0300
+To: contato@ipbtoledo.com.br
+X-PHP-Originating-Script: 1002:email.php
+Message-ID: <945aee04936904cd02c60644b47e2668@brindesdrica.net>
+Date: Wed, 10 Mar 2021 10:04:08 -0300
+From: "Brindes drica" <contato@brindesdrica.net>
+Reply-To: contato@brindesdrica.com.br
+X-Mailer-LID: 28
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="0176414ca8f543992e8460be14676f35"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: Yes, score=6.1
+X-Spam-Score: 61
+X-Spam-Bar: ++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Seu cliente de email não pode ler esta mensagem. Para visualizá-la
+    online, por favor, clique aqui: http://brindesdrica.net/display.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&S=103&L=28&N=102
+    Para parar de receber nossos conteúdo acesse o link: http://brindesdrica.net/unsubscribe.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&L=28&N=103
+    
+ Content analysis details:   (6.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: brindesdrica.net]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: brindesdrica.com.br]
+  0.5 DATE_IN_PAST_24_48     Date: is 24 to 48 hours before Received: date
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of
+                             words
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  1.8 FONT_INVIS_MSGID       Invisible text + suspicious message ID
+X-Spam-Flag: YES
+Subject:    =?UTF-8?B?TcOhc2NhcmEgZGUgUHJvdGXDp8OjbyBUaXBvIE4tOTU=?=
+
+--0176414ca8f543992e8460be14676f35
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de email não pode ler esta mensagem.
+
+Para visualizá-la online, por favor, clique aqui:
+http://brindesdrica.net/display.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&S=103&L=28&N=102
+
+Para parar de receber nossos conteúdo acesse o link:
+http://brindesdrica.net/unsubscribe.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&L=28&N=103
+
+--0176414ca8f543992e8460be14676f35
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Olá Cliente,&nbsp;&nbsp;</p><p><br></p><p><span style="font-size:
+0.875rem; font-weight: initial;">Somos fabricantes de&nbsp; Máscaras tipo
+N-95 em neoprene com filtro&nbsp;</span></p><p>Personalizamos com a sua
+marca.</p><p>Proteja-se das gotículas
+indesejáveis</p><p><br></p><p>e-mail:<a
+href="http://brindesdrica.net/link.php?M=1395578&N=103&L=3&F=H"
+target="_blank"> contato@brindesdrica.com.br</a>&nbsp; &nbsp; ou&nbsp;
+&nbsp; WhatsApp&nbsp; (11) 97599-1550</p><p>Muito
+obrigado,&nbsp;</p><p>Renato Gutterres</p><p>www.brindesdrica.com.br</p><a
+href="http://brindesdrica.net/unsubscribe.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&L=28&N=103">Quero
+me descadastrar dessa campanha</a><br/><img title=Novidade alt=Novidade
+height=42 width=242 src=http://brindesdrica.net/transparente.png>
+
+<img
+src="http://brindesdrica.net/open.php?M=1395578&L=28&N=103&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--0176414ca8f543992e8460be14676f35--
+

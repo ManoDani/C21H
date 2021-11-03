@@ -1,0 +1,2 @@
+[05-Jul-2020 19:51:07 -0300]: <4636b4d3> DB Error: []  (SQL Query: ) in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/rcube_db.php on line 543 (GET /cpsess7455560770/3rdparty/roundcube/index.php)
+[28-Oct-2020 19:46:41 -0300]: <23a66617> DB Error: []  (SQL Query: ) in /usr/local/cpanel/base/3rdparty/roundcube/program/lib/Roundcube/rcube_db.php on line 543 (GET /cpsess9944289355/3rdparty/roundcube/index.php)

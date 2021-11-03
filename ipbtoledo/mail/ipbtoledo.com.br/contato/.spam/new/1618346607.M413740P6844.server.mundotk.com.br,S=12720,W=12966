@@ -1,0 +1,246 @@
+Return-Path: <return-ibrk87lu@hospedagemdaweb.com>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id II/3F28CdmC8GgAA85qOww
+	(envelope-from <return-ibrk87lu@hospedagemdaweb.com>)
+	for <contato+spam@ipbtoledo.com.br>; Tue, 13 Apr 2021 17:43:27 -0300
+Return-path: <return-ibrk87lu@hospedagemdaweb.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 13 Apr 2021 17:43:27 -0300
+Received: from server4.hospedagemdaweb.com ([186.251.130.15]:50810)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94)
+	(envelope-from <return-ibrk87lu@hospedagemdaweb.com>)
+	id 1lWPsY-00020z-G5
+	for contato@ipbtoledo.com.br; Tue, 13 Apr 2021 17:43:27 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=hospedagemdaweb.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=abuse@hospedagemdaweb.com;
+ bh=ANBV1c/HbouwY1H6dN3/qphz4vs=;
+ b=e/JlDhJmdjHRfTFal70DQAxb3mGLku8/uMkdBakPztzQ6mB7/5RY4A8oJozcYiSL+ayz1Y0L65M9
+   ++HsPHhRKIeUYunn87yVUTAGT6TSF0kLoQ62gPMqH5wwfBQaOtk2NLMNiFwJFn48bYV/rYeolcn4
+   J7xABFeASehMzv51ccwyMFTye1vhMhFT4UtXgeKxB7Sv831pwJxvLzHBxBuMuos+uJ3mw1V9KPcP
+   3QvBxOA5XTvat2//5gt4huYK7MlpaN5/1LzJpJ9d7YcmqjZYhh9/bRoMEgo4nE25zgm7TeHRJ17q
+   Kthwr+uSJ2abzRdNQEY0+ESmonw0oXgTGaD4Ig==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=hospedagemdaweb.com;
+ b=a5VRhq3dg5PmkWGoCJGlSWaz8tk9UclWGhEiH5xaN7D2REruMaH5gHogLof09HT6IJx9qh8Ljdo0
+   HvOsD8Rbd7iYibWggI2V/Lap2O7F4UdAnakxcKxQhJQ1fDz/lXU0cOOjmPM8OBGBVCR4yfAeSt5B
+   rqekeJ+DAruDIAcJ2twoYqo5WjMQcc8tfpkN2BOffjcAidX5RUy/oUgxNf4PRPuTyk612GzwNyEq
+   hxtbeQWmsgpxwSEEIqRn317DWvnRoKrlHuqjL9CTqPccZiwsnOnkcu15lJZ903yqfwX8Ohem/M/Z
+   ZqGt9ghvXI446LjiyBzOHH90ZnN3u+5wNp52ZA==;
+To: contato@ipbtoledo.com.br
+Message-ID: <ca08bffaa8c9f2a2cfc0463b7f8154a2@e.hospedagemdaweb.com>
+Date: Tue, 13 Apr 2021 17:42:11 -0300
+From: "Equipe Profissional." <y2gb24jw@hospedagemdaweb.com>
+Reply-To: fuz9x4g0@hospedagemdaweb.com
+MIME-Version: 1.0
+X-Mailer-LID: 3
+List-Unsubscribe: <http://e.hospedagemdaweb.com/service/unsubscribe.php?M=1855153&C=8a3ca1028bcae019be29659a1f8876d4&L=3&N=161>
+X-Mailer-RecptId: 1855153
+X-Mailer-SID: 161
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_1da6770ec370b37a0a3d3ead33a3bcb9"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: Yes, score=7.0
+X-Spam-Score: 70
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Olá, bom dia! Agora você não precisa mais ficar nas mãos
+    de profissionais da construção, saiba como fazer você mesmo(a). Confira.
+    Estude em Casa e Aprenda executar todos os tipos de serviços. 
+ Content analysis details:   (7.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bit.ly]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  3.0 XM_RECPTID             Has spammy message header
+X-Spam-Flag: YES
+Subject:    =?UTF-8?B?U2VydmnDp29zIGRlIGVsZXRyaWNpc3RhLCBwZWRyZWlybywgcGludG9yIC0gQXByZW5kYSBmw6FjaWwuLi4=?=
+
+--b1_1da6770ec370b37a0a3d3ead33a3bcb9
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Olá,
+bom dia!
+
+Agora você não precisa
+mais ficar nas mãos de profissionais da construção, saiba como
+fazer você mesmo(a). Confira.
+
+Estude em Casa e Aprenda executar todos os tipos de serviços.
+
+- Instalação e Manutenção Elétrica, Hidráulica.
+- Serviços de jardinagem, Limpeza de piscinas e Caixa dàgua.
+- Marcenaria, Carpintaria, Pedreiro, Gesseiro, Pintor.
+- Instalações de Prateleiras, Trincos, Fechaduras.
+- Instalação de acessórios para Cozinhas, Banheiros, etc.
+- Instalação de Telefone, Interfone e extensão.
+- Até mesmo mudança de residência ou escritório.
+
+Tudo passo a passo.
+
+Desde a troca de uma lâmpada ou pintura de uma parede até a
+instalação de um ar condicionado. Colocação de pisos, azulejos,
+e muito mais!
+
+Utilize para você mesmo ou seja seu próprio patrão, aprenda uma
+profissão altamente promissora prestando serviços de reparos em,
+
+- Residências
+- Apartamentos
+- Escritórios
+- Comércio
+- Empresas
+- Conjuntos Habitacionais
+- Clubes
+- Escolas
+- E muito mais!
+
+Confira os detalhes e assista o vídeo em nosso site.
+https://bit.ly/2xpRotX
+
+Obs; Se o link acima não estiver funcionando, é só copiar e colar
+o endereço acima em seu navegador.
+
+Caso tiver alguma dúvida entre em contato através do email:
+curso.maridodealuguel@gmail.com
+
+
+Atenciosamente,
+Equipe de Atendimento / Curso Marido de Aluguel
+- -
+
+Essa mensagem foi enviada para: contato@ipbtoledo.com.br
+Caso recebeu por engano ou não tem interesse, nos informe por favor.
+==
+13 - April - 2021
+Ref/ox12r9un
+
+
+
+Clique neste link para ser removido:
+http://e.hospedagemdaweb.com/service/unsubscribe.php?M=1855153&C=8a3ca1028bcae019be29659a1f8876d4&L=3&N=161
+
+--b1_1da6770ec370b37a0a3d3ead33a3bcb9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><title></title></head><body>
+<span style="font-family: verdana,geneva; font-size:
+small;">Prezado (a),
+tudo bem?</span><br /> <br /> <span
+style="font-family: verdana,geneva; font-size: small;"> Dica valiosa pra voc&ecirc; nunca mais precisar depender de
+um encanador, eletricista, pintor ou pedreiro, confira.<br /> </span><br /> <span style="font-family:
+verdana,geneva; font-weight: bold; font-size: small;">Estude em Casa e
+Aprenda executar todos os tipos de servi&ccedil;os.</span><br /> <br />
+<span style="font-family: verdana,geneva; font-size: small;"> -
+Instala&ccedil;&atilde;o e Manuten&ccedil;&atilde;o El&eacute;trica,
+Hidr&aacute;ulica.</span><br /> <span style="font-family: verdana,geneva;
+font-size: small;"> - Servi&ccedil;os de jardinagem, Limpeza de piscinas e
+Caixa d&agrave;gua.</span><br /> <span style="font-family: verdana,geneva;
+font-size: small;"> - Marcenaria, Carpintaria, Pedreiro, Gesseiro,
+Pintor.</span><br /> <span style="font-family: verdana,geneva; font-size:
+small;"> - Instala&ccedil;&otilde;es de Prateleiras, Trincos,
+Fechaduras.</span><br /> <span style="font-family: verdana,geneva;
+font-size: small;"> - Instala&ccedil;&atilde;o de acess&oacute;rios para
+Cozinhas, Banheiros, etc.</span><br /> <span style="font-family:
+verdana,geneva; font-size: small;"> - Instala&ccedil;&atilde;o de Telefone,
+Interfone e extens&atilde;o.</span><br /> <span style="font-family:
+verdana,geneva; font-size: small;"> - At&eacute; mesmo mudan&ccedil;a de
+resid&ecirc;ncia ou escrit&oacute;rio.</span><br /> <br /> <span
+style="font-family: verdana,geneva; font-weight: bold; font-size: small;">
+Tudo passo a passo...</span><br /> <span style="font-family:
+verdana,geneva; font-size: small;"> <span style="font-weight:
+bold;"></span></span><br /> <span style="font-family: verdana,geneva;
+font-size: small;"> Desde a troca de uma l&acirc;mpada ou pintura de uma
+parede at&eacute; a instala&ccedil;&atilde;o de um ar condicionado.
+Coloca&ccedil;&atilde;o de pisos, azulejos, e muito mais!</span><br
+/> <br /> <span style="font-family: verdana,geneva; font-size: small;">
+<strong>Utilize para voc&ecirc; mesmo ou seja seu pr&oacute;prio
+patr&atilde;o, aprenda uma profiss&atilde;o altamente promissora prestando
+servi&ccedil;os de reparos em;</strong></span><br /> <br /> <span
+style="font-family: verdana,geneva; font-size: small;"> -
+Resid&ecirc;ncias</span><br /> <span style="font-family: verdana,geneva;
+font-size: small;"> - Apartamentos</span><br /> <span style="font-family:
+verdana,geneva; font-size: small;"> - Escrit&oacute;rios</span><br /> <span
+style="font-family: verdana,geneva; font-size: small;"> -
+Com&eacute;rcio</span><br /> <span style="font-family: verdana,geneva;
+font-size: small;"> - Empresas</span><br /> <span style="font-family:
+verdana,geneva; font-size: small;"> - Conjuntos Habitacionais</span><br />
+<span style="font-family: verdana,geneva; font-size: small;"> -
+Clubes</span><br /> <span style="font-family: verdana,geneva; font-size:
+small;"> - Escolas</span><br /> <span style="font-family: verdana,geneva;
+font-size: small;"> - E muito mais...</span><br /> <br /> <span
+style="font-family: verdana,geneva; font-size: small;"> <span
+style="font-weight: bold;">Confira os detalhes e assista o v&iacute;deo em
+nosso site.</span></span><br /> <a href="https://bit.ly/2xpRotX"
+target="_blank"><span style="font-family: verdana,geneva; font-size:
+small;"> <span style="font-weight: bold;">cursomaridodealuguel
+com</span></span></a><br /> <span style="color: #000000; font-family:
+tahoma,arial,helvetica,sans-serif; font-size: small; font-style: normal;
+font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start;
+text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+word-spacing: 0px; display: inline ! important; float: none;"><br /> Obs;
+Se o link acima n&atilde;o estiver funcionando, &eacute; s&oacute; copiar e
+colar o endere&ccedil;o em seu navegador &gt;&gt; <strong><a
+href="https://bit.ly/2xpRotX"
+target="_blank">https://bit.ly/2xpRotX</a></strong></span><span
+style="font-family: verdana,geneva; font-size: small;"><br /> <br /> Caso
+tiver alguma d&uacute;vida entre em contato atrav&eacute;s do email:<br />
+<strong>curso.maridodealuguel@gmail.com<br /> <br /> </strong><span
+style="color: #000000; font-style: normal; font-weight: normal;
+letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px;
+text-transform: none; white-space: normal; widows: 2; word-spacing:
+0px;"><br /> Atenciosamente,<br />Equipe de Atendimento - Curso
+Marido de Aluguel<br />_ _<br /> <br /> Essa
+mensagem foi enviada para:&nbsp;contato@ipbtoledo.com.br</span></span><br
+style="color: #000000; font-family: 'Times New Roman'; font-size: medium;
+font-style: normal; font-weight: normal; letter-spacing: normal; orphans:
+2; text-align: start; text-indent: 0px; text-transform: none; white-space:
+normal; widows: 2; word-spacing: 0px;" /> <span style="color: #000000;
+font-style: normal; font-weight: normal; letter-spacing: normal; orphans:
+2; text-align: start; text-indent: 0px; text-transform: none; white-space:
+normal; widows: 2; word-spacing: 0px; font-family: verdana,geneva;
+font-size: small;"> Caso recebeu por engano ou n&atilde;o tem
+interesse,&nbsp;<a
+href="http://e.hospedagemdaweb.com/service/unsubscribe.php?M=1855153&C=8a3ca1028bcae019be29659a1f8876d4&L=3&N=161"
+target="_blank">nos informe</a> por favor.<br /> </span><span style="color:
+#000000; font-style: normal; font-weight: normal; letter-spacing: normal;
+orphans: 2; text-align: start; text-indent: 0px; text-transform: none;
+white-space: normal; widows: 2; word-spacing: 0px; font-family:
+verdana,geneva; font-size: small;">_ _<br /> 13 -
+April - 2021</span><br /> <span style="color: #000000; font-style: normal;
+font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start;
+text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+word-spacing: 0px; font-family: verdana,geneva; font-size:
+small;">Ref.h6gzyjoe<br
+/> </span><br /> <br /> <br />
+<img
+src="http://e.hospedagemdaweb.com/service/open.php?M=1855153&L=3&N=161&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_1da6770ec370b37a0a3d3ead33a3bcb9--
+
+

@@ -1,0 +1,101 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id uIdtG91wXGFdaAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Tue, 05 Oct 2021 12:35:57 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 05 Oct 2021 12:35:57 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mXmU1-0007L3-5c
+	for contato@ipbtoledo.com.br; Tue, 05 Oct 2021 12:35:57 -0300
+X-Failed-Recipients: contato@geradordetrafego.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <c3ccd7e743fe14cdac4c3dad85cdaf81@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1633448157-eximdsn-1526499293
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mXmU1-0007L3-5c@server.mundotk.com.br>
+Date: Tue, 05 Oct 2021 12:35:57 -0300
+
+--1633448157-eximdsn-1526499293
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  contato@geradordetrafego.com
+    retry timeout exceeded
+
+--1633448157-eximdsn-1526499293
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;contato@geradordetrafego.com
+Status: 5.0.0
+
+--1633448157-eximdsn-1526499293
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=43606 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mXmRg-0006rr-Gy
+	for contato@geradordetrafego.com; Tue, 05 Oct 2021 12:33:41 -0300
+Date: Tue, 5 Oct 2021 15:33:21 +0000
+To: Isabel Carrasco <contato@geradordetrafego.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <c3ccd7e743fe14cdac4c3dad85cdaf81@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Isabel Carrasco
+
+                    EMAIL: contato@geradordetrafego.com
+
+                    TELEFONE: (11) 97683-5978
+                    
+
+
+                    CORPO DA MENSAGEM: Saiba como ter seu site no TOPO do GOOGLE?
+
+Os Boots (Robôs) estão dominando a internet, e agora você pode ter um Bot que melhora seu posicionamento no Google. 
+
+Ele simula a busca pela chave que você configura, em seguida ele acessa seu site. E fazendo isso em milhares de computadores reais em todo Brasil faz com que seu site suba de Rank e Relevância pelas palavras chaves que você definir, e suba nas buscas orgânicas (Grátis) dos buscadores de maneira rápida e consistente.
+
+O Gerador de tráfego trabalha com troca de visitas, enquanto seu computador estiver rodando-o, o Bot estará visitando outros sites de usuários em segundo plano, e os outros usuários da rede estarão visitando o seu site. Então as visitas virão de maquinas reais, que estão conectadas na internet, trabalhando, acessando outros sites normalmente, o que garante um trafego real, e sem risco para seu site, pois são maquinas reais e de IPs reais, não Proxy 's, ou IPs fabricados, que o Google pode facilmente detectar visitas forjadas.
+
+Você poderá ver os resultados em tempo real pelo próprio Analytics do Google, inclusive vai ver que as buscas vêm de fonte orgânica, e com as palavras chaves que você define nas configurações.
+
+Ipbtoledo, baixe agora mesmo no site:
+https://www.geradordetrafego.com.br
+
+Depoimento dos clientes:
+https://youtu.be/xuF6YWOZPYI
+
+
+Boas Vendas
+Isabel
+
+
+--1633448157-eximdsn-1526499293--

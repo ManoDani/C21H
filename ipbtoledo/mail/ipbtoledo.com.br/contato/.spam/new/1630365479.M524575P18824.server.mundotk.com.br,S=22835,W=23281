@@ -1,0 +1,446 @@
+Return-Path: <notredame-saude-iba@segurosaudefamiliar.com.br>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id +viBHidnLWGISQAA85qOww
+	(envelope-from <notredame-saude-iba@segurosaudefamiliar.com.br>)
+	for <contato+spam@ipbtoledo.com.br>; Mon, 30 Aug 2021 20:17:59 -0300
+Return-path: <notredame-saude-iba@segurosaudefamiliar.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 30 Aug 2021 20:17:59 -0300
+Received: from cloud5365523.segurosaudefamiliar.com.br ([194.29.67.62]:48391)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <notredame-saude-iba@segurosaudefamiliar.com.br>)
+	id 1mKqXJ-0004sE-UK
+	for contato@ipbtoledo.com.br; Mon, 30 Aug 2021 20:17:59 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=wwanee; d=segurosaudefamiliar.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=notredame-saude-iba@segurosaudefamiliar.com.br;
+ bh=VITVxlzCwRdfaCNdLw33op5J/is=;
+ b=d1QGEKSrqb2dulq+966jI/27IWywGFI7fHSLkbJ8tw7cQ3zC4z3nPZGHNlf9l+nKMucLZ5cpGlio
+   O+b5ufG9/C856t25EBb7BhVse6sTXOwzPDXOE9WslvPE0DHufMXKKIREinsY9jAAR72+SpR7eiqy
+   x4SqY3ZeF6aJ+qexGJk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=wwanee; d=segurosaudefamiliar.com.br;
+ b=dthRTJdAA8kww/EzTNEot0XcdqLSlFEYhqYDxvTcQu0mN1QMjb5G3c4VUYZGDOQii+jsaODq8pM5
+   PcACT9x6GpRn8lm/4M+5CQyNrkFuAhuiNXrM5qPj0llTcsuQOI17ZxCMVhvQ3050NzgsEIgUjOHk
+   eVg+pJsuSZYgRXhNW3U=;
+Date: Mon, 30 Aug 2021 20:17:12 -0300
+To: contato@ipbtoledo.com.br
+From: =?iso-8859-1?Q?T=E9o_Henrique_=7C_Gerente_GNDI_Sa=FAde?= <notredame-saude-iba@segurosaudefamiliar.com.br>
+Message-ID: <g5f4i4s41426f453f4w5g5t4w5j4i544l4p274o4t534i5x5@segurosaudefamiliar.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_MnMnZ26FaGDp3YL8hqknSsmCFh8rQCzSnOodnBOAzQ"
+X-Spam-Status: Yes, score=6.7
+X-Spam-Score: 67
+X-Spam-Bar: ++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Descontente com a rede e/ou valores do seu plano de saúde?
+    O Grupo NotreDame Intermédica tem planos empresariais a partir de 2 vidas
+    para você, sua família ou sua empresa. A economia usando seu CNPJ é de
+    até 40%. 
+ Content analysis details:   (6.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: segurosaudefamiliar.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.7 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:    =?iso-8859-1?Q?[Sa=FAde_Notredame],_Condi=E7=F5es_Especiais_para_CNPJ?=
+
+This is a multi-part message in MIME format.
+--b1_MnMnZ26FaGDp3YL8hqknSsmCFh8rQCzSnOodnBOAzQ
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Descontente com a rede e/ou valores do seu plano de sa=C3=BAde?=0A=0A=0AO G=
+rupo NotreDame Interm=C3=A9dica tem planos empresariais a partir de 2 vidas=
+ para voc=C3=AA, sua fam=C3=ADlia ou sua empresa. A economia usando seu CNP=
+J =C3=A9 de at=C3=A9 40%.=0A=0AAcesse os melhores hospitais e rede credenci=
+ada qualificada. Toda seguran=C3=A7a, conforto e qualidade com atendimento =
+em todo Brasil:=0A=0A- Albert Einstein;=0A- S=C3=ADrio-Liban=C3=AAs;=0A- Re=
+de D'or;=0A- Fleury, e v=C3=A1rios outros.=0A=0AO Grupo Notredame possui re=
+de pr=C3=B3pria de atendimento com mais de 180 unidades, entre centros cl=
+=C3=ADnicos, centros de medicina preventiva, prontos-socorros aut=C3=B4nomo=
+s, laborat=C3=B3rios e hospitais.=0A=0A=0A[](http://wo.segurosaudefamiliar.=
+com.br/?qs=3D24r2y2w2u264v2y223e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5=
+k4h4t264p4231664d4y5i4j4r414364464c4h5r5i4t5g4e5i4s264j4m424j5y5&lin=3D1148=
+4)=0A=0ASolicite um consultor agora para fazer sua cota=C3=A7=C3=A3o, dura =
+apenas alguns segundos.=0A=0A=0A=0A=0A=0A=0A[QUERO FALAR COM 1 CONSULTOR AG=
+ORA=0Asem compromisso](http://wo.segurosaudefamiliar.com.br/?qs=3D24r2y2w2u=
+264v2y223e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231664d4y5i4=
+j4r414364464c4h5r5i4t5g4e5i4s264j4m424j5y5&lin=3D11485)=0A=0A=0A=0AEmail en=
+viado para: contato@ipbtoledo.com.br=0A=0AVoc=C3=AA recebeu este e-mail por=
+ constar em uma lista de nossos parceiros em 30/08/2021=0ASe optar n=C3=
+=A3o receber mais nossas newsletters, [cancele o recebimento.](http://wo.se=
+gurosaudefamiliar.com.br/?qr=3D24r2y2w2u264v2y223e42473k5m4r5k474n4j4d3p5x5=
+i5z5h4e4b494m4v2j5k4h4t264p4231664d4y5i4j4r414364464c4h5r5i4t5g4e5i4s264j4m=
+424j5y5)
+--b1_MnMnZ26FaGDp3YL8hqknSsmCFh8rQCzSnOodnBOAzQ
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+=09<title></title>
+</head>
+<body style=3D"padding: 0px; height: 100%; width: 100%; margin:
+0px;" width=3D"100%" >
+<div>
+<div _ngcontent-wwx-c0=3D"" class=3D"eb-mail-content" >
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spa=
+cing:
+0px; border-collapse: collapse; table-layout: fixed; margin: 0px auto;
+background-color: #FFFFFF; background-position: center center;
+background-repeat: no-repeat; background-size: cover; width: 100%;" >
+=09<tbody class=3D"cerberus-tbody" >
+=09=09<tr id=3D"e410e8b0-5977-40a1-434e-401e9022dcef" >
+=09=09=09<td align=3D"center" class=3D"td-container" style=3D"font-size: 0p=
+x; background-color:
+transparent;" valign=3D"top" >
+=09=09=09<div class=3D"builder-actions-control selected" >
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"email-container" data-compile=3D"true" style=3D"border-spac=
+ing: 0px; border-collapse: collapse; table-layout: fixed;
+margin: auto; width: 600px;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td bgcolor=3D"transparent" dir=3D"ltr" style=3D"backgrou=
+nd-color:
+transparent; padding: 0px;" valign=3D"top" width=3D"100%" >
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"row" style=3D"border-spacing: 0px; border-collapse: collapse; table=
+-layout: fixed;
+margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th class=3D"stack-column-center columns" style=
+=3D"font-weight: 400;" valign=3D"top" width=3D"100%" >
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"border-spacing:
+0px; border-collapse: collapse; table-layout: fixed; margin: 0px auto;
+width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td dir=3D"ltr" style=3D"padding: 0px;"=
+ valign=3D"top" >
+=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"builder-image-control image-3caf8c74bac0cb2dab8ad=
+5e54d88bb36" data-compile=3D"true" data-control=3D"image" style=3D"border-s=
+pacing: 0px;
+border-collapse: collapse; table-layout: fixed; margin: 0px auto; width:
+100%;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; bo=
+rder-collapse: collapse; table-layout: fixed;
+margin: 0px auto;" width=3D"" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"border: =
+0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr id=3D"77b31b28-f883-72b9-0d8b-b26ee9d38e09" >
+=09=09=09<td align=3D"center" class=3D"td-container" style=3D"font-size: 0p=
+x; background-color:
+transparent;" valign=3D"top" >
+=09=09=09<div class=3D"builder-actions-control selected" >
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"email-container" data-compile=3D"true" style=3D"border-spac=
+ing: 0px; border-collapse: collapse; table-layout: fixed;
+margin: auto; width: 600px;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td bgcolor=3D"#F7F7F7" dir=3D"ltr" style=3D"background-c=
+olor: #F7F7F7;
+padding: 20px 40px;" valign=3D"top" width=3D"100%" >
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"row" style=3D"border-spacing: 0px; border-collapse: collapse; table=
+-layout: fixed;
+margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th class=3D"stack-column-center columns" style=
+=3D"font-weight: 400;" valign=3D"top" width=3D"100%" >
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"border-spacing:
+0px; border-collapse: collapse; table-layout: fixed; margin: 0px auto;
+width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td dir=3D"ltr" style=3D"padding: 0px;"=
+ valign=3D"top" >
+=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"title-2f365e034b5cee94b=
+d01ef0406c09726" data-compile=3D"true" data-control=3D"title" id=3D"2f365e0=
+3-4b5c-ee94-bd01-ef0406c09726" style=3D"border-spacing: 0px; border-collaps=
+e: collapse; table-layout: fixed;
+margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629;
+text-align: center; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p align=3D"center" style=3D"l=
+ine-height: 2.0;" ><img alt=3D"notredame intermedica sa=FAde" border=3D"0" =
+height=3D"127" name=3D"" src=3D"https://brasaude.s3.amazonaws.com/Screen-no=
+tredame_1.png" width=3D"303" /></p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p><br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>Descontente com a rede=
+ e/ou valores do seu plano de sa&uacute;de?</strong></p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >O Grupo NotreDame Interm&eacute;dica tem planos empresariais <strong=
+>a partir de 2 vidas</strong> para voc&ecirc;, sua fam&iacute;lia ou sua em=
+presa. <strong><em>A economia usando seu CNPJ &eacute; de at&eacute; 40%.</=
+em></strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #FC6C15;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" ><strong>Acesse os melhores hospitais e rede credenciada qualificada.=
+ Toda seguran&ccedil;a, conforto e qualidade</strong>&nbsp;<strong>com aten=
+dimento em todo Brasil:</strong><br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong><strong>- Albert Einst=
+ein;</strong><br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>- S&iacute;rio-Liban&e=
+circ;s;</strong><br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09- Rede D&#39;or;<br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<strong>- Fleury, e v&aacute;r=
+ios outros.</strong></strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #FC6C15;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >O Grupo Notredame possui rede pr&oacute;pria de atendimento com mais=
+ de <strong>180 unidades</strong>, entre centros cl&iacute;nicos, centros d=
+e medicina preventiva, prontos-socorros aut&ocirc;nomos, laborat&oacute;rio=
+s e hospitais.</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div align=3D"center" ><a href=
+=3D"http://wo.segurosaudefamiliar.com.br/?qs=3D24r2y2w2u264v2y223e42473k5m4=
+r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231664d4y5i4j4r414364464c4h5r5i=
+4t5g4e5i4s264j4m424j5y5&lin=3D11484" target=3D"_blank" ><img alt=3D"atendim=
+ento whatsapp" border=3D"0" height=3D"84" name=3D"" src=3D"https://amilsaud=
+e.s3.amazonaws.com/Atendimento-via-Whatsapp.png" width=3D"288" /></a></div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" ><strong>Solicite um consultor agora para fazer sua cota&ccedil;&atil=
+de;o, dura apenas alguns segundos.</strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050;
+text-align: left; line-height: 100%; padding-top: 0px; padding-bottom:
+0px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"row" style=3D"border-spacing: 0px; borde=
+r-collapse: collapse; table-layout: fixed;
+margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<th class=3D"stack-co=
+lumn-center columns" style=3D"font-weight: 400;" valign=3D"top" width=3D"10=
+0%" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:
+0px; border-collapse: collapse; table-layout: fixed; margin: 0px auto;
+width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td dir=3D"l=
+tr" style=3D"padding: 0px;" valign=3D"top" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"butto=
+n large
+radius expanded button-6321e92dcfe2af92247aa58adb488fc9" data-compile=3D"tr=
+ue" data-control=3D"button" id=3D"6321e92d-cfe2-af92-247a-a58adb488fc9" sty=
+le=3D"table-layout: fixed;
+margin: 0px auto; width: 100%; border-collapse: separate; border-spacing:
+0px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td=
+ align=3D"center" bgcolor=3D"#FC6C15" style=3D"border-radius: 3px; border: =
+none; background-color: #FC6C15;
+padding: 15px 30px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<di=
+v style=3D"border: 1px solid transparent;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p =
+style=3D"text-align: center; font-family: Trebuchet MS; font-size: 24px;
+color: #ffffff; margin: 0px; word-break: break-word;" ><a href=3D"http://wo=
+.segurosaudefamiliar.com.br/?qs=3D24r2y2w2u264v2y223e42473k5m4r5k474n4j4d3p=
+5x5i5z5h4e4b494m4v2j5k4h4t264p4231664d4y5i4j4r414364464c4h5r5i4t5g4e5i4s264=
+j4m424j5y5&lin=3D11485" style=3D"text-decoration:
+none; color: white;" target=3D"_blank" >QUERO FALAR COM 1 CONSULTOR AGORA<b=
+r />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09sem=
+ compromisso</a></p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</d=
+iv>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</th>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+</div>
+</div>
+
+<p>&nbsp; &nbsp;</p>
+
+<div align=3D"left" style=3D"text-align: center;" ><span style=3D"font-fami=
+ly: arial, helvetica, sans-serif; font-size: x-small;" >Email enviado para:=
+ contato@ipbtoledo.com.br<br />
+<br />
+Voc&ecirc; recebeu este e-mail por constar em uma lista de nossos parceiros=
+ em 30/08/2021</span><br />
+&nbsp;
+<pre>
+<small>Se optar n&atilde;o receber mais nossas newsletters, <a href=3D"http=
+://wo.segurosaudefamiliar.com.br/?qr=3D24r2y2w2u264v2y223e42473k5m4r5k474n4=
+j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231664d4y5i4j4r414364464c4h5r5i4t5g4e5i=
+4s264j4m424j5y5" >cancele o recebimento.</a></small></pre>
+
+<p>&nbsp;</p>
+</div>
+<img src=3D"http://wo.segurosaudefamiliar.com.br/?qo=3D24r2y2w2u264v2y223e4=
+2473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4231664d4y5i4j4r41436446=
+4c4h5r5i4t5g4e5i4s264j4m424j5y5" alt=3D"" width=3D1 height=3D1 style=3D"bor=
+der:0 none;display:block;height:auto;line-height:100%;outline:none;-webkit-=
+text-decoration:none;text-decoration:none"></body>
+</html>
+
+
+--b1_MnMnZ26FaGDp3YL8hqknSsmCFh8rQCzSnOodnBOAzQ--
+

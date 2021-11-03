@@ -1,0 +1,132 @@
+Return-Path: <erros@brindesdrica.net.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id WJujBH9ix2AfewAA85qOww
+	(envelope-from <erros@brindesdrica.net.br>)
+	for <contato@ipbtoledo.com.br>; Mon, 14 Jun 2021 11:06:55 -0300
+Return-path: <erros@brindesdrica.net.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 14 Jun 2021 11:06:55 -0300
+Received: from smtp.brindesdrica.net.br ([212.129.12.197]:39482)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <erros@brindesdrica.net.br>)
+	id 1lsnEN-0000eH-NW
+	for contato@ipbtoledo.com.br; Mon, 14 Jun 2021 11:06:54 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=brindesdrica.net.br; s=mail; h=Content-Transfer-Encoding:Content-Type:
+	Reply-To:From:Date:Message-ID:Subject:To:Sender:Cc:MIME-Version:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=9R2gERGT9TM7JOVC5o2QGVrPwTpSC3Ly63Z+B0b9bbk=; b=XseHXfFCdHdl81lFdwJG20aWET
+	c0iMtZPZ0BF15wVWS4Ow+XJKGg8uVVRJfveBY6DH3p4hteYCrfyGZEPglD2QjU0fCL0+kKejZkbg2
+	vb6iTovwtt/puc9M0WIxqeHuTbMfcHoDN0VFhGhJQj7RwBlZLSWz8FdtPviOvXRHwBY4=;
+Received: from brindesd by vesta.aquariovt.com with local (Exim 4.92.3)
+	(envelope-from <erros@brindesdrica.net.br>)
+	id 1lsnDj-0004Mc-Ln
+	for contato@ipbtoledo.com.br; Mon, 14 Jun 2021 11:05:43 -0300
+To: contato@ipbtoledo.com.br
+Subject: =?UTF-8?B?TcOhc2NhcmEgdGlwbyBOLTk1IGRlIE5lb3ByZW5l?=
+X-PHP-Originating-Script: 1002:email.php
+Message-ID: <0e3b3b8553850a19bd8681ec379b9098@brindesdrica.net.br>
+Date: Thu, 10 Jun 2021 09:24:15 -0300
+From: "Brindes drica" <contato@brindesdrica.net.br>
+Reply-To: contato@brindesdrica.com.br
+X-Mailer-LID: 28
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="c7e8b27aa7f4d432e8d1fcafd82d0c15"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+--c7e8b27aa7f4d432e8d1fcafd82d0c15
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de email não pode ler esta mensagem.
+
+Para visualizá-la online, por favor, clique aqui:
+http://brindesdrica.net.br/display.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&S=159&L=28&N=119
+
+Para parar de receber nossos conteúdo acesse o link:
+http://brindesdrica.net.br/unsubscribe.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&L=28&N=159http://brindesdrica.net.br/unsubscribe.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&L=28&N=159
+
+--c7e8b27aa7f4d432e8d1fcafd82d0c15
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Olá Cliente,</p><p><br></p><p>Somos fabricantes de Máscaras tipo N-95
+em neoprene personalizada.</p><p>Ideal para seu evento, com uma blindagem
+eficaz.</p><p>É só lavar e usar novamente por mais de 100
+vezes.</p><p></p><div class="uEierd" style="width: 600px; color: rgb(32,
+33, 36); font-family: arial, sans-serif; font-size: 14px; font-style:
+normal; font-variant-ligatures: normal; font-variant-caps: normal;
+font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start;
+text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color:
+rgb(255, 255, 255); text-decoration-thickness: initial;
+text-decoration-style: initial; text-decoration-color: initial;"><div
+data-text-ad="1" data-hveid="CAUQAA"><div class="cUezCb luh4tb O9g5cc
+uUPGi" style="font-size: 14px; line-height: 1.58; background: transparent
+!important; margin-bottom: 29px; box-shadow: none !important; border: none
+!important; border-radius: 8px;"></div></div></div><p></p><div
+class="uEierd" style="width: 600px; color: rgb(32, 33, 36); font-family:
+arial, sans-serif; font-size: 14px; font-style: normal;
+font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing:
+normal; orphans: 2; text-align: start; text-indent: 0px; text-transform:
+none; white-space: normal; widows: 2; word-spacing: 0px;
+-webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);
+text-decoration-thickness: initial; text-decoration-style: initial;
+text-decoration-color: initial;"><div data-text-ad="1" data-hveid="CAQQAA"
+style=""><div class="cUezCb luh4tb O9g5cc uUPGi" style="font-size: 14px;
+line-height: 1.58; margin-bottom: 29px; border-radius: 8px; background:
+transparent !important; box-shadow: none !important; border: none
+!important;"><div style="border-bottom-left-radius: 8px;
+border-bottom-right-radius: 8px;"><div class="MUxGbd yDYNvb lyLwlc"
+style="font-weight: 400; padding-top: 0px; margin-bottom: 0px; color:
+rgb(77, 81, 86);"><span>Proteja sua empresa e invista
+em<span>&nbsp;</span><em class="hcV4Re nkGKTb" style="font-weight: 800;
+font-style: normal;">máscaras</em><span>&nbsp;</span>de qualidade para
+seus funcionários. <a
+href="http://brindesdrica.net.br/link.php?M=1395578&N=159&L=27&F=H"
+target="_blank">Clique aqui</a>. Liguei já! Melhor preço e qualidade
+você <a
+href="http://brindesdrica.net.br/link.php?M=1395578&N=159&L=11&F=H"
+target="_blank">encontra aqui</a>.</span></div><div class="MUxGbd yDYNvb
+lyLwlc" style="font-weight: 400; padding-top: 0px; margin-bottom: 0px;
+color: rgb(77, 81, 86);"><span><br></span></div><div class="MUxGbd yDYNvb
+lyLwlc" style="font-weight: 400; padding-top: 0px; margin-bottom: 0px;
+color: rgb(77, 81, 86);"><img
+src="http://brindesdrica.net.br/admin/temp/newsletters/119/6e4bf367ac28a8b78eb4a2632c7297f4.jpg"
+style="width: 400px;" alt="Máscara de neoprene" width="" height=""
+title="Máscara de neoprene" class="" role=""><span><br></span></div><div
+class="MUxGbd yDYNvb lyLwlc" style="padding-top: 0px; margin-bottom: 0px;
+color: rgb(77, 81, 86);"><div class="MUxGbd yDYNvb lyLwlc"
+style="padding-top: 0px; margin-bottom: 0px;"><b>e-mail:
+contato@brindesdrica.com.br&nbsp; &nbsp; ou&nbsp; &nbsp; WhatsApp&nbsp;
+(11) 97599-1550 ou (11)2865-6568</b></div><div class="MUxGbd yDYNvb lyLwlc"
+style="padding-top: 0px; margin-bottom: 0px;"><b>Obrigado!</b></div><div
+class="MUxGbd yDYNvb lyLwlc" style="padding-top: 0px; margin-bottom:
+0px;"><b>Equipe Brindes Drica</b></div></div><div class="MUxGbd yDYNvb
+lyLwlc" style="font-weight: 400; padding-top: 0px; margin-bottom: 0px;
+color: rgb(77, 81, 86);"><span><br></span></div><div class="MUxGbd yDYNvb
+lyLwlc" style="font-weight: 400; padding-top: 0px; margin-bottom: 0px;
+color: rgb(77, 81, 86);"><a
+href="http://brindesdrica.net.br/unsubscribe.php?M=1395578&C=5504ffae6662b4cbe7422107df99218f&L=28&N=159"
+style="font-family: Roboto, sans-serif; font-size: 1rem; font-weight:
+initial;">Quero me descadastrar dessa
+campanha</a></div></div></div></div></div><br/><img title=Novidade
+alt=Novidade height=42 width=242
+src=http://brindesdrica.net.br/transparente.png>
+
+<img
+src="http://brindesdrica.net.br/open.php?M=1395578&L=28&N=159&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--c7e8b27aa7f4d432e8d1fcafd82d0c15--
+

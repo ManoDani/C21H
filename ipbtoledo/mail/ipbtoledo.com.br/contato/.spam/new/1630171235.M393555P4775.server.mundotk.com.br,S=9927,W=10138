@@ -1,0 +1,211 @@
+Return-Path: <return-w4jslfen@estudiomarketing.net>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id YKKCFmNwKmGnEgAA85qOww
+	(envelope-from <return-w4jslfen@estudiomarketing.net>)
+	for <contato+spam@ipbtoledo.com.br>; Sat, 28 Aug 2021 14:20:35 -0300
+Return-path: <return-w4jslfen@estudiomarketing.net>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sat, 28 Aug 2021 14:20:35 -0300
+Received: from server1.estudiomarketing.net ([186.251.130.51]:37802)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <return-w4jslfen@estudiomarketing.net>)
+	id 1mK20L-0001jl-5m
+	for contato@ipbtoledo.com.br; Sat, 28 Aug 2021 14:20:35 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=estudiomarketing.net;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=abuse@estudiomarketing.net;
+ bh=Pu4X8TuwsFOsd7gPlg2EuXOPz6s=;
+ b=SUjaem5WOSb5oYU90mDQ0bHdVVzDqVJNNjtFkBQXNqVqrfsUJ/LRE6WgGRBVYEgyK+kKO8las/pj
+   8UMid2nqr2bukN64j241zKwOHnRbFVGqwK3ED08Y5HRl4w9PVhb4aRuSSy2cwKnIb4180gBZE8cr
+   COX+MM+ougAI9JT2GNIXEi4lmOqu/ydki8HZd4R0QX1TbIdueRPgdK4fgdw3E4Jhw3GOie/8QDvD
+   iEAFi8diGxa6NqHdGpAZc4budMNRW+YYZhFfRPaAKQoSLHgXJGU4TnKr/HJMHyENPvxHir5NS/Za
+   do19f7qI695a7Kn2vZ3gEsO35LDM49WPL1tlGw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=estudiomarketing.net;
+ b=Zo1Tl9tI4hg6Gr8PPPhknzk6f55jB8W2sar9aviUrleZGKHFc6t8KF6VBpauUg9ETZW/rdwVJg9X
+   Ng6sU6XbG7kcVrNXpjhb5TkmLZuggCKGq/uk7NZH7e32kQqdsq3NAn5ZUs4rUy+jpoOC7Q5c7BYA
+   Ry5SP6jCAfXnuE/yMfSplLFR+/i1ItB5FgJoWEVZ/+KXGD6KjNGAcCbKhjuzFhym809BokhlLfFc
+   P2gTtjkF8le5DRiAPP1jdBDOLyQhv8dqXoyL5/aggifhyQcZS9iI18nJi9ilq+tA8TGn4hEYT57u
+   /MtKiISZ5WaJN+nuWN/ApB3ciRFGOQseEjPwiw==;
+To: contato@ipbtoledo.com.br
+Message-ID: <bf7f99d1b5ad761ade993a23ce24200a@6.estudiomarketing.net>
+Date: Sat, 28 Aug 2021 14:21:31 -0300
+From: "=?UTF-8?B?RmHDp2Egdm9jw6ogbWVzbW8h?=" <mke0a3j3@estudiomarketing.net>
+Reply-To: zgg5zu7d@estudiomarketing.net
+MIME-Version: 1.0
+X-Mailer-LID: 12
+List-Unsubscribe: <http://6.estudiomarketing.net/service/unsubscribe.php?M=7286687&C=37b6c772503ee492e523881acf7066b5&L=12&N=327>
+X-Mailer-RecptId: 7286687
+X-Mailer-SID: 327
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_ff1f87d5bb78494db9fa590e60800228"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: Yes, score=7.0
+X-Spam-Score: 70
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Amigo (a), como vai? Essa dica pode ser de grande utilidade
+    no seu dia a dia, veja... Curso Manutenção de Eletrodomésticos. 
+ Content analysis details:   (7.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bit.ly]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_IMAGE_ONLY_32     BODY: HTML: images with 2800-3200 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  3.0 XM_RECPTID             Has spammy message header
+X-Spam-Flag: YES
+Subject:    =?UTF-8?B?U2FpYmEgY29tbyBDb25zZXJ0YXIgQXBhcmVsaG9zIEVsZXRyb2RvbcOpc3RpY29zIQ==?=
+
+--b1_ff1f87d5bb78494db9fa590e60800228
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Amigo (a),
+como vai?
+
+Essa dica pode ser de grande utilidade no seu dia a dia, veja...
+
+
+Curso Manutenção de Eletrodomésticos.
+
+Aprenda todas as Dicas e Macetes dos Profissionais!
+"Eficiente, Prático e Rápido".
+
+Estude de acordo com seu tempo disponível e adquira uma
+excelente profissão estudando em casa.
+
+Este Curso é Indicado:
+
+- Para quem quer aprender uma nova profissão.
+- Para quem já trabalha na área e quer aprimorar e adquirir
+novas técnicas.
+- Para você que não aguenta mais gastar dinheiro e quer arrumar
+seus próprios aparelhos.
+- Até mesmo para aqueles que não tempo de fazer o serviço, mas
+precisa da informação para não ser enganado por alguns
+"técnicos oportunistas" com interesse apenas em levar seu dinheiro.
+(Todos sabem que isso existe em todo lugar).
+
+Aprenda facilmente como Consertar Eletrodomésticos e
+Aparelhos Eletrônicos!
+
+- Geladeiras, Freezers, Ar Condicionado e Ventiladores.
+- Batedeiras e Cafeteiras, Liquidificadores e Torradeiras.
+- Fornos de Microondas, Fornos Elétricos e Fogões.
+- Aspiradores de Pó, Ferro de Passar.
+- Secadores de Cabelos, Controle Remoto e Abridores Elétricos.
+- Lava Roupas, Secadoras de Roupas, Trituradores de Lixo
+- E muito mais...
+
+Acompanha ainda;
+
+- Curso Eletrônica
+- Curso Multímetro
+- Manual para Montar uma Assistência Técnica de Eletrodomésticos
+
+Acesse nosso site, veja mais detalhes e outros benefícios;
+https://bit.ly/2uDscRP
+
+Obs: Caso o link acima não estiver funcionando, copie e cole
+em seu navegador.
+
+
+Em caso de dúvidas entre em contato através do e-mail:
+curso.eletrodomesticos@gmail.com
+
+Atenciosamente:
+Equipe Curso de Eletrodomésticos
+__
+
+Enviado para: contato@ipbtoledo.com.br
+Caso não seja de seu interesse, acesse aqui e nos informe por favor.
+28 - August - 2021
+Ref: 8lub5ffp
+Clique neste link para ser removido:
+http://6.estudiomarketing.net/service/unsubscribe.php?M=7286687&C=37b6c772503ee492e523881acf7066b5&L=12&N=327
+
+--b1_ff1f87d5bb78494db9fa590e60800228
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<meta id="_moz_html_fragment">
+</head>
+<body>
+<span style="font-family: verdana,geneva; font-size:
+small;">Prezado (a), tudo bem?<br /> <br /> Essa dica pode ser de grande utilidade no seu dia a dia,
+veja...<br /> <br /> Fa&ccedil;a Reparos e Manuten&ccedil;&atilde;o de
+Eletrodom&eacute;sticos.<br /> <br /> <strong>Aprenda todas as Dicas e Macetes dos
+Profissionais.</strong><br /> "Eficiente, Pr&aacute;tico e
+R&aacute;pido".<br /> <br /> Estude de acordo com seu tempo
+dispon&iacute;vel e adquira uma excelente profiss&atilde;o
+<strong>estudando em casa</strong>.<br /> <br /> <strong>Este Curso
+&eacute; Indicado;</strong><br /> <br /> - Para quem quer aprender
+uma nova profiss&atilde;o.<br /> - Para quem j&aacute; trabalha na
+&aacute;rea e quer aprimorar e adquirir novas t&eacute;cnicas.<br /> - Para
+voc&ecirc; que n&atilde;o aguenta mais gastar dinheiro e quer arrumar seus
+pr&oacute;prios aparelhos.<br /> - At&eacute; mesmo para aqueles que
+n&atilde;o tempo de fazer o servi&ccedil;o, mas precisa da
+informa&ccedil;&atilde;o para n&atilde;o ser enganado por alguns
+"t&eacute;cnicos oportunistas" com interesse apenas em levar seu dinheiro.
+(Todos sabem que isso existe em todo lugar).<br /> <br /> <strong>Aprenda
+facilmente como Consertar Eletrodom&eacute;sticos e Aparelhos
+Eletr&ocirc;nicos.</strong><br /> <br /> - Geladeiras, Freezers, Ar
+Condicionado e Ventiladores.<br /> - Batedeiras e Cafeteiras,
+Liquidificadores e Torradeiras.<br /> - Fornos de Microondas, Fornos
+El&eacute;tricos e Fog&otilde;es.<br /> - Aspiradores de P&oacute;, Ferro
+de Passar.<br /> - Secadores de Cabelos, Controle Remoto e Abridores
+El&eacute;tricos.<br /> - Lava Roupas, Secadoras de Roupas, Trituradores de
+Lixo<br /> - E muito mais!<br /> <br /> <strong>Acompanha
+ainda,</strong><br /> <br /> - Curso Eletr&ocirc;nica<br /> - Curso
+Mult&iacute;metro<br /> - Manual para Montar uma Assist&ecirc;ncia
+T&eacute;cnica de El&eacute;trodom&eacute;sticos<br /> <br />
+<strong>Acesse nosso site, veja mais detalhes e outros
+benef&iacute;cios:</strong><br /> www.<a
+href="https://bit.ly/2uDscRP" target="_blank">cursoeletrodomesticos
+com</a><br /> <br /> <span>Obs: Caso o link acima n&atilde;o estiver
+funcionando, <span style="font-weight: bold;">copie e cole</span> em seu
+navegador &gt;&gt; <strong><a href="https://bit.ly/2uDscRP"
+target="_blank">https://bit.ly/2uDscRP</a></strong></span><br /> <br /> <br
+/> <strong>Em caso de d&uacute;vidas entre em contato atrav&eacute;s do
+e-mail,</strong><br /> <a
+href="mailto:curso.eletrodomesticos@gmail.com">curso.eletrodomesticos@gmail.com</a><br
+/> <br /> Atenciosamente;<br /> Equipe Curso de
+Eletrodom&eacute;sticos<br /> --<br /> <br /> Enviado
+para: contato@ipbtoledo.com.br<br /> Caso n&atilde;o seja de seu interesse,
+<a
+href="http://6.estudiomarketing.net/service/unsubscribe.php?M=7286687&C=37b6c772503ee492e523881acf7066b5&L=12&N=327"
+target="_blank">acesse aqui</a> e nos informe por favor.<br /> 28 - August
+- 2021<br />Ref;
+2h1bfjik</span>
+<img
+src="http://6.estudiomarketing.net/service/open.php?M=7286687&L=12&N=327&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_ff1f87d5bb78494db9fa590e60800228--
+
+

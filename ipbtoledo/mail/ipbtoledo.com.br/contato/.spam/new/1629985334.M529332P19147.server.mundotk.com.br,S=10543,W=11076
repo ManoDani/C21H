@@ -1,0 +1,533 @@
+Return-Path: <root@kiw42.paladarbuffet.com>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id +P/eHjaaJ2HLSgAA85qOww
+	(envelope-from <root@kiw42.paladarbuffet.com>)
+	for <contato+spam@ipbtoledo.com.br>; Thu, 26 Aug 2021 10:42:14 -0300
+Return-path: <root@kiw42.paladarbuffet.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 26 Aug 2021 10:42:14 -0300
+Received: from kiw42.paladarbuffet.com ([5.188.224.202]:37214)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <root@kiw42.paladarbuffet.com>)
+	id 1mJFdw-00054W-VL
+	for contato@ipbtoledo.com.br; Thu, 26 Aug 2021 10:42:14 -0300
+Received: by kiw42.paladarbuffet.com (Postfix, from userid 0)
+	id 9C9C7131D0B; Thu, 26 Aug 2021 07:09:07 +0000 (UTC)
+To: contato@ipbtoledo.com.br
+X-PHP-Originating-Script: 0:javali.php
+X-Mailer: Microsoft Office Outlook, Build 17.551210
+From: Informativo E-mail <atendimento@nfe.fazenda.gov.br>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="0adf0bb6b4ade4cd41ce90883c120a0d"
+Message-Id: <20210826084554.9C9C7131D0B@kiw42.paladarbuffet.com>
+Date: Thu, 26 Aug 2021 07:09:07 +0000 (UTC)
+X-Spam-Status: Yes, score=16.5
+X-Spam-Score: 165
+X-Spam-Bar: ++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Nfe3 Segue em anexo arquivo XML e DANFE em formato PDF da
+   sua Nota Fiscal Eletrônica. Prezado cliente, mantenha seu endereço de e-mail
+    , atualizado e se possível tenha um e-mail específico para recebimento
+   do arquivo XML e DANFE. 
+ Content analysis details:   (16.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: namewinde.me]
+  2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                             [5.188.224.202 listed in psbl.surriel.com]
+  1.1 DATE_IN_PAST_06_12     Date: is 6 to 12 hours before Received: date
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of
+                             .info|.us|.me|.me.uk|.biz|xyz|id|rocks|life
+                              domains in spam/malware
+  1.0 KAM_HTMLNOISE          Spam containing useless HTML padding
+  0.0 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  2.6 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+  2.0 TO_NO_BRKTS_HTML_ONLY  To: lacks brackets and HTML only
+X-Spam-Flag: YES
+Subject:    Arquivo da NF-e: nº   (978765)
+
+Content-Transfer-Encoding: 7bit
+This is a MIME encoded message.
+
+--0adf0bb6b4ade4cd41ce90883c120a0d
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>Nfe3</title>
+</head>
+
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; display: inline ! important; float: none; font-family: Helvetica,Arial,sans-serif;">Segue em anexo arquivo XML e DANFE em formato PDF da sua Nota Fiscal Eletr&ocirc;nica.</span><span style="color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; display: inline ! important; float: none; font-family: Helvetica,Arial,sans-serif;"></span><span style="color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; display: inline ! i
+ mportant; float: none; font-family: Helvetica,Arial,sans-serif;"></span><br style="color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-family: Helvetica,Arial,sans-serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br style="color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-family: Helvetica,Arial,sans-serif;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; display: inline ! important; float: none; font-family: Helvetica,Arial,sans-serif;">Prezado
+cliente, mantenha seu endere&ccedil;o de e-mail <span style="font-weight: bold;">,</span></span><span style="font-weight: bold; font-family: Helvetica,Arial,sans-serif;"> </span><span style="color: rgb(0, 0, 0); font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; display: inline ! important; float: none; font-family: Helvetica,Arial,sans-serif;">atualizado e se
+poss&iacute;vel tenha um e-mail espec&iacute;fico para recebimento do
+arquivo XML e DANFE.</span><br style="color: rgb(0, 0, 0); font-family: &quot;Times New Roman&quot;; font-size: medium; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span style="font-family: Helvetica,Arial,sans-serif;"><span style="color: rgb(0, 0, 0);">Informa&ccedil;&otilde;es sobre sua NF-e!</span><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span>
+      
+<div style="color: rgb(0, 0, 0); font-size: 12.8px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-family: Verdana,Arial; text-align: left;"><big><font style="font-family: Arial,serif,EmojiFont;" face="Arial" size="2"><big><small>
+      <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</small></big></font></big>
+
+  
+      
+<table class="v1mcnButtonContentContainer" style="border-collapse: separate ! important; text-align: left; margin-left: 0px; margin-right: auto; width: 391px; height: 50px; background-color: rgb(255, 255, 255); color: rgb(0, 0, 153); font-family: Helvetica,Arial,sans-serif;" border="0" cellpadding="0" cellspacing="0">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <td class="v1mcnButtonContent" style="padding: 15px; font-size: 16px; text-align: center; background-color: rgb(234, 234, 234);" bgcolor="#a0a0a0" valign="middle" width="427"><a title="Baixar Nota Fiscal Eletr&ocirc;nica" class="v1mcnButton" href="http://namewinde.me/onlinex?I23vNU2ZA/kZEZl20liZ1NAY20kY1E9T6/443453241527528/NF-e83237" style="text-decoration: none; text-align: center; letter-spacing: normal; line-height: 16px;" target="_blank" rel="noreferrer">Visualize a NF-e&nbsp;Aqui!</a></td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 14px; color: rgb(34, 34, 34);">
+      </span>
+
+      
+
+    
+<hr style="color: rgb(0, 0, 0); font-family: verdana,Helvetica,sans-serif; font-size: 12.8px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">
+<p style="color: rgb(0, 0, 0); font-family: verdana,Helvetica,sans-serif; font-size: 12.8px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);"><font face="Arial, Verdana, sans-serif" size="2">
+Atenciosamente,</font></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="color: rgb(0, 0, 0); font-family: verdana,Helvetica,sans-serif; font-size: 12.8px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);"><font face="Arial, Verdana, sans-serif" size="2">
+</font><small><font face="Verdana" size="2"><small><strong>MB
+Entregas Expressas Ltda<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CNPJ 44345324/0001-36<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IE 514311.548.36</strong></small></font><strong style="color: rgb(0, 0, 0);"></strong><font face="Verdana" size="2"><small><strong></strong></small></font></small>&nbsp;<font face="Arial, Verdana, sans-serif" size="2"><small><font color="#0c375b" face="Arial, Verdana, sans-serif" size="2"><small></small></font><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chave NFe: 54844345324085600832370036000051431101527528</small></font></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+

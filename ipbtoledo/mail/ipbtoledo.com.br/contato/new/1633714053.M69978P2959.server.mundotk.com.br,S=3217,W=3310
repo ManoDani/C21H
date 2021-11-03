@@ -1,0 +1,93 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id IF2nA4V/YGGPCwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Fri, 08 Oct 2021 14:27:33 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 08 Oct 2021 14:27:33 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mYtee-0000rW-TL
+	for contato@ipbtoledo.com.br; Fri, 08 Oct 2021 14:27:32 -0300
+X-Failed-Recipients: cabelosdesalaoemcasa_451@divulgabrasil.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <a36ba5a1844a83e9baf464a5ea9ef955@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1633714052-eximdsn-521934756
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mYtee-0000rW-TL@server.mundotk.com.br>
+Date: Fri, 08 Oct 2021 14:27:32 -0300
+
+--1633714052-eximdsn-521934756
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  cabelosdesalaoemcasa_451@divulgabrasil.com
+    retry timeout exceeded
+
+--1633714052-eximdsn-521934756
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;cabelosdesalaoemcasa_451@divulgabrasil.com
+Status: 5.0.0
+
+--1633714052-eximdsn-521934756
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=58974 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mYtca-0000UF-9G
+	for cabelosdesalaoemcasa_451@divulgabrasil.com; Fri, 08 Oct 2021 14:25:25 -0300
+Date: Fri, 8 Oct 2021 17:25:25 +0000
+To: =?UTF-8?Q?Ipbtoledo_Quer_ter_CABELOS_de_Sal=C3=A3o_sem_SAIR_de_Casa=3F=3F?= <cabelosdesalaoemcasa_451@divulgabrasil.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <a36ba5a1844a83e9baf464a5ea9ef955@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Ipbtoledo Quer ter CABELOS de Salão sem SAIR de Casa??
+
+                    EMAIL: cabelosdesalaoemcasa_451@divulgabrasil.com
+
+                    TELEFONE: (43) 9812345678
+                    
+
+
+                    CORPO DA MENSAGEM: Ipbtoledo eu sou Ana Olimpio Cheguei até seu site www.ipbtoledo.com.br para que Conheça Agora Hidraliso CABELOS de  Salão sem  sair de CASA
+
+Conheça agora click no link  abaixo!
+https://bit.ly/cabelos-desalaoemcasa
+
+Ou Link abaixo.
+ 
+
+
+Não quero Hidraliso
+http://www.sairdalista.site?u=http://www.ipbtoledo.com.br&c=fd00678c497c2C895A5F
+
+
+--1633714052-eximdsn-521934756--

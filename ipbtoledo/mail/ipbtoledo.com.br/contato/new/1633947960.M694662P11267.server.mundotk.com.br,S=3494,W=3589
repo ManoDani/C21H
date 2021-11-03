@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id CE5eKDgRZGEDLAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Mon, 11 Oct 2021 07:26:00 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 11 Oct 2021 07:26:00 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mZsVM-0002vz-Gp
+	for contato@ipbtoledo.com.br; Mon, 11 Oct 2021 07:26:00 -0300
+X-Failed-Recipients: clioapptotal@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <d0d223a01b76a9bf01201abae655eac9@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1633947960-eximdsn-1083193805
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mZsVM-0002vz-Gp@server.mundotk.com.br>
+Date: Mon, 11 Oct 2021 07:26:00 -0300
+
+--1633947960-eximdsn-1083193805
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  clioapptotal@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.113.26]
+    SMTP error from remote mail server after RCPT TO:<clioapptotal@gmail.com>:
+    550-5.1.1 The email account that you tried to reach does not exist. Please try
+    550-5.1.1 double-checking the recipient's email address for typos or
+    550-5.1.1 unnecessary spaces. Learn more at
+    550 5.1.1  https://support.google.com/mail/?p=NoSuchUser j133si6241197oih.88 - gsmtp
+
+--1633947960-eximdsn-1083193805
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;clioapptotal@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does not exist. Please try
+ 550-5.1.1 double-checking the recipient's email address for typos or
+ 550-5.1.1 unnecessary spaces. Learn more at
+ 550 5.1.1  https://support.google.com/mail/?p=NoSuchUser j133si6241197oih.88 - gsmtp
+
+--1633947960-eximdsn-1083193805
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=48630 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mZsVL-0002vp-S5
+	for clioapptotal@gmail.com; Mon, 11 Oct 2021 07:26:00 -0300
+Date: Mon, 11 Oct 2021 10:26:00 +0000
+To: Alicia Nunes <clioapptotal@gmail.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <d0d223a01b76a9bf01201abae655eac9@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Alicia Nunes
+
+                    EMAIL: clioapptotal@gmail.com
+
+                    TELEFONE: (16) 987654321
+                    
+
+
+                    CORPO DA MENSAGEM: saiba mais sobre trade esportivo e ganhe dinheiro apostando em Futebol !!
+
+http://vai.la/gnxqj
+
+
+--1633947960-eximdsn-1083193805--

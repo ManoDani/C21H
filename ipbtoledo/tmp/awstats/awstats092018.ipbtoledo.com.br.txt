@@ -1,0 +1,266 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201809 will be lost/reset.
+# Last config file used to build this data file was /home/ipbtoledocom/tmp/awstats/awstats.ipbtoledo.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2669                
+POS_VISITOR 7915                
+POS_DAY 8037                
+POS_DOMAIN 3294                
+POS_LOGIN 3529                
+POS_ROBOT 3684                
+POS_WORMS 3816                
+POS_EMAILSENDER 3947                
+POS_EMAILRECEIVER 4090                
+POS_SESSION 8286                
+POS_SIDER 8423                
+POS_FILETYPES 4225                
+POS_DOWNLOADS 4305                
+POS_OS 6444                
+POS_BROWSER 6522                
+POS_SCREENSIZE 6585                
+POS_UNKNOWNREFERER 6659                
+POS_UNKNOWNREFERERBROWSER 6772                
+POS_ORIGIN 6880                
+POS_SEREFERRALS 7011                
+POS_PAGEREFS 7155                
+POS_SEARCHWORDS 7303                
+POS_KEYWORDS 7455                
+POS_MISC 2333                
+POS_ERRORS 7514                
+POS_CLUSTER 3385                
+POS_SIDER_404 7606                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181001012430 16 2759 11779395334743
+FirstTime 0
+LastTime 0
+LastUpdate 20181001090302 16 0 15 0 0
+TotalVisits 0                   
+TotalUnique 0                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 2                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 15 50 11768
+1 0 0 0 44 78 19417
+2 0 0 0 26 66 16309
+3 0 0 0 19 76 19573
+4 0 0 0 31 73 17951
+5 0 0 0 40 79 19490
+6 0 0 0 25 66 16316
+7 0 0 0 19 57 14165
+8 0 0 0 20 54 13342
+9 0 0 0 37 64 15778
+10 0 0 0 20 49 11982
+11 0 0 0 15 43 10117
+12 0 0 0 28 72 18378
+13 0 0 0 42 78 19215
+14 0 0 0 33 72 17917
+15 0 0 0 41 87 22003
+16 0 0 0 20 55 13673
+17 0 0 0 58 103 26027
+18 0 0 0 31 67 16597
+19 0 0 0 36 83 21024
+20 0 0 0 33 67 16574
+21 0 0 0 18 49 11917
+22 0 0 0 12 37 9022
+23 0 40 2758 37 79 19400
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 0 34 2254
+gb 0 6 504
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+txt 40 2758 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 29
+/.well-known/pki-validation/BA5EEC8B3F3A4003331DC750986F8F1C.txt 12 0 966
+/.well-known/pki-validation/A7D49FD3819E108E4691A06A5FF1B91B.txt 1 0 64
+/.well-known/pki-validation/863A32D6AC2C893D3349913E70809A4B.txt 1 0 64
+/.well-known/pki-validation/096B273F9E73ABFF5AF31F6596819E5B.txt 1 0 64
+/.well-known/pki-validation/A17A96F248B2F352A7D7DFD3840438C6.txt 1 0 64
+/.well-known/pki-validation/02F5E06274533960B3C2DA61A15E14AF.txt 1 0 64
+/.well-known/pki-validation/AB67D0F2FC1478A57D6441596FD6433B.txt 1 0 64
+/.well-known/pki-validation/7DB30E80416D165CD998A4F22EFA8DC0.txt 1 0 64
+/.well-known/pki-validation/19C5E689531DF1D414477F3003AEA523.txt 1 0 64
+/.well-known/pki-validation/05DF1FD881246E2C514CB4E64764DDF2.txt 1 0 64
+/.well-known/pki-validation/DC43F31C8DD9ABD6ACE34333033BDC3D.txt 1 0 64
+/.well-known/pki-validation/B641E49DC14468B6A4E4247E1424C12C.txt 1 0 64
+/.well-known/pki-validation/57D8503FB88712FFD0E9BC9AC0AA00B1.txt 1 0 64
+/.well-known/pki-validation/50F3509DBDEA832F6F39E36F4ECBFED5.txt 1 0 64
+/.well-known/pki-validation/10B0F768EAB5955F4CF76B014AA62D51.txt 1 0 64
+/.well-known/pki-validation/25F4B14F98C6EC90A87C1F2E4BA28101.txt 1 0 64
+/.well-known/pki-validation/1EFDFF2BE3B6A0C0798C57BEB077CC42.txt 1 0 64
+/.well-known/pki-validation/F06964023CB1B83BD1EA9A691DC3233C.txt 1 0 64
+/.well-known/pki-validation/BF38743A7F9A8F186EE65D575FFF0BC6.txt 1 0 64
+/.well-known/pki-validation/8BAF95137382C23CD0C39A4D0F60B709.txt 1 0 64
+/.well-known/pki-validation/00219F1FBC2178436A9DD8B487ACF479.txt 1 0 64
+/.well-known/pki-validation/F6FD4E2503CE7DC8204197A951D1B1C6.txt 1 0 64
+/.well-known/pki-validation/22F926F46D5F63E31170AE19E0E00C1E.txt 1 0 64
+/.well-known/pki-validation/9368532F9A7559FD2657AD3CE47D852C.txt 1 0 64
+/.well-known/pki-validation/DC5009B2F238DDA484517BAF9A9153A6.txt 1 0 64
+/.well-known/pki-validation/19E1F5818E4F2EEBC8B50021A9FC0824.txt 1 0 64
+/.well-known/pki-validation/BB8AB17F93003B3E6360C0F194D051D3.txt 1 0 64
+/.well-known/pki-validation/CA7913EFB8A1CC6CFF056158F7B2AC71.txt 1 0 64
+/.well-known/pki-validation/F4E4FBF296AFB9D0AC468B9B03D915D7.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+Unknown 40 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 1
+Unknown 40 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+COMODO_DCV 20180910232624
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+COMODO_DCV 20180910232624
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 0 40
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+301 1604 397955
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2
+91.199.212.132 0 6 504 
+104.200.31.242 0 34 2254 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20180901 0 3 192 0
+20180902 0 3 192 0
+20180903 0 3 192 0
+20180904 0 3 192 0
+20180905 0 3 192 0
+20180906 0 3 192 0
+20180907 0 3 192 0
+20180908 0 3 192 0
+20180909 0 3 192 0
+20180910 0 13 1030 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 0
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 0
+END_SIDER

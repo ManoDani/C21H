@@ -1,0 +1,112 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id EBqCA9K2X2GAEgAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Fri, 08 Oct 2021 00:11:14 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 08 Oct 2021 00:11:14 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mYgHx-0003Dq-T0
+	for contato@ipbtoledo.com.br; Fri, 08 Oct 2021 00:11:13 -0300
+X-Failed-Recipients: naorespondaaqui@email.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <ec7810d5bc92c8a530e40906e31b9ba2@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1633662673-eximdsn-846794171
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mYgHx-0003Dq-T0@server.mundotk.com.br>
+Date: Fri, 08 Oct 2021 00:11:13 -0300
+
+--1633662673-eximdsn-846794171
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  naorespondaaqui@email.com
+    host mx00.mail.com [74.208.5.20]
+    SMTP error from remote mail server after RCPT TO:<naorespondaaqui@email.com>:
+    550 Requested action not taken: mailbox unavailable
+
+--1633662673-eximdsn-846794171
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;naorespondaaqui@email.com
+Status: 5.0.0
+Remote-MTA: dns; mx00.mail.com
+Diagnostic-Code: smtp; 550 Requested action not taken: mailbox unavailable
+
+--1633662673-eximdsn-846794171
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=51436 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mYgHv-0003DO-NJ
+	for naorespondaaqui@email.com; Fri, 08 Oct 2021 00:11:12 -0300
+Date: Fri, 8 Oct 2021 03:11:12 +0000
+To: Pietra de Freitas <naorespondaaqui@email.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <ec7810d5bc92c8a530e40906e31b9ba2@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Pietra de Freitas 
+
+                    EMAIL: naorespondaaqui@email.com
+
+                    TELEFONE: (11) 912345678
+                    
+
+
+                    CORPO DA MENSAGEM: Essa mensagem é bem curta e direto ao ponto, então farei uma pergunta simples mas que pode mudar completamente os resultados da sua empresa através do seu próprio site.
+
+Oi, tudo bem por ai? Vamos lá…
+
+Todo possível cliente que visita seu site, leva poucos segundos para achar o que ele procura, se nação achar ou nada chamar a atenção ele simplesmente sai do seu site e vai pro seu concorrente, isso mesmo, se ele te achou pelo Google (por exemplo), ele provavelmente também abriu os sites dos seus concorrentes.
+
+Tá, então o que seu site precisa ter ou fazer? Simples, precisa chamar a atenção logo de cara, e eu sei como você pode fazer isso.
+
+Estou falando do nosso Apresentador Virtual!
+
+Ele vai ficar no seu site (no canto), vai chamar a atenção, despertar a curiosidade, passar o recado ou mostrar ao visitante do site o que você oferece de forma clara e isso vai fazer com que você saia na frente da grande maioria dos seus concorrentes.
+
+Essa semana estamos com uma condição incrível e acredito que você vai querer ao menos saber como podemos te ajudar a melhorar a conversão dentro do seu próprio site.
+
+Quer saber mais? Acesse www.seuapresentador.com
+
+Espero você no site, estarei online no chat ou no whatsapp para tirar suas dúvidas e te explicar como nosso sistema funciona.
+
+Obrigado pela atenção.
+
+Pietra de Freitas 
+
+------------
+
+Não tenho interesse, pois minhas vendas vão muito bem: 
+http://www.sairdalista.site?u=http://www.ipbtoledo.com.br&c=7a64acb821484A56A905
+
+
+--1633662673-eximdsn-846794171--

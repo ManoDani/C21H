@@ -1,0 +1,96 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id IBNOBiJr52DCMgAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Thu, 08 Jul 2021 18:16:18 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 08 Jul 2021 18:16:18 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1m1bNZ-0005e6-UT
+	for contato@ipbtoledo.com.br; Thu, 08 Jul 2021 18:16:18 -0300
+X-Failed-Recipients: pixmarketing@yahoo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <4d18fa49768ee3f81d6caa0ebed29cfc@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1625778977-eximdsn-2106703188
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1m1bNZ-0005e6-UT@server.mundotk.com.br>
+Date: Thu, 08 Jul 2021 18:16:17 -0300
+
+--1625778977-eximdsn-2106703188
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  pixmarketing@yahoo.com
+    host mta6.am0.yahoodns.net [67.195.228.111]
+    SMTP error from remote mail server after end of data:
+    554 30 Sorry, your message to pixmarketing@yahoo.com cannot be delivered. This mailbox is disabled (554.30).
+
+--1625778977-eximdsn-2106703188
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;pixmarketing@yahoo.com
+Status: 5.0.0
+Remote-MTA: dns; mta6.am0.yahoodns.net
+Diagnostic-Code: smtp; 554 30 Sorry, your message to pixmarketing@yahoo.com cannot be delivered. This mailbox is disabled (554.30).
+
+--1625778977-eximdsn-2106703188
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=56102 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1m1bNY-0005dp-Ih
+	for pixmarketing@yahoo.com; Thu, 08 Jul 2021 18:16:16 -0300
+Date: Thu, 8 Jul 2021 21:16:16 +0000
+To: Daniel Gobatto <pixmarketing@yahoo.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <4d18fa49768ee3f81d6caa0ebed29cfc@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Daniel Gobatto
+
+                    EMAIL: pixmarketing@yahoo.com
+
+                    TELEFONE: (11) 98765-4321
+                    
+
+
+                    CORPO DA MENSAGEM: Quer ganhar dinheiro divulgando links de afiliados?
+
+👉 https://www.afiliadopix.com.br 
+
+Veja novidades e os resultados da primeira semana de uso. 
+
+👉 https://youtu.be/eCOm9mqfqN8 
+
+Boas vendas! 
+Daniel
+
+
+--1625778977-eximdsn-2106703188--

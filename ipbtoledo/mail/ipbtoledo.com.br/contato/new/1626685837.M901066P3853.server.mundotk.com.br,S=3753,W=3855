@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id 0EQaNY1B9WANDwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Mon, 19 Jul 2021 06:10:37 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 19 Jul 2021 06:10:37 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1m5PIL-0001KQ-OZ
+	for contato@ipbtoledo.com.br; Mon, 19 Jul 2021 06:10:37 -0300
+X-Failed-Recipients: cetroonline@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <6773c56c17e263f577006130f2700956@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1626685837-eximdsn-503260699
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1m5PIL-0001KQ-OZ@server.mundotk.com.br>
+Date: Mon, 19 Jul 2021 06:10:37 -0300
+
+--1626685837-eximdsn-503260699
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  cetroonline@gmail.com
+    host alt4.gmail-smtp-in.l.google.com [173.194.219.27]
+    SMTP error from remote mail server after RCPT TO:<cetroonline@gmail.com>:
+    452-4.2.2 The email account that you tried to reach is over quota. Please direct
+    452-4.2.2 the recipient to
+    452 4.2.2  https://support.google.com/mail/?p=OverQuotaTemp w2si20214937ybg.288 - gsmtp:
+    retry timeout exceeded
+
+--1626685837-eximdsn-503260699
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;cetroonline@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; alt4.gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 452-4.2.2 The email account that you tried to reach is over quota. Please direct
+ 452-4.2.2 the recipient to
+ 452 4.2.2  https://support.google.com/mail/?p=OverQuotaTemp w2si20214937ybg.288 - gsmtp: retry timeout exceeded
+
+--1626685837-eximdsn-503260699
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=38882 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1m3xNy-0004Fy-8J
+	for cetroonline@gmail.com; Thu, 15 Jul 2021 06:10:26 -0300
+Date: Thu, 15 Jul 2021 09:10:26 +0000
+To: Ana Julia Trevisan <cetroonline@gmail.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <6773c56c17e263f577006130f2700956@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Ana Julia Trevisan
+
+                    EMAIL: cetroonline@gmail.com
+
+                    TELEFONE: (44) 3218-5678
+                    
+
+
+                    CORPO DA MENSAGEM: Fizemos levantamentos extremamente importantes para o site www.ipbtoledo.com.br, ENCONTRAMOS FALHAS GRAVES que estão prejudicando continuamente suas vendas.
+
+Agende 5 minutinhos para ver os relatórios e COMO PODEMOS TRANSFORMAR a Ipbtoledo, em UMA MÁQUINA DE VENDAS!
+
+Escolha seu horário e veja tudo com seus próprios olhos:
+https://cetrosites.youcanbook.me
+
+https://cetrosites.com.br
+Whats: (44) 9 9903-3333
+Ligue gratuitamente: 0800 121 7777
+Ana Julia
+
+
+--1626685837-eximdsn-503260699--

@@ -1,0 +1,77 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id uNOvAOSfRWG0WQAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Sat, 18 Sep 2021 05:14:28 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sat, 18 Sep 2021 05:14:28 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mRVUR-0006KK-Sa
+	for contato@ipbtoledo.com.br; Sat, 18 Sep 2021 05:14:27 -0300
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <e3f2066ad3f97b5b645f7ee82ff42085@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1631952867-eximdsn-1632041894
+MIME-Version: 1.0
+Subject: Warning: message 1mQmSf-000552-03 delayed 48 hours
+Message-Id: <E1mRVUR-0006KK-Sa@server.mundotk.com.br>
+Date: Sat, 18 Sep 2021 05:14:27 -0300
+
+--1631952867-eximdsn-1632041894
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 48 hours on the queue on server.mundotk.com.br.
+
+The message identifier is:     1mQmSf-000552-03
+The date of the message is:    Thu, 16 Sep 2021 08:09:37 +0000
+The subject of the message is: Contato via Website
+
+The address to which the message has not yet been delivered is:
+
+  cetroonline@gmail.com
+    Delay reason: H=alt4.gmail-smtp-in.l.google.com [173.194.204.27]:
+    SMTP error from remote mail server after RCPT TO:<cetroonline@gmail.com>:
+    452-4.2.2 The email acco
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.
+
+--1631952867-eximdsn-1632041894
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: delayed
+Final-Recipient: rfc822;cetroonline@gmail.com
+Status: 4.0.0
+
+--1631952867-eximdsn-1632041894
+Content-type: text/rfc822-headers
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=48996 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mQmSf-000552-03
+	for cetroonline@gmail.com; Thu, 16 Sep 2021 05:09:37 -0300
+Date: Thu, 16 Sep 2021 08:09:37 +0000
+To: Lara Monteiro <cetroonline@gmail.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <e3f2066ad3f97b5b645f7ee82ff42085@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+--1631952867-eximdsn-1632041894--

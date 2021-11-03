@@ -1,0 +1,103 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id iNxLIjArEGFnIgAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Sun, 08 Aug 2021 16:06:24 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sun, 08 Aug 2021 16:06:24 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mCo7s-0002Mn-EN
+	for contato@ipbtoledo.com.br; Sun, 08 Aug 2021 16:06:24 -0300
+X-Failed-Recipients: luizotavio_111@divulgasite.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <b58d3319fbdf2cc0cd37f5f5a33b2b9e@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1628449584-eximdsn-1678959079
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mCo7s-0002Mn-EN@server.mundotk.com.br>
+Date: Sun, 08 Aug 2021 16:06:24 -0300
+
+--1628449584-eximdsn-1678959079
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  luizotavio_111@divulgasite.com
+    retry timeout exceeded
+
+--1628449584-eximdsn-1678959079
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;luizotavio_111@divulgasite.com
+Status: 5.0.0
+
+--1628449584-eximdsn-1678959079
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=33296 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mCo5o-0002Gr-Rx
+	for luizotavio_111@divulgasite.com; Sun, 08 Aug 2021 16:04:16 -0300
+Date: Sun, 8 Aug 2021 19:04:16 +0000
+To: Luiz Otavio Assis <luizotavio_111@divulgasite.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <b58d3319fbdf2cc0cd37f5f5a33b2b9e@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Luiz Otavio Assis 
+
+                    EMAIL: luizotavio_111@divulgasite.com
+
+                    TELEFONE: (11) 912345678
+                    
+
+
+                    CORPO DA MENSAGEM: Olá, Ipbtoledo ! 
+
+Seu site ainda não está no TOPO das pesquisas? 
+
+O que você acha se ele ficasse nas melhores posições da primeira página e ser achado pelos seus futuros clientes? 
+
+Podemos te ajudar 
+
+Veja como: 
+
+
+https://www.agenciadigitalraiz.com.br 
+
+
+
+Abraços 
+Luiz Otavio 
+
+
+Não tenho interesse neste produto: 
+http://www.sairdalista.site ?u=http://www.ipbtoledo.com.br&c=3e84d31ad28454DFCC4F
+
+
+--1628449584-eximdsn-1678959079--

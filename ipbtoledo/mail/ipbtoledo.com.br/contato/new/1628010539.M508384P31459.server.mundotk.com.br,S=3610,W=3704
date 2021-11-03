@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id ONs3GSt4CWHjegAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Tue, 03 Aug 2021 14:08:59 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 03 Aug 2021 14:08:59 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mAxuU-00041H-SM
+	for contato@ipbtoledo.com.br; Tue, 03 Aug 2021 14:08:59 -0300
+X-Failed-Recipients: apresentador_507@md.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <8c05e6fc5f6d805462841855626f6457@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1628010538-eximdsn-670064823
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mAxuU-00041H-SM@server.mundotk.com.br>
+Date: Tue, 03 Aug 2021 14:08:58 -0300
+
+--1628010538-eximdsn-670064823
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  apresentador_507@md.com
+    host mail.md.com [54.88.170.168]
+    SMTP error from remote mail server after RCPT TO:<apresentador_507@md.com>:
+    550 5.1.1 <apresentador_507@md.com>: Recipient address rejected:
+    User unknown in virtual mailbox table
+
+--1628010538-eximdsn-670064823
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;apresentador_507@md.com
+Status: 5.0.0
+Remote-MTA: dns; mail.md.com
+Diagnostic-Code: smtp; 550 5.1.1 <apresentador_507@md.com>: Recipient address rejected: User unknown in virtual mailbox table
+
+--1628010538-eximdsn-670064823
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=50844 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mAxuP-00040P-Pu
+	for apresentador_507@md.com; Tue, 03 Aug 2021 14:08:53 -0300
+Date: Tue, 3 Aug 2021 17:08:53 +0000
+To: Maria Flor Lozatto <apresentador_507@md.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <8c05e6fc5f6d805462841855626f6457@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Maria Flor Lozatto
+
+                    EMAIL: apresentador_507@md.com
+
+                    TELEFONE: (11) 976835978
+                    
+
+
+                    CORPO DA MENSAGEM: Ipbtoledo, tão importante quanto ter visitas no seu sie é conquistar o visitante e convertê-lo em cliente. 
+
+Um apresentador virtual dando as boas vindas e as primeiras informações do seu site para todos os visitantes, melhora a atenção e a conversão, deixam seu site mais profissional e eficiente para vender. 
+
+https://www.apresentadorvirtual.com 
+
+O site Magazine Luiza é uma referencia com sua apresentador Magalu. Solicite o seu agora mesmo, com pagamento único a partir de R$ 29,90. Fazemos todo serviço, basta você escolher o modelo e nos enviar o texto a ser narrado.
+
+
+--1628010538-eximdsn-670064823--

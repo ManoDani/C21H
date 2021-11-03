@@ -1,0 +1,178 @@
+Return-Path: <return@buscarshop.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id GAr2I0wdF2GmPgAA85qOww
+	(envelope-from <return@buscarshop.com.br>)
+	for <contato@ipbtoledo.com.br>; Fri, 13 Aug 2021 22:33:00 -0300
+Return-path: <return@buscarshop.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 13 Aug 2021 22:33:00 -0300
+Received: from server0.buscarshop.com.br ([177.137.23.91]:38191)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <return@buscarshop.com.br>)
+	id 1mEiXg-0004E1-0W
+	for contato@ipbtoledo.com.br; Fri, 13 Aug 2021 22:33:00 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=buscarshop.com.br;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=abuse@buscarshop.com.br;
+ bh=sQtxZ4GPxZiTGDEc4c7Pz/gx3Ws=;
+ b=hLC93zUwTMQPoIsjrRCngh0lW+0m9W42hJhd6OJT6P79CZGsdAcgqdLjCOpe1rgGUSRO84JyEjdA
+   K7MnZtdDdCt2iak35ofdPN9xOdfA/9c6qHYwg0ELzZsYQaJx9YYEQT/F7biKT7yKNahtS3QoEpOH
+   Vek/H6qnTOhTT7CZaxLvLe791/+v/yv6CPCXj6eD70Sor1dqjZR6TEgfc2c0903y9jK5Y8Ajh05D
+   AcCM3gDwA42+G7DhDpz8Hka2U0dCRAloE0hgIfFr4OH0RMWg5DjpfZxIKkqNyuqV9/8eW5bk2/9T
+   Qz4dKQQjxxtv1LdYmfk4YoQuIfh5CE41xHAZ7A==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=buscarshop.com.br;
+ b=WzkgilI9sM1XzWnSKg2Inw2q8QSIfkOr6rgMGfrZj4LZYNZbqb31zsnyTGh+lIan6YiWWfT32gEa
+   DMbPVak7e3dxun4SUWTZ8pMnALzlyqlRAc5Q0IOzHueteeVFm1goFAC1HR8UVaTuYI2XdlVwx4wn
+   wSVz6SxAg2/1BVCBIYejy20Ou/lRh35YtE1zt+nDbs8tMZy5Fc1oO+DQSW0mEg+UqcS8IRduftpH
+   0exf0uFr1Blfh0Tz1mSnbmNNoYlQRXMWBRl1jjbGaLGn6Qk6/nW5LPmgGZox0pN4sIZ1zNUYrDjE
+   OeWRd9OK/bri7JEV/nujwWwsreUm/FRdCLZ1PQ==;
+To: contato@ipbtoledo.com.br
+Subject: Proposta - Trabalhe em Casa.
+Message-ID: <cd389344f2d778a0f4f092e7cf526ed2@q.buscarshop.com.br>
+Date: Fri, 13 Aug 2021 22:33:15 -0300
+From: "J. C. Fernandes" <239zs2gu@buscarshop.com.br>
+Reply-To: c0ypc82o@buscarshop.com.br
+MIME-Version: 1.0
+X-Mailer-LID: 24
+List-Unsubscribe: <http://q.buscarshop.com.br/service/unsubscribe.php?M=18710001&C=f883a7bcb6bfe512a69bfd583c385e5f&L=24&N=371>
+X-Mailer-RecptId: 18710001
+X-Mailer-SID: 371
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_4c41f0a4daa4227da60418e1a7276720"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=3.4
+X-Spam-Score: 34
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Olá, Como vai? Trabalhe em Casa no seu Computador ou Celular.
+    Não precisa ter conhecimento avançado. Comece do Zero! Ganhe entre R$ 350
+    a R$ 800 Semanais. GARANTIDO! 
+ Content analysis details:   (3.4 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bit.ly]
+  0.6 FROM_STARTS_WITH_NUMS  From: starts with several numbers
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_IMAGE_ONLY_32     BODY: HTML: images with 2800-3200 bytes of
+                             words
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  3.0 XM_RECPTID             Has spammy message header
+X-Spam-Flag: NO
+
+--b1_4c41f0a4daa4227da60418e1a7276720
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Olá, Como vai?
+
+Trabalhe em Casa no seu Computador ou Celular.
+Não precisa ter conhecimento avançado.
+Comece do Zero!
+
+Ganhe entre R$ 350 a R$ 800 Semanais.
+GARANTIDO!
+
+Confira abaixo no site Renda Em Casa Net.
+https://bit.ly/3bpZuVb
+
+Os interessados devem acessar a página e ler as informações de
+como funciona, proposta e realizar a inscrição.
+(Se o link não estiver clicável, basta copiar e colar na
+barra de endereço em seu navegador).
+
+Caso ainda tiver dúvidas após ler as informações na página,
+segue meu contato abaixo;
+
+Julio Fernandes
+jcfernandes@bol.com.br
+
+
+Obs; Caso não tiver interesse, recomende para alguém que
+esteja precisando.
+
+
+
+Se não desejar receber mais mensagens:
+Clique aqui para deixar de receber estes e-mails:
+http://q.buscarshop.com.br/service/unsubscribe.php?M=18710001&C=f883a7bcb6bfe512a69bfd583c385e5f&L=24&N=371
+
+--b1_4c41f0a4daa4227da60418e1a7276720
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+</head>
+<body>
+<span style="font-family: tahoma, arial, helvetica, sans-serif; font-size:
+small;">Ol&aacute;, Tudo bem?</span>
+<div data-line-height="1.15" class="lh1-15">
+<div data-line-height="1.5" class="lh1-5"><span class="cf1"
+style="font-family: tahoma, arial, helvetica, sans-serif; font-size:
+small;"><br /></span></div>
+<div data-line-height="1.5" class="lh1-5"><span style="font-family: tahoma,
+arial, helvetica, sans-serif; font-size: small;"><span
+class="fs14lh1-5">Trabalhe em Casa no seu&nbsp;</span><span
+class="fs14lh1-5"><b>Computador ou Celular</b></span><span
+class="fs14lh1-5">.</span></span></div>
+<div data-line-height="1.5" class="lh1-5"><span class="fs14lh1-5"
+style="font-family: tahoma, arial, helvetica, sans-serif; font-size:
+small;"><span class="fs14lh1-5">N&atilde;o precisa ter conhecimento
+avan&ccedil;ado.<br /></span><b><span class="fs14lh1-5">Comece do
+Zero!</span></b></span></div>
+<div data-line-height="1.5" class="lh1-5"><span style="font-family: tahoma,
+arial, helvetica, sans-serif; font-size: small;"><span
+class="fs14lh1-5"><br />Ganhe entre&nbsp;</span><b class="fs14lh1-5">R$ 350
+a R$ 800 Semanais</b><span class="fs14lh1-5">.</span></span></div>
+<div data-line-height="2" class="lh2 imTALeft"><span style="font-family:
+tahoma, arial, helvetica, sans-serif; font-size: small;"><b><span
+class="fs18lh2 cf2">GARANTIDO!</span></b></span></div>
+</div>
+<br /><span style="font-family: tahoma, arial, helvetica, sans-serif;
+font-size: small;">Confira abaixo n<span>o site Renda Em Casa
+Net.</span></span><br /><strong><span style="font-family: tahoma, arial,
+helvetica, sans-serif; font-size: small;"><a href="https://bit.ly/3bpZuVb"
+target="_blank">https://bit.ly/3bpZuVb</a></span></strong><br /><span
+style="font-family: tahoma, arial, helvetica, sans-serif; font-size:
+small;"><span>&nbsp;<br />Os interessados devem acessar a p&aacute;gina e
+ler as informa&ccedil;&otilde;es de como funciona, proposta e realizar a
+inscri&ccedil;&atilde;o.<br />(Se o link n&atilde;o estiver
+clic&aacute;vel, basta copiar e colar na barra de endere&ccedil;o em seu
+navegador).<br /><br />Caso ainda tiver d&uacute;vidas ap&oacute;s ler as
+informa&ccedil;&otilde;es na p&aacute;gina, segue meu contato abaixo;<br
+/><br />Julio Fernandes</span><span><br /><strong>jcfernandes@bol.com.br<br
+/></strong></span></span><br /><br /><span style="font-family: tahoma,
+arial, helvetica, sans-serif; font-size: x-small;"><span
+style="font-family: tahoma, arial, helvetica, sans-serif; font-size:
+small;">Obs; Caso n&atilde;o tiver interesse, recomende para algu&eacute;m
+que esteja precisando.</span><br /><br /><br /><br />Se n&atilde;o desejar
+receber mais mensagens:</span><br /><span style="font-family: tahoma,
+arial, helvetica, sans-serif; font-size: x-small;"><a
+href="http://q.buscarshop.com.br/service/unsubscribe.php?M=18710001&C=f883a7bcb6bfe512a69bfd583c385e5f&L=24&N=371">Clique
+aqui para deixar de receber estes e-mails</a></span><br />
+<img
+src="http://q.buscarshop.com.br/service/open.php?M=18710001&L=24&N=371&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_4c41f0a4daa4227da60418e1a7276720--
+
+

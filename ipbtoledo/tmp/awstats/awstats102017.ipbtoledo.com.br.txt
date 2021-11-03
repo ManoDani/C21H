@@ -1,0 +1,487 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201710 will be lost/reset.
+# Last config file used to build this data file was /home/ipbtoledocom/tmp/awstats/awstats.ipbtoledo.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2695                
+POS_VISITOR 18357               
+POS_DAY 18746               
+POS_DOMAIN 3367                
+POS_LOGIN 3630                
+POS_ROBOT 3785                
+POS_WORMS 3996                
+POS_EMAILSENDER 4127                
+POS_EMAILRECEIVER 4270                
+POS_SESSION 19342               
+POS_SIDER 19494               
+POS_FILETYPES 4405                
+POS_DOWNLOADS 4503                
+POS_OS 10818               
+POS_BROWSER 10949               
+POS_SCREENSIZE 11100               
+POS_UNKNOWNREFERER 11174               
+POS_UNKNOWNREFERERBROWSER 11287               
+POS_ORIGIN 11395               
+POS_SEREFERRALS 11528               
+POS_PAGEREFS 11672               
+POS_SEARCHWORDS 11849               
+POS_KEYWORDS 12001               
+POS_MISC 2358                
+POS_ERRORS 12060               
+POS_CLUSTER 3486                
+POS_SIDER_404 12162               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20171101002248 44 8777 8577815345480
+FirstTime 20171004190522
+LastTime 20171006195110
+LastUpdate 20171101100629 44 0 43 0 0
+TotalVisits 8                   
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+AddToFavourites 0 31 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 68 126 33141
+1 0 0 0 257 307 85579
+2 0 0 0 57 108 27258
+3 0 0 0 52 106 27519
+4 0 0 0 57 117 29094
+5 0 0 0 56 104 25334
+6 1 1 623 62 103 32301
+7 1 1 623 78 133 34592
+8 0 0 0 72 140 34294
+9 0 0 0 70 147 36332
+10 0 0 0 77 135 35343
+11 1 1 623 79 130 30569
+12 0 0 0 52 115 28379
+13 0 0 0 73 140 34223
+14 0 0 0 80 155 40294
+15 1 1 623 89 151 38953
+16 0 0 0 82 134 35010
+17 8 8 4965 64 134 33026
+18 2 2 1246 62 142 32902
+19 11 11 6853 90 181 44159
+20 0 0 0 145 211 53836
+21 0 0 0 70 140 34799
+22 1 1 623 73 132 32715
+23 0 93 6069 86 147 36307
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 15 105 15183
+br 10 10 6211
+ua 1 1 623
+gb 0 3 231
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+googlebot 8 4965 20171005045920 0
+bot[\s_+:,\.\;\/\\-] 4 9183 20171030062950 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 26 16179 0 0
+txt 93 6069 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 87
+/.well-known/pki-validation/E76F7BAED35C697FA55E841EF2257642.txt 6 0 462
+/.well-known/pki-validation/AC9E4FB7F0D946845FA46FA829CC9EDB.txt 2 0 154
+/.well-known/pki-validation/B00A737B7379CF5BF8A6030DB36957FA.txt 1 0 64
+/.well-known/pki-validation/B45608131160442693D7251109514C7D.txt 1 0 64
+/.well-known/pki-validation/7075897A9511A8494C288E535115A5CF.txt 1 0 64
+/.well-known/pki-validation/18B3C35D0AE7B988206BD5CD701D9C0D.txt 1 0 64
+/.well-known/pki-validation/81461E47B65CA94BE2A613DC6AD738F7.txt 1 0 64
+/.well-known/pki-validation/BB1C4CCF2F6ADA74FD77C3878D202D42.txt 1 0 64
+/.well-known/pki-validation/AC92263D06803A0D5749A7D7BC8F685E.txt 1 0 64
+/.well-known/pki-validation/BA0FB8FBFFFCF10951015B9933413A63.txt 1 0 64
+/.well-known/pki-validation/660888F1A99120394CC22B4C237A40EB.txt 1 0 64
+/.well-known/pki-validation/00576E5264E91347872D3A98F76CF713.txt 1 0 64
+/.well-known/pki-validation/575FEC12A09018D1E972E243352F417F.txt 1 0 64
+/.well-known/pki-validation/443248FE2B1FAFA72003A8F9A542CCFA.txt 1 0 64
+/.well-known/pki-validation/8A16AD1D57EFA077E3F893A35DDE3F41.txt 1 0 64
+/.well-known/pki-validation/1521730BC3BD667EFB233E6FA8CB71E1.txt 1 0 64
+/.well-known/pki-validation/2F69ED0547DB23434D4F72E519DF83EB.txt 1 0 64
+/.well-known/pki-validation/61097D1F9BAE6D4E4377DDE78C6CC24B.txt 1 0 64
+/.well-known/pki-validation/EC187356A049B955ED3D6811C5FDCF79.txt 1 0 64
+/.well-known/pki-validation/568E741E0D453A8F845DD92E5A3800F9.txt 1 0 64
+/.well-known/pki-validation/489D29BD7785CC8EE1829249E42CA85B.txt 1 0 64
+/.well-known/pki-validation/FD4F50EAF2DF5C539534D20150990053.txt 1 0 64
+/.well-known/pki-validation/AB97C069F86D9CB8A13068BEE7E95AAD.txt 1 0 64
+/.well-known/pki-validation/A20F897B32F09D0E6820B79B80BD2590.txt 1 0 64
+/.well-known/pki-validation/710A37A59DEF22687A9A6B0054714C92.txt 1 0 64
+/.well-known/pki-validation/C018FB3F920191F5F85D984EE1F7F60A.txt 1 0 64
+/.well-known/pki-validation/AF9F3034CF4989803A6633A5224AB7AA.txt 1 0 64
+/.well-known/pki-validation/4D8B79188306EBCFE43DC234E78AFA14.txt 1 0 64
+/.well-known/pki-validation/D8B741895365147576B765F4FBCEF11F.txt 1 0 64
+/.well-known/pki-validation/A5A9CE899FAFC112E300DC611054C9AE.txt 1 0 64
+/.well-known/pki-validation/88F792D91CB5D72CE6329A3FB92D9D20.txt 1 0 64
+/.well-known/pki-validation/506B90F1B593A4F348D039019E80BF85.txt 1 0 64
+/.well-known/pki-validation/7A66E6C1F79FED73B98833DC6F97323F.txt 1 0 64
+/.well-known/pki-validation/CE92DBBDE9B7AAF35B6F7E48FA1E0D21.txt 1 0 77
+/.well-known/pki-validation/C4EA0B1387BF6343384830E581FF6D3A.txt 1 0 64
+/.well-known/pki-validation/97B5319889E1A0BC72524BD69E2D10C4.txt 1 0 64
+/.well-known/pki-validation/F6082B316ABA95C7125714F7562152FE.txt 1 0 64
+/.well-known/pki-validation/CE3CDC92B6AFE6B97F08EC046DB49B99.txt 1 0 64
+/.well-known/pki-validation/FDCB4BFFBCB459E6D529E23767515AFD.txt 1 0 64
+/.well-known/pki-validation/EB3F294FBFCA8ED3542BFD02B020C7FB.txt 1 0 64
+/.well-known/pki-validation/96E7A92B40E844C82642FBA9107858C6.txt 1 0 64
+/.well-known/pki-validation/D2689506BE945FF4643574460AC3F79A.txt 1 0 64
+/.well-known/pki-validation/FD709D79227D664F53EDCD597E595DD3.txt 1 0 64
+/.well-known/pki-validation/6D5A33B866FBC83D796F7DF5AEFE2C3C.txt 1 0 64
+/.well-known/pki-validation/C9219C6601F8447020349D79BED72A6A.txt 1 0 64
+/.well-known/pki-validation/5F6D5022B55158CD71472A6C20D84549.txt 1 0 64
+/.well-known/pki-validation/E83224ACED33EC7345D74466B917B2F3.txt 1 0 64
+/.well-known/pki-validation/65750915E12D0D4E30354738E243CD5C.txt 1 0 64
+/.well-known/pki-validation/1E88A8AA26825F1C707BE762D72EAF16.txt 1 0 64
+/.well-known/pki-validation/A1C5564AFE5E1567D90F3939514CF4F2.txt 1 0 64
+/.well-known/pki-validation/D3FDDC3A740CED9EA237B86AC0D6BFBD.txt 1 0 64
+/.well-known/pki-validation/CE85E10C233E80C8FBE41065B6B36C58.txt 1 0 64
+/.well-known/pki-validation/BFBFC52D38730C7B59D672246EB51C2B.txt 1 0 64
+/.well-known/pki-validation/407FAAA5C71F969C270EDD2FDFE1588E.txt 1 0 64
+/.well-known/pki-validation/644317136D16AE45FD6C5486B69F1C2E.txt 1 0 64
+/.well-known/pki-validation/BAABD14E779DCE20497B1B565D26697C.txt 1 0 64
+/.well-known/pki-validation/8A30C1215451835F40231C31C778ECE8.txt 1 0 64
+/.well-known/pki-validation/F9384438ADC77F425645E30CF9A60D24.txt 1 0 64
+/.well-known/pki-validation/33D15B5D83D070D45DA9CBCE4DD2EA9F.txt 1 0 64
+/.well-known/pki-validation/66DD6B22A16D0412E6AB0C16A8D08C2E.txt 1 0 64
+/.well-known/pki-validation/29B96815BD3344345BB8762818A3965C.txt 1 0 64
+/.well-known/pki-validation/8A30156E3C8D1CE91384636B7A36D1B9.txt 1 0 64
+/.well-known/pki-validation/7EE40D2D9D2045DC7015CD01C83D9AF2.txt 1 0 64
+/.well-known/pki-validation/365BA3D934C4AD05DD4153DB2491C8D1.txt 1 0 64
+/.well-known/pki-validation/B96156B185BA04ED205554981F471A4A.txt 1 0 64
+/.well-known/pki-validation/8E1F5FA2F798580CB7254DE219FC822F.txt 1 0 64
+/.well-known/pki-validation/3E6763EF77FEC1F3071D17CAF016E0DE.txt 1 0 64
+/.well-known/pki-validation/FEFBAE600013D8676673CF14FF88B396.txt 1 0 64
+/.well-known/pki-validation/FBA100A669FABC72839F6F7567BA14EF.txt 1 0 64
+/.well-known/pki-validation/CBBB3E954E12F294E5BB6536F1CFE20A.txt 1 0 64
+/.well-known/pki-validation/7BEC341294C6D62338046295848B101B.txt 1 0 64
+/.well-known/pki-validation/91A90BB16ADFF05C5D3C6B9238BD5CF5.txt 1 0 64
+/.well-known/pki-validation/DFC996318E3731D9D3D6D349388E7CE1.txt 1 0 64
+/.well-known/pki-validation/552C021DBA5D49EE52E876991EB06D56.txt 1 0 64
+/.well-known/pki-validation/0F2C061E630DAC29B1FA16C7AAEC636B.txt 1 0 64
+/.well-known/pki-validation/B7B1E7543924C95E54C5088F1730339E.txt 1 0 64
+/.well-known/pki-validation/AB2DD892938D7D81A23E509B04CEEB9B.txt 1 0 64
+/.well-known/pki-validation/905A9B7595F8AB8393248944836A4DA7.txt 1 0 64
+/.well-known/pki-validation/4C5C1FA62B1A0EA80C38C08A3559B1F6.txt 1 0 64
+/.well-known/pki-validation/E85B5DF2D22C7A026968646D2377F80C.txt 1 0 64
+/.well-known/pki-validation/EBCF8297EDD59D08F79162E97C9751CD.txt 1 0 64
+/.well-known/pki-validation/B5D2B476453876DA0C9A6EB9F784861B.txt 1 0 64
+/.well-known/pki-validation/F066B05F4530CE7B8827DB056DCF9E6C.txt 1 0 64
+/.well-known/pki-validation/0F2292B8AD5769B3B22FC2CD1BF659D7.txt 1 0 64
+/.well-known/pki-validation/19CAB1AC3052DDABEF1DBA5638124256.txt 1 0 64
+/.well-known/pki-validation/15293F48BA657A2D1FD7C215A283E60B.txt 1 0 64
+/.well-known/pki-validation/D06E9B3F6403C5434832DEE6AE686BCB.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win8.1 1 1
+win7 8 8
+winnt 14 14
+macosx 1 1
+linux 2 2
+Unknown 93 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+safari2.0.3 1 1
+chrome57.0.2987.133 3 3
+opera36.0.2130.32 1 1
+chrome61.0.3163.100 21 21
+Unknown 93 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+COMODO_DCV 20171031232504
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+COMODO_DCV 20171031232504
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 18 111
+From1 0 0
+From2 0 0
+From3 1 1
+From4 7 7
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+301 3171 854227
+404 201 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 118
+/site/pedidos-de-oracao/ 2 -
+/site/wp-content/uploads/2016/02/Boletim-47.pdf 2 -
+/site/listaboletim/page/7/ 1 -
+/site/wp-content/uploads/2013/02/nacoes.jpg 1 -
+/site/fotos/batismo-181112 1 -
+/site/estudos/1584/ 1 -
+/wp/ 1 -
+/wp-content/uploader.php 1 http://ipbtoledo.com.br/wp-content/uploader.php
+/site/fotos/batismo-181112/ 2 -
+/site/wp-content/uploads/2012/11/IMG_1295.jpg 1 -
+/site/noticias/links/ 1 -
+/site/wp-content/uploads/2013/02/Tira.jpg 1 -
+/site/listaboletim/ 1 -
+/wordpress/ 1 -
+/site 2 -
+/joomla/administrator/index.php 1 -
+/site/wp-content/uploads/2012/11/IMG_1289.jpg 1 -
+/site/estudos/jesus-entrou-em-seu-coracao/ 2 http://ipbtoledo.com.br/site/estudos/jesus-entrou-em-seu-coracao/
+/site/videos/o-amor-de-deus-e-maior-que-tudo/ 2 -
+/site/videos/pascoa/ 1 -
+/site/wp-content/uploads/2013/02/Sarsa-IPB.jpg 1 -
+/site/estudos-biblicos/page/3/ 1 -
+/site/wp-content/uploads/2014/01/Boleba-205-01-12-2013.pdf 1 -
+/site/listavideos/ 2 -
+/site/wp-content/uploads/2014/10/Boleba-247-28-09-2014.pdf 1 -
+/site/wp-content/uploads/2012/12/1354623238016-C%c3%b3pia-225x300.jpg 1 -
+/site/wp-content/uploads/2012/11/IMG_1672-150x150.jpg 2 https://www.google.com.br/
+/blog/ 1 -
+/site/estudos/serie-natal-12/ 1 -
+/site/fotos/aniversario-da-igreja-2013/1476623_582307705168464_67143987_n/ 1 -
+/site/fotos/aniversario-da-igreja-2013/1480485_579257222140179_1543368440_n/feed/ 1 -
+/site/wp-content/uploads/2012/11/IMG_1087.jpg 3 -
+/joomla/robots.txt 1 -
+/site/ministerios/ministerio-de-louvor/ 1 -
+/site/wp-content/plugins/wp-lightbox-2/styles/lightbox.min.css 2 http://ipbtoledo.com.br/site/fotos/aniversario-da-igreja-2013/1470114_579257615473473_818446608_n/
+/site/wp-content/uploads/2012/12/Boleba-156-09-12-2012.pdf 1 -
+/site/wp-cron.php 1 -
+/site/wp-content/uploads/2013/08/15.jpg 1 -
+/site/listaboletim/page/10/ 1 -
+/site/fotos/aniversario-da-igreja-2013/1470366_579257738806794_1677046224_n/ 1 -
+/site/fotos/aniversario-da-igreja-2013/1452375_579231282142773_1018098581_n/ 1 -
+/site/wp-content/uploads/2013/01/Boleba-163-27-01-2013.pdf 1 -
+/site/fotos/missao-caiua-na-igreja/ 1 -
+/robots.txt 21 -
+/site/contato/ 1 -
+/site/videos/17-anos-de-igreja-organizada-para-a-gloria-de-deus/ 1 -
+/site/wp-content/uploads/2013/09/Boleba-185-30-06-2013.pdf 1 -
+/site/estudos/serie-crescendo-na-comunhao-15/ 1 -
+/site/wp-content/uploads/2012/11/IMG_1298.jpg 1 -
+/site/videos/maio-o-mes-da-familia/ 1 -
+/site/listafotos 2 -
+/site/mensagens-em-audio-2-2/ 4 -
+/site/wp-content/uploads/2014/08/simonton-1.jpg 1 -
+/index.php 2 -
+/site/wp-content/uploads/2012/11/IPB.png 2 -
+/site/wp-content/uploads/2013/08/131.jpg 1 -
+/site/estudos/culto-domestico/ 4 https://www.google.com.br/
+/site/wp-content/uploads/2012/12/IMG_28871-150x150.jpg 1 -
+/administrator/index.php 1 -
+/wp-login.php 1 -
+/site/wp-content/uploads/2013/09/Boleba-189-28-07-2013.pdf 1 -
+/site/wp-content/uploads/2012/11/IMG_1118.jpg 1 -
+/site/estudos-biblicos 2 -
+/site/ 2 -
+/site/estudos/cuidando-do-proximo 1 -
+/site/listavideos 1 -
+/site/conheca/ 3 -
+/site/wp-content/uploads/2014/01/Boleba-204-24-11-2013-pronto.pdf 2 -
+/site/wp-content/uploads/2012/11/IMG_1206.jpg 3 -
+/site/wp-content/uploads/2012/11/IMG_7227.jpg 2 -
+/site/wp-content/uploads/2016/03/Boletim-48.pdf 1 -
+/site/estudos/crescendo-na-comunhao/ 1 -
+/site/wp-content/themes/proclamaiweb-tema01/style.css 2 http://ipbtoledo.com.br/site/fotos/aniversario-da-igreja-2013/1470114_579257615473473_818446608_n/
+/site/wp-content/uploads/2014/04/Boleba-215-09-02-2014.pdf 1 -
+/site/estudos/cuidando-do-proximo/ 1 -
+/site/wp-content/uploads/2013/09/Boleba-190-04-08-2013.pdf 1 -
+/site/estudos/estudo-sobre-dons/ 1 -
+/site/estudos/serie-crescendo-na-comunhao-6/ 1 -
+/site/wp-content/uploads/2016/02/Boletim-46.pdf 1 -
+/xmlrpc.php 1 -
+/site/wp-content/uploads/2014/01/1425790_582309258501642_134055156_n-150x150.jpg 1 -
+/site/estudos-biblicos/page/4/ 1 -
+/site/estudos/educacao-de-filhos/ 1 -
+/site/wp-content/uploads/2016/03/Boletim-50.pdf 1 -
+/site/wp-content/uploads/2012/11/DSC02903.jpg 1 -
+/site/wp-content/uploads/2013/08/5.jpg 1 -
+/site/wp-content/uploads/2013/01/Boleba-158-23-12-2012.pdf 1 -
+/site/estudos-biblicos/page/2/ 1 -
+/site/wp-content/uploads/2016/08/Boletim-62.pdf 2 -
+/site/fotos/aniversario-da-igreja-2013/581997_579257338806834_863553531_n/ 1 -
+/site/wp-content/uploads/2012/11/IMG_7236.jpg 2 -
+/site/ministerios/ump/ 2 -
+/site/wp-content/uploads/2012/11/IMG_1132.jpg 1 -
+/site/contato 5 -
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 1 http://ipbtoledo.com.br/administrator/components/com_simplephotogallery/lib/uploadFile.php
+/site/wp-content/uploads/2012/11/IMG_1365.jpg 3 -
+/site/estudos-biblicos/ 19 https://www.google.com.br/
+/site/lista-ministerios 1 -
+/site/wp-content/uploads/2014/09/Boleba-242-24-08-2014.pdf 1 -
+/blog/administrator/index.php 1 -
+/site/wp-content/uploads/2012/11/IMG_1159.jpg 1 -
+/site/wp-content/uploads/2013/02/ 1 -
+/site/wp-content/uploads/2014/08/image.jpg 3 -
+/site/wp-content/uploads/2014/09/Boleba-244-07-09-2014.pdf 1 -
+/blog/robots.txt 2 -
+/site/mensagens-em-audio-2-2 1 -
+/site/videos/o-semeador-saiu-a-semear-bora/ 1 -
+/site/lista-ministerios/feed/ 1 -
+/site/wp-content/uploads/2013/07/EBF-Julho-de-2013-211.jpg 1 -
+/site/wp-content/uploads/2016/08/Boletim-63.pdf.pdf 1 -
+/site/conheca 2 -
+/site/fotos/missao-caiua/ 1 -
+/site/wp-content/uploads/2012/11/IMG_1163.jpg 1 -
+/site/wp-content/plugins/wp-pagenavi/pagenavi-css.css 2 http://ipbtoledo.com.br/site/fotos/aniversario-da-igreja-2013/1470114_579257615473473_818446608_n/
+/site/fotos/aniversario-da-igreja-2013/1470114_579257615473473_818446608_n/feed/ 1 -
+/site/wp-content/uploads/2012/12/IMG_2305-150x150.jpg 2 -
+/site/wp-content/plugins/contact-form-7/styles.css 2 http://ipbtoledo.com.br/site/fotos/aniversario-da-igreja-2013/1470114_579257615473473_818446608_n/
+/site/videos/palavra-do-pastor-jair-com-o-missionario-esdras-missao-caiua/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+168.181.51.232 13 13 8099 20171006195110
+189.2.223.226 7 7 4342 20171006171045
+177.42.44.69 2 2 1246 20171005220028
+178.137.83.166 1 1 623 20171005065607
+179.177.0.141 1 1 623 20171004190522
+130.211.123.121 1 1 623 20171005114930
+34.212.65.157 1 1 623 20171006151450
+91.199.212.132 0 3 231 
+104.200.31.242 0 90 5838 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20171004 1 13 1508 1
+20171005 4 7 2684 4
+20171006 21 24 13256 3
+20171007 0 3 192 0
+20171008 0 3 192 0
+20171009 0 3 192 0
+20171010 0 3 192 0
+20171011 0 3 192 0
+20171012 0 3 192 0
+20171013 0 3 192 0
+20171014 0 3 192 0
+20171015 0 3 192 0
+20171016 0 3 192 0
+20171017 0 3 192 0
+20171018 0 3 192 0
+20171019 0 3 192 0
+20171020 0 3 192 0
+20171021 0 3 192 0
+20171022 0 3 192 0
+20171023 0 3 192 0
+20171024 0 3 192 0
+20171025 0 3 192 0
+20171026 0 3 192 0
+20171027 0 3 192 0
+20171028 0 3 192 0
+20171029 0 3 192 0
+20171030 0 3 192 0
+20171031 0 3 192 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 7
+1h+ 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 25 15575 8 8
+/cgi-bin/ 1 604 0 0
+END_SIDER

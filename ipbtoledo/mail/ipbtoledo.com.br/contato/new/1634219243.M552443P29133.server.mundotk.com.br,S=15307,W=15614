@@ -1,0 +1,307 @@
+Return-Path: <intermedica-roseane-w59@evolucaosaudebr.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id OLpRIOs0aGHNcQAA85qOww
+	(envelope-from <intermedica-roseane-w59@evolucaosaudebr.com.br>)
+	for <contato@ipbtoledo.com.br>; Thu, 14 Oct 2021 10:47:23 -0300
+Return-path: <intermedica-roseane-w59@evolucaosaudebr.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 14 Oct 2021 10:47:23 -0300
+Received: from cloud5022924.evolucaosaudebr.com.br ([185.249.201.138]:45042)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <intermedica-roseane-w59@evolucaosaudebr.com.br>)
+	id 1mb14o-0008F0-55
+	for contato@ipbtoledo.com.br; Thu, 14 Oct 2021 10:47:23 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=tvciqx; d=evolucaosaudebr.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=intermedica-roseane-w59@evolucaosaudebr.com.br;
+ bh=2RLSr1kJp1NJF6/iLQqLxagH9zk=;
+ b=DpRKvYOHcly/uOXP/s83HSsy0uOQbvURrYHwmSIu/gSKVmBxEcwwULjnO3seUjZr4JrWLpYZpGSp
+   O+x6T96BisBYLI992UCJCjurlzyaRvfEIJ46zIJ+5z0O+eFYpRRIKqmfhgHimq2TRCWSqgRQxB0P
+   eV+Of8zqOsUKTH7BodY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=tvciqx; d=evolucaosaudebr.com.br;
+ b=Lbe0q1190OJWNiMdSW+Htxbf+7mvsDH7iShnwA3hWUDiBfageup48llO+M3pf21lS6DCHF/Onhv5
+   avyp6T9kP6qUY+ZwuykPLY1YscyMoSh6VRV6OYBIN0PANYiEDwzJlzm/vSUQbEndWYuG6LTrMOp8
+   4KKFQfLnDvTbxuK+cxw=;
+Date: Thu, 14 Oct 2021 10:46:36 -0300
+To: contato@ipbtoledo.com.br
+From: =?iso-8859-1?Q?GNDI_Sa=FAde__-_Ger=2E_cota=E7=E3o__=28In=EAs_Bianca=29?= <intermedica-roseane-w59@evolucaosaudebr.com.br>
+Subject: =?iso-8859-1?Q?Um_excelente_plano_de_sa=FAde_com_40%_de_desconto?=
+Message-ID: <g5f4i4s41426f453f4w5g5t4w5j4i544l4p274o4t534i5x5@evolucaosaudebr.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_LlGx8LIHfaIHIXmTjgIyRjXo9XaejvbenfAFnYU"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Não consegue visualizar? Acesse este [link](http://ec2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qs=24r2y233x2d4v2t2v2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l47494f4161
+    [...] 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: evolucaosaudebr.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image
+                             area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+--b1_LlGx8LIHfaIHIXmTjgIyRjXo9XaejvbenfAFnYU
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+N=C3=A3o consegue visualizar? Acesse este [link](http://ec2-18-228-138-208.=
+sa-east-1.compute.amazonaws.com/?qs=3D24r2y233x2d4v2t2v2e42473k5m4r5k474n4j=
+4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l47494f41614m4a4l5g5r434a4s5d4=
+s254m4&lin=3D11541).=0A=0A=0APrecisa Reduzir o Custo de seu Plano de Sa=
+=C3=BAde? Conhe=C3=A7a os Novos Planos de Sa=C3=BAde da Interm=C3=A9dica No=
+tredame, com Condi=C3=A7=C3=B5es Especiais Para CNPJ. Economia de At=C3=
+=A9 40%=0AAtendimento r=C3=A1pido, seguro e totalmente online!=0A=0A[](http=
+://ec2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qs=3D24r2y233x2d4v2t=
+2v2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l47494f4=
+1614m4a4l5g5r434a4s5d4s254m4&lin=3D11541)=0A=0A=0A=0ANossos consultores est=
+=C3=A3o preparados para lhe atender com os planos de sa=C3=BAde da Notredam=
+e Interm=C3=A9dica.  Cuidado certo com pre=C3=A7os acess=C3=ADveis, 40% de =
+economia nos planos PME de 2 a 29 vidas.=0A=0ATenha acesso aos melhores hos=
+pitais e rede credenciada qualificada no Brasil, com cobertura nacional.=0A=
+A Notredame Interm=C3=A9dica lan=C3=A7a campanha para contrata=C3=A7=C3=
+=A3o online com desconto em todos os seus produtos.=0A=0A[](http://ec2-18-2=
+28-138-208.sa-east-1.compute.amazonaws.com/?qs=3D24r2y233x2d4v2t2v2e42473k5=
+m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l47494f41614m4a4l5g=
+5r434a4s5d4s254m4&lin=3D11541)=0A=0A=0A=0A=0A=0A[](http://ec2-18-228-138-20=
+8.sa-east-1.compute.amazonaws.com/?qs=3D24r2y233x2d4v2t2v2e42473k5m4r5k474n=
+4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l47494f41614m4a4l5g5r434a4s5=
+d4s254m4&lin=3D11542)=0A=0AA Interm=C3=A9dica Notredame oferece cobertura e=
+m todo o territ=C3=B3rio nacional,=0Acom rede credenciada de alt=C3=ADssimo=
+ n=C3=ADvel e rede pr=C3=B3pria qualificada.=0ASeja cliente Interm=C3=A9dic=
+a Notredame. Copyright =C2=A9 2021.=0A=0A=0A=0A=0A=0A=0A=0A=0APara garantir=
+ que voc=C3=AA sempre receba as nossas mensagens, adicione o endere=C3=
+=A7o do remetente em sua lista de contatos.=0A=0ANossa empresa respeita a s=
+ua privacidade.=0A[N=C3=A3o desejo receber futuras mensagens](http://ec2-18=
+-228-138-208.sa-east-1.compute.amazonaws.com/?qr=3D24r2y233x2d4v2t2v2e42473=
+k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l47494f41614m4a4l=
+5g5r434a4s5d4s254m4)
+--b1_LlGx8LIHfaIHIXmTjgIyRjXo9XaejvbenfAFnYU
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+=09<title></title>
+</head>
+<body>
+<center><font style=3D"font-size: 11px; color: #000000;font-family: verdana=
+; " >N&atilde;o consegue visualizar? Acesse este <a href=3D"http://ec2-18-2=
+28-138-208.sa-east-1.compute.amazonaws.com/?qs=3D24r2y233x2d4v2t2v2e42473k5=
+m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l47494f41614m4a4l5g=
+5r434a4s5d4s254m4&lin=3D11541" style=3D"color: Blue" target=3D"_blank" >lin=
+k</a>.</font>
+</center>
+<style type=3D"text/css" >@font-face {            font-family: 'Montserrat'=
+;            font-style: normal;            font-weight: 300;            sr=
+c: local('Montserrat Light'), local('Montserrat-Light'), url(https://fonts.=
+gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2) format('=
+woff2');        }        @font-face {            font-family: 'Montserrat';=
+            font-style: normal;            font-weight: 600;            src=
+: local('Montserrat SemiBold'), local('Montserrat-SemiBold'), url(https://f=
+onts.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_bZF3gnD_g.woff2) for=
+mat('woff2');        }        @font-face {            font-family: 'Montser=
+rat';            font-style: normal;            font-weight: 700;          =
+  src: local('Montserrat Bold'), local('Montserrat-Bold'), url(https://font=
+s.gstatic.com/s/montserrat/v12/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2) format=
+('woff2');        }
+</style>
+<div align=3D"center" >
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 600=
+px;" >
+=09<tbody>
+=09=09<tr>
+=09=09=09<td height=3D"100" width=3D"600" >
+=09=09=09<div align=3D"center" ><span style=3D"font-family: tahoma, arial, =
+helvetica, sans-serif; font-size: 15px;" >Precisa Reduzir o Custo de seu Pl=
+ano de Sa&uacute;de? <b><font color=3D"#E89700" >Conhe&ccedil;a os Novos Pl=
+anos de Sa&uacute;de da Interm&eacute;dica Notredame, com Condi&ccedil;&oti=
+lde;es Especiais Para CNPJ. Economia de At&eacute; 40% </font></b><br />
+=09=09=09Atendimento r&aacute;pido, seguro e totalmente online!</span></div=
+>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td height=3D"10" width=3D"600" >&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" width=3D"600" ><a href=3D"http://ec2-18-228-1=
+38-208.sa-east-1.compute.amazonaws.com/?qs=3D24r2y233x2d4v2t2v2e42473k5m4r5=
+k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l47494f41614m4a4l5g5r43=
+4a4s5d4s254m4&lin=3D11541" style=3D"color: #000000; outline: none;" target=
+=3D"_blank" ><img alt=3D"Cota=E7=E3o Planos de Sa=FAde " border=3D"0" heigh=
+t=3D"410" src=3D"https://amilsaude.s3.amazonaws.com/planos-de-saude-interme=
+dica-notredame-mobile.jpg" style=3D"display: block;" width=3D"600" /> </a><=
+/td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td height=3D"20" width=3D"510" >&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td width=3D"600" >
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"w=
+idth: 600px;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td width=3D"45" >&nbsp;</td>
+=09=09=09=09=09=09<td width=3D"510" >
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"width: 510px;" >
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"color: #000000; fo=
+nt-size: 18px; font-weight: 300; line-height: 26px;" width=3D"510" >Nossos =
+consultores est&atilde;o preparados para lhe atender com os planos de sa&ua=
+cute;de da Notredame Interm&eacute;dica. <b><font color=3D"#E89700" > Cuida=
+do certo com pre&ccedil;os acess&iacute;veis, 40% de economia nos planos PM=
+E de 2 a 29 vidas. </font></b></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"25" width=3D"510" >&nbsp;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"color: #000000; fo=
+nt-size: 18px; font-weight: 300; line-height: 26px;" width=3D"510" ><strong=
+>Tenha acesso aos melhores hospitais e rede credenciada qualificada no Bras=
+il, com cobertura nacional. </strong><br />
+=09=09=09=09=09=09=09=09=09<b><font color=3D"#E89700" >A Notredame Interm&e=
+acute;dica lan&ccedil;a campanha para contrata&ccedil;&atilde;o online com =
+desconto em todos os seus produtos.</font></b></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"30" width=3D"510" >&nbsp;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" width=3D"510" ><a href=3D"h=
+ttp://ec2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qs=3D24r2y233x2d4=
+v2t2v2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l4749=
+4f41614m4a4l5g5r434a4s5d4s254m4&lin=3D11541" style=3D"color: #000000; outli=
+ne: none;" target=3D"_blank" ><img alt=3D"Cota=E7=E3o Planos de Sa=FAde" bo=
+rder=3D"0" height=3D"100" src=3D"https://amilsaude.s3.amazonaws.com/botao-o=
+rcamento.png" style=3D"display: block;" width=3D"450" /> </a></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09<td width=3D"45" >&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td height=3D"40" width=3D"600" >&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td bgcolor=3D"#e6e6e6" height=3D"30" width=3D"600" >
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"w=
+idth: 600px;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td height=3D"30" width=3D"600" >&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td width=3D"600" >
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"width: 600px;" >
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" width=3D"287" >
+=09=09=09=09=09=09=09=09=09<div align=3D"center" ><a href=3D"http://ec2-18-=
+228-138-208.sa-east-1.compute.amazonaws.com/?qs=3D24r2y233x2d4v2t2v2e42473k=
+5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423n5n4l4p5l47494f41614m4a4l5=
+g5r434a4s5d4s254m4&lin=3D11542" style=3D"outline: none; text-decoration: no=
+ne;" target=3D"_blank" ><img alt=3D"Nossos consultores est=E3o preparados p=
+ara lhe atender com os planos de sa=FAde da Notredame Interm=E9dica. Cuidad=
+o certo com pre=E7os acess=EDveis, 40% de economia nos planos PME de 2 a 29=
+ vidas" border=3D"0" height=3D"115" src=3D"https://amilsaude.s3.amazonaws.c=
+om/wattsApp.png" style=3D"display: block;" width=3D"315" /> </a></div>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09<td width=3D"26" >&nbsp;</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td height=3D"10" width=3D"600" >&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" style=3D"color: #000000; font-size: =
+14px; font-weight: 300;" width=3D"600" ><font color=3D"#E89700" ><b>A Inter=
+m&eacute;dica Notredame oferece cobertura em todo o territ&oacute;rio nacio=
+nal,<br />
+=09=09=09=09=09=09com rede credenciada de alt&iacute;ssimo n&iacute;vel e r=
+ede pr&oacute;pria qualificada.</b></font><br />
+=09=09=09=09=09=09<b><strong style=3D"font-weight: 600;" >Seja cliente Inte=
+rm&eacute;dica Notredame</strong>. Copyright &copy; 2021.</b><br />
+=09=09=09=09=09=09&nbsp;</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+</div>
+
+<p>&nbsp;</p>
+
+<center>
+<table align=3D"center" style=3D"font-family: Helvetica, Arial, sans-serif;=
+max-width: 600px; min-width: 240px; margin: 0 auto; font-size: 12px" >
+=09<tbody>
+=09=09<tr>
+=09=09=09<td><br />
+=09=09=09<br />
+=09=09=09<br />
+=09=09=09Para garantir que voc&ecirc; sempre receba as nossas mensagens, ad=
+icione o endere&ccedil;o do remetente em sua lista de contatos.<br />
+=09=09=09<br />
+=09=09=09Nossa empresa respeita a sua privacidade.<br />
+=09=09=09<a href=3D"http://ec2-18-228-138-208.sa-east-1.compute.amazonaws.c=
+om/?qr=3D24r2y233x2d4v2t2v2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4=
+t264p423n5n4l4p5l47494f41614m4a4l5g5r434a4s5d4s254m4" style=3D"color: blue"=
+ target=3D"_blank" >N&atilde;o desejo receber futuras mensagens</a><br />
+=09=09=09&nbsp;</td>
+=09=09</tr>
+=09</tbody>
+</table>
+</center>
+
+<p>&nbsp;</p>
+<img src=3D"http://ec2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qo=
+=3D24r2y233x2d4v2t2v2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4=
+23n5n4l4p5l47494f41614m4a4l5g5r434a4s5d4s254m4" alt=3D"" width=3D1 height=
+=3D1 style=3D"border:0 none;display:block;height:auto;line-height:100%;outl=
+ine:none;-webkit-text-decoration:none;text-decoration:none"></body>
+</html>
+
+
+--b1_LlGx8LIHfaIHIXmTjgIyRjXo9XaejvbenfAFnYU--
+

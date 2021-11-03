@@ -1,0 +1,176 @@
+Return-Path: <contato@livrofamiliar.com.br>
+Delivered-To: ipbtoledocom@srv1.thnardi.com
+Received: from srv1.thnardi.com
+	by srv1.thnardi.com with LMTP
+	id 2WjmIkzT0l0eUAAApOPejg
+	(envelope-from <contato@livrofamiliar.com.br>)
+	for <ipbtoledocom@srv1.thnardi.com>; Mon, 18 Nov 2019 14:22:20 -0300
+Return-path: <contato@livrofamiliar.com.br>
+Envelope-to: ipbtoledo@ipbtoledo.com.br
+Delivery-date: Mon, 18 Nov 2019 14:22:20 -0300
+Received: from kimdestro.livrofamiliar.com.br ([63.141.254.180]:60611)
+	by srv1.thnardi.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <contato@livrofamiliar.com.br>)
+	id 1iWkjD-0005KW-Jt
+	for ipbtoledo@ipbtoledo.com.br; Mon, 18 Nov 2019 14:22:20 -0300
+DKIM-Signature: v=1; a=rsa-sha256; d=livrofamiliar.com.br;
+	s=livrofamiliar.com.br; q=dns/txt;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=w/B65w2mF9EutlUHM7oky8rIZFE3w8gDJMjlJbXGb9I=;
+	b=bGSGsJ9OGkTiQ+V1/Pqz42sDYqBjxTdmApM38MUbXS8
+	 wTgeXrYSktUdJTl+KBbDMbc2Oprf4/xXEt1IkOSIEwg==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=livrofamiliar.com.br;
+	s=dkim; t=1574096946;
+	bh=w/B65w2mF9EutlUHM7oky8rIZFE3w8gDJMjlJbXGb9I=;
+	h=From:Reply-To:To:Subject:Date:From:Subject;
+	b=MIcPhaEpRF51VXDRwBqSBfg6FATH4RES8Voqnp0SO+wRTQhimo/KKWEEa0CJDb3P6
+	 C5ijDdQdWmOwAeJH6rhhpi8tvQEH00maaajsRpXC/0GSVIQZFReudrsAXB5zqSFGHh
+	 TyQQIo5iS9s26jkYUL3wJUIJgD/ZN7mUbw8WBvcY=
+Message-ID: <42A769E30B1D021F1DBCB732116E642@DESKTOP-4ON41CL>
+From: contato@livrofamiliar.com.br
+Reply-To: contato@livrofamiliar.com.br
+To: ipbtoledo@ipbtoledo.com.br
+Subject: =?iso-8859-1?Q?Divulga=E7ao_Livro?=
+Date: Fri, 29 Nov 2019 02:31:28 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Mark=_1118267875559133937383"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "srv1.thnardi.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  <h3><font face="Microsoft Sans Serif" color="Red">A/C ipbtoledo@ipbtoledo.com.br</font></h3>
+    Estou divulgando o livro LUCRO Isto que Interessa(34,90) , pode ajudar as
+    pessoas ou empresas que estão enfrentando dificuldades financeiras. Compre
+    com segurança(na dúvida, copie e colo o link) no me [...] 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bit.ly]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 T_DATE_IN_FUTURE_96_Q  Date: is 4 days to 4 months after
+                             Received: date
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+--Mark=_1118267875559133937383
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<h3><font face=3D"Microsoft Sans Serif" color=3D"Red">A/C ipbtoledo@ipb=
+toledo.com.br</font></h3> 
+ 
+Estou divulgando o livro LUCRO Isto que Interessa(34,90) ,  pode ajudar=
+ as pessoas ou empresas que  est=E3o enfrentando dificuldades  financei=
+ras.
+Compre com seguran=E7a(na d=FAvida, copie e colo o link) no mercado_liv=
+re: https://bit.ly/2NnZ0V6.  
+ 
+Maiores detalhes em  cslivros.com.br ou pe=E7a p/ REMOVER.
+Att
+Caroline Soares-Editora digital.
+Mesmo autor do livro de sucesso para  empresas familiares AMEOUDEIXE(34=
+,90)
+ 
+
+--Mark=_1118267875559133937383
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<h3><font face=3D"Microsoft Sans Serif" color=3D"Red">A/C ipbtoledo@ipb=
+toledo.com.br</font></h3><DIV class=3DWordSection1>
+<P class=3DMsoNormal style=3D"TEXT-AUTOSPACE: ; mso-layout-grid-align: =
+none"><SPAN style=3D"COLOR: black; mso-ascii-font-family: Calibri; mso-=
+hansi-font-family: Calibri; mso-bidi-font-family: Calibri"><?xml:namesp=
+ace prefix =3D "o" ns =3D "urn:schemas-microsoft-com:office:office" /><=
+o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><A name=3D_MailAutoSig=
+>Estou divulgando o livro </A><SPAN style=3D"mso-bookmark: _MailAutoSig=
+"><B><U><SPAN style=3D"FONT-SIZE: 14pt; COLOR: #c00000; mso-ascii-font-=
+family: Calibri; mso-hansi-font-family: Calibri">LUCRO</SPAN></U></B></=
+SPAN><SPAN style=3D"mso-bookmark: _MailAutoSig"><B><U><SPAN style=3D"CO=
+LOR: #c00000; mso-ascii-font-family: Calibri; mso-hansi-font-family: Ca=
+libri"> Isto que Interessa(34,90) ,</SPAN></U></B></SPAN><SPAN style=3D=
+"mso-bookmark: _MailAutoSig"><B><SPAN style=3D"COLOR: #c00000; mso-asci=
+i-font-family: Calibri; mso-hansi-font-family: Calibri"> </SPAN></B><SP=
+AN style=3D"mso-spacerun: yes">&nbsp;</SPAN>pode ajudar as pessoas ou e=
+mpresas que <SPAN style=3D"mso-spacerun: yes">&nbsp;</SPAN>est=E3o enfr=
+entando dificuldades <SPAN style=3D"mso-spacerun: yes">&nbsp;</SPAN>fin=
+anceiras.</SPAN><o:p></o:p></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D"COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">=
+Compre com seguran=E7a(na d=FAvida, copie e colo o link) </SPAN><B styl=
+e=3D"mso-bidi-font-weight: normal"><SPAN style=3D'COLOR: #595959; mso-a=
+scii-font-family: Calibri; mso-hansi-font-family: Calibri; mso-themecol=
+or: text1; mso-themetint: 166; mso-style-textfill-fill-color: #595959; =
+mso-style-textfill-fill-themecolor: text1; mso-style-textfill-fill-alph=
+a: 100.0%; mso-style-textfill-fill-colortransforms: "lumm=3D65000 lumo=3D=
+35000"'>no </SPAN></B><B style=3D"mso-bidi-font-weight: normal"><SPAN s=
+tyle=3D'FONT-SIZE: 14pt; COLOR: #595959; mso-ascii-font-family: Calibri=
+; mso-hansi-font-family: Calibri; mso-themecolor: text1; mso-themetint:=
+ 166; mso-style-textfill-fill-color: #595959; mso-style-textfill-fill-t=
+hemecolor: text1; mso-style-textfill-fill-alpha: 100.0%; mso-style-text=
+fill-fill-colortransforms: "lumm=3D65000 lumo=3D35000"'>mercado_livre</=
+SPAN></B><SPAN style=3D"COLOR: black; mso-ascii-font-family: Calibri; m=
+so-hansi-font-family: Calibri">:&nbsp;</SPAN><SPAN style=3D'FONT-SIZE: =
+10.5pt; FONT-FAMILY: "Verdana","sans-serif"; COLOR: #333333'><A href=3D=
+"https://bit.ly/2NnZ0V6"><SPAN style=3D"COLOR: purple">https://bit.ly/2=
+NnZ0V6</SPAN></A><U1:P></U1:P>.<SPAN style=3D"mso-spacerun: yes">&nbsp;=
+ </SPAN></SPAN><SPAN style=3D"COLOR: black; mso-ascii-font-family: Cali=
+bri; mso-hansi-font-family: Calibri"><o:p></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"WORD-SPACING: 0px; ORPHANS: 2; WIDOWS: 2;=
+ font-variant-ligatures: normal; font-variant-caps: normal; -webkit-tex=
+t-stroke-width: 0px; text-decoration-style: initial; text-decoration-co=
+lor: initial"><SPAN style=3D'FONT-SIZE: 10.5pt; FONT-FAMILY: "Verdana",=
+"sans-serif"; COLOR: #333333'><U1:P>&nbsp;</U1:P></SPAN><SPAN style=3D"=
+COLOR: black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Ca=
+libri"><o:p></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white; WORD-SPACING: 0px; ORP=
+HANS: 2; WIDOWS: 2; font-variant-ligatures: normal; font-variant-caps: =
+normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial;=
+ text-decoration-color: initial"><SPAN style=3D"COLOR: black; mso-ascii=
+-font-family: Calibri; mso-hansi-font-family: Calibri">Maiores detalhes=
+ em <SPAN style=3D"mso-spacerun: yes">&nbsp;</SPAN>cslivros.com.br ou p=
+e=E7a p/ REMOVER.<U2:P></U2:P><U1:P></U1:P><o:p></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D"COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">=
+Att<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D"COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">=
+Caroline Soares-Editora digital.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><B><I><U><SPAN style=3D"FONT-SIZE: 8pt; COLOR: bla=
+ck; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri">Mes=
+mo autor do livro de sucesso para <SPAN style=3D"mso-spacerun: yes">&nb=
+sp;</SPAN>empresas familiares&nbsp;</SPAN></U></I></B><B><I><U><SPAN st=
+yle=3D"FONT-SIZE: 8pt; COLOR: red; mso-ascii-font-family: Calibri; mso-=
+hansi-font-family: Calibri">AMEOUDEIXE(34,90)</SPAN></U></I></B><SPAN s=
+tyle=3D"FONT-SIZE: 8pt; COLOR: black; mso-ascii-font-family: Calibri; m=
+so-hansi-font-family: Calibri"><o:p></o:p></SPAN></P>
+<P class=3DMsoPlainText style=3D"WORD-SPACING: 0px; ORPHANS: 2; WIDOWS:=
+ 2; MARGIN: 0cm 0cm 0pt; font-variant-ligatures: normal; font-variant-c=
+aps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial"><SPAN style=3D"FONT-SIZE: 8pt; CO=
+LOR: black"><o:p>&nbsp;</o:p></SPAN></P></DIV>
+
+--Mark=_1118267875559133937383--

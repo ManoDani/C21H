@@ -1,0 +1,1388 @@
+Return-Path: <contato@sjsafi.bhz.br>
+Delivered-To: ipbtoledocom@srv1.thnardi.com
+Received: from srv1.thnardi.com
+	by srv1.thnardi.com with LMTP
+	id ZUV3DBNVE14LOQAApOPejg
+	(envelope-from <contato@sjsafi.bhz.br>)
+	for <ipbtoledocom@srv1.thnardi.com>; Mon, 06 Jan 2020 12:41:07 -0300
+Return-path: <contato@sjsafi.bhz.br>
+Envelope-to: ipbtoledo@ipbtoledo.com.br
+Delivery-date: Mon, 06 Jan 2020 12:41:07 -0300
+Received: from eniajo.sjsafi.bhz.br ([63.141.231.229]:55978)
+	by srv1.thnardi.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <contato@sjsafi.bhz.br>)
+	id 1ioUV8-0003mx-0K
+	for ipbtoledo@ipbtoledo.com.br; Mon, 06 Jan 2020 12:41:07 -0300
+Reply-To: contato@sjsafi.bhz.br
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=sjsafi.bhz.br;
+	s=dkim; t=1578324889;
+	bh=J0ILB6koHj9L1SWZp1Bi/u2W4t7iPQ0vl0ib4vD9BvA=;
+	h=From:To:Subject:Date:From:Subject;
+	b=SpW/RgjSn5xmgTuwLvjZl3B+xoMAz2HbqRg4pvfQsdXc30jwQKuFUAgIPyO1AFbmM
+	 WrzeQHyKeltks0ObBjqIrMSpxNT8JIQPwygBteg0w++ENYlZ1o6caXyeUb5JgTLfXf
+	 pYZxljEJVuXj8qdBK9DhLdtoAp1E1KZMMnx1FFtk=
+From: "Arthur  Santos"<contato@sjsafi.bhz.br>
+To: ipbtoledo@ipbtoledo.com.br
+Subject: Mangueira Que Nao Dobra ou Torce e Expande ate Tres Vezes o Seu Tamanho
+Date: 06 Jan 2020 12:34:47 -0300
+Message-ID: <20200106123447.1CF90D69CFFA3110@sjsafi.bhz.br>
+MIME-Version: 1.0
+Disposition-Notification-To: livrosjur50@gmail.com
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=0.5
+X-Spam-Score: 5
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "srv1.thnardi.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  *|MC:SUBJECT|* *|MC_PREVIEW_TEXT|* Veja o Contéudo No Site
+    Official Está Passando Raiva com as Mangueira Tradicionais? Acaba de Chegar
+    na Vida dos Brasileiro, uma Mangueira Tão Flexível que Cabe na Palma da
+    Sua mão. 
+ Content analysis details:   (0.5 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mailchimp.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  0.0 GB_FREEMAIL_DISPTO     Disposition-Notification-To/From or
+                             Disposition-Notification-To/body contain
+                             different freemails
+  0.5 GB_FREEMAIL_DISPTO_NOTFREEM Disposition-Notification-To/From
+                             contain different freemails but mailfrom
+                             is not a freemail
+X-Spam-Flag: NO
+
+<!doctype html>
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office"><head>
+        <!-- NAME: ANNOUNCE -->
+        <!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+        <meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <title>*|MC:SUBJECT|*</title>
+=20=20=20=20=20=20=20=20
+    <style type=3D"text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=3Dtel],a[href^=3Dsms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Ext=
+ernalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+	/*
+	@tab Page
+	@section Heading 1
+	@style heading 1
+	*/
+		h1{
+			/*@editable*/color:#222222;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:40px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:150%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:center;
+		}
+	/*
+	@tab Page
+	@section Heading 2
+	@style heading 2
+	*/
+		h2{
+			/*@editable*/color:#222222;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:34px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:150%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 3
+	@style heading 3
+	*/
+		h3{
+			/*@editable*/color:#444444;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:22px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:150%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 4
+	@style heading 4
+	*/
+		h4{
+			/*@editable*/color:#949494;
+			/*@editable*/font-family:Georgia;
+			/*@editable*/font-size:20px;
+			/*@editable*/font-style:italic;
+			/*@editable*/font-weight:normal;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:center;
+		}
+	/*
+	@tab Header
+	@section Header Container Style
+	*/
+		#templateHeader{
+			/*@editable*/background-color:#fdfdfd;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:26px;
+			/*@editable*/padding-bottom:26px;
+		}
+	/*
+	@tab Header
+	@section Header Interior Style
+	*/
+		.headerContainer{
+			/*@editable*/background-color:transparent;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Header
+	@section Header Text
+	*/
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			/*@editable*/color:#757575;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Header
+	@section Header Link
+	*/
+		.headerContainer .mcnTextContent a,.headerContainer .mcnTextContent p a{
+			/*@editable*/color:#007C89;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Body
+	@section Body Container Style
+	*/
+		#templateBody{
+			/*@editable*/background-color:#ffffff;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0px;
+			/*@editable*/padding-bottom:0px;
+		}
+	/*
+	@tab Body
+	@section Body Interior Style
+	*/
+		.bodyContainer{
+			/*@editable*/background-color:transparent;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Body
+	@section Body Text
+	*/
+		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+			/*@editable*/color:#757575;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Body
+	@section Body Link
+	*/
+		.bodyContainer .mcnTextContent a,.bodyContainer .mcnTextContent p a{
+			/*@editable*/color:#007C89;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Footer
+	@section Footer Style
+	*/
+		#templateFooter{
+			/*@editable*/background-color:#ffffff;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0px;
+			/*@editable*/padding-bottom:0px;
+		}
+	/*
+	@tab Footer
+	@section Footer Interior Style
+	*/
+		.footerContainer{
+			/*@editable*/background-color:transparent;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Footer
+	@section Footer Text
+	*/
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			/*@editable*/color:#FFFFFF;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:12px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:center;
+		}
+	/*
+	@tab Footer
+	@section Footer Link
+	*/
+		.footerContainer .mcnTextContent a,.footerContainer .mcnTextContent p a{
+			/*@editable*/color:#FFFFFF;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCapti=
+onBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcn=
+ImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionR=
+ightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRi=
+ghtImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCar=
+dRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImage=
+CardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter =
+=2EmcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCapt=
+ionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-chil=
+d .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 1
+	@tip Make the first-level headings larger in size for better readability o=
+n small screens.
+	*/
+		h1{
+			/*@editable*/font-size:30px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 2
+	@tip Make the second-level headings larger in size for better readability =
+on small screens.
+	*/
+		h2{
+			/*@editable*/font-size:26px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 3
+	@tip Make the third-level headings larger in size for better readability o=
+n small screens.
+	*/
+		h3{
+			/*@editable*/font-size:20px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 4
+	@tip Make the fourth-level headings larger in size for better readability =
+on small screens.
+	*/
+		h4{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Boxed Text
+	@tip Make the boxed text larger in size for better readability on small sc=
+reens. We recommend a font size of at least 16px.
+	*/
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContain=
+er .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Header Text
+	@tip Make the header text larger in size for better readability on small s=
+creens.
+	*/
+		.headerContainer .mcnTextContent,.headerContainer .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Body Text
+	@tip Make the body text larger in size for better readability on small scr=
+eens. We recommend a font size of at least 16px.
+	*/
+		.bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Footer Text
+	@tip Make the footer content text larger in size for better readability on=
+ small screens.
+	*/
+		.footerContainer .mcnTextContent,.footerContainer .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}</style></head>
+    <body>
+        <!--*|IF:MC_PREVIEW_TEXT|*-->
+        <!--[if !gte mso 9]><!----><span class=3D"mcnPreviewText" style=3D"=
+line-height: 0px; overflow: hidden; font-size: 0px; display: none; visibili=
+ty: hidden; max-height: 0px; max-width: 0px; opacity: 0; mso-hide: all;">*|=
+MC_PREVIEW_TEXT|*</span><!--<![endif]-->
+        <!--*|END:IF|*-->
+        <center>
+            <table width=3D"100%" height=3D"100%" align=3D"center" id=3D"bo=
+dyTable" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                <tbody><tr>
+                    <td align=3D"center" id=3D"bodyCell" valign=3D"top">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0">
+                            <tbody><tr>
+                                <td align=3D"center" id=3D"templateHeader" =
+valign=3D"top" data-template-container=3D"">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                                    <tr>
+                                    <td align=3D"center" valign=3D"top" wid=
+th=3D"600" style=3D"width:600px;">
+                                    <![endif]-->
+                                    <table width=3D"100%" align=3D"center" =
+class=3D"templateContainer" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+                                        <tbody><tr>
+                                            <td class=3D"headerContainer" v=
+align=3D"top"><table width=3D"100%" class=3D"mcnTextBlock" style=3D"min-wid=
+th: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"padding=
+-top: 9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table width=3D"100%" align=3D"left" class=3D"mcnTextConten=
+tContainer" style=3D"min-width: 100%; max-width: 100%;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td class=3D"mcnTextContent" valign=3D"top" style=
+=3D"padding: 0px 18px 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <div style=3D"text-align: center;"><a href=3D"h=
+ttp://mon.net.br/ke89w?src=3Dlistafernando" target=3D"_blank"><span style=
+=3D"font-size: 13px;"><u>Veja o Cont&#233;udo No Site Official</u></span></=
+a></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </tbody></table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" id=3D"templateBody" va=
+lign=3D"top" data-template-container=3D"">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                                    <tr>
+                                    <td align=3D"center" valign=3D"top" wid=
+th=3D"600" style=3D"width:600px;">
+                                    <![endif]-->
+                                    <table width=3D"100%" align=3D"center" =
+class=3D"templateContainer" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+                                        <tbody><tr>
+                                            <td class=3D"bodyContainer" val=
+ign=3D"top"><table width=3D"100%" class=3D"mcnTextBlock" style=3D"min-width=
+: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"padding=
+-top: 9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table width=3D"100%" align=3D"left" class=3D"mcnTextConten=
+tContainer" style=3D"min-width: 100%; max-width: 100%;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td class=3D"mcnTextContent" valign=3D"top" style=
+=3D"padding: 0px 18px 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <div style=3D"text-align: center;"><span style=
+=3D"color: rgb(0, 128, 128);"><span style=3D"font-size: 21px;"><strong>Est&=
+#225; Passando Raiva com as Mangueira Tradicionais?</strong></span></span><=
+br>
+<span style=3D"font-size: 15px;"><span style=3D"color: rgb(105, 105, 105);"=
+>Acaba de Chegar<strong> </strong>na Vida dos Brasileiro</span><u><span sty=
+le=3D"color: rgb(105, 105, 105);"><strong>,</strong></span></u> uma Manguei=
+ra&nbsp; T&#227;o Flex&#237;vel que Cabe na Palma da Sua m&#227;o.&nbsp;</s=
+pan><br>
+<br>
+<span style=3D"font-size: 15px;"><u><strong>Al&#233;m disso,N&#227;o Dobra =
+ou Torce e Expande&nbsp; at&#233; 3x o seu tamanho.</strong></u></span></di=
+v>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnImageBlock" style=3D"min-width: 1=
+00%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td class=3D"mcnImageBlockInner" valign=3D"top" style=3D"pa=
+dding: 0px;">
+                    <table width=3D"100%" align=3D"left" class=3D"mcnImageC=
+ontentContainer" style=3D"min-width: 100%;" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" st=
+yle=3D"padding: 0px; text-align: center;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                        <img width=3D"302" align=3D"center"=
+ class=3D"mcnRetinaImage" style=3D"padding-bottom: 0px; vertical-align: bot=
+tom; display: inline !important; max-width: 604px;" alt=3D"" src=3D"https:/=
+/gallery.mailchimp.com/9a471d827bf84a1a5430fc0b9/images/3ab9bb99-d2cf-41cf-=
+9ab2-3af88bffe577.png">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnDividerBlock" style=3D"min-width:=
+ 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px; min-=
+width: 100%;">
+                <table width=3D"100%" class=3D"mcnDividerContent" style=3D"=
+border-top-color: rgb(234, 234, 234); border-top-width: 2px; border-top-sty=
+le: solid; min-width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+                    <tbody><tr>
+                        <td>
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+<!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;"=
+>
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnTextBlock" style=3D"min-width: 10=
+0%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"padding=
+-top: 9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table width=3D"100%" align=3D"left" class=3D"mcnTextConten=
+tContainer" style=3D"min-width: 100%; max-width: 100%;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td class=3D"mcnTextContent" valign=3D"top" style=
+=3D"padding: 0px 18px 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <div style=3D"text-align: center;"><span style=
+=3D"font-size: 17px;"><strong><span style=3D"color: rgb(105, 105, 105);"><u=
+>F&#225;cil de Carregar</u> </span></strong><span style=3D"color: rgb(105, =
+105, 105);">-</span><strong><span style=3D"color: rgb(105, 105, 105);"> <u>=
+Nunca Enrola</u> </span></strong><span style=3D"color: rgb(105, 105, 105);"=
+>-</span><strong><span style=3D"color: rgb(105, 105, 105);"> <u>F&#225;cil =
+de Guardar</u> </span></strong>
+<span style=3D"color: rgb(105, 105, 105);">-</span><strong><span style=3D"c=
+olor: rgb(105, 105, 105);"> <u>M&#250;ltiplos</u> <u>Jatos</u> </span></str=
+ong><span style=3D"color: rgb(105, 105, 105);">-</span><strong><span style=
+=3D"color: rgb(105, 105, 105);"> <u>Muito Resistente</u> </span></strong><s=
+pan style=3D"color: rgb(105, 105, 105);">-</span><strong><span style=3D"col=
+or: rgb(105, 105, 105);">&nbsp;<u>Super Leve</u></span></strong></span></di=
+v>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnDividerBlock" style=3D"min-width:=
+ 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px; min-=
+width: 100%;">
+                <table width=3D"100%" class=3D"mcnDividerContent" style=3D"=
+border-top-color: rgb(234, 234, 234); border-top-width: 2px; border-top-sty=
+le: solid; min-width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+                    <tbody><tr>
+                        <td>
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+<!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;"=
+>
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnTextBlock" style=3D"min-width: 10=
+0%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"padding=
+-top: 9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table width=3D"100%" align=3D"left" class=3D"mcnTextConten=
+tContainer" style=3D"min-width: 100%; max-width: 100%;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td class=3D"mcnTextContent" valign=3D"top" style=
+=3D"padding: 0px 18px 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <div style=3D"text-align: center;"><span style=
+=3D"color: rgb(0, 128, 0);"><u><strong>Frete Gr&#225;tis para Todo&nbsp; o =
+Brasil</strong></u></span></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnButtonBlock" style=3D"min-width: =
+100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnButtonBlockOuter">
+        <tr>
+            <td align=3D"center" class=3D"mcnButtonBlockInner" valign=3D"to=
+p" style=3D"padding: 0px 18px 18px;">
+                <table width=3D"100%" class=3D"mcnButtonContentContainer" s=
+tyle=3D"border-radius: 4px; border-collapse: separate !important; backgroun=
+d-color: rgb(255, 104, 17);" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+                    <tbody>
+                        <tr>
+                            <td align=3D"center" class=3D"mcnButtonContent"=
+ valign=3D"middle" style=3D"padding: 18px; font-family: Arial; font-size: 1=
+6px;">
+                                <a title=3D"CONSULTE INFORMA&#199;&#213;ES =
+E MODELOS" class=3D"mcnButton " style=3D"text-align: center; color: rgb(255=
+, 255, 255); line-height: 100%; letter-spacing: normal; font-weight: bold; =
+text-decoration: none;" href=3D"http://mon.net.br/ke89w?src=3Dlistafernando=
+" target=3D"_blank">CONSULTE INFORMA&#199;&#213;ES E MODELOS</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnTextBlock" style=3D"min-width: 10=
+0%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"padding=
+-top: 9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table width=3D"100%" align=3D"left" class=3D"mcnTextConten=
+tContainer" style=3D"min-width: 100%; max-width: 100%;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td class=3D"mcnTextContent" valign=3D"top" style=
+=3D"padding: 0px 18px 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <div style=3D"text-align: center;"><span style=
+=3D"color: rgb(68, 68, 68);"><span style=3D"font-size: 22px;"><strong>Quais=
+ as Vantagens da Super Mangueira M&#225;gica?</strong></span></span></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnImageBlock" style=3D"min-width: 1=
+00%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td class=3D"mcnImageBlockInner" valign=3D"top" style=3D"pa=
+dding: 9px;">
+                    <table width=3D"100%" align=3D"left" class=3D"mcnImageC=
+ontentContainer" style=3D"min-width: 100%;" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" st=
+yle=3D"padding: 0px 9px; text-align: center;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                        <img width=3D"564" align=3D"center"=
+ class=3D"mcnImage" style=3D"padding-bottom: 0px; vertical-align: bottom; d=
+isplay: inline !important; max-width: 730px;" alt=3D"" src=3D"https://galle=
+ry.mailchimp.com/9a471d827bf84a1a5430fc0b9/images/2cee38b3-e061-4ad2-8fba-6=
+471a6e61880.png">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnDividerBlock" style=3D"min-width:=
+ 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px; min-=
+width: 100%;">
+                <table width=3D"100%" class=3D"mcnDividerContent" style=3D"=
+border-top-color: rgb(234, 234, 234); border-top-width: 2px; border-top-sty=
+le: solid; min-width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+                    <tbody><tr>
+                        <td>
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+<!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;"=
+>
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnDividerBlock" style=3D"min-width:=
+ 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px; min-=
+width: 100%;">
+                <table width=3D"100%" class=3D"mcnDividerContent" style=3D"=
+border-top-color: rgb(234, 234, 234); border-top-width: 2px; border-top-sty=
+le: solid; min-width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+                    <tbody><tr>
+                        <td>
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+<!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;"=
+>
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnTextBlock" style=3D"min-width: 10=
+0%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"padding=
+-top: 9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table width=3D"100%" align=3D"left" class=3D"mcnTextConten=
+tContainer" style=3D"min-width: 100%; max-width: 100%;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td class=3D"mcnTextContent" valign=3D"top" style=
+=3D"padding: 0px 18px 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <div style=3D"text-align: center;">
+<div style=3D"text-align: left;"><span style=3D"color: rgb(85, 85, 85);"><s=
+pan style=3D"font-size: 15px;"><strong>1 - Expande at&#233; 3x o seu tamanh=
+o original</strong></span></span><br>
+Ao ligar a &#225;gua a Super Mangueira M&#225;gica chegar&#225; a at&#233; =
+3 vezes seu tamanho original.<br>
+<br>
+<span style=3D"color: rgb(85, 85, 85);"><span style=3D"font-size: 15px;"><s=
+trong>2 - Extremamente leve</strong></span></span><br>
+Pesando menos de 1kg, permite que crian&#231;as e idosos possam us&#225;-la=
+=2E<br>
+<br>
+<span style=3D"color: rgb(85, 85, 85);"><span style=3D"font-size: 15px;"><s=
+trong>3 - F&#225;ceis de guardar</strong></span></span><br>
+Ao desligar a &#225;gua e esvaziar a Super Mangueira M&#225;gica, teremos n=
+ovamente a mangueira no seu tamanho original.<br>
+<br>
+<span style=3D"color: rgb(85, 85, 85);"><span style=3D"font-size: 15px;"><s=
+trong>4 - N&#227;o dobra ou torce</strong></span></span><br>
+J&#225; esticou sua mangueira convencional e a &#225;gua parou de sair? iss=
+o acontece porque a <u><strong>mangueira convencional</strong></u> dobrou e=
+m algum lugar e impediu a passagem da &#225;gua. <u><strong>A tecnologia us=
+ada na Super Mangueira M&#225;gica</strong></u> impede que ela dobre ou tor=
+&#231;a, mesmo que voc&#234; queira.</div>
+
+<p style=3D"text-align: left;"><span style=3D"color: rgb(85, 85, 85);"><spa=
+n style=3D"font-size: 15px;"><strong>5 - Gatilho Inteligente</strong></span=
+></span></p>
+
+<p style=3D"text-align: left;">O Gatilho cont&#233;m&nbsp;7 posi&#231;&#245=
+;es de esguicho: Cone, Reto, N&#233;voa, Plano, Vertical e Chuveiro.&nbsp;<=
+/p>
+
+<div style=3D"text-align: left;">&nbsp;</div>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnImageGroupBlock" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnImageGroupBlockOuter">
+=20=20=20=20=20=20=20=20
+            <tr>
+                <td class=3D"mcnImageGroupBlockInner" valign=3D"top" style=
+=3D"padding: 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <table width=3D"273" align=3D"left" class=3D"mcnImageGr=
+oupContentContainer" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                            <tbody><tr>
+                                <td class=3D"mcnImageGroupContent" valign=
+=3D"top" style=3D"padding-top: 0px; padding-bottom: 0px; padding-left: 9px;=
+">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                        <img width=3D"264" class=3D"mcnImag=
+e" style=3D"padding-bottom: 0px; max-width: 1000px;" alt=3D"" src=3D"https:=
+//gallery.mailchimp.com/9a471d827bf84a1a5430fc0b9/images/98f68320-39b1-4442=
+-ad86-d56ead23d36d.jpg">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                        </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <table width=3D"273" align=3D"right" class=3D"mcnImageG=
+roupContentContainer" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                            <tbody><tr>
+                                <td class=3D"mcnImageGroupContent" valign=
+=3D"top" style=3D"padding-top: 0px; padding-right: 9px; padding-bottom: 0px=
+;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                                        <img width=3D"264" class=3D"mcnImag=
+e" style=3D"padding-bottom: 0px; max-width: 718px;" alt=3D"" src=3D"https:/=
+/gallery.mailchimp.com/9a471d827bf84a1a5430fc0b9/images/5c3fbfe6-59bd-4c20-=
+87f2-b63ef4ec605e.png">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                </td>
+                            </tr>
+                        </tbody></table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                </td>
+            </tr>
+=20=20=20=20=20=20=20=20
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnTextBlock" style=3D"min-width: 10=
+0%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"padding=
+-top: 9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table width=3D"100%" align=3D"left" class=3D"mcnTextConten=
+tContainer" style=3D"min-width: 100%; max-width: 100%;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td class=3D"mcnTextContent" valign=3D"top" style=
+=3D"padding: 0px 18px 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <div style=3D"text-align: center;"><span style=
+=3D"color: rgb(0, 128, 0);"><u><strong>Frete Gr&#225;tis para Todo&nbsp; o =
+Brasil</strong></u></span></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnButtonBlock" style=3D"min-width: =
+100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnButtonBlockOuter">
+        <tr>
+            <td align=3D"center" class=3D"mcnButtonBlockInner" valign=3D"to=
+p" style=3D"padding: 0px 18px 18px;">
+                <table width=3D"100%" class=3D"mcnButtonContentContainer" s=
+tyle=3D"border-radius: 4px; border-collapse: separate !important; backgroun=
+d-color: rgb(255, 104, 17);" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+                    <tbody>
+                        <tr>
+                            <td align=3D"center" class=3D"mcnButtonContent"=
+ valign=3D"middle" style=3D"padding: 18px; font-family: Arial; font-size: 1=
+6px;">
+                                <a title=3D"CONSULTE INFORMA&#199;&#213;ES =
+E MODELOS" class=3D"mcnButton " style=3D"text-align: center; color: rgb(255=
+, 255, 255); line-height: 100%; letter-spacing: normal; font-weight: bold; =
+text-decoration: none;" href=3D"http://mon.net.br/ke89w?src=3Dlistafernando=
+" target=3D"_blank">CONSULTE INFORMA&#199;&#213;ES E MODELOS</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </tbody></table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" id=3D"templateFooter" =
+valign=3D"top" data-template-container=3D"">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align=3D"center" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+                                    <tr>
+                                    <td align=3D"center" valign=3D"top" wid=
+th=3D"600" style=3D"width:600px;">
+                                    <![endif]-->
+                                    <table width=3D"100%" align=3D"center" =
+class=3D"templateContainer" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">
+                                        <tbody><tr>
+                                            <td class=3D"footerContainer" v=
+align=3D"top"><table width=3D"100%" class=3D"mcnTextBlock" style=3D"min-wid=
+th: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"padding=
+-top: 9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table width=3D"100%" align=3D"left" class=3D"mcnTextConten=
+tContainer" style=3D"min-width: 100%; max-width: 100%;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td class=3D"mcnTextContent" valign=3D"top" style=
+=3D"padding: 0px 18px 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <div style=3D"text-align: center;"><span style=
+=3D"color: rgb(0, 0, 0);">Este e-mail est&#225; sendo enviado por(Alexandre=
+ Santos)&nbsp;<br>
+Para:ipbtoledo@ipbtoledo.com.br<br>
+Caso N&#227;o Deseje Receber o Informativo </span><a href=3D"http://sjirte.=
+bhz.br/segmentacaodeemail/remocao/remocaovinicius?e=3D[#E-mail]&amp;a=3DPro=
+duto" target=3D"_blank"><span style=3D"color: rgb(0, 0, 205);"><u>Clique aq=
+ui</u></span></a><span style=3D"color: rgb(0, 0, 0);"> para sair</span></di=
+v>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table width=3D"100%" class=3D"mcnTextBlock" style=3D"min-width: 10=
+0%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"padding=
+-top: 9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">
+				<![endif]-->
+                <table width=3D"100%" align=3D"left" class=3D"mcnTextConten=
+tContainer" style=3D"min-width: 100%; max-width: 100%;" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td class=3D"mcnTextContent" valign=3D"top" style=
+=3D"padding: 0px 18px 9px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            This is a text block. You can use it to add tex=
+t to your template.
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </tbody></table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </tbody></table>
+        </center>
+=20=20=20=20
+
+</body></html>

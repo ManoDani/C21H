@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id kPiRA7OJ1GDuWwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Thu, 24 Jun 2021 10:33:39 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 24 Jun 2021 10:33:39 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1lwPUA-00080n-Re
+	for contato@ipbtoledo.com.br; Thu, 24 Jun 2021 10:33:38 -0300
+X-Failed-Recipients: pixmarketing@yahoo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <bad205cf0f58483ee9e40e0542177b03@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1624541618-eximdsn-1772247174
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1lwPUA-00080n-Re@server.mundotk.com.br>
+Date: Thu, 24 Jun 2021 10:33:38 -0300
+
+--1624541618-eximdsn-1772247174
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  pixmarketing@yahoo.com
+    host mta5.am0.yahoodns.net [98.136.96.76]
+    SMTP error from remote mail server after end of data:
+    554 30 Sorry, your message to pixmarketing@yahoo.com cannot be delivered. This mailbox is disabled (554.30).
+
+--1624541618-eximdsn-1772247174
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;pixmarketing@yahoo.com
+Status: 5.0.0
+Remote-MTA: dns; mta5.am0.yahoodns.net
+Diagnostic-Code: smtp; 554 30 Sorry, your message to pixmarketing@yahoo.com cannot be delivered. This mailbox is disabled (554.30).
+
+--1624541618-eximdsn-1772247174
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=60716 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1lwPU9-00080I-QE
+	for pixmarketing@yahoo.com; Thu, 24 Jun 2021 10:33:37 -0300
+Date: Thu, 24 Jun 2021 13:33:37 +0000
+To: Pedro Henrique Brito <pixmarketing@yahoo.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <bad205cf0f58483ee9e40e0542177b03@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Pedro Henrique Brito
+
+                    EMAIL: pixmarketing@yahoo.com
+
+                    TELEFONE: (11) 98765-4321
+                    
+
+
+                    CORPO DA MENSAGEM: Divulgação em massa de seus links de afiliado. 
+
+👉 https://www.afiliadopix.com.br 
+
+Pague apenas R$4,00 por mais de 60.000 envios na caixa de entrada. 
+
+Boas vendas! 
+Pedro Henrique
+
+
+--1624541618-eximdsn-1772247174--

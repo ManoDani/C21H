@@ -1,0 +1,270 @@
+Return-Path: <rhoje-cuemll20@centraldaoferta.com>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id yD8gH8BQPmGqYAAA85qOww
+	(envelope-from <rhoje-cuemll20@centraldaoferta.com>)
+	for <contato@ipbtoledo.com.br>; Sun, 12 Sep 2021 16:10:56 -0300
+Return-path: <rhoje-cuemll20@centraldaoferta.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sun, 12 Sep 2021 16:10:56 -0300
+Received: from server1.centraldaoferta.com ([186.251.131.51]:60177)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <rhoje-cuemll20@centraldaoferta.com>)
+	id 1mPUsN-0006Q1-0M
+	for contato@ipbtoledo.com.br; Sun, 12 Sep 2021 16:10:56 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=centraldaoferta.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:
+ Content-Type:Content-Transfer-Encoding;
+ bh=i1p9r7LxtDs+H3X/JXdtBuZuVruok+kOzTzliOQ2yuo=;
+ b=kTX1r5jZomxsNTRo2q/n/0eCdeSXq9uQrCvWRhBDrr1JG6Vmnylw2M3R6xHSRVOQg4L8j2a58oy6
+   shE8T5xuDrr4+YlVRys9wjQsYsn0uo16UkB1ZnNfs+kcbPUtY+scODxCwHFvTyQjkA664e9qj/DD
+   kHU4b9fm3nqBiRqa9j1/SDLY3mOwlR9MSAu5jZQjJbCpDl0zoGKFqv3M9tQRWu3V2wdniHiEQnJo
+   0axbnEnLmzobQW6g3qkdmf2d+PC0uTATPZTqwv12DToxfKMmF8nr3LtQZXx1wk4xVlC3dq77bR7R
+   eCijsqQNl2NOzJm/zyuNUdQpCfJYwFw0xLVhWg==
+To: contato@ipbtoledo.com.br
+Subject: =?UTF-8?B?QXRpdmlkYWRlcyBwYXJhIFJlZm9yw6dvIEVzY29sYXIuLi4=?=
+Message-ID: <a518eeaef07fd540a49f9db49b6829c8@i.centraldaoferta.com>
+Date: Sun, 12 Sep 2021 16:10:09 -0300
+From: "Material de Ensino..." <f5t8s7t8@centraldaoferta.com>
+Reply-To: tlvzrcoy@centraldaoferta.com
+MIME-Version: 1.0
+X-Mailer-LID: 3
+List-Unsubscribe: <https://i.centraldaoferta.com/hoje/unsubscribe.php?M=1518626&C=667b59329970d7ff57d17bf279bec6bb&L=3&N=25>
+X-Mailer-RecptId: 1518626
+X-Mailer-SID: 25
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_34b983d4a670cd51cef8246030b3d354"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=4.7
+X-Spam-Score: 47
+X-Spam-Bar: ++++
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Olá, bom dia! Se você precisa ou conhece alguém que procura
+    por material de apoio para ajudar no aprendizado dos filhos ou alunos, leia
+    esta mensagem até o final. Temos o que há de melhor e mais completo nesse
+    [...] 
+ Content analysis details:   (4.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: kiteducacional.com]
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: centraldaoferta.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  3.0 XM_RECPTID             Has spammy message header
+X-Spam-Flag: NO
+
+--b1_34b983d4a670cd51cef8246030b3d354
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Olá, bom dia!
+
+Se você precisa ou conhece alguém que procura por  material de
+apoio para ajudar no aprendizado dos filhos ou alunos, leia esta
+mensagem até o final.
+Temos o que há de melhor e mais completo nesse segmento!
+
+O KIT EDUCACIONAL contém mais de 4.000 Atividades e Exercícios
+Pedagógicos.
+
+Atividades e exercícios para
+Aplicar em Casa ou Sala de Aula.
+
+Recomendado para;
+Pais, Profissionais de Educação, Professores, Educadores, Pedagogos
+e todas as pessoas interessadas em auxiliar Crianças, Jovens e Adultos.
+
+Atividades Alfabetização de A a Z
+Atividades com Textos de Caligrafia
+Atividades de Alfabetização e Caligrafia
+Atividades - Ler e Escrever
+Atividades - Alfabetização Matemática
+Atividades com Sílabas
+Atividades de Alfabetização Diversas
+Atividades de Dislexia
+Jogos de Alfabetização
+Manual de Alfabetização com Exercícios
+Métodos para Alfabetizar com Sucesso
+Textos para a Educação Infantil
+Apostilas de Apoio e Orientação
+
+Conteúdo Completo. Folhas para imprimir com letras, palavras,
+números, imagens, além de material para praticar e estimular a
+coordenação motora.
+
+Estamos disponibilizando também um Pacote Super Especial por
+tempo limitado, veja;
+
+365 Historias para Crianças - Uma Para Cada Dia
+12 Quebra Cabeças para Imprimir e Montar
+101 ideias para fazer com seu filho (a)
+Jogo das Sílabas Turma da Mônica.
+
+Poderá conferir mais detalhes em nosso site,
+https://bit.ly/2QPDSKt
+
+Obs: Caso o link acima não estiver funcionando,
+copie e cole o endereço em seu navegador.
+
+Em caso de dúvidas envie um email para,
+kiteducacional@gmail.com
+
+
+Atenciosamente,
+Equipe de Apoio \ Educacional
+
+
+OBS; Informativo enviado para o email contato@ipbtoledo.com.br
+"Nosso objetivo é ajudar e auxiliar a pais, professores, pedagogos
+e profissionais de educação em geral".
+Caso não tiver interesse nos informe.
+ 12 - September - 2021
+Ref; 6qntudt5
+
+Clique neste link para ser removido:
+https://i.centraldaoferta.com/hoje/unsubscribe.php?M=1518626&C=667b59329970d7ff57d17bf279bec6bb&L=3&N=25
+
+--b1_34b983d4a670cd51cef8246030b3d354
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+
+
+
+  <meta content="text/html; charset=ISO-8859-1"
+http-equiv="content-type"><title>CD Pedagógico</title></head><body>
+<span style="font-family: 'trebuchet ms',geneva; font-size:
+small;">Prezado (a), tudo bem?</span><br /> <br /> <span style="font-family: 'trebuchet ms',geneva;
+font-size: small;">Se voc&ecirc; precisa ou conhece algu&eacute;m que
+procura por&nbsp; material de apoio para ajudar no aprendizado dos filhos
+ou alunos, leia esta mensagem at&eacute; o final.<br />Temos o que
+h&aacute; de melhor e mais completo nesse segmento!<br /><br
+/></span><strong><span style="font-family: 'trebuchet ms',geneva;
+font-size: small;">O KIT EDUCACIONAL cont&eacute;m mais de 4.000 Atividades
+e Exerc&iacute;cios Pedag&oacute;gicos!<br /><br
+/></span></strong><span style="font-family: 'trebuchet ms',geneva;
+font-size: small;">Excelente para ajudar na alfabetiza&ccedil;&atilde;o, aprendizado e
+aperfei&ccedil;oamento!</span><br /> <br /> <strong><span
+style="font-family: 'trebuchet ms',geneva; font-size: small;"> Recomendado
+para,</span></strong><br /> <span style="font-family: 'trebuchet
+ms',geneva; font-size: small;"><span style="font-family: 'trebuchet
+ms',geneva; font-size: small;"> Pais, Profissionais de
+Educa&ccedil;&atilde;o, Professores, Educadores, Pedagogos e todas as
+pessoas interessadas em auxiliar Crian&ccedil;as, Jovens e
+Adultos.</span></span><span style="font-family: 'trebuchet ms',
+geneva;"><span style="font-family: 'trebuchet ms',
+geneva;"></span></span><span style="font-family: 'trebuchet ms',
+geneva;"><span style="font-family: 'trebuchet ms', geneva;"><br /><br
+/></span></span>
+<ul>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Atividades Alfabetiza&ccedil;&atilde;o de A a Z</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Atividades com Textos de Caligrafia</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Atividades de Alfabetiza&ccedil;&atilde;o e Caligrafia</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Atividades - Ler e Escrever</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Atividades - Alfabetiza&ccedil;&atilde;o
+Matem&aacute;tica</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Atividades com S&iacute;labas</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Atividades de Alfabetiza&ccedil;&atilde;o Diversas</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Atividades de Dislexia</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Jogos de Alfabetiza&ccedil;&atilde;o</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Manual de Alfabetiza&ccedil;&atilde;o com
+Exerc&iacute;cios</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">M&eacute;todos para Alfabetizar com Sucesso</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Textos para a Educa&ccedil;&atilde;o Infantil</span></li>
+<li><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Apostilas de Apoio e Orienta&ccedil;&atilde;o</span></li>
+</ul>
+<br /> <span style="font-family: 'trebuchet ms',geneva; font-size: small;">
+Conte&uacute;do Completo. Folhas para imprimir com letras, palavras,
+n&uacute;meros, imagens, al&eacute;m de material para praticar e estimular
+a coordena&ccedil;&atilde;o motora.</span><br /> <br /> <strong><span
+style="font-family: 'trebuchet ms',geneva; font-size: small;"> Estamos
+disponibilizando tamb&eacute;m um Pacote Super Especial por tempo limitado,
+veja,</span></strong><br /> <br />
+<ul>
+<li><span style="font-family: 'trebuchet ms',geneva; font-size: small;">365
+Historias para Crian&ccedil;as - Uma Para Cada Dia</span></li>
+<li><span style="font-family: 'trebuchet ms',geneva; font-size: small;">12
+Quebra Cabe&ccedil;as para Imprimir e Montar</span></li>
+<li><span style="font-family: 'trebuchet ms',geneva; font-size: small;">101
+ideias para fazer com seu filho (a)</span></li>
+<li><span style="font-family: 'trebuchet ms',geneva; font-size:
+small;">Jogo das S&iacute;labas Turma da M&ocirc;nica.</span></li>
+</ul>
+<br /> <span style="background-color: #ffff99;"><strong><span
+style="font-family: 'trebuchet ms',geneva; font-size: small;">
+Poder&aacute; conferir mais detalhes em nosso
+site;</span></strong></span><br /><strong><span style="font-family:
+'trebuchet ms',geneva; font-size: small; color: #3366ff;"><a
+href="https://bit.ly/2QPDSKt" target="_blank">www.kiteducacional com<br
+/><br /></a></span></strong><span style="font-family: 'trebuchet
+ms',geneva; font-size: small; color: #3366ff;"><span style="color:
+#000000;"><strong>Obs,</strong> Caso o link acima n&atilde;o estiver
+funcionando, copie e cole em seu navegador &gt;&nbsp;<strong><a
+href="https://bit.ly/2QPDSKt"
+target="_blank">https://bit.ly/2QPDSKt</a></strong></span></span><strong><span
+style="font-family: 'trebuchet ms',geneva; font-size: small; color:
+#3366ff;"><a href="https://bit.ly/2BkQ3aL" target="_blank"><br /><br
+/></a></span></strong><span style="font-family: 'trebuchet ms',geneva;
+font-size: small;">Em caso de d&uacute;vidas envie um email
+para,</span><br /> <strong><span style="font-family: 'trebuchet
+ms',geneva; font-size: small; color: #3366ff;"><a
+href="mailto:kiteducacional@gmail.com" target="_blank">
+kiteducacional@gmail.com</a></span></strong><br /> <br /> <br /> <span
+style="font-family: 'trebuchet ms',geneva; font-size:
+small;">Atenciosamente,<br />Equipe de Apoio
+/&nbsp;Educacional<br /><br /><br />OBS:&nbsp;Informativo
+enviado para o email contato@ipbtoledo.com.br</span><br /> <span
+style="font-family: 'trebuchet ms',geneva; font-size: small;"> "Nosso
+objetivo &eacute; ajudar e auxiliar a pais, professores, pedagogos e
+profissionais de educa&ccedil;&atilde;o em geral".</span><br /> <span
+style="font-family: 'trebuchet ms',geneva; font-size: small;"> Caso
+n&atilde;o tiver interesse <a
+href="https://i.centraldaoferta.com/hoje/unsubscribe.php?M=1518626&C=667b59329970d7ff57d17bf279bec6bb&L=3&N=25"
+target="_blank">nos informe.</a></span><br /> <span style="font-family:
+'trebuchet ms',geneva; font-size: small;"> &nbsp;12 - September - 2021<br
+/>Ref.
+yuccgh0q</span><br
+/> <br />
+<img
+src="https://i.centraldaoferta.com/hoje/open.php?M=1518626&L=3&N=25&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_34b983d4a670cd51cef8246030b3d354--
+
+

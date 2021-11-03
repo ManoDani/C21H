@@ -1,0 +1,384 @@
+Return-Path: <unimed-atendimento-vs@conquisteplanosaude.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id aOp3JsrHRWGtHAAA85qOww
+	(envelope-from <unimed-atendimento-vs@conquisteplanosaude.com.br>)
+	for <contato@ipbtoledo.com.br>; Sat, 18 Sep 2021 08:04:42 -0300
+Return-path: <unimed-atendimento-vs@conquisteplanosaude.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sat, 18 Sep 2021 08:04:42 -0300
+Received: from cloud9865815.conquisteplanosaude.com.br ([45.13.191.200]:34954)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <unimed-atendimento-vs@conquisteplanosaude.com.br>)
+	id 1mRY96-0001ui-DV
+	for contato@ipbtoledo.com.br; Sat, 18 Sep 2021 08:04:42 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=xycd6p; d=conquisteplanosaude.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=unimed-atendimento-vs@conquisteplanosaude.com.br;
+ bh=8A45oQMjMhh9y0jJvq8JTTXf66s=;
+ b=WWEAbCAU0lGFJ9FkpBjKvgaiSOwtUtKbIBbuStLXmXQHDIvgOdg0c6AyADipaFzbuHdY0jpSlV7y
+   eYijs7RtrHqRwlao0KziVoKHgafG6+2JskgFCl4xwQK+tG6OXDCDpjvdlNZ5z6qf+Flc7DvCtZOW
+   Dt/2Kr5zSXFoWz6+j94=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=xycd6p; d=conquisteplanosaude.com.br;
+ b=oU9JU09fBCHFY9AKk9ycJLa1H5Ls2+BnwN4sowrcPhRSy0uoka1CW2EZDrmjZFZz7NBXGhfCNor8
+   xYchV4vTcMWtTMpuSqupIoODgjrtFqz06NRkPJlpUfTti0F2LCTTy6GpgnL+Ynz65vBviuYuXOOk
+   1NEAz4yXKvW+zgocJ1Q=;
+Date: Sat, 18 Sep 2021 08:03:55 -0300
+To: contato@ipbtoledo.com.br
+From: =?iso-8859-1?Q?UNIMED_Sa=FAde_=7C_Flora_Bela?= <unimed-atendimento-vs@conquisteplanosaude.com.br>
+Subject: =?iso-8859-1?Q?At=E9_40%_off,_empresarial_ou_familiar?=
+Message-ID: <g5f4i4s41426f453f4w5g5t4w5j4i544l4p274o4t534i5x5@conquisteplanosaude.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ww0Kc5KLHngv1HxbBTUgVZw8Hyuh8rNW1Wq7gHv7c"
+X-Spam-Status: No, score=1.8
+X-Spam-Score: 18
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Está descontente com a rede de atendimento e valores do seu
+    plano atual, ou não tem plano ainda? A UNIMED tem planos empresariais a
+   partir de 2 vidas, que podem ser para você, sua família e empresa, com atendimento
+    NACIONAL. A economia é de até 40% para CNPJ. 
+ Content analysis details:   (1.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: conquisteplanosaude.com.br]
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: conquisteplanosaude.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_IMAGE_RATIO_04    BODY: HTML has a low ratio of text to image
+                             area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+--b1_ww0Kc5KLHngv1HxbBTUgVZw8Hyuh8rNW1Wq7gHv7c
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Est=C3=A1 descontente com a rede de atendimento e valores do seu plano atua=
+l, ou n=C3=A3o tem plano ainda?=0A=0AA UNIMED tem planos empresariais a par=
+tir de 2 vidas, que podem ser para voc=C3=AA, sua fam=C3=ADlia e empresa, c=
+om atendimento NACIONAL. A economia =C3=A9 de at=C3=A9 40% para CNPJ.=0A=0A=
+Tenha acesso a rede credenciada pr=C3=B3pria, e aos melhores hospitais e re=
+de particular do Brasil, com cobertura nacional.=0A=0AFale com um de nossos=
+ especialistas, =C3=A9 rapidinho, e sem compromisso, s=C3=B3 20 segundos do=
+ seu tempo.=0A=0A=0A=0A=0A=0A=0A[FALAR COM UM ESPECIALISTA AGORA=0Asem comp=
+romisso](http://ec2-54-94-74-213.sa-east-1.compute.amazonaws.com/?qs=3D24r2=
+y2z2v284q2q2v2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423l5g4k=
+4u5l4d4r4k4n5g4d474u5t5s4i5s4h554s264j4m424j5y5&lin=3D11489)=0A=0A=0A=0A=0A=
+=C2=A9 2014/2020 -  FERRAMENTA PARA COTA=C3=87=C3=83O PLANOS DE SA=C3=9ADE =
+NO BRASIL=0A=0Acontato@ipbtoledo.com.br - 08:03:55=0A=0AVoc=C3=AA recebeu e=
+ste e-mail por constar em uma lista de nossos parceiros em - 18/09/2021=0A=
+=0AN=C3=A3o quer receber mais essa newsletter, [cancele o recebimento.](htt=
+p://ec2-54-94-74-213.sa-east-1.compute.amazonaws.com/?qr=3D24r2y2z2v284q2q2=
+v2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423l5g4k4u5l4d4r4k4n=
+5g4d474u5t5s4i5s4h554s264j4m424j5y5)
+--b1_ww0Kc5KLHngv1HxbBTUgVZw8Hyuh8rNW1Wq7gHv7c
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+=09<title></title>
+</head>
+<body style=3D"padding: 0px; height: 100%; width: 100%; margin:
+0px;" width=3D"100%" >
+<div style=3D"display: none; font-size: 1px; line-height: 1px; max-height: =
+0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all;" >&nbsp;<=
+/div>
+
+<div>
+<div _ngcontent-wwx-c0=3D"" class=3D"eb-mail-content" >
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spa=
+cing: 0px; border-collapse: collapse; table-layout: fixed; margin: 0px auto=
+; background-color: #ffffff; background-position: center center; background=
+-repeat: no-repeat; background-size: cover; width: 100%;" >
+=09<tbody class=3D"cerberus-tbody" >
+=09=09<tr id=3D"e410e8b0-5977-40a1-45498y-oyidf0977322d090" >
+=09=09=09<td align=3D"center" class=3D"td-container" style=3D"font-size: 0p=
+x; background-color: transparent;" valign=3D"top" >
+=09=09=09<div class=3D"builder-actions-control selected" >
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"email-container" data-compile=3D"true" style=3D"border-spac=
+ing: 0px; border-collapse: collapse; table-layout: fixed; margin: auto; wid=
+th: 600px;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td bgcolor=3D"transparent" dir=3D"ltr" style=3D"backgrou=
+nd-color: transparent; padding: 0px;" valign=3D"top" width=3D"100%" >
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"row" style=3D"border-spacing: 0px; border-collapse: collapse; table=
+-layout: fixed; margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th class=3D"stack-column-center columns" style=
+=3D"font-weight: 400;" valign=3D"top" width=3D"100%" >
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"border-spacing: 0px; border-collapse: collapse; table-layo=
+ut: fixed; margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td dir=3D"ltr" style=3D"padding: 0px;"=
+ valign=3D"top" >
+=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"builder-image-control image-3caf8epewpwpffdfdk8t8=
+48d8s336" data-compile=3D"true" data-control=3D"image" style=3D"border-spac=
+ing: 0px; border-collapse: collapse; table-layout: fixed; margin: 0px auto;=
+ width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; bo=
+rder-collapse: collapse; table-layout: fixed; margin: 0px auto;" width=3D""=
+ >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"border: =
+0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr id=3D"77b31b28-f883-49r9fkt-6959gkhitredswsderoi393-38e09" >
+=09=09=09<td align=3D"center" class=3D"td-container" style=3D"font-size: 0p=
+x; background-color: transparent;" valign=3D"top" >
+=09=09=09<div class=3D"builder-actions-control selected" >
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"email-container" data-compile=3D"true" style=3D"border-spac=
+ing: 0px; border-collapse: collapse; table-layout: fixed; margin: auto; wid=
+th: 600px;" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td bgcolor=3D"#F2F2F2" dir=3D"ltr" style=3D"background-c=
+olor: #f2f2f2; padding: 0px
+0px;" valign=3D"top" >
+=09=09=09=09=09=09<div align=3D"center" ><img alt=3D"UNIMED venda online un=
+imed. Contrate seu plano de sa=FAde a qualquer hota e onde quiser - UNIMED"=
+ border=3D"0" height=3D"413" src=3D"https://brasaude.s3.amazonaws.com/Banne=
+r_camp_600x400.png" width=3D"600" /></div>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td bgcolor=3D"#F2F2F2" dir=3D"ltr" style=3D"background-c=
+olor: #f2f2f2; padding: 20px 40px;" valign=3D"top" width=3D"100%" >
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"row" style=3D"border-spacing: 0px; border-collapse: collapse; table=
+-layout: fixed; margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<th class=3D"stack-column-center columns" style=
+=3D"font-weight: 400;" valign=3D"top" width=3D"100%" >
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"border-spacing: 0px; border-collapse: collapse; table-layo=
+ut: fixed; margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td dir=3D"ltr" style=3D"padding: 0px;"=
+ valign=3D"top" >
+=09=09=09=09=09=09=09=09=09=09=09=09<table class=3D"title-2f365e034b5cero3e=
+04fgkfldmskfjdfudud08966" data-compile=3D"true" data-control=3D"title" id=
+=3D"2f365e03-4b5ce-f0406-c09726" style=3D"border-spacing: 0px; border-colla=
+pse: collapse; table-layout: fixed; margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050; text-align: left; line-height: 1=
+00%; padding-top: 0px; padding-bottom: 0px;" ><strong>Est&aacute; desconten=
+te com a rede de atendimento e valores do seu plano atual, ou n&atilde;o te=
+m plano ainda?</strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629; text-align: left; line-height: 1=
+00%; padding-top: 0px; padding-bottom: 0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050; text-align: left; line-height: 1=
+00%; padding-top: 0px; padding-bottom: 0px;" >A <strong>UNIMED</strong> tem=
+ planos empresariais a partir de 2 vidas, que podem ser para voc&ecirc;, su=
+a fam&iacute;lia e empresa, com atendimento NACIONAL. <em><strong>A economi=
+a &eacute; de at&eacute; 40% para CNPJ.</strong></em></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629; text-align: left; line-height: 1=
+00%; padding-top: 0px; padding-bottom: 0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #008659; text-align: left; line-height: 1=
+00%; padding-top: 0px; padding-bottom: 0px;" ><strong>Tenha acesso a rede c=
+redenciada pr&oacute;pria, e aos melhores hospitais e rede particular do Br=
+asil, com cobertura nacional.</strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #ce2629; text-align: left; line-height: 1=
+00%; padding-top: 0px; padding-bottom: 0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050; text-align: left; line-height: 1=
+00%; padding-top: 0px; padding-bottom: 0px;" ><strong>Fale com um de nossos=
+ especialistas, &eacute; rapidinho, e sem compromisso, s&oacute; 20 segundo=
+s do seu tempo.</strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050; text-align: left; line-height: 1=
+00%; padding-top: 0px; padding-bottom: 0px;" >&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Treb=
+uchet MS; font-size: 25px; color: #505050; text-align: left; line-height: 1=
+00%; padding-top: 0px; padding-bottom: 0px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"row" style=3D"border-spacing: 0px; borde=
+r-collapse: collapse; table-layout: fixed; margin: 0px auto; width: 100%;" =
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<th class=3D"stack-co=
+lumn-center columns" style=3D"font-weight: 400;" valign=3D"top" width=3D"10=
+0%" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; border-col=
+lapse: collapse; table-layout: fixed; margin: 0px auto; width: 100%;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td dir=3D"l=
+tr" style=3D"padding: 0px;" valign=3D"top" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"butto=
+n large
+radius expanded button-6321e92dRFMIRFGSD=C7-FGJSFKGL-FDNGDfc9" data-compile=
+=3D"true" data-control=3D"button" id=3D"632kgjdfkgj2d-247a-as=E7kfj-ls88-fc=
+9" style=3D"table-layout: fixed; margin: 0px auto; width: 100%; border-coll=
+apse: separate; border-spacing: 0px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td=
+ align=3D"center" bgcolor=3D"#ACCA14" style=3D"border-radius: 3px; border: =
+none; background-color: #ACCA14; padding: 15px 30px;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<di=
+v style=3D"border: 1px solid transparent;" >
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p =
+style=3D"text-align: center; font-family: Trebuchet MS; font-size: 24px; co=
+lor: #ffffff; margin: 0px; word-break: break-word;" ><a href=3D"http://ec2-=
+54-94-74-213.sa-east-1.compute.amazonaws.com/?qs=3D24r2y2z2v284q2q2v2e42473=
+k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423l5g4k4u5l4d4r4k4n5g4d474u=
+5t5s4i5s4h554s264j4m424j5y5&lin=3D11489" style=3D"text-decoration: none; co=
+lor: white;" target=3D"_blank" >FALAR COM UM ESPECIALISTA AGORA<br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09sem=
+ compromisso</a></p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</d=
+iv>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</th>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</th>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09</tr>
+=09</tbody>
+</table>
+</div>
+</div>
+
+<div style=3D"text-align: center; background-color: #fff; padding-top: 10px=
+; padding-bottom: 10px; font-size: 8pt; font-family: sans-serif;" >
+<p style=3D"text-align: center; text-decoration: none; color: #666;" ><br /=
+>
+&copy; 2014/2020 <strong>- </strong> FERRAMENTA PARA COTA&Ccedil;&Atilde;O =
+PLANOS DE SA&Uacute;DE NO BRASIL</p>
+</div>
+
+<div align=3D"left" style=3D"text-align: center;" ><span style=3D"font-fami=
+ly: arial, helvetica, sans-serif; font-size: x-small;" >contato@ipbtoledo.c=
+om.br - 08:03:55&nbsp;<br />
+<br />
+Voc&ecirc; recebeu este e-mail por constar em uma lista de nossos parceiros=
+ em&nbsp; - 18/09/2021</span><br />
+&nbsp;
+<p>N&atilde;o quer receber mais essa newsletter, <a href=3D"http://ec2-54-9=
+4-74-213.sa-east-1.compute.amazonaws.com/?qr=3D24r2y2z2v284q2q2v2e42473k5m4=
+r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423l5g4k4u5l4d4r4k4n5g4d474u5t5s=
+4i5s4h554s264j4m424j5y5" >cancele o recebimento.</a></p>
+</div>
+
+<p><br />
+<img alt=3D"" height=3D"1" width=3D"10" /></p>
+<img src=3D"http://ec2-54-94-74-213.sa-east-1.compute.amazonaws.com/?qo=3D2=
+4r2y2z2v284q2q2v2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423l5=
+g4k4u5l4d4r4k4n5g4d474u5t5s4i5s4h554s264j4m424j5y5" alt=3D"" width=3D1 heig=
+ht=3D1 style=3D"border:0 none;display:block;height:auto;line-height:100%;ou=
+tline:none;-webkit-text-decoration:none;text-decoration:none"></body>
+</html>
+
+
+--b1_ww0Kc5KLHngv1HxbBTUgVZw8Hyuh8rNW1Wq7gHv7c--
+

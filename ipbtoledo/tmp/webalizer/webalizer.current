@@ -1,0 +1,180 @@
+# Webalizer V2.23-08 Incremental Data - 11/01/2021 07:42:21
+2021 11 1 7 42 21
+13 0 9 0 1 5 2920 9 7 0
+9 3 6 1 1
+13 0 2920 9 9 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+6 0 1442 4
+3 0 717 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 0 243 0
+3 0 518 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+fwdproxy-prn-029.fbsv.net
+0 1 0 0 1 1635751805
+-
+msnbot-40-77-167-41.search.msn.com
+0 1 0 247 0 0
+-
+msnbot-157-55-39-170.search.msn.com
+0 1 0 285 1 1635752541
+-
+msnbot-40-77-167-40.search.msn.com
+0 1 0 243 0 0
+-
+2.56.59.120
+0 4 0 972 1 1635730436
+-
+fwdproxy-prn-024.fbsv.net
+0 1 0 233 1 1635751805
+-
+msnbot-207-46-13-28.search.msn.com
+0 1 0 237 1 1635734057
+-
+182.177.122.34.bc.googleusercontent.com
+0 1 0 233 1 1635735069
+-
+37.113.11.121
+0 2 0 470 1 1635731674
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+fwdproxy-prn-029.fbsv.net
+0 1 0 0 1 1635751805
+-
+msnbot-40-77-167-41.search.msn.com
+0 1 0 247 0 0
+-
+msnbot-157-55-39-170.search.msn.com
+0 1 0 285 1 1635752541
+-
+msnbot-40-77-167-40.search.msn.com
+0 1 0 243 0 0
+-
+2.56.59.120
+0 4 0 972 1 1635730436
+-
+fwdproxy-prn-024.fbsv.net
+0 1 0 233 1 1635751805
+-
+msnbot-207-46-13-28.search.msn.com
+0 1 0 237 1 1635734057
+-
+182.177.122.34.bc.googleusercontent.com
+0 1 0 233 1 1635735069
+-
+37.113.11.121
+0 2 0 470 1 1635731674
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 13
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Ruby
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

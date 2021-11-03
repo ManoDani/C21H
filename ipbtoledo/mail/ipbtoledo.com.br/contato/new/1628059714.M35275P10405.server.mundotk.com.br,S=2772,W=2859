@@ -1,0 +1,87 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id WGgCAUI4CmGlKAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Wed, 04 Aug 2021 03:48:34 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Wed, 04 Aug 2021 03:48:34 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mBAhd-0002pj-Pb
+	for contato@ipbtoledo.com.br; Wed, 04 Aug 2021 03:48:33 -0300
+X-Failed-Recipients: trafego340@divulgarmais.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <533868bf9a4a48a5441006c70c2df7c4@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1628059713-eximdsn-659578183
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mBAhd-0002pj-Pb@server.mundotk.com.br>
+Date: Wed, 04 Aug 2021 03:48:33 -0300
+
+--1628059713-eximdsn-659578183
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  trafego340@divulgarmais.com
+    retry timeout exceeded
+
+--1628059713-eximdsn-659578183
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;trafego340@divulgarmais.com
+Status: 5.0.0
+
+--1628059713-eximdsn-659578183
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=44792 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mBAfa-0002jW-7s
+	for trafego340@divulgarmais.com; Wed, 04 Aug 2021 03:46:26 -0300
+Date: Wed, 4 Aug 2021 06:46:25 +0000
+To: Bento Motta <trafego340@divulgarmais.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <533868bf9a4a48a5441006c70c2df7c4@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Bento Motta
+
+                    EMAIL: trafego340@divulgarmais.com
+
+                    TELEFONE: (11) 98765-4321
+                    
+
+
+                    CORPO DA MENSAGEM: Trafego e visitas para sites: 
+
+https://youtu.be/ipzW7J5Uc00 ou https://olha.la/visitas
+
+Bento
+
+
+--1628059713-eximdsn-659578183--

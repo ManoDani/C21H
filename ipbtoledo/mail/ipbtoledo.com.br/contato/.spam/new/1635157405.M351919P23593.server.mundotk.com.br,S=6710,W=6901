@@ -1,0 +1,191 @@
+Return-Path: <contatos@enviocorporhg.com.br>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id 8IZlFJ2FdmEpXAAA85qOww
+	(envelope-from <contatos@enviocorporhg.com.br>)
+	for <contato+spam@ipbtoledo.com.br>; Mon, 25 Oct 2021 07:23:25 -0300
+Return-path: <contatos@enviocorporhg.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 25 Oct 2021 07:23:25 -0300
+Received: from mzq5ogu4n2i3.enviocorporhg.com.br ([186.251.131.88]:52572)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <contatos@enviocorporhg.com.br>)
+	id 1mex8R-0006Ua-4L
+	for contato@ipbtoledo.com.br; Mon, 25 Oct 2021 07:23:25 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=enviocorporhg.com.br;
+ h=From:To:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding;
+ bh=hnbFFYjQ8OON8oNgX4GC7Zv19eBxpn3p2qUrQscIB3A=;
+ b=JrDmMio4qcye9/DNFhMX4byGbsyXzzNaR4M7QWyOXuMydFQOFQ4IroT/btOZer6p+m0W5aDEesbz
+   g/+df+nH17RuNotaQ7/euyE4s8MiF/iM5tgPYtq26XzHvZJ07LA2L0UUKMowZ7boc1T3Blfi+6Aa
+   Wxk0jMlkxXHLLJW0JZctRKBjF46JfTfuXTyfjcyaUOTGD6LHHnvuTlxPAh4R2rb9mZI+u1yJCbzI
+   sb/fGuan5B4GTAgUDKrUBKcRc1VxJ18x5rQG2UlgmWyE/l1CgeR233pJZDkzJDPL/q5y9Bfc9mp5
+   EgsZIqcvbp7IrrD+R73kL03gwLV/0I9Yo6petA==
+From: "contatos"<contatos@enviocorporhg.com.br>
+To: contato@ipbtoledo.com.br
+Date: Mon, 25 Oct 2021 08:22:33 -0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Status: Yes, score=11.1
+X-Spam-Score: 111
+X-Spam-Bar: +++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Ol√°, tudo bem? Para ser um L√çDER DE SUCESSO n√£o basta entender
+    de NEG√ìCIOS, √© preciso entender de PESSOAS! "9¬∫ CONGRESSO BRASILEIRO DE
+    LIDERAN√áA & GEST√ÉO DE PESSOAS" 
+ Content analysis details:   (11.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: enviocorporhg.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.6 FORGED_OUTLOOK_TAGS    Outlook can't send HTML in this format
+  0.0 FROM_MISSP_XPRIO       Misspaced FROM + X-Priority
+  0.0 FROM_MISSP_MSFT        From misspaced + supposed Microsoft tool
+  2.8 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+  0.0 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+  0.0 FROM_MISSPACED         From: missing whitespace
+  2.0 HDR_ORDER_FTSDMCXX_DIRECT Header order similar to spam
+                             (FTSDMCXX/boundary variant) + direct-to-MX
+  3.1 DOS_OE_TO_MX           Delivered direct to MX with OE headers
+  2.8 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+X-Spam-Flag: YES
+Subject:    VocÍ È lider ou deseja ser?
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Ol·, tudo bem?</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Para ser um LÕDER DE SUCESSO n„o basta entender de NEG”CIOS, È preciso entender de PESSOAS!</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+"9∫ CONGRESSO BRASILEIRO DE LIDERAN«A &amp; GEST√O DE PESSOAS"</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Somente essa semana VocÍ ganha um B‘NUS DE R$ 100,00 por inscriÁ„o!</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Traga toda sua LideranÁa para aprender com 06 dos Melhores Especialistas do Brasil!</DIV>
+<DIV>
+ </DIV>
+<DIV>
+1. LEANDRO KARNAL - Planejamento e EstratÈgia para um Novo Tempo</DIV>
+<DIV>
+2. ROSSANDRO KLINJEY - …tica, Cidadania e Profissionalismo</DIV>
+<DIV>
+3. LEILA FERREIRA - A Arte de ser Leve</DIV>
+<DIV>
+4. MARCELO VERAS - O LÌder em 2030</DIV>
+<DIV>
+5. ALFREDO ROCHA - Gest„o de Pessoas</DIV>
+<DIV>
+6. MAURÕCIO LOUZADA - Liderando Equipes para Alta Performance</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+"9∫ CONGRESSO BRASILEIRO DE LIDERAN«A &amp; GEST√O DE PESSOAS"</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Por que Participar?</DIV>
+<DIV>
+? QUALIDADE - Aprenda com Especialistas</DIV>
+<DIV>
+? PR¡TICO - InformaÁıes pr·ticas do dia a dia do LÌder</DIV>
+<DIV>
+? ATUAL - Dados mercadolÛgicos atualizados</DIV>
+<DIV>
+? INTENSIVO - S„o 08 Horas de Treinamento em 01 sÛ dia</DIV>
+<DIV>
+? RESULTADO -&nbsp; Alcance suas metas de maneira natural</DIV>
+<DIV>
+? VERS¡TIL - Ao Vivo Online ou Presencial</DIV>
+<DIV>
+ </DIV>
+<DIV>
+?? QUANDO?</DIV>
+<DIV>
+Dia 19 de fev/22</DIV>
+<DIV>
+ </DIV>
+<DIV>
+?? ONDE?</DIV>
+<DIV>
+Ao Vivo Online ?? de onde vocÍ estiver ou ?? Presencialmente no Centro de ConvenÁıes Expo D. Pedro em Campinas</DIV>
+<DIV>
+ </DIV>
+<DIV>
+?? QUER MAIS INFORMA«’ES?</DIV>
+<DIV>
+Acesse o Site Oficial enviocorporhc.com.br ou ligue em nossa ?? Central de Atendimento (19) 3291-7232</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Entre em contato agora mesmo e aproveite o B‘NUS DE R$ 100,00 DE DESCONTO por inscriÁ„o v·lido somente atÈ essa sexta dia 08/out/21.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Acesse: enviocorporhc.com.br</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Se preferir, copie e cole o link acima em outra janela do seu navegador:</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Muito obrigada!</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+LucÈlia Viana e Bruna Lopes</DIV>
+<DIV>
+Corpo RH</DIV>
+<DIV>
+Central de Atendimento (19) 3291-7232</DIV>
+<DIV>
+Whatsapp (19) 9.8397-5610</DIV>
+<DIV>
+Whatsapp (19) 9.9399-9383</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+RemoÁ„o: parceiro8515@outlook.com</DIV>
+<DIV>
+&nbsp;</DIV>
+</FONT>
+</BODY></HTML>

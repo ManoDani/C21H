@@ -1,0 +1,93 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id 2MinKmTd9mCJKQAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Tue, 20 Jul 2021 11:27:48 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 20 Jul 2021 11:27:48 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1m5qiq-0002pS-II
+	for contato@ipbtoledo.com.br; Tue, 20 Jul 2021 11:27:48 -0300
+X-Failed-Recipients: 965@divulgarmais.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <9f12eddfa1b10a6d9bc08fb409ea1249@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1626791268-eximdsn-1706823875
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1m5qiq-0002pS-II@server.mundotk.com.br>
+Date: Tue, 20 Jul 2021 11:27:48 -0300
+
+--1626791268-eximdsn-1706823875
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  965@divulgarmais.com
+    retry timeout exceeded
+
+--1626791268-eximdsn-1706823875
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;965@divulgarmais.com
+Status: 5.0.0
+
+--1626791268-eximdsn-1706823875
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=53546 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1m4OkS-00042G-8s
+	for 965@divulgarmais.com; Fri, 16 Jul 2021 11:23:29 -0300
+Date: Fri, 16 Jul 2021 14:23:28 +0000
+To: =?UTF-8?Q?Jo=C3=A3o_Miguel_Pereira?= <965@divulgarmais.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <9f12eddfa1b10a6d9bc08fb409ea1249@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:João Miguel Pereira
+
+                    EMAIL: 965@divulgarmais.com
+
+                    TELEFONE: (41) 98765-4321
+                    
+
+
+                    CORPO DA MENSAGEM: Se você tem um site, e quer aumentar as visitas com marketing direto. Mensagens diretas na caixa de entrada, com público alvo definido.
+
+📣 Aproveite, são: 15.000 mensagens por R$ 3,00 ( Plano Trimestral )
+
+Pesquise por 👉 PROMOVEBOX 👈 no Google, e veja o que nossos clientes estão falando.  
+
+Baixe o software, e conheça esta ferramenta que vai alavancar suas vendas on-line. 
+
+
+Boas Vendas!!! 
+João Miguel
+
+
+--1626791268-eximdsn-1706823875--

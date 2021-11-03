@@ -1,0 +1,308 @@
+Return-Path: <ipsos@ipsos-cx.com>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id OHvKGH2kcWH1NQAA85qOww
+	(envelope-from <ipsos@ipsos-cx.com>)
+	for <contato@ipbtoledo.com.br>; Thu, 21 Oct 2021 14:33:49 -0300
+Return-path: <ipsos@ipsos-cx.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 21 Oct 2021 14:33:49 -0300
+Received: from mail8.questback.com ([91.217.141.35]:60301)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <ipsos@ipsos-cx.com>)
+	id 1mdbwl-0004X6-TM
+	for contato@ipbtoledo.com.br; Thu, 21 Oct 2021 14:33:49 -0300
+domainkey-signature: a=rsa-sha1; c=nofws; s=qb; d=ipsos-cx.com; q=dns; 
+	h=received:message-id:date:to:reply-to:from:subject:mime-version:content-type; 
+	b=Be98acQPFTs7aSpXvJExDljMwE9ubccOzHRt2DunbBAPL/drMXup6TzrehrVL/+feVi2FA5WDhqg4/EyBSJvh7Unkcwj/vQ7JgRMliHahtomtzYNW+X9ON/WnuVL51N6kKoCqYLokjWr6V0NuNNn7fUx+A29BctMSCmfmimG2DXjqcrSgwu00dnSyhXkbzjhWYXGsHl/8PvLSpGCsmtMJc83cGNmDnzlU1uV8q4nZK2GrExNeFijnM8bAxGtjuG+YVi+WonY5956gkm4I6WnxbJ2sEWAk9EZd2winH5aa87uP0cG5K0+IZRhawSa2zCH7yCe6rkBOUDBFYzXy6z0Eg==;
+DKIM-Signature: v=1; a=rsa-sha256; d=ipsos-cx.com;s=qb;
+	c=relaxed/relaxed; q=dns/txt; t=1634837624;
+	h=content-type:list-unsubscribe:mime-version:subject:from:reply-to:to:date:message-id;
+	bh=HOz3h49P5kzUn1awUg2JO7/aoxwl6pUhw2n6qie/Sec=;
+	b=kaLgsbKNr5zLANnS7eS6+grPCALl+ZVOPFgeEuGOw8+UZUiPXXu1nT6DivOC3z9lAYNaeiTGlfnIK+GneT7KeWMOWFHhKLOCeNhfz607LzQpdgGYwIA2/Gt5Jk46TiV3273HbpXRQJ1AMjUXoltYT7V1myZhqYAmCkiyL39vsYy8J17UfJ/CtD3hINfJcT95hEeTkFzSAOI7BWc0nBrRbaVIK/JOFnXlJdtFK1+qD5vbr1jImqDsHkbTf3OeUovy+mC+PGKN+leCIbEqvJZ6VC+w8+apVC8aetczk09JXKVJosiIVBw23Q4Em7SS5Xvwh82dfY8ZFDfsFLb4gM/NBg==
+Received: from localhost (unknown [10.42.45.25])
+	by b31b51224bce.questback.cologne (Postfix) with ESMTP id 675E52015C
+	for <contato@ipbtoledo.com.br>; Thu, 21 Oct 2021 17:31:46 +0000 (UTC)
+Message-Id: <ee93954123e1379a91a84bd845ab1e70-6171a402673e5@rt0756.customervoice360.com>
+Date: Thu, 21 Oct 2021 17:31:46 +0000
+To: contato@ipbtoledo.com.br
+Reply-To: ipsos@ipsos-cx.com
+From: "=?UTF-8?b?U1VBIEVYUEVSScOKTkNJQQ==?=" <ipsos@ipsos-cx.com>
+Subject: ,=?UTF-8?b?IGEgSXBzb3MgcXVlciBvdXZpciBzdWEgb3BpbmnDo28h?=
+X-Mailer: Kurinnaxx
+X-OPST-Key: ee93954123e1379a91a84bd845ab1e70
+Mime-Version: 1.0
+Precedence: bulk
+List-Unsubscribe: <https://rt0756.customervoice360.com/unsubscribe/?id=9294&rcptCode=8994e8ec86ad655e6a11bab4320324d8&pid=9452>
+Content-Type: multipart/alternative;
+  boundary="61b1c0e87bfdff1fb9a1736d6597839d8182c3f4"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Ipsos Prezado(a) , A Ipsos está conduzindo um estudo sobre
+    a experiência das micro e pequenas empresas com os bancos com que trabalha.
+    O(A) Sr(a) e sua empresa foram selecionados para participar. 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: ipsos.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_IMAGE_RATIO_08    BODY: HTML has a low ratio of text to image
+                             area
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+X-Spam-Flag: NO
+
+--61b1c0e87bfdff1fb9a1736d6597839d8182c3f4
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+Ipsos
+
+Prezado(a) ,
+
+A Ipsos est=C3=A1 conduzindo um estudo sobre a experi=C3=AAncia das micro=
+ e
+pequenas empresas com os bancos com que trabalha. O(A) Sr(a) e sua
+empresa foram selecionados para participar.
+
+Sua opini=C3=A3o =C3=A9 muito valiosa para entender o cen=C3=A1rio atual =
+dos servi=C3=A7os
+financeiros B2B, bem como para fomentar melhorias no atendimento
+prestado pelos bancos.
+
+A pesquisa tem dura=C3=A7=C3=A3o de aproximadamente 10 minutos e o prazo =
+para
+participar =C3=A9 at=C3=A9 31/10/2021.
+
+Para responder o question=C3=A1rio em um ambiente totalmente seguro e
+sigiloso da Ipsos, clique abaixo:
+
+https://rt0756.customervoice360.com/uc/project_manager/4bfc/?code=3D76225=
+f20c1e76923&a=3D1
+
+A Ipsos =C3=A9 uma empresa de pesquisa de mercado de origem francesa, fun=
+dada
+em 1975, hoje presente em 89 pa=C3=ADses.
+
+Estamos h=C3=A1 20 anos no Brasil atuando no entendimento de todos os set=
+ores
+da economia.
+
+Obedecendo ao c=C3=B3digo de =C3=A9tica da ESOMAR, o(a) Sr(a) n=C3=A3o se=
+r=C3=A1
+identificado(a) e suas respostas ser=C3=A3o mantidas em sigilo. Somente o=
+s
+resultados totais ser=C3=A3o analisados.
+
+Para eventuais esclarecimentos sobre a proced=C3=AAncia da pesquisa, por
+favor, entre em contato com a Ipsos atrav=C3=A9s do telefone (11) 2159-86=
+41.
+
+Desde j=C3=A1, agradecemos a sua aten=C3=A7=C3=A3o.
+
+Ipsos Brasil Pesquisas de Mercado
+
+=C2=A9 Copyright 2021 Ipsos (https://www.ipsos.com/pt-br) Todos os direit=
+os
+reservados.
+Voc=C3=AA poder=C3=A1 responder esta entrevista at=C3=A9 o dia 31/10/2021=
+. Lembramos
+que se a pesquisa for interrompida, ser=C3=A1 poss=C3=ADvel continuar de =
+onde
+parou, acessando o mesmo link.
+Ao final do question=C3=A1rio, voc=C3=AA poder=C3=A1 optar em divulgar ou=
+ n=C3=A3o as suas
+respostas de forma identificada para a Ipsos.
+Se, por qualquer motivo, desejar que o seu e-mail seja removido das
+nossas listas de e-mailing, clique em cancelar a subscri=C3=A7=C3=A3o.
+Ipsos Brasil Pesquisa de Mercado. Av. Nove de Julho, 4865, 7=C2=BA andar.=
+ S=C3=A3o
+Paulo, SP. CEP: 01407-200.
+
+Facebook Linkedin Instagram Twitter Youtube
+Ipsos
+--61b1c0e87bfdff1fb9a1736d6597839d8182c3f4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+    <div class=3D"preheader" style=3D"font-size: 1px; display: none!impor=
+tant;"><img src=3D"https://rt0756.customervoice360.com/uc/emailopened/?a=3D=
+9452&amp;b=3D76225f20c1e76923&amp;c=3Dcontato@ipbtoledo.com.br" alt=3D"" =
+width=3D"0" height=3D"0" /></div>
+    <p>=C2=A0</p>
+    <p>=C2=A0</p>
+    <table border=3D"0" width=3D"600" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" bgcolor=3D"#e6f7f7">
+      <tbody>
+        <tr>
+          <td><img title=3D"Bannertop Ipsos" src=3D"https://rt0756.custom=
+ervoice360.com/uc/images/banner_top_finance.png" alt=3D"Bannertop Ipsos" =
+width=3D"600" height=3D"auto" border=3D"0" /></td>
+        </tr>
+        <tr>
+          <td style=3D"padding-left: 20px; padding-right: 20px;">
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+18px; color: #254578; font-weight: bold; text-align: justify; margin-top:=
+ 5px;">Prezado(a) ,</p>
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+14px; color: #383838; font-weight: normal; text-align: justify;">Somos a =
+Ipsos, uma empresa que busca entender melhor as necessidades das micro e =
+das pequenas empresas e para isso estamos conduzindo <strong><span style=3D=
+"font-size: 12pt; color: #0fafa9;">UMA PESQUISA</span></strong> sobre a <=
+strong><span style=3D"font-size: 12pt; color: #0fafa9;">EXPERI=C3=8ANCIA =
+COM OS BANCOS COM QUE VOC=C3=8A TRABALHA</span></strong>.</p>
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+14px; color: #383838; font-weight: normal; text-align: justify;">N=C3=A3o=
+ se preocupe, voc=C3=AA n=C3=A3o precisa passar nenhum dado confidencial.=
+ Apenas queremos que voc=C3=AA avalie o servi=C3=A7o dos bancos com os qu=
+ais a sua empresa mant=C3=AAm relacionamento.</p>
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+14px; color: #383838; font-weight: normal; text-align: justify;">A pesqui=
+sa dura apenas 10 minutos e o prazo para participar =C3=A9 at=C3=A9=C2=A0=
+<strong><span style=3D"font-size: 12pt; color: #0fafa9;">31/10/2021</span=
+></strong>.</p>
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+14px; color: #383838; font-weight: normal; text-align: center;">=C2=A0</p=
+>
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+14px; color: #383838; font-weight: normal; text-align: center;"><strong><=
+span style=3D"font-size: 12pt; color: #0fafa9;">Qual sua satisfa=C3=A7=C3=
+=A3o geral com os bancos com que trabalha?</span></strong></p>
+          </td>
+        </tr>
+        <tr>
+          <td align=3D"left" bgcolor=3D"#e6f7f7">
+            <table style=3D"height: 98px;" border=3D"0" width=3D"600" cel=
+lspacing=3D"0" cellpadding=3D"0">
+              <tbody>
+                <tr>
+                  <td style=3D"padding: 0px 30px 0px 30px;" align=3D"cent=
+er" bgcolor=3D"#e6f7f7"><a href=3D"https://rt0756.customervoice360.com/uc=
+/project_manager/4bfc/?code=3D76225f20c1e76923&amp;a=3D1" target=3D"_blan=
+k"><img src=3D"https://rt0756.customervoice360.com/uc/images/Omnit/img-1.=
+jpg" alt=3D"" /></a>=C2=A0=C2=A0 <a href=3D"https://rt0756.customervoice3=
+60.com/uc/project_manager/4bfc/?code=3D76225f20c1e76923&amp;a=3D1" target=
+=3D"_blank"><img src=3D"https://rt0756.customervoice360.com/uc/images/Omn=
+it/img-2.jpg" alt=3D"" /></a>=C2=A0=C2=A0 <a href=3D"https://rt0756.custo=
+mervoice360.com/uc/project_manager/4bfc/?code=3D76225f20c1e76923&amp;a=3D=
+1" target=3D"_blank"><img src=3D"https://rt0756.customervoice360.com/uc/i=
+mages/Omnit/img-3.jpg" alt=3D"" /></a>=C2=A0=C2=A0 <a href=3D"https://rt0=
+756.customervoice360.com/uc/project_manager/4bfc/?code=3D76225f20c1e76923=
+&amp;a=3D1" target=3D"_blank"><img src=3D"https://rt0756.customervoice360=
+.com/uc/images/Omnit/img-4.jpg" alt=3D"" /></a>=C2=A0=C2=A0 <a href=3D"ht=
+tps://rt0756.customervoice360.com/uc/project_manager/4bfc/?code=3D76225f2=
+0c1e76923&amp;a=3D1" target=3D"_blank"><img src=3D"https://rt0756.custome=
+rvoice360.com/uc/images/Omnit/img-5.jpg" alt=3D"" /></a>=C2=A0=C2=A0 <a h=
+ref=3D"https://rt0756.customervoice360.com/uc/project_manager/4bfc/?code=3D=
+76225f20c1e76923&amp;a=3D1" target=3D"_blank"><img src=3D"https://rt0756.=
+customervoice360.com/uc/images/Omnit/img-6.jpg" alt=3D"" /></a>=C2=A0=C2=A0=
+ <a href=3D"https://rt0756.customervoice360.com/uc/project_manager/4bfc/?=
+code=3D76225f20c1e76923&amp;a=3D1" target=3D"_blank"><img src=3D"https://=
+rt0756.customervoice360.com/uc/images/Omnit/img-7.jpg" alt=3D"" /></a>=C2=
+=A0=C2=A0 <a href=3D"https://rt0756.customervoice360.com/uc/project_manag=
+er/4bfc/?code=3D76225f20c1e76923&amp;a=3D1" target=3D"_blank"><img src=3D=
+"https://rt0756.customervoice360.com/uc/images/Omnit/img-8.jpg" alt=3D"" =
+/></a>=C2=A0=C2=A0 <a href=3D"https://rt0756.customervoice360.com/uc/proj=
+ect_manager/4bfc/?code=3D76225f20c1e76923&amp;a=3D1" target=3D"_blank"><i=
+mg src=3D"https://rt0756.customervoice360.com/uc/images/Omnit/img-9.jpg" =
+alt=3D"" /></a>=C2=A0=C2=A0 <a href=3D"https://rt0756.customervoice360.co=
+m/uc/project_manager/4bfc/?code=3D76225f20c1e76923&amp;a=3D1" target=3D"_=
+blank"><img src=3D"https://rt0756.customervoice360.com/uc/images/Omnit/im=
+g-10.jpg" alt=3D"" /></a>=C2=A0=C2=A0
+                    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0">
+                      <tbody>
+                        <tr>
+                          <td style=3D"padding-left: 20px; padding-right:=
+ 20px;">
+                            <p style=3D"font-family: 'Helvetica', sans-se=
+rif; font-size: 14px; color: #383838; font-weight: normal; text-align: ju=
+stify;">=C2=A0</p>
+                            <p style=3D"font-family: 'Helvetica', sans-se=
+rif; font-size: 14px; color: #383838; font-weight: normal; text-align: ju=
+stify;">Suas respostas s=C3=A3o muito importantes para n=C3=B3s e ser=C3=A3=
+o mantidas em total sigilo, obedecendo ao c=C3=B3digo de =C3=A9tica da AB=
+EP/ESOMAR. Em caso de d=C3=BAvida, estamos =C3=A0 disposi=C3=A7=C3=A3o pe=
+lo e-mail <strong><a style=3D"font-size: 12pt; color: #0fafa9;" href=3D"m=
+ailto:rafael.domingos@ipsos.com">rafael.domingos@ipsos.com</a></strong>.<=
+/p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td>=C2=A0</td>
+        </tr>
+        <tr>
+          <td style=3D"padding-left: 20px; padding-right: 20px; backgroun=
+d: #305fa5;" width=3D"600">
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+10px; color: #fff; padding-left: 20px; padding-right: 20px; text-align: j=
+ustify;">=C2=A9 Copyright 2021 Ipsos <a style=3D"color: #0fafa9; text-dec=
+oration: none; cursor: pointer;" title=3D"https://www.ipsos.com/pt-br" hr=
+ef=3D"https://www.ipsos.com/pt-br" target=3D"_blank">(https://www.ipsos.c=
+om/pt-br)</a> Todos os direitos reservados.</p>
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+10px; color: #fff; padding-left: 20px; padding-right: 20px; text-align: j=
+ustify;">Voc=C3=AA poder=C3=A1 responder esta entrevista at=C3=A9 o dia 3=
+1/10/2021. Lembramos que se a pesquisa for interrompida, ser=C3=A1 poss=C3=
+=ADvel continuar de onde parou, acessando o mesmo link.</p>
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+10px; color: #fff; padding-left: 20px; padding-right: 20px; text-align: j=
+ustify;">Ao final do question=C3=A1rio, voc=C3=AA poder=C3=A1 optar em di=
+vulgar ou n=C3=A3o as suas respostas de forma identificada para a Ipsos.<=
+/p>
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+10px; color: #fff; padding-left: 20px; padding-right: 20px; text-align: j=
+ustify;">Se, por qualquer motivo, desejar que o seu e-mail seja removido =
+das nossas listas de e-mailing, clique em <strong><span style=3D"text-dec=
+oration: underline;"><a style=3D"font-family: 'Helvetica', sans-serif; fo=
+nt-size: 12px; color: #0fafa9; text-decoration: underline;" title=3D"Link=
+ subinscri=C3=A7=C3=A3o" href=3D"https://rt0756.customervoice360.com/uc/u=
+nsubscribe/?a=3D9452&amp;b=3D76225f20c1e76923&amp;c=3Dcontato@ipbtoledo.c=
+om.br&amp;d=3D">cancelar a subscri=C3=A7=C3=A3o</a></span></strong>.</p>
+            <p style=3D"font-family: 'Helvetica', sans-serif; font-size: =
+10px; color: #fff; padding-left: 20px; padding-right: 20px; text-align: j=
+ustify;">Ipsos Brasil Pesquisa de Mercado. Av. Nove de Julho, 4865, 7=C2=BA=
+ andar. S=C3=A3o Paulo, SP. CEP: 01407-200.</p>
+            <p style=3D"text-align: center;"><img title=3D"Redes Sociais"=
+ src=3D"https://rt0756.customervoice360.com/uc/project_manager/b2a4/image=
+s/ipsos_rede_sociais.png" alt=3D"Redes Sociais" width=3D"auto" height=3D"=
+70" /></p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+--61b1c0e87bfdff1fb9a1736d6597839d8182c3f4--

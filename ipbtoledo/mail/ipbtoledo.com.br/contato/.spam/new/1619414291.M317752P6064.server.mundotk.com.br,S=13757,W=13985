@@ -1,0 +1,228 @@
+Return-Path: <erros@agoinst.slz.br>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id kK7wERNNhmCwFwAA85qOww
+	(envelope-from <erros@agoinst.slz.br>)
+	for <contato+spam@ipbtoledo.com.br>; Mon, 26 Apr 2021 02:18:11 -0300
+Return-path: <erros@agoinst.slz.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 26 Apr 2021 02:18:11 -0300
+Received: from smtp.agoinst.slz.br ([195.154.47.130]:43624)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94)
+	(envelope-from <erros@agoinst.slz.br>)
+	id 1latdH-0001ZL-7t
+	for contato@ipbtoledo.com.br; Mon, 26 Apr 2021 02:18:11 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=agoinst.slz.br; s=mail; h=Content-Transfer-Encoding:Content-Type:Reply-To:
+	From:Date:Message-ID:Subject:To:Sender:Cc:MIME-Version:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=WNt/pMCc4lQzEEz2FtqbVEhk05mbstDbRqOyq1j1dkw=; b=KL7jsA2nU4XmhQNyBqpFt6mlXu
+	eFY4/LKcf+L8OD2ESEooiVbGCJoonjSp2NhginlFdEo8Tdkja7F/Hizm958KgplzuM2N04jU3VWkN
+	QtPjw59Vit1cOJl2sV1HrRf1S2BAimRrPJw+uicw+hcv8WtKOmt/Q40QWNEqayX7TqIU=;
+Received: from agoinsts by vesta.cinzavt.com.br with local (Exim 4.92.3)
+	(envelope-from <erros@agoinst.slz.br>)
+	id 1latcb-0007W2-JR
+	for contato@ipbtoledo.com.br; Mon, 26 Apr 2021 02:17:25 -0300
+To: contato@ipbtoledo.com.br
+X-PHP-Originating-Script: 1059:email.php
+Message-ID: <116848152710119aea9590b6071806b2@agoinst.slz.br>
+Date: Sun, 25 Apr 2021 11:38:32 -0300
+From: "Daniel Gunar" <contato@agoinst.slz.br>
+Reply-To: informativoinstrutoria@gmail.com
+X-Mailer-LID: 84
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b7662bda91f09f80b3d19aa2862ae13d"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: Yes, score=8.9
+X-Spam-Score: 89
+X-Spam-Bar: ++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Seu cliente de email não pode ler esta mensagem. Para visualizá-la
+    online, por favor, clique aqui: http://agoinst.slz.br/display.php?M=16400936&C=263f7c6b0a9816071aa4491d85645f97&S=85&L=84&N=94
+    Para parar de receber nossos conteúdo acesse o link: http://agoinst.slz.br/unsubscribe.php?M=16400936&C=263f7c6b0a9816071aa4491d85645f97&L=84&N=85
+    
+ Content analysis details:   (8.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: slz.br]
+  0.8 DATE_IN_PAST_12_24     Date: is 12 to 24 hours before Received: date
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  1.0 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain
+                             different freemails
+  2.1 FONT_INVIS_MSGID       Invisible text + suspicious message ID
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  1.0 WORD_INVIS             A hidden word
+  0.3 HTML_TEXT_INVISIBLE_FONT HTML hidden text - word obfuscation?
+X-Spam-Flag: YES
+Subject:    =?UTF-8?B?Rm9ybWHDp8OjbyBwYXJhIENvbXByYWRvcmVzIENvcnBvcmF0aXZvcyAtIDNhLnR1cm1hIDIwMjE=?=
+
+--b7662bda91f09f80b3d19aa2862ae13d
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de email não pode ler esta mensagem.
+
+Para visualizá-la online, por favor, clique aqui:
+http://agoinst.slz.br/display.php?M=16400936&C=263f7c6b0a9816071aa4491d85645f97&S=85&L=84&N=94
+
+Para parar de receber nossos conteúdo acesse o link:
+http://agoinst.slz.br/unsubscribe.php?M=16400936&C=263f7c6b0a9816071aa4491d85645f97&L=84&N=85
+
+--b7662bda91f09f80b3d19aa2862ae13d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<p><b>TREINAMENTO</b>:<span style="white-space:pre">	</span>FORMAÇÃO PARA
+COMPRADORES CORPORATIVOS&nbsp;</p><p><b>MODALIDADE</b>:<span
+style="white-space:pre">	</span>Ao vivo pela Plataforma
+zoom</p><p><b>HORÁRIO </b>das aulas:&nbsp; &nbsp; 19H ÀS 23H
+(noite)</p><p><br></p><p><b><u>Agenda// Módulos&nbsp;</u></b></p><p><span
+style="font-size: 0.875rem; font-weight: initial;">Módulo 1: 20 e 21/05
+-&nbsp; &nbsp; GESTÃO DE CONTRATOS PARA COMPRADORES&nbsp;</span><span
+style="font-size: 0.875rem; font-weight: initial;">&nbsp;</span><span
+style="font-size: 0.875rem; font-weight: initial;">-&nbsp;
+(8h//aula)</span></p><p><span style="font-weight: initial;">Módulo
+2:</span><span style="font-weight: initial;">&nbsp;</span><span
+style="font-size: 0.875rem; font-weight: initial;">16 e&nbsp; 17/06 -&nbsp;
+&nbsp;COMPRAS ESTRATÉGICAS (FOCO REDUÇÃO DE CUSTOS)&nbsp; -&nbsp;
+(8h//aula)</span></p><p><span style="font-weight: initial;">Módulo
+3:</span><span style="font-weight: initial;">&nbsp;</span>24 e 25/06
+-&nbsp; &nbsp; TRIBUTAÇÃO PARA COMPRADORES&nbsp;<span style="font-weight:
+initial;">&nbsp;</span><span style="font-weight: initial;">-&nbsp;
+(8h//aula)</span></p><p><span style="font-weight: initial;">Módulo
+4:</span><span style="font-weight: initial;">&nbsp;</span>19 e 22/07
+-&nbsp; &nbsp; NEGOCIAÇÃO PARA COMPRADORES&nbsp;<span style="font-weight:
+initial;">&nbsp;</span><span style="font-weight: initial;">-&nbsp;
+(8h//aula)</span></p><p><span style="font-weight: initial;">Módulo
+5:</span><span style="font-weight: initial;">&nbsp;</span><span
+style="font-weight: initial;">26 e 29/07 -&nbsp; &nbsp;MÉTRICAS E
+INDICADORES DE COMPRAS - (8h/aula)&nbsp;</span></p><p><br></p><p><span
+style="font-size: 0.875rem;"><b>Definição</b></span></p><p>Treinamento
+voltado à capacitação de profissionais que pertençam ou estejam se
+inserindo no setor de compras/suprimentos, que apresentem a necessidade de
+se aperfeiçoarem em suas atividades a fim de obterem melhores resultados
+em seus processos de aquisição de insumos, materiais e/ou
+serviços.</p><p><br></p><p><b>Objetivo Geral</b></p><p>Habilitar
+profissionais a atuarem no setor de
+compras/suprimentos.</p><p><br></p><p><span style="font-size:
+0.875rem;"><b>Objetivos Específicos</b></span></p><p>- Promover o
+conhecimento da importância da função de compras e as habilidades
+requeridas;</p><p>- Apresentar a visão e a importância do Supply Chain
+Management – SCM (Gestão da cadeia de suprimentos);-</p><p>- Conceituar
+o funcionamento do setor de compras, os tipos de compras dentro das
+organizações,</p><p>- Descrever a importância da avaliação e do
+relacionamento com fornecedores.</p><p>- Aplicação no mercado
+profissional</p><p>- Departamentos: compras, suprimentos, da indústria,
+comércio e
+serviços.</p><p><br></p><p>_________________________________________________________</p><p><span
+style="font-size: 0.875rem; font-weight:
+initial;">PROFESSORES</span></p><p><span style="font-size:
+0.875rem;"><b>DANIEL GUNAR</b></span></p><p>Curso Superior em Logística
+Empresarial – 1600h..<span style="font-size: 0.875rem; font-weight:
+initial;">Curso Extensão Docência na Educação Superior –
+96h.&nbsp;</span><span style="font-size: 0.875rem; font-weight:
+initial;">MBA Gestão da Produção, Logística e Cadeias de Valor (SCM)
+– Lato Sensu – 360h.&nbsp;</span><span style="font-size: 0.875rem;
+font-weight: initial;">22 anos de experiência prática na Gestão da
+Cadeia Logística, Transportes, Expedição, Estoques e Almoxarifados,
+Materiais e Compras (Supply Chain Management), no Desenvolvimento,
+Qualificação e Homologação de Fornecedores, liderança de grandes
+equipes, com atuação em empresas nacionais e multinacionais, nos
+seguimentos: automotivo (montadora), Metalúrgico, Químico, Construção
+Civil, Transportes e Tratores e Colheitadeiras.&nbsp;</span><span
+style="font-size: 0.875rem; font-weight: initial;">Professor e Palestrante
+desde 2008 das áreas de Gestão da Cadeia de Suprimentos (Supply Chain
+Management): Logística Industrial, Transportes, Produção, Compras,
+Negociação, Estoques, Almoxarifados, Armazenagem, Gestão e Liderança,
+Tecnologia de Logística, Qualidade e Produtividade Industrial, Avaliação
+de Fornecedores, com mais de 300 palestras ministradas a nível Brasil nas
+principais capitais do Sul, Sudeste, Nordeste, Norte e Centro-Oeste com a
+participação de pequenas, médias e grandes empresas de diversos
+segmentos, com excelentes avaliações, com mais de 2.000 alunos formados e
+mais de 35 cursos In Company realizados em empresas de diversos
+seguimentos: industriais, comerciais e serviços. Atuando também como
+consultor de empresas com trabalhos realizados para ganho de
+produtividade.</span></p><p><span style="font-size: 0.875rem;"><b>DIEGO
+ALMADA BISI</b></span></p><p>Advogado. Professor e Palestrante. Pós
+Graduado em Direito Tributário. Mestrando em Direito
+Empresarial.</p><p><span style="font-size: 0.875rem;"><b>GEDA
+LIMA</b></span></p><p>Especialista de Contratos, Diretora Presidente da GCL
+– Consultoria e Gestão de Contratos, Conselheira da ANGC –
+Associação Nacional dos Gestores de Contratos; Membro das Associações
+Americanas: IACCM – The International Association for Contract and
+Commercial Management e NCMA – National Contract Management Association.
+Formada em Letras e Direito, pós-Graduada pela Universidade Federal de
+Brasília e Palestrante de Gestão de Contratos incluindo boas práticas,
+administração, acordo de nível de serviço (SLA) e gerenciamento de
+nível de serviço (SLM).</p><p><span style="font-size: 0.875rem;
+font-weight:
+initial;">_______________________________________________________________________</span></p><p><span
+style="font-size: 0.875rem; font-weight: initial;">INVESTIMENTO E FORMAS DE
+PAGAMENTO</span></p><p><b>5 Módulos (completo)&nbsp; - 1398,00 para
+inscritos até dia 30/04, após 1398,00&nbsp;</b></p><p>4 módulos
+(escolher na matrícula)&nbsp; - 1298,00&nbsp; para inscritos até dia
+30/04 , após 1398,00</p><p>3&nbsp; módulos&nbsp;<span style="font-weight:
+initial;">&nbsp;</span><span style="font-weight: initial;">(escolher na
+matrícula)</span><span style="font-size: 0.875rem; font-weight:
+initial;">&nbsp;-&nbsp; &nbsp;1.198,00 para inscritos até dia 30/04, após
+1298,00</span></p><p>2 módulos&nbsp;<span style="font-weight:
+initial;">&nbsp;</span><span style="font-weight: initial;">(escolher na
+matrícula)</span><span style="font-size: 0.875rem; font-weight:
+initial;">&nbsp;-&nbsp; &nbsp; &nbsp; 998</span>,<span style="color: rgb(0,
+0, 0); font-family: Roboto, sans-serif; font-size: 14px; font-style:
+normal; font-variant-ligatures: normal; font-variant-caps: normal;
+font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left;
+text-indent: 0px; text-transform: none; white-space: normal; widows: 2;
+word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color:
+rgb(255, 255, 255); text-decoration-thickness: initial;
+text-decoration-style: initial; text-decoration-color: initial; display:
+inline !important; float: none;">,</span><span style="font-size: 0.875rem;
+font-weight: initial;">00 para inscritos até dia 30/04, após
+1198,00</span></p><p>1 módulo&nbsp;<span style="font-weight:
+initial;">&nbsp;</span><span style="font-weight: initial;">(escolher na
+matrícula)</span><span style="font-size: 0.875rem; font-weight:
+initial;">&nbsp;-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;398,00 para inscritos
+até dia 30/04 após 498,00</span></p><p><br></p><p><b>OS TREINAMENTOS
+OFERECEM</b></p><p>- 1 Acesso a sala virtual por inscrição</p><p>-
+Apostilas em PDF</p><p>- Certificado</p><div><br></div><p><span
+style="font-size: 0.875rem; font-weight: initial;">FORMA DE
+PAGAMENTO</span></p><p><span style="font-size: 0.875rem; font-weight:
+initial;">- Boleto a vista</span></p><p>- Cartão até
+10x</p><p><br></p><p>SOLICITE A MATRICULA PELOS NOSSOS CANAIS DE
+ATENDIMENTO</p><p><span style="font-size: 0.875rem; font-weight:
+initial;">Email:</span><span style="font-size: 0.875rem; font-weight:
+initial; white-space: pre;">		</span><span style="font-size: 0.875rem;
+font-weight: initial;">instrutoriabr@hotmail.com</span></p><p>Whats
+App:<span style="white-space:pre">	</span>11 9 7546 1991</p><p><span
+style="font-size: 0.875rem; font-weight: initial;">Site:&nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;www. instrutoria. com.br</span></p><p><br></p><a
+href="http://agoinst.slz.br/unsubscribe.php?M=16400936&C=263f7c6b0a9816071aa4491d85645f97&L=84&N=85">Quero
+me descadastrar dessa campanha</a><br/><img title=Novidade alt=Novidade
+height=42 width=242 src=http://agoinst.slz.br/transparente.png>
+
+<img
+src="http://agoinst.slz.br/open.php?M=16400936&L=84&N=85&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b7662bda91f09f80b3d19aa2862ae13d--
+

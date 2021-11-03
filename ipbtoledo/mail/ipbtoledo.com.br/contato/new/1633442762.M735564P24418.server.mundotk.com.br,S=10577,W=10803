@@ -1,0 +1,226 @@
+Return-Path: <bradesco-saude-8za@planosaudecompare.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id qOkXKcpbXGFiXwAA85qOww
+	(envelope-from <bradesco-saude-8za@planosaudecompare.com.br>)
+	for <contato@ipbtoledo.com.br>; Tue, 05 Oct 2021 11:06:02 -0300
+Return-path: <bradesco-saude-8za@planosaudecompare.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 05 Oct 2021 11:06:02 -0300
+Received: from cloud1936216.planosaudecompare.com.br ([45.13.188.201]:57635)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <bradesco-saude-8za@planosaudecompare.com.br>)
+	id 1mXl4W-00073O-Do
+	for contato@ipbtoledo.com.br; Tue, 05 Oct 2021 11:06:02 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=hxdcqz; d=planosaudecompare.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=bradesco-saude-8za@planosaudecompare.com.br;
+ bh=TkB6+sWhMgJQFfTc4jNGmfCbvD8=;
+ b=X1O9LbDf088FVVN2WaJRmulKGZS5gM03135PGpIqJZT9wJiP03I+qf2BmuJ6oN42btYcjARYJjwD
+   7uUZvKHE4NwAgu3Yvka0tFzND2Te7xkr8jpduzzKu/4pLf+CgS2ZSca47WFMON3yzFUC0enA/3MY
+   MGwZRhUn4evpOLeePJk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=hxdcqz; d=planosaudecompare.com.br;
+ b=ZxGgRQOwC5XBaQdexPLNWL2NTJ+2hfv5n28wijJ11nb8m+Xs4NZpTC/SduAMfvrV+9q/JeUlJtEQ
+   A58ZOxY16UmepdWnr6s6r7CTKfBA4eCu0ADe3nnFq/3o4qUKXr1q7XxEoXx0Jg/bLmy3nCxZslR4
+   wEmobgXSvG6dcWTgGuM=;
+Date: Tue, 5 Oct 2021 11:04:51 -0300
+To: contato@ipbtoledo.com.br
+From: Bradesco Gerente | Ana Bela <bradesco-saude-8za@planosaudecompare.com.br>
+Subject: Para 3 vidas no CNPJ, 40% OFF
+Message-ID: <g5f4i4s41426f453f4w5g5t4w5j4i544l4p274o4t534i5x5@planosaudecompare.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_WNFVSPV0apAPvlR2XBaOiOYbkGQTKHkzcNG6SY8J124"
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+--b1_WNFVSPV0apAPvlR2XBaOiOYbkGQTKHkzcNG6SY8J124
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+A Bradesco Sa=C3=BAde te ajuda a economizar e a melhorar a rede de atendime=
+nto do seu plano de sa=C3=BAde.=0A=0ANossos planos s=C3=A3o completos e se =
+destacam a cada dia no mercado.=0A=0AAcesse os melhores hospitais, m=C3=
+=A9dicos, cl=C3=ADnicas e laborat=C3=B3rios do pa=C3=ADs e ofere=C3=A7a =
+=C3=A0 sua fam=C3=ADlia e empresa os melhores cuidados que eles merecem.=0A=
+=0A=E2=80=A2 DESCONTO DIFERENCIADO NO CNPJ ( todo tipo de empresa)=0AAt=
+=C3=A9 40% menos usando seu CNPJ e 2=C2=AA mensalidade com 50% de desconto.=
+=0A=0A=E2=80=A2 REDU=C3=87=C3=83O DE CAR=C3=8ANCIA=0AMesmo sem ter plano de=
+ sa=C3=BAde=0A=0A=E2=80=A2 DESCONTO EM FARM=C3=81CIAS=0AMais de 30.000 Medi=
+camentos=0A=0A=E2=80=A2 SEM PERDER QUALIDADE=0AGarantia de Cobertura=0A=0AE=
+ssa =C3=A9 a grande oportunidade de cuidar da sa=C3=BAde da sua fam=C3=
+=ADlia e dos colaboradores da sua empresa.=0A=0A=0A=0AClique no bot=C3=
+=A3o abaixo para fazer uma cota=C3=A7=C3=A3o, =C3=A9 simples, segura e sem =
+compromisso, leva apenas 10 segundos.=0A=0A=0A=0A[Quero fazer cota=C3=A7=
+=C3=A3o Agora=0ASEM COMPROMISSO](http://ec2-18-228-138-208.sa-east-1.comput=
+e.amazonaws.com/?qs=3D24r2y233o2d4p2w2y2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b=
+494m4v2j5k4h4t264p423y5d474r5f4n494l4m55444l4t5u5a4z5c4z334l4g4q2b4y5&lin=
+=3D11506)=0A=0A* Garanta sua sa=C3=BAde com economia usando seu CNPJ=0A=0A=
+=0A=0A=0APara n=C3=A3o receber esse informativo ou outros relacionados =
+=C3=A0 essa campanha, [clique aqui!](http://ec2-18-228-138-208.sa-east-1.co=
+mpute.amazonaws.com/?qr=3D24r2y233o2d4p2w2y2e42473k5m4r5k474n4j4d3p5x5i5z5h=
+4e4b494m4v2j5k4h4t264p423y5d474r5f4n494l4m55444l4t5u5a4z5c4z334l4g4q2b4y5).
+--b1_WNFVSPV0apAPvlR2XBaOiOYbkGQTKHkzcNG6SY8J124
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html >
+<html lang=3D"pt-br" >
+<head><meta charset=3D"UTF-8" ><meta name=3D"viewport" content=3D"width=3Dd=
+evice-width, initial-scale=3D1.0" >
+<title>Bradesco Sa&uacute;de</title>
+=09<style type=3D"text/css" >
+=09body{margin:0;padding:0;}
+=09</style>
+</head>
+<body>
+<table bgcolor=3D"#f9f9f9" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" >
+=09<tbody>
+=09=09<tr>
+=09=09=09<td height=3D"10" >&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>&nbsp;
+=09=09=09<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" style=3D"border-radius: 10px;border:1px solid #d=
+ddddd;" width=3D"600" >
+  <tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td bgcolor=3D"F0F0F0" style=3D"border-top-right-radius: =
+9px;border-top-left-radius: 9px;" ><img src=3D"https://brasaude.s3.amazonaw=
+s.com/convenio-medico-bradesco.jpg" alt=3D"Bradesco Sa=FAde - plano de sa=FA=
+de completo que vem se destacando no mercado" width=3D"600" height=3D"326" =
+border=3D"0" ></td>
+=09=09=09=09  </tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td bgcolor=3D"F0F0F0" >&nbsp;</td>
+=09=09=09=09  </tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td bgcolor=3D"F0F0F0" >
+=09=09=09=09=09=09<table align=3D"center" bgcolor=3D"F0F0F0" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"500" >
+=09=09=09  <tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td style=3D"font-family: 'Arial',sans-serif;fon=
+t-size:18px;line-height:28px;color:#111111;" >
+=09=09=09=09=09=09=09=09=09<p>A <b style=3D"color:#cc0b30;" >Bradesco Sa&ua=
+cute;de</b> te ajuda a economizar e a melhorar a rede de atendimento do seu=
+ plano de sa&uacute;de.</p>
+
+=09=09=09=09=09=09=09=09=09<p><strong>Nossos planos s=E3o completos e se de=
+stacam a cada dia no mercado. </strong></p>
+=09=09=09=09=09=09=09=09=09<p><strong>Acesse os melhores hospitais, m&eacut=
+e;dicos, cl&iacute;nicas e laborat&oacute;rios do pa&iacute;s</strong> e of=
+ere&ccedil;a &agrave; sua fam&iacute;lia e&nbsp;empresa os melhores cuidado=
+s que eles merecem.</p>
+=09=09=09=09=09=09=09=09=09<p><b style=3D"color:#cc0b30;" >&bull; DESCONTO =
+DIFERENCIADO NO CNPJ</b> <span style=3D"font-size:12px;" >( todo tipo de em=
+presa)</span><br />
+=09=09=09=09=09=09=09=09=09&nbsp;&nbsp;<i>At&eacute; 40% menos usando seu C=
+NPJ</i> e <em><strong>2=AA mensalidade com 50% de desconto.</strong></em><b=
+r />
+=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09<b style=3D"color:#cc0b30;" >&bull; REDU&Ccedil;=
+&Atilde;O DE CAR&Ecirc;NCIA</b><br />
+=09=09=09=09=09=09=09=09=09&nbsp;&nbsp;<i>Mesmo sem ter plano de sa&uacute;=
+de</i><br />
+=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09<b style=3D"color:#cc0b30;" >&bull; DESCONTO EM =
+FARM&Aacute;CIAS</b><br />
+=09=09=09=09=09=09=09=09=09&nbsp;&nbsp;<i>Mais de 30.000 Medicamentos</i><b=
+r />
+=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09<b style=3D"color:#cc0b30;" >&bull; SEM PERDER Q=
+UALIDADE</b><br />
+=09=09=09=09=09=09=09=09=09&nbsp;&nbsp;<i>Garantia de Cobertura</i></p>
+
+=09=09=09=09=09=09=09=09=09<p style=3D"font-weight: bold;" >Essa &eacute; a=
+ grande oportunidade de cuidar da sa&uacute;de da sua fam&iacute;lia e  dos=
+ colaboradores da sua empresa.</p>
+
+=09=09=09=09=09=09=09=09=09<p align=3D"center" style=3D"font-weight: bold;"=
+ >&nbsp;</p>
+
+=09=09=09=09=09=09=09=09=09<p>Clique no bot&atilde;o abaixo para fazer uma =
+cota&ccedil;&atilde;o, =E9 simples, segura e sem compromisso, leva apenas 1=
+0 segundos.</p>=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td height=3D"10" bgcolor=3D"F0F0F0" >&nbsp;</td=
+>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" bgcolor=3D"F0F0F0" >
+=09=09=09=09=09=09=09=09  <table align=3D"center" bgcolor=3D"#820075" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 25px;" =
+width=3D"100%" >
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family:'Arial',sans-s=
+erif;font-size:22px;font-weight:bold" ><a href=3D"http://ec2-18-228-138-208=
+.sa-east-1.compute.amazonaws.com/?qs=3D24r2y233o2d4p2w2y2e42473k5m4r5k474n4=
+j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423y5d474r5f4n494l4m55444l4t5u5a4z5c4z33=
+4l4g4q2b4y5&lin=3D11506" style=3D"line-height:30px;text-align:center;displa=
+y:block;border:15px solid transparent;color: #ffffff;text-decoration: none;=
+text-transform: uppercase;" target=3D"_blank" >Quero fazer cota&ccedil;&ati=
+lde;o Agora<br>
+=09=09=09=09=09=09=09=09=09=09=09=09SEM COMPROMISSO</a></td>
+=09=09=09=09=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td bgcolor=3D"F0F0F0" style=3D"font-family:helv=
+etica,sans-serif;text-decoration:none;color: #096;display:block;font-size:1=
+8px;line-height:32px;margin:0em 0 1em;padding:0;font-weight: bold;font-styl=
+e: italic;text-align: center;" ><br>
+=09=09=09=09=09=09=09=09    * Garanta sua sa=FAde com economia usando seu C=
+NPJ</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09  </table>=09=09=09=09=09  </td>
+=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09  <td bgcolor=3D"F0F0F0" >&nbsp;</td>
+=09=09    </tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td height=3D"30" >&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td style=3D"border:1px solid #e6e9ef" >&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td height=3D"30" >&nbsp;</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td align=3D"center" style=3D"font-family:'Arial',sans-serif;font-=
+size:11px;color:#7f8c8d;line-height:30px" >Para n&atilde;o receber esse inf=
+ormativo ou outros relacionados &agrave; essa campanha, <a href=3D"http://e=
+c2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qr=3D24r2y233o2d4p2w2y2e=
+42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423y5d474r5f4n494l4m554=
+44l4t5u5a4z5c4z334l4g4q2b4y5" target=3D"_blank" >clique aqui!</a>.</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td height=3D"30" >&nbsp;</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<img src=3D"http://ec2-18-228-138-208.sa-east-1.compute.amazonaws.com/?qo=
+=3D24r2y233o2d4p2w2y2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p4=
+23y5d474r5f4n494l4m55444l4t5u5a4z5c4z334l4g4q2b4y5" alt=3D"" width=3D1 heig=
+ht=3D1 style=3D"border:0 none;display:block;height:auto;line-height:100%;ou=
+tline:none;-webkit-text-decoration:none;text-decoration:none"></body>
+</html>
+
+
+--b1_WNFVSPV0apAPvlR2XBaOiOYbkGQTKHkzcNG6SY8J124--
+

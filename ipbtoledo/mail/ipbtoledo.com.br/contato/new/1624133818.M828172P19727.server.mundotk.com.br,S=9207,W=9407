@@ -1,0 +1,200 @@
+Return-Path: <return-mob9km17@hospedagemdaweb.com>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id IFlqMLpQzmAPTQAA85qOww
+	(envelope-from <return-mob9km17@hospedagemdaweb.com>)
+	for <contato@ipbtoledo.com.br>; Sat, 19 Jun 2021 17:16:58 -0300
+Return-path: <return-mob9km17@hospedagemdaweb.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sat, 19 Jun 2021 17:16:58 -0300
+Received: from server1.hospedagemdaweb.com ([186.251.130.12]:41020)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <return-mob9km17@hospedagemdaweb.com>)
+	id 1luhOF-0005Fc-4H
+	for contato@ipbtoledo.com.br; Sat, 19 Jun 2021 17:16:58 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=hospedagemdaweb.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=abuse@hospedagemdaweb.com;
+ bh=uhCRnSmxxeC23UdgOlUru0866Vg=;
+ b=JmRxqBBRNihYy03dVzLuAuC1PEvPbo2QorcvLgB80ecV8oqnYy6xKqG1VcWQcYK7tpa4eggWvev+
+   YD7BblG55vCnBZShOtsSsSiI+HsUaWi4ZviMmsncuhyyI86mGCyb7PgDBYSBGzoaUhnDffOYM+n7
+   KeklNB8YDE6XloYv4p1dsk/QTuUxfP/nzbq2UTNy/jbBBBEgFYYw7efM3z17rE4sGFRk0X63IxJO
+   g0oPrtq/0Zjc89AwjwXRcz0TGmw6Jn+YQ8PrbXeP6SyYlInjLpHpQYYJgLweG7typbJSE8s8XAa8
+   Ofyqr3VGfyElSBGoX1izAiVxNN1AZzWq5sCdUw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=hospedagemdaweb.com;
+ b=H3hTsx0pWdqZ468F5VOXqu09A9fvkrreVjOOwbCBXbJTsi5iIvQZlJEqGQVN5AEHdTJZgsxqTxjx
+   WSZC/a4CEG9WMhiAtmmNmVk3i4lLnrxEKwZkk1whDQNoZkpAyqJQszjrGZq9dYBm518OQzvHj927
+   /AgCYosoqFVLhjBa5BRd+AqvPMQFiKk4lOuEwx4rDJtxhhcVy9IZeQ9mcH5hRleGjV6TIYuu+uxH
+   bVyBDEIrJTo711p4RNIXB8pyKZqkF5x3ivmFNTNmj+iLtCwygG/3G+hJe7bGBki/4ytIDKs7UAxM
+   rAu0a6695I05QBVpZz1/sLXmKcqV5r1fMuX6Qg==;
+To: contato@ipbtoledo.com.br
+Subject: =?UTF-8?B?TWVnYSBQYWNvdGUgLSBDdXJzb3MgZGUgSW5mb3Jtw6F0aWNhIQ==?=
+Message-ID: <ef46a9b656b8794c9ce46e368dfb0d40@t.hospedagemdaweb.com>
+Date: Sat, 19 Jun 2021 17:15:37 -0300
+From: "=?UTF-8?B?R3VpYSBkYSBJbmZvcm3DoXRpY2E=?=" <4kg0e1yp@hospedagemdaweb.com>
+Reply-To: d6izttxd@hospedagemdaweb.com
+MIME-Version: 1.0
+X-Mailer-LID: 3
+List-Unsubscribe: <http://t.hospedagemdaweb.com/service/unsubscribe.php?M=1855153&C=8a3ca1028bcae019be29659a1f8876d4&L=3&N=191>
+X-Mailer-RecptId: 1855153
+X-Mailer-SID: 191
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_33efef30cfcb1993b278f20e5cf92719"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+--b1_33efef30cfcb1993b278f20e5cf92719
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Oi, bom dia!
+
+Curso Completo de Manutenção e Reparos em
+Equipamentos de informática!
+
+Computador - Notebook - Impressora - Placa Mãe - Cooler
+- Monitores e diversos outros.
+Chega de levar seus aparelhos em assistência técnica para Manutenção.
+Não gaste dinheiro desnecessário, pois você mesmo poderá
+fazer tudo o que eles iriam fazer.
+
+Aprenda tudo Passo a Passo sem precisar sair de casa;
+
+- Montagem e Desmontagem.
+- Instalação e Formatação desde Windows XP até o Windows 10.
+- Identificar e corrigir defeitos.
+- Fazer limpeza e manutenção preventiva.
+- Realizar a troca de componentes e peças.
+- Recuperar dados, fazer Backups e muito mais...
+
+Você vai aprender os principais métodos, as técnicas e os segredos
+que os profissionais guardam em segredo à 7 chaves.
+
+Acesse nosso site e veja mais benefícios:
+https://bit.ly/2XSL7C5
+
+Obs: Caso o link não funcionar, copie o endereço acima e cole em
+seu navegador.
+
+
+Alguma dúvida?
+
+Entre em contato enviando um email que teremos muito prazer
+em lhe responder.
+
+E-mai, computadorescurso@gmail.com
+
+
+
+Atenciosamente;
+Equipe Curso Computadores
+
+
+
+--
+Mensagem enviada para o email, contato@ipbtoledo.com.br
+Nosso objetivo é proporcionar conhecimento na área de
+informática para todos.
+--
+Caso não seja de seu interesse nos informe aqui que não
+iremos mais enviar mensagens.
+http://t.hospedagemdaweb.com/service/unsubscribe.php?M=1855153&C=8a3ca1028bcae019be29659a1f8876d4&L=3&N=191
+19 - June - 2021
+Ref/7ta8ylwi
+
+--b1_33efef30cfcb1993b278f20e5cf92719
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+  <title></title>
+
+
+</head><body>
+<span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+x-small;"></span>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;"><strong>Sauda&ccedil;&otilde;es, bom dia!<br /> <br /> <span style="font-weight:
+normal;">Guia Completo em inform&aacute;tica, ensinando tudo o que
+voc&ecirc; precisa saber.</strong><strong></strong></span><br /> <br />
+<span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small; font-weight: bold;">Computador - Notebook - Impressora - Placa
+M&atilde;e&nbsp;- Cooler - Monitores e diversos outros.</span><br /> <span
+style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;">Chega de levar seus aparelhos em assist&ecirc;ncia t&eacute;cnica
+para Manuten&ccedil;&atilde;o.</span><br /> <span style="font-family:
+tahoma,arial,helvetica,sans-serif; font-size: small;">N&atilde;o gaste
+dinheiro desnecess&aacute;rio, pois voc&ecirc; mesmo&nbsp;poder&aacute;
+fazer tudo o que eles iriam fazer.<strong></strong></span><br /> <span
+style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;"><strong><br /> Aprenda tudo Passo a Passo sem precisar sair de
+casa:<br /> </strong></span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;">- Montagem e&nbsp;Desmontagem.</span><br /> <span
+style="font-family: tahoma,arial,helvetica,sans-serif; font-size: small;">-
+Instala&ccedil;&atilde;o e Formata&ccedil;&atilde;o desde Windows XP
+at&eacute; o Windows 10.</span><br /> <span style="font-family:
+tahoma,arial,helvetica,sans-serif; font-size: small;">- Identificar e
+corrigir defeitos.</span><br /> <span style="font-family:
+tahoma,arial,helvetica,sans-serif; font-size: small;">- Fazer limpeza e
+manuten&ccedil;&atilde;o preventiva.</span><br /> <span style="font-family:
+tahoma,arial,helvetica,sans-serif; font-size: small;">- Realizar a troca de
+componentes e pe&ccedil;as.</span><br /> <span style="font-family:
+tahoma,arial,helvetica,sans-serif; font-size: small;">- Recuperar dados,
+fazer Backups e muito mais!</span><br /> <br /> <span
+style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;">Voc&ecirc; vai aprender os principais m&eacute;todos,
+as&nbsp;t&eacute;cnicas&nbsp;e os segredos&nbsp;que os profissionais
+guardam em&nbsp;segredo &agrave; 7 chaves.</span><br /> <br /> <span
+style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;">Acesse nosso site e veja mais benef&iacute;cios,<br /> <a
+href="https://bit.ly/2XSL7C5" target="_blank"><strong>cursocomputador
+com</strong></a></span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;">Obs: Caso o link n&atilde;o funcionar, copie e cole em seu
+navegador &gt; <strong><a href="https://bit.ly/2XSL7C5"
+target="_blank">https://bit.ly/2XSL7C5</a></strong></span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;"></span><br /> <span style="font-family:
+tahoma,arial,helvetica,sans-serif; font-size: small;"><strong>Alguma
+d&uacute;vida?</strong><br /> </span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;">Entre em contato enviando um email que teremos&nbsp;muito prazer em
+lhe responder.</span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;">E-mai;&nbsp;<a
+href="mailto:computadorescurso@gmail.com"><span style="font-weight:
+bold;">computadorescurso@gmail.com</span></a></span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;"><br /> </span></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+small;">Atenciosamente:<br /></span><span style="font-family: tahoma,
+arial, helvetica, sans-serif; font-size: small;">Equipe Curso
+Computadores</span></p>
+<p></p>
+<p><span style="font-family: tahoma,arial,helvetica,sans-serif; font-size:
+x-small;"> ~~<br /> <span>Mensagem enviada para
+o email;&nbsp;<strong>contato@ipbtoledo.com.br</strong></span><br />
+<span>Nosso objetivo &eacute; proporcionar conhecimento
+na&nbsp;</span><span>&aacute;rea de inform&aacute;tica para todos.<br
+/>--</span><br /> <span>Caso n&atilde;o seja de
+seu interesse&nbsp;<a
+href="http://t.hospedagemdaweb.com/service/unsubscribe.php?M=1855153&C=8a3ca1028bcae019be29659a1f8876d4&L=3&N=191">nos
+informe aqui</a>&nbsp;que n&atilde;o iremos mais enviar mensagens.<a
+href="http://t.hospedagemdaweb.com/service/unsubscribe.php?M=1855153&C=8a3ca1028bcae019be29659a1f8876d4&L=3&N=191"><br
+/> </a>19 - June - 2021<br
+/>Ref:c7xd4n37</span><br
+/> </span></p>
+<img
+src="http://t.hospedagemdaweb.com/service/open.php?M=1855153&L=3&N=191&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_33efef30cfcb1993b278f20e5cf92719--
+
+

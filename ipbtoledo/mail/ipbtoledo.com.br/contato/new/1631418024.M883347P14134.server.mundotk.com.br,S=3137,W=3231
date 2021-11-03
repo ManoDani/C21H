@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id ONWWM6h2PWE2NwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Sun, 12 Sep 2021 00:40:24 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sun, 12 Sep 2021 00:40:24 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mPGLw-0003j5-LQ
+	for contato@ipbtoledo.com.br; Sun, 12 Sep 2021 00:40:24 -0300
+X-Failed-Recipients: salariomagico_620@hip.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <293a695af76aedcf85da1abcee0734c0@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1631418024-eximdsn-1295015522
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mPGLw-0003j5-LQ@server.mundotk.com.br>
+Date: Sun, 12 Sep 2021 00:40:24 -0300
+
+--1631418024-eximdsn-1295015522
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  salariomagico_620@hip.com
+    retry timeout exceeded
+
+--1631418024-eximdsn-1295015522
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;salariomagico_620@hip.com
+Status: 5.0.0
+
+--1631418024-eximdsn-1295015522
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=40412 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mNoGj-0007EZ-TD
+	for salariomagico_620@hip.com; Wed, 08 Sep 2021 00:29:01 -0300
+Date: Wed, 8 Sep 2021 03:29:00 +0000
+To: =?UTF-8?Q?Ipbtoledo_Quer_garantir_um_sal=C3=A1rio_REALMENTE_m=C3=A1gico?=
+ =?UTF-8?Q?=3F=3F?= <salariomagico_620@hip.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <293a695af76aedcf85da1abcee0734c0@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Ipbtoledo Quer garantir um salário REALMENTE mágico??
+
+                    EMAIL: salariomagico_620@hip.com
+
+                    TELEFONE: (43) 9812345678
+                    
+
+
+                    CORPO DA MENSAGEM: Ipbtoledo eu sou Gabriel Nascimento Cheguei até seu site www.ipbtoledo.com.br para te perguntar QUER garantir um SALÁRIO mágico...
+
+Quer ENTÃO click no link  abaixo!
+https://bit.ly/salariomagicoeuquero
+
+Ou Link abaixo.
+ 
+
+
+Não quero ter SALÁRIO mágico 
+http://www.sairdalista.site?u=http://www.ipbtoledo.com.br&c=fd00678c497c2C895A5F
+
+
+--1631418024-eximdsn-1295015522--

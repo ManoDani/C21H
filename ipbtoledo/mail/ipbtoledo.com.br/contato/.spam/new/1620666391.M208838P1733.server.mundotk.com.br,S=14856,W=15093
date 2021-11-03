@@ -1,0 +1,237 @@
+Return-Path: <erros@agoinst.slz.br>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id QEFfCxdomWDFBgAA85qOww
+	(envelope-from <erros@agoinst.slz.br>)
+	for <contato+spam@ipbtoledo.com.br>; Mon, 10 May 2021 14:06:31 -0300
+Return-path: <erros@agoinst.slz.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 10 May 2021 14:06:31 -0300
+Received: from smtp.agoinst.slz.br ([195.154.57.121]:53483)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <erros@agoinst.slz.br>)
+	id 1lg9MQ-0000eE-9o
+	for contato@ipbtoledo.com.br; Mon, 10 May 2021 14:06:31 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=agoinst.slz.br; s=mail; h=Content-Transfer-Encoding:Content-Type:Reply-To:
+	From:Date:Message-ID:Subject:To:Sender:Cc:MIME-Version:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=8b67HVQLFxbTkANi+dE+bVB+S7VyC83PWsYOY+SnZS8=; b=smD+9bc8wXtnUsvgUIoxAeAbWY
+	jxy9aOpbS8O6RvjyjprFW9ez93QAjuE3qs04pK7UCL1Ynb8KML4HAV3kTbXSQJ99gM76gkvfkNgZ1
+	0wwHzUrk8HDQxvj7OmMXs4iRd5Ww4KRTEmf8os3bH3cIWy4TA2amOMizLZEDbz94ion0=;
+Received: from agoinsts by vesta.envioparavoce.com.br with local (Exim 4.92.3)
+	(envelope-from <erros@agoinst.slz.br>)
+	id 1lg9Ll-0002J1-11
+	for contato@ipbtoledo.com.br; Mon, 10 May 2021 14:05:45 -0300
+To: contato@ipbtoledo.com.br
+X-PHP-Originating-Script: 1027:email.php
+Message-ID: <c4f4643d61d880068c8516d9876e537d@agoinst.slz.br>
+Date: Sun, 09 May 2021 21:34:02 -0300
+From: "Daniel Gunar" <contato@agoinst.slz.br>
+Reply-To: informativoinstrutoria@gmail.com
+X-Mailer-LID: 96
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="2b930c5fef60d276a588e88876ec585e"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: Yes, score=10.0
+X-Spam-Score: 100
+X-Spam-Bar: ++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Seu cliente de email não pode ler esta mensagem. Para visualizá-la
+    online, por favor, clique aqui: http://agoinst.slz.br/display.php?M=21270880&C=320399d6c7659999350938bc7d653331&S=95&L=96&N=101
+    Para parar de receber nossos conteúdo acesse o link: http://agoinst.slz.br/unsubscribe.php?M=21270880&C=320399d6c7659999350938bc7d653331&L=96&N=95
+    
+ Content analysis details:   (10.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: slz.br]
+  0.8 DATE_IN_PAST_12_24     Date: is 12 to 24 hours before Received: date
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  2.5 FONT_INVIS_MSGID       Invisible text + suspicious message ID
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+  1.0 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain
+                             different freemails
+  1.5 MONEY_FREEMAIL_REPTO   Lots of money from someone using free
+                             email?
+  1.0 WORD_INVIS             A hidden word
+X-Spam-Flag: YES
+Subject:    =?UTF-8?B?Rm9ybWHDp8OjbyBHZXN0b3JlcyBFc3RvcXVlcyBlIEFybWF6ZW5hZ2VtICh1bHRpbWFzIHZhZ2FzKSA=?=
+
+--2b930c5fef60d276a588e88876ec585e
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de email não pode ler esta mensagem.
+
+Para visualizá-la online, por favor, clique aqui:
+http://agoinst.slz.br/display.php?M=21270880&C=320399d6c7659999350938bc7d653331&S=95&L=96&N=101
+
+Para parar de receber nossos conteúdo acesse o link:
+http://agoinst.slz.br/unsubscribe.php?M=21270880&C=320399d6c7659999350938bc7d653331&L=96&N=95
+
+--2b930c5fef60d276a588e88876ec585e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<p>GESTORES DE ESTOQUES E ARMAZENAGEM</p><p>Carga Horária Total: 48
+horas/aula -&nbsp; 6 Módulos</p><p>Horário: Noturno das 19h às
+23h&nbsp;</p><p>Modalidade: On Line ao vivo pela Plataforma
+Zoom</p><p>__________________________________________________________________________________________________________________</p><p>PROGRAMA
+/ CALENDÁRIO</p><p><br></p><p>1° Módulo – Administração e
+Organização de Almoxarifados(8h/aula) <span
+style="white-space:pre">	</span>Datas 24/05 e 25/05 das 19h às
+23h&nbsp;</p><p>2° Módulo – Armazenagem e Estocagem de Materiais
+(8h/aula)&nbsp; &nbsp;<span style="white-space:pre">		</span>Datas 31/05 e
+01/06 das 19h às 23h</p><p>3° Módulo – Gestão de Estoques
+(8h/aula)&nbsp; <span
+style="white-space:pre">				</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Datas
+07/06 e 08/06 das 19h às 23h</p><p>4° Módulo – Inventário Físico de
+Materiais (8h/aula)&nbsp; <span
+style="white-space:pre">			</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Datas
+21/06 e 22/06 das 19h às 23h</p><p>5° Módulo – Estratégias e
+Planejamento Logístico (8h/aula) <span
+style="white-space:pre">		</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Datas
+28/06 e 29/06 das 19h às 23h<span
+style="white-space:pre">	</span></p><p>6° Módulo – Liderança e Gestão
+de Equipes (8h/aula) <span
+style="white-space:pre">			</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Datas
+05/07 e 12/07 das 19h às 23h<span
+style="white-space:pre">	</span></p><p>______________________________________________________________________________</p><p><br></p><p>Objetivo</p><p>Proporcionar
+aos participantes uma visão ampla do Almoxarifado e/ou Armazém, conhecer
+e discutir técnicas para aumentar a rotatividade e reduzir os valores dos
+estoques, melhorar a acuracidade das informações, a utilização dos
+espaços e equipamentos de movimentação.</p><p>Desenvolver e ampliar a
+capacidade técnica de profissionais que trabalham, mas tem pouca
+experiência na área, aumentando a capacidade dos Almoxarifados/Armazéns
+e o atendimento das demandas internas e externas.</p><p><br></p><p>A quem
+se destina</p><p>Almoxarifes, Assistentes, Auxiliares, Estoquistas,
+Conferentes, Operadores de Logística e técnicos que atuam em diversos
+Almoxarifados e/ou Armazéns, e que buscam atualizações de conceitos e
+troca de informações, e também a profissionais que desejam iniciar na
+profissão da Administração de Materiais e
+Logística.</p><p><br></p><p>Quais resultados esperados para o
+aluno</p><p>1) Gerenciar a recepção, conferência e armazenagem de
+produtos e materiais em almoxarifados, armazéns, silos e
+depósitos;</p><p>2) Controlar e armazenar as peças, faze relatórios,
+fazer levantamento controlando a entrada e saída de mercadorias no
+estoque;</p><p>3) Gerenciar a equipe de colaboradores que atuam nos
+estoques, acompanhando a rota de distribuição, recepcionar, conferir,
+armazenar produtos e materiais em almoxarifados, armazéns, e silos,
+realizando os lançamentos da movimentação de entradas e saídas e
+controlando os estoques, distribuir produtos e materiais a serem expedidos,
+organizar o almoxarifado/armazém para facilitar a movimentação dos itens
+armazenados e a armazenar;</p><p>4) erenciar a rotina de estoque,
+acompanhar o inventário, verificar o produto rotativo, fazer a
+classificação e elaboração de relatório gerencial;</p><p>5) Atuar com
+o gerenciamento da venda e da compra, mantem contato direto com o
+fornecedor e o parceiro, atuar com a expedição e com a análise de
+relatório, liderar, motivar e manter um bom relacionamento com a equipe,
+realizar a transferência de mercadorias entre lojas, acompanhar as
+necessidades dos estoques dentre outras atividades, realizar
+inventários;</p><p>6) Efetuar auditoria interna e acompanhar processos de
+recebimento nas lojas, controlar e administrar as atividades de
+recebimento, armazenagem e distribuição de produtos, atuar com
+conferência e etiquetação, transferência de mercadorias, separação de
+pedidos, elaboração de relatórios e planilhas.</p><p><br></p><p>EMENTA
+DOS MÓDULOS - Solicite a ementa dos módulo ou acesse o site: www.
+instrutoria.
+com.br&nbsp;</p><p>__________________________________________________________________________________________________________________</p><p><br></p><p>DOCENTE
+RESPONSÁVEL</p><p>DANIEL GUNAR ALVES DO NASCIMENTO</p><p>Formação
+Acadêmica:</p><p>MBA Gestão da Produção, Logística (Supply Chain
+Management) – 360h – 2018 a 2019.</p><p>Curso Extensão Docência
+Ensino Superior – 60h – 2010.</p><p>Graduação Superior Tecnologia em
+Gestão de Logística – 1600h – 2006 à 2007.</p><p>Experiência
+Prática:</p><p>Com experiência prática de 20 anos, atuando desde 1993 em
+Compras, Estoques e Logística, com atuação em Transportadoras
+(Transportadora Tapajós S.A, Transportadora Sulista, Transportadora
+Tresul), Indústria Metal-Mecânica (Metalúrgica Angelin), Madeireira
+Eulide, Indústria Química (Isogama Indústria Química), Indústria
+Automotiva (Vallourec do Brasil Ltda), Indústria de Tratores e
+Colheitadeiras (Case New Holand), Indústria de Bebidas não alcoólicas
+(Hugo Cini), Indústria da Construção Civil (Casa Alta
+Construções).</p><p>Em Compras atuei como Comprador Sênior de diversos
+materiais, tais como: Peças de caminhões e carretas, rolamentos, pneus,
+peças de reposição de máquinas operatrizes industriais, óleos
+lubrificantes, graxas, materiais de escritório, materiais de limpeza,
+equipamentos de proteção individual, uniformes, material gráfico,
+matéria-prima, embalagem, serviços diversos, fretes, alimentos, material
+elétrico/mecânico industrial, motores elétricos, bombas pneumáticas,
+sensores especiais, materiais diversos de manutenção industrial,
+construção civil, etc. Follow-up a fornecedores, no desenvolvimento,
+homologação e avaliação de fornecedores, com visitas periódicas às
+plantas produtivas das fontes de fornecimento. Elaboração de
+procedimentos do setor de compras, estoques e logística, com fluxogramas e
+procedimentos escritos. Cotações diversas, negociação de preços,
+análise de custos. Operacionalização de sistemas ERP´s: MFG-PRO,
+Datasul, Microsiga Protheus (TOTVS), entre outros;</p><p>Nos Transportes,
+atuei como Comprador Pleno e Gestor de Estoques, de serviços e peças para
+cavalos e carretas, Volvo, Scania, Mercedes Bens, carretas Randon e Guerra,
+na roteirização de cargas, contratação de motoristas, acertos de
+viagens, contato com agenciadores de cargas, avaliação de desempenho de
+entregas, controle de recebimento e expedição de cargas aos
+clientes;</p><p>Em Estoques atuei em diversos ambientes de materiais,
+inclusive como encarregado do setor, fazendo o planejamento, implantação
+e implementação de almoxarifados de alimentos, peças de manutenção,
+industriais e de construção civil, inclusive como Coordenador de
+operações de estocagem e armazenagem em diversos ambientes durante minha
+carreira, utilizando os conhecimentos teóricos + prática para melhorias
+de custos dos estoques, com inventários periódicos e rotativos,
+utilizando a filosofia dos 5 “S”, as técnicas do PEPS, UEPS,
+localização física dos materiais, etc...</p><p>Na Logística, atuei como
+Supervisor de Logística em empresa terceirizada dentro da Case New Holand
+em Curitiba | PR supervisionava os processos de chegada de peças na planta
+e no centro de distribuição de São José dos Pinhais | PR, e liderava 8
+pessoas, mas ao longo da carreira desde o início sempre ligado aos
+processos de Logística, atendimento ao cliente, notas fiscais,
+faturamento, e gestão dos estoques;</p><p>Na área da Qualidade,
+experiência como Auditor Interno da Qualidade da Norma ISO
+9001:2008.</p><p>__________________________________________________________________________________________________________________</p><p>INVESTIMENTO
+E FORMAS DE PAGAMENTO -&nbsp; PARA INSCRITOS ATÉ DIA
+14/05</p><p>Inscrição em 6 Módulos: R$ 299,00/por modulo =
+R$1.794,00&nbsp;</p><p>Inscrição em 5 Módulos: R$ 328,00/por módulo =
+R$1.640,00 (escolher no momento da inscrição)</p><p>Inscrição em 4
+Módulos: R$ 360,00/por módulo = R$ 1.440,00(escolher no momento da
+inscrição)</p><p>Inscrição em 3 Módulos: R$ 396,00/por módulo = R$
+1.116,00(escolher no momento da inscrição)</p><p>Inscrição em 2
+Módulos: R$ 435,00/por módulo = R$&nbsp; &nbsp;870,00(escolher no momento
+da inscrição)</p><p>Inscrição em 1 Módulo:&nbsp; R$ 480,00&nbsp;
+&nbsp;(escolher no momento da inscrição)</p><p><br></p><p>FORMAS DE
+PAGAMENTO</p><p>BOLETO A VISTA&nbsp;</p><p>CARTÃO ATÉ
+10X</p><p><br></p><p><span style="font-size: 0.875rem; font-weight:
+initial;">INCLUSO</span></p><p>1 apostila por módulo</p><p>Gravação da
+aula</p><p>Plantão de
+Duvidas</p><p>Certificado</p><p>__________________________________________________________________________________________________________________</p><p>PARA
+INSCRIÇÕES</p><p>email: instrutoriabr@hotmail.com&nbsp;</p><p>WhatsApp:
+11 9 7546 1991</p><p>Site: www. instrutoria.
+com.br&nbsp;</p><p>__________________________________________________________________________________________________________________</p><p><br></p><p><a
+href="http://agoinst.slz.br/unsubscribe.php?M=21270880&C=320399d6c7659999350938bc7d653331&L=96&N=95"
+style="font-size: 1rem; font-weight: initial;">Quero me descadastrar dessa
+campanha</a></p><br/><img title=Novidade alt=Novidade height=42 width=242
+src=http://agoinst.slz.br/transparente.png>
+
+<img
+src="http://agoinst.slz.br/open.php?M=21270880&L=96&N=95&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--2b930c5fef60d276a588e88876ec585e--
+

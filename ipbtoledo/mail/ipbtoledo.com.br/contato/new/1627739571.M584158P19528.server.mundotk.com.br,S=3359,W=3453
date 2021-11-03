@@ -1,0 +1,94 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id QP0JIrNVBWFITAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Sat, 31 Jul 2021 10:52:51 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sat, 31 Jul 2021 10:52:51 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1m9pQ3-0005LL-DR
+	for contato@ipbtoledo.com.br; Sat, 31 Jul 2021 10:52:51 -0300
+X-Failed-Recipients: promoveboxdm@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <19b3dbd65a8ead4e753d4df4ac7166dd@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1627739571-eximdsn-2045204614
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1m9pQ3-0005LL-DR@server.mundotk.com.br>
+Date: Sat, 31 Jul 2021 10:52:51 -0300
+
+--1627739571-eximdsn-2045204614
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  promoveboxdm@gmail.com
+    host gmail-smtp-in.l.google.com [142.250.115.26]
+    SMTP error from remote mail server after RCPT TO:<promoveboxdm@gmail.com>:
+    550-5.2.1 The email account that you tried to reach is disabled. Learn more at
+    550 5.2.1  https://support.google.com/mail/?p=DisabledUser r23si4094454oot.26 - gsmtp
+
+--1627739571-eximdsn-2045204614
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;promoveboxdm@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.2.1 The email account that you tried to reach is disabled. Learn more at
+ 550 5.2.1  https://support.google.com/mail/?p=DisabledUser r23si4094454oot.26 - gsmtp
+
+--1627739571-eximdsn-2045204614
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=32988 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1m9olr-0001lT-6N
+	for promoveboxdm@gmail.com; Sat, 31 Jul 2021 10:11:19 -0300
+Date: Sat, 31 Jul 2021 13:11:18 +0000
+To: Enzo Moreira <promoveboxdm@gmail.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <19b3dbd65a8ead4e753d4df4ac7166dd@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Enzo Moreira
+
+                    EMAIL: promoveboxdm@gmail.com
+
+                    TELEFONE: (11) 97683-5978
+                    
+
+
+                    CORPO DA MENSAGEM: Parabéns pelo seu site, você já pensou em divulgá-lo com o PromoveBox? 
+
+Enzo, veja no Google como esta ferramenta pode alavancar suas visitas e suas vendas. 
+
+Boas Vendas! 
+PromoveBox.com
+
+
+--1627739571-eximdsn-2045204614--

@@ -1,0 +1,520 @@
+# Webalizer V2.23-08 Incremental Data - 11/01/2021 09:05:32
+2021 11 1 9 5 32
+111 89 43 53 6 15 6640962 75 63 0
+43 7 22 1 1
+111 89 6640962 43 75 63
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+9 7 24328 6
+19 13 65659 15
+9 7 25980 7
+8 7 25686 7
+10 8 26137 7
+8 7 24585 7
+11 8 28991 8
+8 6 22350 7
+22 21 6376928 6
+7 5 20318 5
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+89
+0
+0
+0
+0
+0
+1
+0
+0
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/app.css
+0 1 9578992 23674 0 0
+/posts/536
+0 1 9577600 3597 1 0
+/posts/574
+0 1 9576704 3577 1 0
+/posts/377
+0 1 9577456 3550 1 0
+/posts/383
+0 1 9580928 3549 1 0
+/posts/358
+0 1 9581728 3577 1 1
+/posts/476
+0 1 9582464 3557 1 0
+/posts/410
+0 1 9332864 3551 0 1
+/upload/img/6003192961fe0.png
+0 1 9578592 1109052 0 0
+/images/instagram-logo.svg
+0 2 9368832 3392 0 0
+/posts/594
+0 1 9584208 3605 0 1
+/posts/431
+0 1 9330640 3570 1 0
+/posts/336
+0 1 9328384 3620 1 0
+/images/facebook-logo.svg
+0 1 9578464 1146 0 0
+/series/quem-e-ele
+0 1 9581584 3978 0 0
+/images/logo.png
+0 1 9579104 168211 0 0
+/posts/385
+0 1 9584096 3547 1 0
+/upload/img/6033feaab5b86.png
+0 1 9578064 780670 0 0
+/posts/269
+0 1 9583968 3550 1 0
+/mensagens_series
+0 1 9576592 6604 1 0
+/posts/387
+0 1 9582080 3563 1 0
+/posts/237
+0 1 9330256 3619 1 1
+/posts/220
+0 1 9330896 3603 1 1
+/posts/443
+0 1 9332160 3550 1 1
+/posts/286
+0 2 9382240 7134 2 2
+/upload/img/6033feb554d2b.png
+0 1 9578848 459208 0 0
+/posts/429
+0 1 9583616 3578 1 0
+/users/signin
+0 21 9385072 68132 17 4
+/midia/fotos
+0 3 9334544 10194 2 2
+/upload/img/5ffdcaa66ebfc.png
+0 1 9577712 654716 0 0
+/posts/194
+0 1 9392416 5279 1 1
+/posts/345
+0 1 9582864 3554 1 0
+/posts/149
+0 2 9330384 7132 2 1
+/posts/523
+0 1 9582608 3568 1 1
+/upload/img/5ffdcbe655f2e.png
+0 1 9577952 113611 0 0
+/posts/548
+0 1 9580272 3725 1 1
+/images/whatsapp-logo.svg
+0 2 9329472 3762 0 0
+/midia
+0 4 9333984 18877 3 1
+/posts/592
+0 1 9577328 3675 1 0
+/
+0 8 9333248 48475 7 0
+/upload/img/5f46f5dabec6f.png
+0 1 9577840 1018216 0 0
+/posts/212
+0 1 9329264 3640 1 1
+/posts/202
+0 1 9581968 3638 1 0
+/fonts/bootstrap/glyphicons-halflings-regular.woff2
+0 1 9578736 18028 0 0
+/posts/517
+0 1 9367088 3579 1 1
+/posts/552
+0 1 9370864 3700 1 0
+/upload/img/5e752f4c393a3.jpg
+0 1 9578208 1980145 0 0
+/images/youtube-logo.svg
+0 2 9329344 6634 0 0
+/posts/373
+0 1 9363824 3576 1 1
+/posts/529
+0 1 9350816 3580 1 0
+/images/logo_footer_nacional.png
+0 1 9578352 20577 0 0
+/posts/314
+0 1 9581840 3556 1 1
+/posts/500
+0 1 9329872 3561 1 1
+# End Of Table - urls
+# -sites- (monthly)
+petalbot-114-119-140-186.petalsearch.com
+0 3 3 10750 3 1635754528
+/posts/536
+15.bl.bot.semrush.com
+0 2 2 6462 2 1635748098
+/users/signin
+187-19-101-126.users.certto.com.br
+0 17 17 6362416 1 1635754175
+/
+petalbot-114-119-140-179.petalsearch.com
+0 3 3 10695 3 1635743927
+/posts/429
+petalbot-114-119-140-175.petalsearch.com
+0 4 4 14360 4 1635752615
+/posts/383
+10.bl.bot.semrush.com
+0 2 2 7963 2 1635747916
+/midia
+petalbot-114-119-140-178.petalsearch.com
+0 3 3 12415 3 1635745874
+/posts/476
+26.bl.bot.semrush.com
+0 1 1 4885 1 1635735109
+/midia
+crawl-66-249-65-130.googlebot.com
+0 2 0 0 0 0
+-
+crawl-66-249-65-222.googlebot.com
+0 3 3 11439 2 1635757532
+/users/signin
+petalbot-114-119-140-170.petalsearch.com
+0 6 6 21278 4 1635746840
+/posts/387
+petalbot-114-119-129-206.petalsearch.com
+0 6 6 21295 5 1635755490
+/posts/377
+ip7.ip-51-222-253.net
+0 2 1 3231 1 1635753740
+/users/signin
+fwdproxy-prn-029.fbsv.net
+0 1 1 0 1 1635751805
+/
+msnbot-40-77-167-41.search.msn.com
+0 2 1 3231 1 1635734045
+/users/signin
+crawl-66-249-75-13.googlebot.com
+0 1 0 0 1 1635740436
+-
+petalbot-114-119-135-34.petalsearch.com
+0 2 1 3277 1 1635725814
+/users/signin
+msnbot-40-77-167-40.search.msn.com
+0 2 1 3230 1 1635747919
+/users/signin
+36.bl.bot.semrush.com
+0 1 1 3566 1 1635740650
+/posts/149
+13.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+ip16.ip-51-222-253.net
+0 1 1 4134 1 1635753741
+/
+msnbot-207-46-13-9.search.msn.com
+0 2 1 3231 1 1635752787
+/users/signin
+2.56.59.120
+0 8 4 13116 1 1635730437
+/users/signin
+37.bl.bot.semrush.com
+0 1 1 3554 1 1635744429
+/posts/345
+crawl-66-249-65-218.googlebot.com
+0 3 1 3231 1 1635731414
+/users/signin
+msnbot-207-46-13-173.search.msn.com
+0 1 1 4134 1 1635752791
+/
+1.bl.bot.semrush.com
+0 2 1 3231 1 1635757335
+/users/signin
+fwdproxy-prn-024.fbsv.net
+0 1 1 4134 1 1635751805
+/
+19.bl.bot.semrush.com
+0 1 1 3231 1 1635740649
+/users/signin
+crawl-66-249-65-158.googlebot.com
+0 1 1 3700 1 1635727149
+/posts/552
+4.bl.bot.semrush.com
+0 1 1 3570 1 1635736468
+/posts/431
+25.bl.bot.semrush.com
+0 1 1 3231 1 1635744428
+/users/signin
+18.bl.bot.semrush.com
+0 1 1 3675 1 1635757335
+/posts/592
+20.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+petalbot-114-119-140-185.petalsearch.com
+0 2 2 7302 2 1635757390
+/posts/574
+crawl-66-249-65-133.googlebot.com
+0 4 4 12134 2 1635748952
+/series/quem-e-ele
+9.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+40.bl.bot.semrush.com
+0 2 1 3550 1 1635743788
+/posts/269
+182.177.122.34.bc.googleusercontent.com
+0 1 1 4134 1 1635735070
+/
+petalbot-114-119-140-190.petalsearch.com
+0 2 2 7108 2 1635742941
+/posts/385
+crawl-66-249-65-220.googlebot.com
+0 6 5 19529 2 1635757532
+/mensagens_series
+22.bl.bot.semrush.com
+0 3 2 6869 2 1635748099
+/posts/202
+37.113.11.121
+0 1 1 23671 1 1635731675
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+petalbot-114-119-140-186.petalsearch.com
+0 3 3 10750 3 1635754528
+/posts/536
+15.bl.bot.semrush.com
+0 2 2 6462 2 1635748098
+/users/signin
+187-19-101-126.users.certto.com.br
+0 17 17 6362416 1 1635754175
+/
+petalbot-114-119-140-179.petalsearch.com
+0 3 3 10695 3 1635743927
+/posts/429
+petalbot-114-119-140-175.petalsearch.com
+0 4 4 14360 4 1635752615
+/posts/383
+10.bl.bot.semrush.com
+0 2 2 7963 2 1635747916
+/midia
+petalbot-114-119-140-178.petalsearch.com
+0 3 3 12415 3 1635745874
+/posts/476
+26.bl.bot.semrush.com
+0 1 1 4885 1 1635735109
+/midia
+crawl-66-249-65-130.googlebot.com
+0 2 0 0 0 0
+-
+crawl-66-249-65-222.googlebot.com
+0 3 3 11439 2 1635757532
+/users/signin
+petalbot-114-119-140-170.petalsearch.com
+0 6 6 21278 4 1635746840
+/posts/387
+petalbot-114-119-129-206.petalsearch.com
+0 6 6 21295 5 1635755490
+/posts/377
+ip7.ip-51-222-253.net
+0 2 1 3231 1 1635753740
+/users/signin
+fwdproxy-prn-029.fbsv.net
+0 1 1 0 1 1635751805
+/
+msnbot-40-77-167-41.search.msn.com
+0 2 1 3231 1 1635734045
+/users/signin
+crawl-66-249-75-13.googlebot.com
+0 1 0 0 1 1635740436
+-
+petalbot-114-119-135-34.petalsearch.com
+0 2 1 3277 1 1635725814
+/users/signin
+msnbot-40-77-167-40.search.msn.com
+0 2 1 3230 1 1635747919
+/users/signin
+36.bl.bot.semrush.com
+0 1 1 3566 1 1635740650
+/posts/149
+13.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+ip16.ip-51-222-253.net
+0 1 1 4134 1 1635753741
+/
+msnbot-207-46-13-9.search.msn.com
+0 2 1 3231 1 1635752787
+/users/signin
+2.56.59.120
+0 8 4 13116 1 1635730437
+/users/signin
+37.bl.bot.semrush.com
+0 1 1 3554 1 1635744429
+/posts/345
+crawl-66-249-65-218.googlebot.com
+0 3 1 3231 1 1635731414
+/users/signin
+msnbot-207-46-13-173.search.msn.com
+0 1 1 4134 1 1635752791
+/
+1.bl.bot.semrush.com
+0 2 1 3231 1 1635757335
+/users/signin
+fwdproxy-prn-024.fbsv.net
+0 1 1 4134 1 1635751805
+/
+19.bl.bot.semrush.com
+0 1 1 3231 1 1635740649
+/users/signin
+crawl-66-249-65-158.googlebot.com
+0 1 1 3700 1 1635727149
+/posts/552
+4.bl.bot.semrush.com
+0 1 1 3570 1 1635736468
+/posts/431
+25.bl.bot.semrush.com
+0 1 1 3231 1 1635744428
+/users/signin
+18.bl.bot.semrush.com
+0 1 1 3675 1 1635757335
+/posts/592
+20.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+petalbot-114-119-140-185.petalsearch.com
+0 2 2 7302 2 1635757390
+/posts/574
+crawl-66-249-65-133.googlebot.com
+0 4 4 12134 2 1635748952
+/series/quem-e-ele
+9.bl.bot.semrush.com
+0 1 0 0 0 0
+-
+40.bl.bot.semrush.com
+0 2 1 3550 1 1635743788
+/posts/269
+182.177.122.34.bc.googleusercontent.com
+0 1 1 4134 1 1635735070
+/
+petalbot-114-119-140-190.petalsearch.com
+0 2 2 7108 2 1635742941
+/posts/385
+crawl-66-249-65-220.googlebot.com
+0 6 5 19529 2 1635757532
+/mensagens_series
+22.bl.bot.semrush.com
+0 3 2 6869 2 1635748099
+/posts/202
+37.113.11.121
+0 1 1 23671 1 1635731675
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.ipbtoledo.com.br/mensagens_series
+0 2
+https://www.ipbtoledo.com.br/
+0 14
+https://www.google.com/
+0 2
+- (Direct Request)
+0 91
+https://ipbtoledo.com.br/posts/552
+0 1
+https://www.ipbtoledo.com.br/css/app.css
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/94.0.46
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 13
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 7
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Mobile S
+0 1
+Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)
+0 21
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Mobile S
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 8
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/95.0.46
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+0 17
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://
+0 29
+Ruby
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,101 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id 2DACJxoCcGElXwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Wed, 20 Oct 2021 08:48:42 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Wed, 20 Oct 2021 08:48:42 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mdA5K-0006SH-FN
+	for contato@ipbtoledo.com.br; Wed, 20 Oct 2021 08:48:42 -0300
+X-Failed-Recipients: musica_273@bol.com.br
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <1967c39ec53b65fbe33270a24148f6fe@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1634730522-eximdsn-608383048
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mdA5K-0006SH-FN@server.mundotk.com.br>
+Date: Wed, 20 Oct 2021 08:48:42 -0300
+
+--1634730522-eximdsn-608383048
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  musica_273@bol.com.br
+    host mx3.bol.com.br [200.147.36.13]
+    SMTP error from remote mail server after RCPT TO:<musica_273@bol.com.br>:
+    550 5.1.1 <musica_273@bol.com.br>: Recipient address rejected:
+    User unknown in relay recipient table
+
+--1634730522-eximdsn-608383048
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;musica_273@bol.com.br
+Status: 5.0.0
+Remote-MTA: dns; mx3.bol.com.br
+Diagnostic-Code: smtp; 550 5.1.1 <musica_273@bol.com.br>: Recipient address rejected: User unknown in relay recipient table
+
+--1634730522-eximdsn-608383048
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=52930 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mdA5I-0006S5-ER
+	for musica_273@bol.com.br; Wed, 20 Oct 2021 08:48:40 -0300
+Date: Wed, 20 Oct 2021 11:48:40 +0000
+To: Thiago Batista <musica_273@bol.com.br>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <1967c39ec53b65fbe33270a24148f6fe@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Thiago Batista
+
+                    EMAIL: musica_273@bol.com.br
+
+                    TELEFONE: (14) 9.1234.5678
+                    
+
+
+                    CORPO DA MENSAGEM: Olá Ipbtoledo, tudo bem? Aqui é o Thiago! 
+
+Ipbtoledo, Você gosta de ouvir música? Nosso canal no Youtube tem diversos tipos de música para você ouvir e curtir.
+
+Você vai ouvir as MÚSICAS tipo: Ambiente, Piano, Romântica, Mantra, Bossa Nova, Meditação e Relaxamento, Infantil, Clássica, Country, Natalina, Jazz e Blues, Clássica e muito mais.
+
+Não estou vendendo nada, kkkk. É somente para você ouvir e curtir.
+
+Não perca tempo, clique ou copie o link em seu navegador.
+
+Ipbtoledo, viste nosso Canal e OUÇA AS MELHORES MUSICAS https://www.youtube.com/channel/UCgVGLAHdHYQ8BHzBc8wHvPQ e saiba mais! 
+
+Te vejo em nosso Canal no Youtube! 
+Thiago 
+
+
+--1634730522-eximdsn-608383048--

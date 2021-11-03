@@ -1,0 +1,83 @@
+Return-Path: <ehfaaqmnqt@detroitmailbox.net>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id aHntEujobWEVQgAA85qOww
+	(envelope-from <ehfaaqmnqt@detroitmailbox.net>)
+	for <contato+spam@ipbtoledo.com.br>; Mon, 18 Oct 2021 18:36:40 -0300
+Return-path: <ehfaaqmnqt@detroitmailbox.net>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 18 Oct 2021 18:36:40 -0300
+Received: from [96.70.105.177] (port=56715 helo=mail.detroitmailbox.net)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <ehfaaqmnqt@detroitmailbox.net>)
+	id 1mcaJ9-0004YJ-8d
+	for contato@ipbtoledo.com.br; Mon, 18 Oct 2021 18:36:40 -0300
+Received: from mail.detroitmailbox.net ([172.245.186.129]) by detroitmailbox.net with
+ MailEnable ESMTP; Fri, 1 Oct 2021 11:33:27 -0400
+From: "App Banking" <ehfaaqmnqt@detroitmailbox.net>
+To: contato@bpsolution.com.br
+Content-Type: text/plain
+Reply-To: acessenossositeabaixo@gmail.com
+Date: Fri, 1 Oct 2021 08:33:27 -0700
+Message-ID: <05782CBEF4DF488D8305C901D46B8B8F.MAI@detroitmailbox.net>
+X-Spam-Status: Yes, score=10.0
+X-Spam-Score: 100
+X-Spam-Bar: ++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Uma conta digital é o ideal!! http://appbanking.com.br/ Internet
+    e um smartphone é tudo que você precisa para pagar contas, fazer transferências,
+    investir. 
+ Content analysis details:   (10.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.0 HK_RANDOM_ENVFROM      Envelope sender username looks random
+  1.0 HK_RANDOM_FROM         From username looks random
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: appbanking.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  2.1 DATE_IN_PAST_96_XX     Date: is 96 hours or more before Received:
+                             date
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  1.0 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+  0.5 CTE_8BIT_MISMATCH      Header says 7bits but body disagrees
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: YES
+Subject:    Um banco positivo para =?ISO-8859-1?Q?voc=EA!?=
+
+
+Uma conta digital é o ideal!!
+
+http://appbanking.com.br/
+
+Internet e um smartphone
+é tudo que você precisa para
+pagar contas, fazer transferências, investir.
+
+Ter conta digital é:
+Fácil
+Descomplicado
+Seguro
+E ainda tem o PIX carinha sorridente
+
+Abra sua conta e conheça as vantagens!
+
+E sem consulta no SPC
+Faça parte de um banco sem fila, sem papelada, sem porta giratória e que você pode pagar boletos, fazer 
+
+transferências, recarregar celular de qualquer lugar que você estiver.
+Abra sua conta sem consulta no SPC/SERASA, sem burocracia, sem filas.
+
+Faça seu cadastro agora mesmo de forma fácil e rápida:
+https://app.appbanking.com.br/office/auth/register
+

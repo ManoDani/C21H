@@ -1,0 +1,244 @@
+Return-Path: <contatos@enviocorporhg.com.br>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id SFPbBoCOEGGTMAAA85qOww
+	(envelope-from <contatos@enviocorporhg.com.br>)
+	for <contato+spam@ipbtoledo.com.br>; Sun, 08 Aug 2021 23:10:08 -0300
+Return-path: <contatos@enviocorporhg.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sun, 08 Aug 2021 23:10:08 -0300
+Received: from mzq5ogu4n2i3.enviocorporhg.com.br ([186.251.131.88]:32919)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <contatos@enviocorporhg.com.br>)
+	id 1mCujr-0003LC-LE
+	for contato@ipbtoledo.com.br; Sun, 08 Aug 2021 23:10:08 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=enviocorporhg.com.br;
+ h=From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=XYjVUqxWXdVCH/Kkafd3BcMdzQHkHGCR5nX6C5u1EzE=;
+ b=dKL3RBlKtSPNyL7peBtdhX+nJ8cJW951+TvAbsrVNvtcu3OjvRcP5eYhZKDsR+wOdApfaJqngbwZ
+   c+IvtDiFHtW/NbdQoXWfutD1ltjBOtEQZTNVP8TdMWSrk9O/XT9yftNTXzBLhptlocgLXJdclA+s
+   ipWPRCB6luqC1eauln6Owvo6MMZwNd5wZ1kbw6MRP5gDwMUilj02W/SLIQU1yL2DhBpMnYEO4Z1l
+   BLUfee8tsgIghhffUoznr71oesbpz9dC5vSeI0pG3cUxhfvFjGG2yt6suefTROHbX3ynBwHwtL4J
+   Y4oxiCn1K3g9X+Vn0TYkzbPY61rL+OXkonCM4w==
+From: "contatos"<contatos@enviocorporhg.com.br>
+To: contato@ipbtoledo.com.br
+Date: Sun, 8 Aug 2021 23:09:18 -0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0049_01C2A9A6.4E15A186"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Status: Yes, score=13.9
+X-Spam-Score: 139
+X-Spam-Bar: +++++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Dr. Augusto Cury, vem passar o dia com ele no treinamento.
+    Grande oportunidade, onde trÃªs temas principais serÃ£o abordados: Ansiedade
+    Â– Como enfrentar o mal do sÃ©culo 
+ Content analysis details:   (13.9 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: enviocorporhg.com.br]
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+              [Blocked - see <https://www.spamcop.net/bl.shtml?186.251.131.88>]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of
+                             words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.0 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+  0.1 HTML_SHORT_LINK_IMG_1  HTML is very short with a linked image
+  2.4 FROM_MISSP_MSFT        From misspaced + supposed Microsoft tool
+  3.0 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  0.6 FORGED_OUTLOOK_TAGS    Outlook can't send HTML in this format
+  1.9 DOS_OE_TO_MX_IMAGE     Direct to MX with OE headers and an image
+  0.3 FROM_MISSPACED         From: missing whitespace
+  0.0 HDR_ORDER_FTSDMCXX_DIRECT Header order similar to spam
+                             (FTSDMCXX/boundary variant) + direct-to-MX
+  2.8 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+X-Spam-Flag: YES
+Subject:    Dr. Augusto Cury, vem passar o dia com ele no treinamento.
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0049_01C2A9A6.4E15A186
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: 7bit
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Dr. Augusto Cury, vem passar o dia com ele no treinamento.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Grande oportunidade, onde três temas principais serão abordados:</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Ansiedade – Como enfrentar o mal do século</DIV>
+<DIV>
+Inteligência Socioemocional</DIV>
+<DIV>
+Gestão das Emoções</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Evento presencial ou ao vivo online.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Clique abaixo para saber mais detalhes:</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+<A href="https://rb.gy/ffokjb"><IMG align=middle border=0 width=136 height=47 src="cid:00E087A28CC6$04D9F97C$0100007f@tjciwbtwefgjxvk"></A></DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Para outras solicitações: parceiro8515@outlook.com</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+&nbsp;</DIV>
+</FONT>
+</BODY></HTML>
+
+------=_NextPart_000_0049_01C2A9A6.4E15A186
+Content-Type: image/jpeg;
+	name="saiba_mais_small_novo.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <00E087A28CC6$04D9F97C$0100007f@tjciwbtwefgjxvk>
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QCSRXhpZgAATU0AKgAAAAgABQE+AAUA
+AAACAAAASgE/AAUAAAAGAAAAWlEQAAEAAAABAQAAAFERAAQAAAABAAALE1ES
+AAQAAAABAAALEwAAAAAAAHolAAGGoAAAgIMAAYagAAD5/wABhqAAAIDpAAGG
+oAAAdTAAAYagAADqYAABhqAAADqYAAGGoAAAF28AAYag/9sAQwACAQECAQEC
+AgICAgICAgMFAwMDAwMGBAQDBQcGBwcHBgcHCAkLCQgICggHBwoNCgoLDAwM
+DAcJDg8NDA4LDAwM/9sAQwECAgIDAwMGAwMGDAgHCAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8AAEQgALwCI
+AwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//E
+ALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNC
+scEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldY
+WVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqy
+s7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5
++v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQE
+AwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy
+0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdo
+aWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5
+usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQAC
+EQMRAD8A/fDxD4hsfCeh3WpaldQWOn2MTTXFxM4WOFFGSxJr8kv23v8Ag4G8
+R+N/Gc3gv9n3T1aJrg2K+IZ4DNLfS527bWEfe5/iOB71b/4OMf25r6DVNM+B
+fhy/mtYLq2Gp+J5bd9rtCTiO3yOm/v7E+1fB/wCxU1n4Z1bVvEDxxrd2ca2F
+jgYFqrglynoSoC57At618XxNxNLB1o4HC29pJXbevKvTZyfS+iVrp3Pz3i/j
+CWArwy7B29rJXlJ68kells5PpfRKzadz3h/gJ8bvjIn9p/EL47a5p+pXHztZ
+W91JcNBnsxjZI1PqFZsetQf8MM+Jv+i++K/++bj/AOSKst8dYY9+bpcRnDnc
+MJ9T2/GpH+NaxqrGbhumDnNfKSzacneVWd/8cl+CaX3JHxMs9qTd516jf/Xy
+a/CMkl8kil/wwz4m/wCi++K/++bj/wCSKP8AhhnxN/0X3xX/AN83H/yRV1vj
+Uqx7vObae45oHxtUoW85sDjpS/tSX/P2f/gyf/yRP9tS/wCf1T/wbU/+TKX/
+AAwz4m/6L74r/wC+bj/5Io/4YZ8Tf9F98V/983H/AMkVbT43xySBBcfOwJCk
+4JA64pzfGtVk2mY7qP7Ul/z9n/4Mn/8AJB/bUv8An9U/8G1P/kyl/wAMM+Jv
++i++K/8Avm4/+SKP+GGfE3/RffFf/fNx/wDJFaH/AAuT/pqfzpi/GxX3fvvu
+8nPGKP7Ul/z9n/4Mn/8AJB/bEv8An9U/8G1P/kyl/wAMM+Jv+i++K/8Avm4/
++SKP+GGfE3/RffFf/fNx/wDJFXk+NKyLuExwPXiki+NazfdmJo/tSX/P2f8A
+4Mn/APJB/bMv+f1T/wAG1P8A5Mpf8MM+Jv8Aovviv/vm4/8AkilH7DXicH/k
+vviv/vm4/wDkira/G1Wfb5zZzjpTG+O0CBibpdsZIdtw2oR1yeg/Gl/aj/5+
+z/8ABk//AJIP7af/AD+qf+Dan/yZpaF8Kfjv8CQNR+Hfx81bUb+3+YafqMjx
+R3GP4QZGdOemGZQfUV9MfsDf8F4bjXfHkHw6+PWmw+GfERuBYxa1HGYrd5+g
+juEPMTnseh6gkGvlofGkFtvnHkZ9iPrXhH7a01n4rk0fXgiteSbtPuyODcRq
+N0ZJ/vL8wB6gbfQV10eKq+DtU5nOC3jJ3du6k9U15try6nZQ40xOAtV5nUgv
+ijJ8zt1cZO8k12bcX2W6/pUgnS6gSSN1kjkUMjqcqwPIIPcGivzu/wCDfv8A
+bp1D49fB3U/hr4ovmvvEHgNYzY3MrZmvLB/uFj3Zfu/gfaiv1DD4inXpRrUn
+eMkmn5M/ZsLiqWJowxFF3jJJp+TV0flh/wAFJfHFx8RP2/8A4valdMzSR659
+hjyfuxRJwv05ry/wf40uPDFjfW8Mhj+1AMjA42uAQP517z/wVb+BmqfDT/gp
+H8R9Fhsbq4k8RXKa5YJFEWe5jdDu2KOWxtyQO1fM3yzx9mVhng9RX4PxgqsM
+5rSl1at6cq/Q/mXj6NalxBiJzvq42flyRt+B+2nwn/aC0L9oHTvBXg79nz4w
+eE/hR4j0vSltb34T+KvCMX/E0uokLzC4Z1WdiUHzNEXyql+ua43/AIJTfC7x
+l8G9D+OfxYuPAU3ifxhpvieTwbYeHdOlj2q8d+DqRhZyF8qN5AFbPKWpHWvi
+f/h818ejAsx1jwmfEEdr9iTxIfC9n/biR7NnFzs+9t4ztz+PNeY+N/23/iN4
++/Z98OfDC71lLXwn4ZvJNRt0sUa2u7u5kMrSTXM6tvmdmmlYlurOSe2PalxN
+gPaQr+85QTtZWV2klZNySa1enu3S0Po58Y5Z7WniXzynTUrWVldpRVouU1Fr
+Vu3u3S919PuP9oOTxJ+wb/wW30Oz8M3n9i6T8T9e02eBvs8Txz2Oo3kaXtqF
+dSqjz45BlcMoZcEZr3Hwj8b9c+If/Bw3qPg3VtQS90TwLoN7Bo9n5ESrYJPY
+2M0oyqhm3P8ANlySOgwOK/OHTP8Agq18XLLVPAeoXMng3WdT+G+ktouh32q+
+H4ry5itz5HMjucvKDbREScMDvOfnbNzVP+Cufxj1X4/6L8T2fwTb+M9Dsruw
+hvbfw7FF9piuREJPPAOZWAhQIWb5BuA+8amjxBgKcm4TmourGpy20t1jvbd3
+/wC3UTQ4qyylNuFSag60anLbRLdx+K2jd1p9leVvtb9tP4xr8dv+CYvjzW9D
++I2i/Hy68CeMVfV/Eb6ENAvPCdr5qYtoYdgM5BYIXyNySufm2gV9Afsu/swX
+3hv9ivwZ8E9a8F311a/E7wjqeqeKPEICeToepXCxSQxSAkP5g8wqNowptl9e
+PyU+Lf8AwVE+LPxm8HW/hrUpvCOn+F49Uh1m70XR/D0FhY6vcRSpKn2tE5mT
+eiFkJCttGc4GMbx//wAFFPi58Sv2mdJ+LepeJmTxhoj2z2YtUaHT4xBnYptg
+2xlbc28H7241quKMvjiHiJKUm4xh8rtyfvOT2stW29bNKxquNMqhinipKc24
+xg9NOW7cn7zk9VZatt62aVjmPiR4r1bwDf8AiLw3raSWut6HLdaXfxHgxzxF
+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
+
+------=_NextPart_000_0049_01C2A9A6.4E15A186--

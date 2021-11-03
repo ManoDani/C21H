@@ -1,0 +1,127 @@
+Return-Path: <root@vbn7.rlnew.org>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id MBU5Di06A2FpWAAA85qOww
+	(envelope-from <root@vbn7.rlnew.org>)
+	for <contato+spam@ipbtoledo.com.br>; Thu, 29 Jul 2021 20:30:53 -0300
+Return-path: <root@vbn7.rlnew.org>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 29 Jul 2021 20:30:53 -0300
+Received: from vbn7.rlnew.org ([5.188.35.184]:43317)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <root@vbn7.rlnew.org>)
+	id 1m9FUG-0005rk-7K
+	for contato@ipbtoledo.com.br; Thu, 29 Jul 2021 20:30:53 -0300
+Received: by vbn7.rlnew.org (Postfix, from userid 0)
+	id 06E0984886; Thu, 29 Jul 2021 12:06:40 +0000 (UTC)
+MIME-Version: 1.0
+Content-type:  text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+From: Receita Federal<receitafederal@gov.br>
+To: contato@ipbtoledo.com.br
+Message-Id: <20210729125517.06E0984886@vbn7.rlnew.org>
+Date: Thu, 29 Jul 2021 12:06:40 +0000 (UTC)
+X-Spam-Status: Yes, score=13.8
+X-Spam-Score: 138
+X-Spam-Bar: +++++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  RECEITA1 Caro Contribuinte (a), Segue um demonstrativo de
+   possíveis pendencias passiveis de regularização. A não regularização
+    dos itens informados pode implicar na suspensão de seu CPF bem como multa
+    previstos no Art 37 da L [...] 
+ Content analysis details:   (13.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: acropolecontabil.com]
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: acropolecontabil.com]
+  1.3 RCVD_IN_VALIDITY_RPBL  RBL: Relay in Validity RPBL,
+                             https://senderscore.org/blocklistlookup/
+                             [5.188.35.184 listed in bl.score.senderscore.com]
+  1.1 DATE_IN_PAST_06_12     Date: is 6 to 12 hours before Received: date
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_IMAGE_ONLY_32     BODY: HTML: images with 2800-3200 bytes of
+                             words
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  2.6 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:    Aviso de Irregularidade Protocolo - IRPF Nº 85563222021
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+DQoKPGh0bWw+DQoKPGhlYWQ+DQoKDQoKDQoKDQoKDQoKICANCgogIA0KCiAgDQoKICA8
+bWV0YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNPLTg4NTktMSIgaHR0cC1lcXVpdj0i
+Y29udGVudC10eXBlIj4NCgoNCgoNCgoNCgogIA0KCiAgDQoKICANCgogIDx0aXRsZT5SRUNFSVRB
+MTwvdGl0bGU+DQoKPC9oZWFkPg0KCg0KCg0KCjxib2R5Pg0KCg0KCg0KCg0KCg0KCjxkaXYgY2xh
+c3M9InJjbUJvZHkiPg0KCjxkaXYgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiPg0KCjxicj4N
+CgoNCgoNCgo8YnI+DQoKDQoKDQoKPC9kaXY+DQoKDQoKDQoKPGRpdiBpZD0iaW50ZXJmYWNlIj4N
+Cgo8ZGl2IHN0eWxlPSJmb250LWZhbWlseTogSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWY7IiBh
+bGlnbj0iY2VudGVyIj4NCgo8aW1nIHNyYz0iaHR0cHM6Ly9pLmliYi5jby9qWjlNVnlCL1dXdnBN
+NmwucG5nIiBzdHlsZT0iYm9yZGVyOiAwcHQgbm9uZSA7IG1hcmdpbjogMHB4OyBwYWRkaW5nOiAw
+cHg7IGRpc3BsYXk6IGJsb2NrOyBtYXgtd2lkdGg6IDYwMHB4OyIgYm9yZGVyPSIwIj48YnI+DQoK
+DQoKDQoKPGJyPg0KCg0KCg0KCjxoMiBzdHlsZT0iZm9udC13ZWlnaHQ6IG5vcm1hbDsiPjxzbWFs
+bD5DYXJvDQoKQ29udHJpYnVpbnRlIChhKSw8L3NtYWxsPjwvaDI+DQoKDQoKDQoKDQoKDQoKPHNt
+YWxsPjxicj4NCgoNCgoNCgoNCgoNCgo8L3NtYWxsPg0KCjwvZGl2Pg0KCg0KCg0KCg0KCg0KCjxk
+aXYgc3R5bGU9ImZvbnQtZmFtaWx5OiBIZWx2ZXRpY2EsQXJpYWwsc2Fucy1zZXJpZjsiIGFsaWdu
+PSJjZW50ZXIiPjxzbWFsbD5TZWd1ZSB1bSBkZW1vbnN0cmF0aXZvIGRlDQoKcG9zcyZpYWN1dGU7
+dmVpcyBwZW5kZW5jaWFzIHBhc3NpdmVpcyBkZQ0KCnJlZ3VsYXJpemEmY2NlZGlsOyZhdGlsZGU7
+by48YnI+DQoKDQoKDQoKDQoKDQoKQSBuJmF0aWxkZTtvIHJlZ3VsYXJpemEmY2NlZGlsOyZhdGls
+ZGU7byBkb3MgaXRlbnMNCgppbmZvcm1hZG9zIHBvZGUgaW1wbGljYXIgbmEgc3VzcGVucyZhdGls
+ZGU7byBkZSBzZXUgQ1BGIGJlbSBjb21vDQoKbXVsdGEgcHJldmlzdG9zIG5vIEFydCAzNyBkYSBM
+ZWkgMTAuNTIyIGRlIDE5IGRlIEp1bGhvIGRlIDIwMDIuPC9zbWFsbD48L2Rpdj4NCgoNCgoNCgoN
+CgoNCgo8c21hbGw+PGJyIHN0eWxlPSJmb250LWZhbWlseTogSGVsdmV0aWNhLEFyaWFsLHNhbnMt
+c2VyaWY7Ij4NCgoNCgoNCgoNCgoNCgo8L3NtYWxsPg0KCjxoMiBzdHlsZT0iZm9udC1mYW1pbHk6
+IEhlbHZldGljYSxBcmlhbCxzYW5zLXNlcmlmOyI+DQoKPGRpdiBhbGlnbj0iY2VudGVyIj48c21h
+bGwgc3R5bGU9ImZvbnQtd2VpZ2h0OiBub3JtYWw7Ij5Db21wcm92YW50ZQ0KCmRlDQoKU2l0dWEm
+Y2NlZGlsOyZhdGlsZGU7byBDYWRhc3RyYWwgbm8gQ1BGPC9zbWFsbD48YnI+DQoKDQoKDQoKDQoK
+DQoKPGJyPg0KCg0KCg0KCg0KCg0KCjxhIGNsYXNzPSJ2MWV4dGVybmFsLWxpbmsiIGhyZWY9Imh0
+dHA6Ly9odHRwLmFjcm9wb2xlY29udGFiaWwuY29tL21vZW1hdml0P29yaWVudGFjYW8vdHJpYnV0
+YXJpYS9kZWNsYXJhY29lcy1lLWRlbW9uc3RyYXRpdm9zL2RpcnBmL2V4dHJhdG8tZG8tcHJvY2Vz
+c2FtZW50by1kYS1kaXJwZiIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9yZWZlcnJlciIgc3R5bGU9
+ImJvcmRlci1ib3R0b206IG1lZGl1bSBub25lOyBtYXJnaW46IDBweDsgcGFkZGluZzogMHB4OyBj
+b2xvcjogcmdiKDUxLCA1MSwgMjU1KTsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyBiYWNrZ3JvdW5k
+LWNvbG9yOiByZ2IoMjU1LCAyNTUsIDI1NSk7IGZvbnQtc3R5bGU6IG5vcm1hbDsgZm9udC13ZWln
+aHQ6IGJvbGQ7IGxldHRlci1zcGFjaW5nOiBub3JtYWw7IG9ycGhhbnM6IDI7IHRleHQtaW5kZW50
+OiAwcHg7IHRleHQtdHJhbnNmb3JtOiBub25lOyB3aGl0ZS1zcGFjZTogbm9ybWFsOyB3aWRvd3M6
+IDI7IHdvcmQtc3BhY2luZzogMHB4OyBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7IGxpc3Qtc3R5bGUt
+aW1hZ2U6IG5vbmU7IGxpc3Qtc3R5bGUtcG9zaXRpb246IG91dHNpZGU7IHZlcnRpY2FsLWFsaWdu
+OiBiYXNlbGluZTsgZm9udC1mYW1pbHk6IEFyaWFsLEhlbHZldGljYSxzYW5zLXNlcmlmOyBmb250
+LXNpemU6IDAuOWVtOyB0ZXh0LWFsaWduOiBzdGFydDsiPkNvbnN1bHRlIGFnb3JhIHN1YSBzaXR1
+YSZjY2VkaWw7JmF0aWxkZTtvIGNhZGFzdHJhbC9ESVJQRjIwMjE4OTcwNDwvYT48YnI+DQoKDQoK
+DQoKDQoKDQoKPGJyPg0KCg0KCg0KCg0KCg0KCjwvZGl2Pg0KCg0KCg0KCg0KCg0KCjxzbWFsbD4N
+Cgo8L3NtYWxsPjwvaDI+DQoKDQoKDQoKDQoKDQoKPGRpdiBzdHlsZT0iZm9udC1mYW1pbHk6IEhl
+bHZldGljYSxBcmlhbCxzYW5zLXNlcmlmOyIgYWxpZ249ImNlbnRlciI+PHNtYWxsPkEgUmVjZWl0
+YSBGZWRlcmFsIGZheiBhbnVhbG1lbnRlDQoKdW1hDQoKYW5hbGlzZSBkZXRhbGhhZGEgZGEgZW50
+cmVnYSBkbyBJbXBvc3RvIGRlPGJyPg0KCg0KCg0KCg0KCg0KCnJlbmRhICwgZSBlbmNvbnRyb3Ug
+cG9zcyZpYWN1dGU7dmVpcyBwcm9ibGVtYXMgcmVsYWNpb25hZG9zIGFvIHNldQ0KCmRvY3VtZW50
+byBkZSBDUEYgcXVlIGRldmVtIHNlciByZWd1bGFyaXphZG9zIGNvbSB1cmdlbmNpYS48YnI+DQoK
+DQoKDQoKDQoKDQoKPGJyPg0KCg0KCg0KCg0KCg0KCjwvc21hbGw+PC9kaXY+DQoKDQoKDQoKDQoK
+DQoKPGRpdiBhbGlnbj0iY2VudGVyIj48c21hbGw+PHNtYWxsPg0KCjwvc21hbGw+PC9zbWFsbD4N
+Cgo8aDQ+PHNtYWxsPjxzbWFsbD48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IEhlbHZldGljYSxB
+cmlhbCxzYW5zLXNlcmlmOyI+QXRlbmNpb3NhbWVudGUNCgpSZWNlaXRhIEZlZGVyYWwgZG8gQnJh
+c2lsIDI4LzA3LzIwMjEgLSBTZXRvcg0KCkZpc2NhbCAtIE1pbmlzdCZlYWN1dGU7cmlvIGRhIEZh
+emVuZGEuPC9zcGFuPiA8L3NtYWxsPjwvc21hbGw+PC9oND4NCgoNCgoNCgoNCgoNCgo8c21hbGw+
+DQoKPC9zbWFsbD48L2Rpdj4NCgoNCgoNCgoNCgoNCgo8L2Rpdj4NCgoNCgoNCgoNCgoNCgo8L2Rp
+dj4NCgoNCgoNCgoNCgoNCgo8L2JvZHk+DQoKPC9odG1sPg0K
+
+

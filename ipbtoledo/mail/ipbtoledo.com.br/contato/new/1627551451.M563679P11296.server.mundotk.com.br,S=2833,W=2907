@@ -1,0 +1,74 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id sM/aINt2AmEgLAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Thu, 29 Jul 2021 06:37:31 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 29 Jul 2021 06:37:31 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1m92Tr-0002xe-CA
+	for contato@ipbtoledo.com.br; Thu, 29 Jul 2021 06:37:31 -0300
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <5f51ee4c1c884125d34485690a3745cc@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1627551451-eximdsn-1996167945
+MIME-Version: 1.0
+Subject: Warning: message 1m8flA-0000Tl-B4 delayed 24 hours
+Message-Id: <E1m92Tr-0002xe-CA@server.mundotk.com.br>
+Date: Thu, 29 Jul 2021 06:37:31 -0300
+
+--1627551451-eximdsn-1996167945
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 24 hours on the queue on server.mundotk.com.br.
+
+The message identifier is:     1m8flA-0000Tl-B4
+The date of the message is:    Wed, 28 Jul 2021 09:21:52 +0000
+The subject of the message is: Contato via Website
+
+The address to which the message has not yet been delivered is:
+
+  afiliado788@divulgarmais.com
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.
+
+--1627551451-eximdsn-1996167945
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: delayed
+Final-Recipient: rfc822;afiliado788@divulgarmais.com
+Status: 4.0.0
+
+--1627551451-eximdsn-1996167945
+Content-type: text/rfc822-headers
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=59540 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1m8flA-0000Tl-B4
+	for afiliado788@divulgarmais.com; Wed, 28 Jul 2021 06:21:53 -0300
+Date: Wed, 28 Jul 2021 09:21:52 +0000
+To: Levi Almeida <afiliado788@divulgarmais.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <5f51ee4c1c884125d34485690a3745cc@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+
+--1627551451-eximdsn-1996167945--

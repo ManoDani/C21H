@@ -1,0 +1,198 @@
+Return-Path: <erros@creditarempresas.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id GB5wHTwSQWGvdAAA85qOww
+	(envelope-from <erros@creditarempresas.com.br>)
+	for <contato@ipbtoledo.com.br>; Tue, 14 Sep 2021 18:21:00 -0300
+Return-path: <erros@creditarempresas.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 14 Sep 2021 18:21:00 -0300
+Received: from smtp.creditarempresas.com.br ([212.83.173.25]:39769)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <erros@creditarempresas.com.br>)
+	id 1mQFrK-0007t5-N3
+	for contato@ipbtoledo.com.br; Tue, 14 Sep 2021 18:21:00 -0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=creditarempresas.com.br; s=mail; h=Content-Transfer-Encoding:Content-Type:
+	Reply-To:From:Date:Message-ID:Subject:To:Sender:Cc:MIME-Version:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=5QQZ+qzcK83jCdudEMXwy7Iz6BwEEr/oLM2hnfpmrb4=; b=P8LoSoyDCVfqViSTrjeeJVBu1z
+	Cip3iSS/3vhN+xAzWKn0DMdXQBzyIxahEIlLmDSkKb4Wh62v5OULQgXAE6Z/kuJld6cswme5l9VSx
+	KTOIvq879Am6xEzy48b9knMWbTgNglGiT9IgKMZ3IBRhQs55Qco1C9IwtiybBrUrmZ4g=;
+Received: from creditar by vesta.jambovt.com.br with local (Exim 4.92.3)
+	(envelope-from <erros@creditarempresas.com.br>)
+	id 1mQFqg-0004Q0-CZ
+	for contato@ipbtoledo.com.br; Tue, 14 Sep 2021 18:20:14 -0300
+To: contato@ipbtoledo.com.br
+Subject: =?UTF-8?B?RW1wcsOpcy50aW1vcyBwYXJhIEVtcHJlc2Fz?=
+X-PHP-Originating-Script: 1091:email.php
+Message-ID: <f1ac7989875e1f124f9fb58c640eafa3@creditarempresas.com.br>
+Date: Fri, 10 Sep 2021 10:58:19 -0300
+From: "=?UTF-8?B?RsOhYmlvIENvbnN1bHRvcmlhIGVtcHJlc2FyaWFs?=" <contato@creditarempresas.com.br>
+Reply-To: contato@creditarempresas.com.br
+X-Mailer-LID: 11
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="515e33ebcc82e7c042f2e9511601a1ef"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: No, score=2.7
+X-Spam-Score: 27
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Seu cliente de email não pode ler esta mensagem. Para visualizá-la
+    online, por favor, clique aqui: http://creditarempresas.com.br/display.php?M=207768&C=a726edc9cbc8e4910c4ee000268a20ee&S=19&L=11&N=85
+    
+ Content analysis details:   (2.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: creditarempresas.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  2.1 DATE_IN_PAST_96_XX     Date: is 96 hours or more before Received:
+                             date
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+X-Spam-Flag: NO
+
+--515e33ebcc82e7c042f2e9511601a1ef
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Seu cliente de email não pode ler esta mensagem.
+
+Para visualizá-la online, por favor, clique aqui:
+http://creditarempresas.com.br/display.php?M=207768&C=a726edc9cbc8e4910c4ee000268a20ee&S=19&L=11&N=85
+
+Para parar de receber nossos conteúdo acesse o link:
+http://creditarempresas.com.br/unsubscribe.php?M=207768&C=a726edc9cbc8e4910c4ee000268a20ee&L=11&N=19
+
+--515e33ebcc82e7c042f2e9511601a1ef
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:11.65pt"><span
+style="font-size: 9pt; font-family: Arial;">Olá, tudo bem?</span></p><p
+class="MsoNormal" style="margin-bottom:0cm;line-height:11.65pt"><span
+style="font-size: 9pt; font-family: Arial, sans-serif;"><br></span></p><p
+class="MsoNormal" style="margin-bottom:0cm;line-height:11.65pt"><span
+style="font-size: 9pt; font-family: Arial;">Você sabe que não é
+nada fácil gerir um negócio, são tantas responsabilidades, imprevistos e
+pressões que as vezes, nos impedem de alcançar nossas metas. Sei disto
+pois
+vivencio esta realidade em várias empresas.</span><o:p></o:p></p><p
+class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family:
+Arial;">&nbsp;</span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial, sans-serif;"><span
+style="font-family: Arial;">Meu nome é Fábio da </span><b><span
+style="font-family: Arial;">Creditare
+Consultoria Empresarial</span></b><span style="font-family: Arial;">,
+sediada em Joinville-SC, referência em Emprés.timos
+e Fomento para empresas desde 2005 e já transformamos a realidade de
+dezenas de
+empresas.</span><o:p></o:p></span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family:
+Arial;">&nbsp;</span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial, sans-serif;"><span
+style="font-family: Arial;">Fazemos o que os
+bancos não fazem, de forma </span><b><span style="font-family:
+Arial;">rápida, fácil e barata</span></b><span style="font-family:
+Arial;">&nbsp;(0,85% + IPCA) para
+sua&nbsp;</span></span><b><span style="font-family: Arial;">empresa
+prosperar.</span><o:p></o:p></b></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><b><span style="font-size: 9pt; font-family:
+Arial;">&nbsp;</span></b></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial;">Entre em contato
+conosco para garantir o futuro do seu negócio com as menores ta.xas do
+mercado.
+Teremos prazer em conhecer você e te ajudar!</span><o:p></o:p></p><p
+class="MsoNormal" style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family:
+Arial;">&nbsp;</span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial, sans-serif;"><span
+style="font-family: Arial;">Responda este e-mail,
+</span><a
+href="http://creditarempresas.com.br/link.php?M=207768&N=19&L=4&F=H"
+target="_blank"><span style="font-family: Arial;">acesse
+aqui</span></a><span style="font-family: Arial;"> ou entre em contato
+comigo por telefone/Whatsapp&nbsp; – (47) 9 9185-4868
+(Fábio)&nbsp;</span></span><o:p></o:p></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family:
+Arial;">&nbsp;</span></p><p><span style="font-family: Arial;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial;">Aguardo seu
+contato.</span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial,
+sans-serif;"><br></span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial,
+sans-serif;"><br></span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial,
+sans-serif;"><br></span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial,
+sans-serif;"><br></span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial,
+sans-serif;"><br></span></p><p class="MsoNormal"
+style="margin-bottom:0cm;text-align:justify;line-height:
+normal"><span style="font-size: 9pt; font-family: Arial,
+sans-serif;"><br></span><o:p></o:p></p><a
+href="http://creditarempresas.com.br/unsubscribe.php?M=207768&C=a726edc9cbc8e4910c4ee000268a20ee&L=11&N=19"><span
+style="font-family: Arial;">Quero s</span></a><span style="font-family:
+Arial;">air</span><br/><img title=Novidade alt=Novidade height=42 width=242
+src=http://creditarempresas.com.br/transparente.png>
+
+<img
+src="http://creditarempresas.com.br/open.php?M=207768&L=11&N=19&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--515e33ebcc82e7c042f2e9511601a1ef--
+

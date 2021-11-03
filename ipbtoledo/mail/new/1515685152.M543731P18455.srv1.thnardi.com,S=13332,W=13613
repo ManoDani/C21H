@@ -1,0 +1,281 @@
+Return-Path: <394RXWg4KBTgamocnY-hilYjfsaiiafY.WigUXgchcjVnifYXi.Wig.Vl@unified-notifications.bounces.google.com>
+Delivered-To: ipbtoledocom@srv1.thnardi.com
+Received: from srv1.thnardi.com
+	by srv1.thnardi.com with LMTP id 8JDIHyCFV1oXSAAApOPejg
+	for <ipbtoledocom@srv1.thnardi.com>; Thu, 11 Jan 2018 13:39:12 -0200
+Return-path: <394RXWg4KBTgamocnY-hilYjfsaiiafY.WigUXgchcjVnifYXi.Wig.Vl@unified-notifications.bounces.google.com>
+Envelope-to: admin@ipbtoledo.com.br
+Delivery-date: Thu, 11 Jan 2018 13:39:12 -0200
+Received: from mail-yw0-f199.google.com ([209.85.161.199]:52812)
+	by srv1.thnardi.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <394RXWg4KBTgamocnY-hilYjfsaiiafY.WigUXgchcjVnifYXi.Wig.Vl@unified-notifications.bounces.google.com>)
+	id 1eZewi-0004nJ-Ej
+	for admin@ipbtoledo.com.br; Thu, 11 Jan 2018 13:39:12 -0200
+Received: by mail-yw0-f199.google.com with SMTP id z65so1581335ywg.19
+        for <admin@ipbtoledo.com.br>; Thu, 11 Jan 2018 07:38:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20161025;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=3HFE0MxQHYmtREttdoScvWBpRQjLjHl+RG7//OtAK1c=;
+        b=FrufQoDp9T23yiSr1oT6OBICLIH64zT1zIz9QrCZ/8MYkRPHfWA/9YPvP5cebi4dzD
+         42YQyMfQjwZuw9pzolir7Y1LpsKplovs3/BPiQlASH/U3B0nZMcwHtN10q9jgtkaPsM7
+         DG0N7uNf6kA159gTz8/U4kdZuPvotF3cCFLfpD+PjdMoEnt3kZ+ZNCZXCWzUZgRvjZI5
+         Ci1XUw9HrTTJcNEpTjCiFt8uSibYgKWlsLcY/jkzZMQL8MgVMhFyF5b8/zPIiUcAprcW
+         WuaqKyjhHhWs/lbu5uXRqHV91gCZMeB/eZi8CXV74rpPonamcul2GpSuT8xZIwNxZVGg
+         yreQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=3HFE0MxQHYmtREttdoScvWBpRQjLjHl+RG7//OtAK1c=;
+        b=oecI30+uartPvgxp4RZ/Gj81hYNlBwzi/mKsBF54QGkzv9NKup4wqQ+I9F2k66QuIx
+         SRKKxorGqx1fxSP2bnGjnauHJQBihxjUN92wGEbiXLuvWfbiU3F+Vhx7caA5eE9VSreP
+         yubkhncVqYu55iWMQvDc3NpRsyjxPsiJriVRMmtgb+dXhi7yFNOKVl3rcYIcIsdF5HsI
+         TRW39vFLbPrpcNGvlVxN7Ka+1aRYeHBjxUddOvE2+VRijp43NQ22wYNmxKbG5HOD5Y8A
+         C1M7w0eAtrPin5LB9ia2hhdNhqda/h4Zo6PPF9ebhn5ByvA81eiwOovHZoyFzJQZ+GNJ
+         XYPw==
+X-Gm-Message-State: AKwxytfvWcV8y0f091eLJOGfNY+6H01EXLgTSbArO62ZvBMdyMT9HDaY
+	Mdmpd6Xr9zAOoWDc/mjK6Fx9BBitPFs=
+X-Google-Smtp-Source: ACJfBoultF6WEvzxR2H+MU3yWggs4mEeywQir2xWY9bxBoNxIDxuZ7yToFCQ94SvqgI0HdNSwCOYAaw8EHmMWIQ90I1KM0U=
+MIME-Version: 1.0
+X-Received: by 10.129.72.14 with SMTP id v14mr2677713ywa.127.1515685111532;
+ Thu, 11 Jan 2018 07:38:31 -0800 (PST)
+Date: Thu, 11 Jan 2018 07:38:31 -0800 (PST)
+X-Notifications: XEAAAALfKaIBEP9tN7eukQ6u7ieI
+Message-ID: <pW-rUEZzQlIXwodceorZ3A@notifications.google.com>
+Subject: Urgent: your Google Apps account will soon be closed
+From: gsuite-noreply@google.com
+To: admin@ipbtoledo.com.br
+Content-Type: multipart/alternative; boundary="001a114dcbc2aa13f9056281f094"
+
+--001a114dcbc2aa13f9056281f094
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+R29vZ2xlDQoNCg0KDQoNCg0KSGVsbG8sDQoNCkl0IGxvb2tzIGxpa2UgeW91IGhhdmVuJ3QgdXNl
+ZCB5b3VyIEdvb2dsZSBBcHBzIGFjY291bnQgZm9yIHRoZSBkb21haW4gIA0KaXBidG9sZWRvLmNv
+bS5iciBpbiB0aGUgcGFzdCAzNjUgZGF5cy4gR29vZ2xlIGhhcyBzdXNwZW5kZWQgeW91ciBhY2Nv
+dW50LCAgDQphbmQgd2lsbCBjbG9zZSB5b3VyIGFjY291bnQgYW5kIGRlbGV0ZSB5b3VyIGFjY291
+bnQgZGF0YSBvbiBvciBhZnRlciBKYW4gIA0KMTQsIDIwMTgsIHVubGVzcyB5b3UgdGFrZSBhY3Rp
+b24gYXMgZGVzY3JpYmVkIGJlbG93Lg0KDQpXYW50IHRvIGtlZXAgeW91ciBhY2NvdW50Pw0KSWYg
+eW91IHdhbnQgdG8ga2VlcCB0aGlzIEdvb2dsZSBBcHBzIGFjY291bnQsIHBsZWFzZSBzaWduIGlu
+IHRvICANCmFkbWluLmdvb2dsZS5jb20gYmVmb3JlIEphbiAxNCwgMjAxOCB0byBsZXQgdXMga25v
+dyB5b3UncmUgc3RpbGwgdXNpbmcgaXQuICANCklmIHlvdSd2ZSBmb3Jnb3R0ZW4geW91ciB1c2Vy
+bmFtZSBvciBwYXNzd29yZCwgd2UgY2FuIGhlbHAgeW91IHJlY292ZXIgeW91ciAgDQphY2NvdW50
+LiBPbmNlIHlvdSBsb2cgaW4sIHlvdSBzaG91bGQgcmVjZWl2ZSBhbiBlbWFpbCB3aXRoaW4gdGhl
+IG5leHQgNDggIA0KaG91cnMgbGV0dGluZyB5b3Uga25vdyB0aGF0IHlvdXIgYWNjb3VudCBpcyBu
+byBsb25nZXIgdGFyZ2V0ZWQgZm9yIGRlbGV0aW9uLg0KDQpUbyB1bnN1c3BlbmQgeW91ciBhY2Nv
+dW50LCBwbGVhc2UgZm9sbG93IHRoZSBpbnN0cnVjdGlvbnMgdGhhdCBhcHBlYXIgaW4gIA0KeW91
+ciBBZG1pbiBjb25zb2xlLg0KDQpEb24ndCB3YW50IHlvdXIgYWNjb3VudCBvciB5b3VyIGRhdGE/
+DQpJZiB5b3UgZG9uJ3Qgd2FudCB0aGlzIEdvb2dsZSBBcHBzIGFjY291bnQgYW5kIGRvbid0IHdh
+bnQgdG8gc2F2ZSBhbnkgb2YgIA0KeW91ciBkYXRhIChzdWNoIGFzIGFueSBHbWFpbCBtZXNzYWdl
+cyBvciBjb250YWN0cywgb3IgZmlsZXMgc3RvcmVkIGluICANCkRyaXZlKSwgeW91IGRvbid0IG5l
+ZWQgdG8gZG8gYW55dGhpbmcuIFdlJ2xsIGF1dG9tYXRpY2FsbHkgY2xvc2UgeW91ciAgDQphY2Nv
+dW50IGFuZCBkZWxldGUgeW91ciBkYXRhIG9uIG9yIGFmdGVyIEphbiAxNCwgMjAxOC4NCg0KT25j
+ZSB5b3VyIGFjY291bnQgaXMgY2xvc2VkLCB5b3Ugd2lsbCBubyBsb25nZXIgYmUgYWJsZSB0byBh
+Y2Nlc3MgeW91ciAgDQpHb29nbGUgQXBwcyBhY2NvdW50IGZvciB0aGUgZG9tYWluIGlwYnRvbGVk
+by5jb20uYnIgYW5kIGFsbCB5b3VyIGRhdGEgaW4gIA0KdGhhdCBhY2NvdW50IHdpbGwgYmUgcGVy
+bWFuZW50bHkgZGVsZXRlZC4gTm8gb25lIHdpbGwgYmUgYWJsZSB0byBhY2Nlc3MgIA0KeW91ciBv
+bGQgZGF0YSBieSBjcmVhdGluZyBhIG5ldyBHb29nbGUgQXBwcyBhY2NvdW50IHdpdGggdGhpcyBk
+b21haW4gbmFtZS4NCg0KV2FudCB0byBleHBvcnQgeW91ciBkYXRhPw0KSWYgeW91IHdhbnQgdG8g
+ZXhwb3J0IHlvdXIgZGF0YSBmcm9tIHlvdXIgR29vZ2xlIEFwcHMgYWNjb3VudCwgeW91IGNhbiBz
+aWduICANCmluIHRvIGFkbWluLmdvb2dsZS5jb20gYW5kIGV4cG9ydCB5b3VyIGRhdGEgYW55IHRp
+bWUgaW4gdGhlIG5leHQgODggaG91cnMuICANClRoZW4sIGlmIHlvdSB3YW50IHRvIGRlbGV0ZSB5
+b3VyIGFjY291bnQsIGZvbGxvdyBpbnN0cnVjdGlvbnMgdG8gZGVsZXRlICANCnlvdXIgYWNjb3Vu
+dC4NCg0KVmlzaXQgdGhlIEcgU3VpdGUgSGVscCBDZW50ZXIgdG8gbGVhcm4gbW9yZSBhYm91dCB3
+aHkgR29vZ2xlIGNsb3NlcyAgDQppbmFjdGl2ZSBhY2NvdW50cy4NCg0KDQoNCg0KU2luY2VyZWx5
+LA0KVGhlIEdvb2dsZSBBcHBzIFRlYW0NCg0KDQoNCsKpIDIwMTcgR29vZ2xlIEluYy4gMTYwMCBB
+bXBoaXRoZWF0cmUgUGFya3dheSwgTW91bnRhaW4gVmlldywgQ0EgOTQwNDMNCg0KWW91IGhhdmUg
+cmVjZWl2ZWQgdGhpcyBtYW5kYXRvcnkgZW1haWwgc2VydmljZSBhbm5vdW5jZW1lbnQgdG8gdXBk
+YXRlIHlvdSAgDQphYm91dCBpbXBvcnRhbnQgY2hhbmdlcyB0byB5b3VyIEdvb2dsZSBBcHBzIHBy
+b2R1Y3Qgb3IgYWNjb3VudC4NCg0KDQoNCg==
+--001a114dcbc2aa13f9056281f094
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title>Urgent: your Google Apps account will soon be closed</title>
+</head>
+
+<body bgcolor=3D"#ffffff">
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgco=
+lor=3D"#ffffff" style=3D"background-color: #ffffff;">
+  <tr>
+    <td align=3D"center">
+
+
+
+      <div style=3D"max-width: 558px; margin-top: 0; margin-right: auto; ma=
+rgin-bottom: 0; margin-left: auto; padding-top: 0; padding-right: 10px; pad=
+ding-bottom: 0; padding-left: 10px;">
+        <table align=3D"center" width=3D"100%" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0" style=3D"max-width: 558px; padding-bottom: 0; padding-=
+right: 0; padding-top: 0; padding-left: 0; margin-top: 0; margin-right: 0; =
+margin-bottom: 0; margin-left: 0; font-family: Arial, Helvetica, sans-serif=
+; font-weight: normal; font-size: 13px; line-height: 18px; color: #444444; =
+">
+          <tr>
+        	=09
+<td align=3D"left" style=3D"font-family:Arial,Helvetica,sans-serif;font-wei=
+ght:normal;font-size:15px;line-height:18px;padding:22px 0 8px;border-collap=
+se:collapse;border-bottom:1px solid #dcdcdc" valign=3D"top" width=3D"100%">
+        		  <img src=3D"https://www.google.com/support/enterprise/static/im=
+ages/sn_h80.png" alt=3D"Google" height=3D"40" style=3D"display: block;" bor=
+der=3D"0" />
+                 =20
+            </td>
+        	</tr>
+          <tr>
+            <td width=3D"100%" style=3D"padding-top: 44px; padding-right: 0=
+; padding-bottom: 0; padding-left: 0;">
+              <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" bgcolor=3D"#ffffff" style=3D"font-family: Arial, Helvetica, sans-=
+serif; font-weight: normal; font-size: 13px; line-height: 18px; color: #444=
+444; background-color: #ffffff; padding-top: 0; padding-bottom: 0; padding-=
+right: 0; padding-left: 0; margin-left: 0; margin-bottom: 0; margin-top: 0;=
+ margin-right: 0;">
+
+                <!--///Old Roadmap image
+ <tr>
+								    <td width=3D"100%" align=3D"center" style=3D"padding: 44px 0;">
+								        <img src=3D"http://www.gstatic.com/gmktg/mtv-img/gapps_road=
+map_1.png" width=3D"100%" border=3D"0" style=3D"display: block; max-width: =
+348px;" />
+								    </td>
+								</tr>
+                 -->
+                <tr>
+                  <td width=3D"100%">
+                    <table width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0">
+                      <tr>
+                        <td valign=3D"top" width=3D"100%" style=3D"padding-=
+left: 0; padding-bottom: 5px; padding-right: 0; padding-top: 5px; font-fami=
+ly: Arial, Helvetica, sans-serif; font-weight: normal; font-size: 13px; lin=
+e-height: 18px; color: #333333; ">=20
+
+
+
+                          <!-- /// content: COPY -->
+                          <p>Hello,</p>
+                       =20
+                          <p>It looks like you haven=E2=80=99t used your Go=
+ogle Apps account for the domain ipbtoledo.com.br in the past 365 days. <st=
+rong>Google has suspended your account, and will close your account and del=
+ete your account data on or after Jan 14, 2018, unless you take action as d=
+escribed below.</strong></p>
+                         =20
+                          <p><strong>Want to keep your account?</strong><br=
+ />
+                         If you want to keep this Google Apps account, <str=
+ong>please sign in to <a href=3D"https://admin.google.com">admin.google.com=
+</a> before Jan 14, 2018 to let us know you=E2=80=99re still using it.</str=
+ong> If you=E2=80=99ve forgotten your username or password, we can help you=
+ <a href=3D"https://support.google.com/a/answer/6335621">recover your accou=
+nt</a>. Once you log in, you should receive an email within the next 48 hou=
+rs letting you know that your account is no longer targeted for deletion.</=
+p>
+
+<p>To unsuspend your account, please follow the instructions that appear in=
+ your Admin console.</p>
+                         =20
+                          <p><strong>Don=E2=80=99t want your account or you=
+r data?</strong><br />
+                          If you don=E2=80=99t want this Google Apps accoun=
+t and don=E2=80=99t want to save any of your data (such as any Gmail messag=
+es or contacts, or files stored in Drive), you don=E2=80=99t need to do any=
+thing.  We=E2=80=99ll automatically close your account and delete your data=
+ on or after Jan 14, 2018.</p>
+                          <p>Once your account is closed, you will no longe=
+r be able to access your Google Apps account for the domain ipbtoledo.com.b=
+r  and all your data in that account will be permanently deleted. No one wi=
+ll be able to access your old data by creating a new Google Apps account wi=
+th this domain name.</p>
+                         =20
+  <p><strong>Want to export your data?</strong><br />
+  If you want to export your data from your Google Apps account, you can si=
+gn in to <a href=3D"https://admin.google.com">admin.google.com</a> and <a h=
+ref=3D"https://support.google.com/a/answer/100458">export your data</a> any=
+ time in the next 88 hours. Then, if you want to delete your account, follo=
+w instructions to <a href=3D"https://support.google.com/a/answer/1257646">d=
+elete your account</a>.</p>
+ =20
+  <p>Visit the G Suite Help Center to learn more about <a href=3D"https://s=
+upport.google.com/a/answer/3424304">why Google closes inactive accounts</a>=
+.</p>
+                         =20
+                          <!-- End -->
+
+
+
+                        </td>
+                      </tr>
+
+                     =20
+
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td valign=3D"top" width=3D"100%" style=3D"padding-left: =
+0; padding-bottom: 40px; padding-right: 0; padding-top: 20px; font-family: =
+Arial, Helvetica, sans-serif; font-weight: normal; font-size: 13px; line-he=
+ight: 18px; color: #333333; border-collapse: collapse; ">
+
+
+
+                    <!-- /// content: SIGN-OFF -->
+                    Sincerely,<br /><strong>The Google Apps Team</strong>
+                    <!-- End -->
+
+
+
+                  </td>
+                </tr>
+               =20
+               =20
+<!-- /// content: Add additional content here-->=20
+               =20
+               =20
+               =20
+<!-- /// content: End of additional content -->             =20
+               =20
+              </table>
+            </td>
+          </tr>
+          <tr>
+             <td width=3D"100%" style=3D"font-family: Arial, Helvetica, san=
+s-serif; font-weight: normal; font-size: 10px; line-height: 14px; color: #6=
+66666; padding-bottom: 0; padding-top: 20px; padding-right: 0; padding-left=
+: 0; text-align: left;border-top-style: solid; border-top-color: #dcdcdc; b=
+order-top-width: 1px;">
+
+
+
+              <!-- /// content: Footer -->
+              &copy; 2017 Google Inc. 1600 Amphitheatre Parkway, Mountain V=
+iew, CA 94043
+              <br /><br />
+              You have received this mandatory email service announcement t=
+o update you about important changes to your Google Apps product or account=
+.
+              <!-- End -->
+
+
+
+            </td>
+          </tr>
+        </table>
+      </div>
+
+
+
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+--001a114dcbc2aa13f9056281f094--

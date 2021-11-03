@@ -1,0 +1,175 @@
+Return-Path: <contatos@instruatena.aju.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id IIBcEgtbRGFJHwAA85qOww
+	(envelope-from <contatos@instruatena.aju.br>)
+	for <contato@ipbtoledo.com.br>; Fri, 17 Sep 2021 06:08:27 -0300
+Return-path: <contatos@instruatena.aju.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 17 Sep 2021 06:08:27 -0300
+Received: from odu0zmziyje4.instruatena.aju.br ([186.251.131.65]:37173)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <contatos@instruatena.aju.br>)
+	id 1mR9r4-0002Bz-7J
+	for contato@ipbtoledo.com.br; Fri, 17 Sep 2021 06:08:27 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=instruatena.aju.br;
+ h=Reply-To:Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=40dr3kKSggvzwmQI5gyu9FPkC4Dk0oURIsmv+SbbsjQ=;
+ b=J7A41Dl2/yjb6c1EYHWZZHy+s7kdf9GsBNO0wWze0HlbjhU+COYb9pSp082GP9aae7yxgjWc05cQ
+   le7+TZUoDsL2/RQ8vFsvgnIRSsmPpxWDFgo2H1si3ryQZSoLDRMBAZDXPrVvRL01DLnoksU2/0LX
+   dbaySxvMN6La7fTaARMUbgQPiHpue7LuDIsXB6ofp5X30eTFVBNDhjWk8pMzDRrc8btpQyRhNNie
+   y/m1qeABQFUf6evQ8cxtkBo756ZNvMGOWgM56HroavC1TZxJV2dyEvDpK78ZSa+Hcp2aLACqoPH0
+   hNWnfry6vrJqfuDSlO7GTvzt2kqSVSEye6bC1g==
+Organization: Contatos
+Reply-To: contatostraining@yahoo.com
+Message-ID: <51772db95aa1ae1c6fe1f5af001a7430@instruatena.aju.br>
+From: "Contatos" <contatos@instruatena.aju.br>
+To: <contato@ipbtoledo.com.br>
+Subject: =?windows-1252?Q?Analise_e_Demonstra=E7=F5es_Financeiras_para_Gerencia?=
+Date: Fri, 17 Sep 2021 05:55:26 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=SPLITOR00A_001_130270609D"
+X-Spam-Status: No, score=3.4
+X-Spam-Score: 34
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Treinamento Financeiro Tema: Análise e Demonstrações Financeiras
+    para Gerentes (CFOS) Data: 21 e 22/09 Horário: 09h às 13h Modalide: Treinamento
+    pelao web - ao vivo - pela plataforma zoom 
+ Content analysis details:   (3.4 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: aju.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+  1.0 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain
+                             different freemails
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------=SPLITOR00A_001_130270609D
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: base64
+
+VHJlaW5hbWVudG8gRmluYW5jZWlybw0KDQpUZW1hOiAJQW7hbGlzZSBlIERlbW9uc3RyYef1ZXMg
+RmluYW5jZWlyYXMgcGFyYSBHZXJlbnRlcyAoQ0ZPUykNCg0KRGF0YToJMjEgZSAyMi8wOQ0KSG9y
+4XJpbzogMDloIOBzIDEzaA0KTW9kYWxpZGU6IFRyZWluYW1lbnRvIHBlbGFvIHdlYiAtIGFvIHZp
+dm8gLSBwZWxhIHBsYXRhZm9ybWEgem9vbQ0KDQpPYmpldGl2b3M6ICANCjEpIFBlcm1pdGlyIHF1
+ZSBhIGxlaXR1cmEgZSBpbnRlcnByZXRh5+NvIGRvcyBkYWRvcw0KMikgSW5mb3JtYef1ZXMgZSBy
+ZWxhdPNyaW9zIGVsYWJvcmFkb3Mgc29iIG9zIGNyaXTpcmlvcyBmaW5hbmNlaXJvcyBwYXJhIG91
+dHJhIOFyZWFzIGRhIGVtcHJlc2ENCg0KUPpibGljbyBkZSBJbnRlcmVzc2UNCkVtcHJlc+FyaW9z
+LCBEaXJldG9yZXMsIEdlcmVudGVzIGUgZGVtYWlzIGxpZGVyYW7nYXMgZG9zIGRlcGFydGFtZW50
+b3MgZmluYW5jZWlybywgY29udOFiaWwgZSBjb21lcmNpYWwuDQoNCg0KR0VSRU5DSUEgRklOQU5D
+RUlSQSBESU5BTUlDQSAoQU5BTElTRSBFIERFTU9OU1RSQcfVRVMpIC0gOEgvQVVMQQ0KSSAgLSAJ
+QW7hbGlzZSBlIEludGVycHJldGHn428gZGUgUmVsYXTzcmlvcw0KSUkgLSAJQ+FsY3Vsb3MgRmlu
+YW5jZWlyb3MsIEN1c3RvIGUgUHJl528JDQpJSUkgLSAJR2VzdONvIGRvIENhcGl0YWwgZGUgR2ly
+bw0KSVYgIC0gIERlY2lz428gZGUgSW52ZXN0aW1lbnRvcw0KDQoNCi0gQWRyaWFubyBHb21lcw0K
+CUFkbWluaXN0cmFkb3IgZGUgZW1wcmVzYXMsIHDzcy1ncmFkdWHn428gZW0gZmluYW7nYXMsIG1l
+c3RyZSBlbSBjb250cm9sYWRvcmlhIGUgZmluYW7nYXMgKFBVQy1TUCk7IA0KCckgZG9jZW50ZSBk
+ZSBkaXZlcnNhcyBpbnN0aXR1aef1ZXMgdm9sdGFkYXMg4CBjYXBhY2l0YefjbyBkZSBleGVjdXRp
+dm9zIGUgZW1wcmVz4XJpb3MgY29tbyBDSUVTUCwgSURPUlQsIElOVEVHUkHHw08sIGUgZGl2ZXJz
+b3Mgc2luZGljYXRvcyBwYXRyb25haXMuIA0KCU1pbmlzdHJhIHRyZWluYW1lbnRvcyBlIHBhbGVz
+dHJhcyBlbXByZXNhcmlhaXMuDQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09CQ0KDQpJTlZFU1RJTUVOVE8NClIkIDc5MCwwMA0KcGFyYSBpbnNj
+cml0b3MgYXTpIGRpYSAxNy8wOSAtIDY0OSwwMCBubyBib2xldG8gYSB2aXN0YSwgb3UgNzQ5LDAw
+IHBhcmNlbGFkbyBubyBjYXJ0428gYXTpIDEweA0KDQpJTkNMVUkNCi0gQXBvc3RpbGEgZSBtYXRl
+cmlhaXMgcGFyYSBlc3R1ZG9zIGUgcHLhdGljYS4gDQotIENlcnRpZmljYWRvDQotIFBsYW50428g
+ZGUgRHV2aWRhcyBwb3IgMzAgZGlhcw0KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PQ0KDQpQQVJBIFNFIElOU0NSRVZFUiAtIEZBTEUgQ09OT1ND
+Tw0KRklYTyBDT01FUkNJQUwgICgxMSkgMzkzNSA2MzY1DQpXSEFUUyBBUFAgCSgxMSkgIDkgNzU0
+NiAxOTkxDQpFTUFJTDoJCWF0ZW5kaW1lbnRvaW5zdHJ1dG9yQHlhaG9vLmNvbQ0KDQpSRUFMSVpB
+x8NPOiAgSU5TVFJVVE9SSUFfVFJFSU5BTUVOVE9TICgxMCBBTk9TKSBASU5TVFJVVE9SSUEgDQoN
+Cj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0N
+CiJFbSByYXrjbyBkbyBpbu1jaW8gZGUgdmln6m5jaWEgZGEgTGVpIEdlcmFsIGRlIFByb3Rl5+Nv
+IGRlIERhZG9zIC0gTEdQRCwgYmVtIGNvbW8gZG8gZmF0byBxdWUgbXVpdG9zIGRvcyBkYWRvcyBw
+ZXNzb2FpcyBmb3JhbSBjb2xldGFkb3MgYW50ZXMgZGVzc2UgZXZlbnRvLA0KaW5mb3JtYW1vcyBx
+dWUgZmF6ZW1vcyBvIHRyYXRhbWVudG8gZGUgZGFkb3MgcGVzc29haXMgZGUgbm9zc29zIGNsaWVu
+dGVzIGUgcGFyY2Vpcm9zIGNvbSBiYXNlIG5vIGNvbnNlbnRpbWVudG8gY29uZmVyaWRvIG5vcyBt
+b2xkZXMgdmlnZW50ZXMg4CDpcG9jYSBlIG5vIGxlZ+10aW1vIGludGVyZXNzZSBkZSB0cmF6ZXIg
+YW8gY29uaGVjaW1lbnRvIGRlIG5vc3NvIHD6YmxpY28tYWx2byBpbmZvcm1h5/VlcyByZWxldmFu
+dGVzIHNvYnJlIGN1cnNvIGUgdHJlaW5hbWVudG9zLg0KQ2FzbyBkZXNlamUgcmV2b2dhciBvIGNv
+bnNlbnRpbWVudG8gb3V0cm9yYSBjb25mZXJpZG8sIHBvciBmYXZvciwgcmVzcG9uZGEgZXNzYSBt
+ZW5zYWdlbSBzb2xpY2l0YW5kbyBhIHN1YSBleGNsdXPjby4NCk8gc2ls6m5jaW8gcHJlc3VtZSBh
+IHN1YSBtYW51dGVu5+NvIGV4cHJlc3NhIGUgaW5lcXXtdm9jYSBub3MgdGVybW9zIGRhIG5vdmEg
+bGVpLiINCl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fDQpFWENM
+VVPDTyBERVNUQSBMSVNUQTogZmFsZWNvbTFAeWFob28uY29tDQo=
+
+------=SPLITOR00A_001_130270609D
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxodG1sPg0KPGhlYWQ+DQo8bWV0YSBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZSBjb250
+ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9d2luZG93cy0xMjUyIj4NCjwvaGVhZD4NCjxib2R5IHN0
+eWxlPSJGT05ULUZBTUlMWTogVmVyZGFuYSI+DQo8cD5UcmVpbmFtZW50byBGaW5hbmNlaXJvPC9w
+Pg0KPHA+VGVtYTogJm5ic3A7QW7hbGlzZSBlIERlbW9uc3RyYef1ZXMgRmluYW5jZWlyYXMgcGFy
+YSBHZXJlbnRlcyAoQ0ZPUyk8L3A+DQo8cD5EYXRhOiZuYnNwOzIxIGUgMjIvMDk8YnI+SG9y4XJp
+bzogMDloIOBzIDEzaDxicj5Nb2RhbGlkZTogVHJlaW5hbWVudG8gcGVsYW8gDQp3ZWIgLSBhbyB2
+aXZvIC0gcGVsYSBwbGF0YWZvcm1hIHpvb208L3A+DQo8cD5PYmpldGl2b3M6Jm5ic3A7IDxicj4x
+KSBQZXJtaXRpciBxdWUgYSBsZWl0dXJhIGUgaW50ZXJwcmV0YefjbyBkb3MgDQpkYWRvczxicj4y
+KSBJbmZvcm1h5/VlcyBlIHJlbGF083Jpb3MgZWxhYm9yYWRvcyBzb2Igb3MgY3JpdOlyaW9zIGZp
+bmFuY2Vpcm9zIA0KcGFyYSBvdXRyYSDhcmVhcyBkYSBlbXByZXNhPC9wPg0KPHA+UPpibGljbyBk
+ZSBJbnRlcmVzc2U8YnI+RW1wcmVz4XJpb3MsIERpcmV0b3JlcywgR2VyZW50ZXMgZSBkZW1haXMg
+bGlkZXJhbudhcyANCmRvcyBkZXBhcnRhbWVudG9zIGZpbmFuY2Vpcm8sIGNvbnThYmlsIGUgY29t
+ZXJjaWFsLjwvcD4NCjxwPjxicj5HRVJFTkNJQSBGSU5BTkNFSVJBIERJTkFNSUNBIChBTkFMSVNF
+IEUgREVNT05TVFJBx9VFUykgLSANCjhIL0FVTEE8YnI+SSZuYnNwOyAtICZuYnNwO0Fu4Wxpc2Ug
+ZSBJbnRlcnByZXRh5+NvIGRlIFJlbGF083Jpb3M8YnI+SUkgLSANCiZuYnNwO0PhbGN1bG9zIEZp
+bmFuY2Vpcm9zLCBDdXN0byBlIFByZedvJm5ic3A7PGJyPklJSSAtICZuYnNwO0dlc3TjbyBkbyBD
+YXBpdGFsIA0KZGUgR2lybzxicj5JViZuYnNwOyAtJm5ic3A7IERlY2lz428gZGUgSW52ZXN0aW1l
+bnRvczwvcD4NCjxwPjxicj4tIEFkcmlhbm8gR29tZXM8YnI+Jm5ic3A7QWRtaW5pc3RyYWRvciBk
+ZSBlbXByZXNhcywgcPNzLWdyYWR1YefjbyBlbSANCmZpbmFu52FzLCBtZXN0cmUgZW0gY29udHJv
+bGFkb3JpYSBlIGZpbmFu52FzIChQVUMtU1ApOyA8YnI+Jm5ic3A7ySBkb2NlbnRlIGRlIA0KZGl2
+ZXJzYXMgaW5zdGl0dWnn9WVzIHZvbHRhZGFzIOAgY2FwYWNpdGHn428gZGUgZXhlY3V0aXZvcyBl
+IGVtcHJlc+FyaW9zIGNvbW8gDQpDSUVTUCwgSURPUlQsIElOVEVHUkHHw08sIGUgZGl2ZXJzb3Mg
+c2luZGljYXRvcyBwYXRyb25haXMuIDxicj4mbmJzcDtNaW5pc3RyYSANCnRyZWluYW1lbnRvcyBl
+IHBhbGVzdHJhcyANCmVtcHJlc2FyaWFpcy48YnI+PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PSZuYnNwOzwvcD4NCjxwPklOVkVTVElNRU5UTzxi
+cj5SJCA3OTAsMDA8YnI+cGFyYSBpbnNjcml0b3MgYXTpIGRpYSAxNy8wOSAtIDY0OSwwMCBubyBi
+b2xldG8gDQphIHZpc3RhLCBvdSA3NDksMDAgcGFyY2VsYWRvIG5vIGNhcnTjbyBhdOkgMTB4PC9w
+Pg0KPHA+SU5DTFVJPGJyPi0gQXBvc3RpbGEgZSBtYXRlcmlhaXMgcGFyYSBlc3R1ZG9zIGUgcHLh
+dGljYS4gPGJyPi0gDQpDZXJ0aWZpY2Fkbzxicj4tIFBsYW50428gZGUgRHV2aWRhcyBwb3IgMzAg
+DQpkaWFzPGJyPj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT08L3A+DQo8cD5QQVJBIFNFIElOU0NSRVZFUiAtIEZBTEUgQ09OT1NDTzxicj5GSVhP
+IENPTUVSQ0lBTCZuYnNwOyAoMTEpIDM5MzUgDQo2MzY1PGJyPldIQVRTIEFQUCAmbmJzcDsoMTEp
+Jm5ic3A7IDkgNzU0NiAxOTkxPGJyPkVNQUlMOiZuYnNwOyZuYnNwOzxhIGhyZWY9Im1haWx0bzph
+dGVuZGltZW50b2luc3RydXRvckB5YWhvby5jb20iPmF0ZW5kaW1lbnRvaW5zdHJ1dG9yQHlhaG9v
+LmNvbTwvYT48L3A+DQo8cD5SRUFMSVpBx8NPOiZuYnNwOyBJTlNUUlVUT1JJQV9UUkVJTkFNRU5U
+T1MgKDEwIEFOT1MpIEBJTlNUUlVUT1JJQSA8L3A+DQo8cD49PT09PT09PT09PT09PT09PT09PT09
+PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PGJyPiJFbSByYXrjbyBkbyANCmlu7WNp
+byBkZSB2aWfqbmNpYSBkYSBMZWkgR2VyYWwgZGUgUHJvdGXn428gZGUgRGFkb3MgLSBMR1BELCBi
+ZW0gY29tbyBkbyBmYXRvIA0KcXVlIG11aXRvcyBkb3MgZGFkb3MgcGVzc29haXMgZm9yYW0gY29s
+ZXRhZG9zIGFudGVzIGRlc3NlIGV2ZW50byw8YnI+aW5mb3JtYW1vcyANCnF1ZSBmYXplbW9zIG8g
+dHJhdGFtZW50byBkZSBkYWRvcyBwZXNzb2FpcyBkZSBub3Nzb3MgY2xpZW50ZXMgZSBwYXJjZWly
+b3MgY29tIA0KYmFzZSBubyBjb25zZW50aW1lbnRvIGNvbmZlcmlkbyBub3MgbW9sZGVzIHZpZ2Vu
+dGVzIOAg6XBvY2EgZSBubyBsZWftdGltbyANCmludGVyZXNzZSBkZSB0cmF6ZXIgYW8gY29uaGVj
+aW1lbnRvIGRlIG5vc3NvIHD6YmxpY28tYWx2byBpbmZvcm1h5/VlcyByZWxldmFudGVzIA0Kc29i
+cmUgY3Vyc28gZSB0cmVpbmFtZW50b3MuPGJyPkNhc28gZGVzZWplIHJldm9nYXIgbyBjb25zZW50
+aW1lbnRvIG91dHJvcmEgDQpjb25mZXJpZG8sIHBvciBmYXZvciwgcmVzcG9uZGEgZXNzYSBtZW5z
+YWdlbSBzb2xpY2l0YW5kbyBhIHN1YSBleGNsdXPjby48YnI+TyANCnNpbOpuY2lvIHByZXN1bWUg
+YSBzdWEgbWFudXRlbufjbyBleHByZXNzYSBlIGluZXF17XZvY2Egbm9zIHRlcm1vcyBkYSBub3Zh
+IA0KbGVpLiI8YnI+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX188
+YnI+RVhDTFVTw08gREVTVEEgTElTVEE6IA0KPGEgaHJlZj0ibWFpbHRvOmZhbGVjb20xQHlhaG9v
+LmNvbSI+ZmFsZWNvbTFAeWFob28uY29tPC9hPjxicj48L3A+DQo8L2JvZHk+DQo8L2h0bWw+
+
+------=SPLITOR00A_001_130270609D--
+

@@ -1,0 +1,187 @@
+Return-Path: <contatos@enviocorporhf.com.br>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id MGJYH5UTTGFkdgAA85qOww
+	(envelope-from <contatos@enviocorporhf.com.br>)
+	for <contato+spam@ipbtoledo.com.br>; Thu, 23 Sep 2021 02:41:41 -0300
+Return-path: <contatos@enviocorporhf.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Thu, 23 Sep 2021 02:41:41 -0300
+Received: from mdzlnty3yta4.enviocorporhf.com.br ([186.251.141.59]:59196)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <contatos@enviocorporhf.com.br>)
+	id 1mTHUF-00080k-MR
+	for contato@ipbtoledo.com.br; Thu, 23 Sep 2021 02:41:41 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=enviocorporhf.com.br;
+ h=From:To:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding;
+ bh=sz77aGPBGUKUpImWclHTZIHd+cSkY+UXxj1MR0xb/4A=;
+ b=rnlwJYjXjp9CMx8cUj6jSUswT9MPgggK0Y0PX0RXNBvMKUjwK6Y0u/18TS+nsQ1eox90kZaXcW7o
+   xqKI31oGcdQVEK0vHEmucFKjihRbhoHxi53MK6BgpJZWvdye9NawUo+MitRbPEuaPR05Oc3p9zE/
+   KI+2CrOSFWAOBjKp2V8OEjfvNIQt6wLcbora+PFBQWhgt1ndS2waK1K/gkat95wQHmyTa/kpKjbN
+   hhn5mK5KWFxZIChe3DlJb6vvry+0NEKxtfgJUgi82Y9CTzh8gZpHJg49eEoK7j+2y/v2GaB8L7iS
+   O6Y1yblkTRtPCfDTZD6kHIyarjZwK5lZqrMo1g==
+From: "contatos"<contatos@enviocorporhf.com.br>
+To: contato@ipbtoledo.com.br
+Date: Thu, 23 Sep 2021 02:40:42 -0300
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Status: Yes, score=7.6
+X-Spam-Score: 76
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Ola, tudo bem? Para gerar RESULTADOS nÃ£o basta entender de
+    NEGÃ“CIOS, Ã© preciso entender de PESSOAS. 2Âº LIDERANDO PESSOAS COM FOCO
+    EM RESULTADOS 
+ Content analysis details:   (7.6 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: enviocorporha.com.br]
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+              [Blocked - see <https://www.spamcop.net/bl.shtml?186.251.141.59>]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+  0.6 FORGED_OUTLOOK_TAGS    Outlook can't send HTML in this format
+  0.0 AXB_XMAILER_MIMEOLE_OL_024C2 Yet another X header trait
+  0.0 FROM_MISSP_MSFT        From misspaced + supposed Microsoft tool
+  0.0 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+  0.0 FROM_MISSPACED         From: missing whitespace
+  0.0 HDR_ORDER_FTSDMCXX_DIRECT Header order similar to spam
+                             (FTSDMCXX/boundary variant) + direct-to-MX
+  3.1 DOS_OE_TO_MX           Delivered direct to MX with OE headers
+  2.8 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+X-Spam-Flag: YES
+Subject:    Liderar é gerar RESULTADOS
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Ola, tudo bem?</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ </DIV>
+<DIV>
+Para gerar RESULTADOS não basta entender de NEGÓCIOS, é preciso entender de PESSOAS.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+2º LIDERANDO PESSOAS COM FOCO EM RESULTADOS</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Traga TODOS OS LÍDERES DE EQUIPE DE SUA EMPRESA para passar 01 dia inteiro com 05 GRANDES ESPECIALISTAS DO BRASIL.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+1. DR. AUGUSTO CURY - Como Formar Mentes Brilhantes</DIV>
+<DIV>
+2. MAX GEHRINGER - Carreira, Emprego &amp; Empreendedorismo</DIV>
+<DIV>
+3. PROF. MARINS - Liderança, Competências e Resultados</DIV>
+<DIV>
+4. JOÃO KEPLER - Smart Money, A Arte de Atrair Investimento</DIV>
+<DIV>
+5. EDUARDO TEVAH - Em Busca da Excelência Através das Pessoas</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Confira aqui os detalhes: enviocorporha.com.br</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Por que Participar?</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+• QUALIDADE - Aprenda com Especialistas</DIV>
+<DIV>
+• PRÁTICO - Informações práticas do dia a dia do Líder</DIV>
+<DIV>
+• ATUAL - Dados mercadológicos atualizados</DIV>
+<DIV>
+• INTENSIVO - São 08 Horas de Treinamento em 01 só dia</DIV>
+<DIV>
+• RESULTADO -&nbsp; Alcance suas metas de maneira natural</DIV>
+<DIV>
+• VERSÁTIL - Ao Vivo Online ou Presencial</DIV>
+<DIV>
+ </DIV>
+<DIV>
+QUANDO?</DIV>
+<DIV>
+Dia 27 de Nov/21.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+ONDE?</DIV>
+<DIV>
+Ao Vivo Online de onde você estiver ou Presencialmente no Centro de Convenções Expo D. Pedro em Campinas.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+COMO SE INSCREVER?</DIV>
+<DIV>
+Através do Link Oficial do Congresso enviocorporha.com.br</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Se preferir, copie e cole o link acima em outra janela do seu navegador.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Você também pode entrar em contato conosco pelo link acima, pelo nosso Whatsapp ou nossa Central de Atendimento informados abaixo.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+2º LIDERANDO PESSOAS COM FOCO EM RESULTADOS</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Um trabalho RICO EM CONTEÚDO, desenvolvido especialmente para Empresários, Diretores, Líderes de Equipe e Alta Gerência, além de Profissionais ligados às áreas de Gestão de Pessoas, Qualidade e Inovação.</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Muito obrigada!</DIV>
+<DIV>
+ </DIV>
+<DIV>
+Lucélia Viana e Bruna Lopes</DIV>
+<DIV>
+Corpo RH</DIV>
+<DIV>
+Central de Atendimento (19) 3291-7232</DIV>
+<DIV>
+Whatsapp (19) 9.8397-561</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Para remoção: parceiro8515@outlook.com: </DIV>
+</FONT>
+</BODY></HTML>

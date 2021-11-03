@@ -1,0 +1,260 @@
+Return-Path: <bradesco-proposta-3cab@minutoinovar.com.br>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id KIxPJEUdLGFVTAAA85qOww
+	(envelope-from <bradesco-proposta-3cab@minutoinovar.com.br>)
+	for <contato@ipbtoledo.com.br>; Sun, 29 Aug 2021 20:50:29 -0300
+Return-path: <bradesco-proposta-3cab@minutoinovar.com.br>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sun, 29 Aug 2021 20:50:29 -0300
+Received: from cloud7756944.minutoinovar.com.br ([45.138.13.215]:50746)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <bradesco-proposta-3cab@minutoinovar.com.br>)
+	id 1mKUZE-0005ga-Sk
+	for contato@ipbtoledo.com.br; Sun, 29 Aug 2021 20:50:29 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=zzqdhy; d=minutoinovar.com.br;
+ h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type; i=bradesco-proposta-3cab@minutoinovar.com.br;
+ bh=GUmWvfRQGC6BtYCcnr216G1g5g8=;
+ b=xqI8Wy7lPMUm6HY9LqEYXjekaAaCRyuJR51s64BEWvViuq8uohMCkehrAVPTV2ggY7fphcL18kwl
+   HGBxn7EiMhDvENeQDssOoQ8sf9FGkYeWl/IzuO4PeCn84a8FaCu8Sb/DJiH7+VMz8CvWn6XlkcYA
+   3hrWBVzK5KGIFq2k/2k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=zzqdhy; d=minutoinovar.com.br;
+ b=WqDKBjbX6+UozUo/GmbmBjVVE8BJgTXoVSd3vA9CjuPsdw40O6F63DMzrtrMxzPHjODmHoJYUIU2
+   9s+jFU49Mt4VxgM3RR8DpLVMVcdPIbUFp9+ok233FgeZ591qMUbOtT8T13QlXDjoDGf2X0yQmRUx
+   OC9UlfKB3l+lrilRCaY=;
+Date: Sun, 29 Aug 2021 20:49:43 -0300
+To: contato@ipbtoledo.com.br
+From: =?iso-8859-1?Q?S=E1vio_Andr=E9_=7C_Gerente_Seguros?= <bradesco-proposta-3cab@minutoinovar.com.br>
+Subject: =?iso-8859-1?Q?[Plano_de_Sa=FAde]_Empresarial,_vem_ser_feliz_com_a_Brades?=
+ =?iso-8859-1?Q?co?=
+Message-ID: <g5f4i4s41426f453f4w5g5t4w5j4i544l4p274o4t534i5x5@minutoinovar.com.br>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ezs2SiwxiEi1UcsnG1fVkyz460cT7AQsBc5KQ6xvZA"
+X-Spam-Status: No, score=1.8
+X-Spam-Score: 18
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Olá, tudo bom? DESCONTENTE COM A REDE OU CUSTOS DO SEU PLANO
+    DE SAÚDE, OU AINDA NÃO TEM PLANO? A BRADESCO possui planos empresariais
+    a partir de 3 vidas, para atender você, sua família, ou empresa, com valores
+    40% menores usando o CNPJ. 
+ Content analysis details:   (1.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: minutoinovar.com.br]
+  1.9 URIBL_ABUSE_SURBL      Contains an URL listed in the ABUSE SURBL
+                             blocklist
+                             [URIs: minutoinovar.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+--b1_ezs2SiwxiEi1UcsnG1fVkyz460cT7AQsBc5KQ6xvZA
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ol=C3=A1, tudo bom?=0A=0ADESCONTENTE COM A REDE OU CUSTOS DO SEU PLANO DE S=
+A=C3=9ADE, OU AINDA N=C3=83O TEM PLANO?=0A=0A=0AA BRADESCO possui planos em=
+presariais a partir de 3 vidas, para atender voc=C3=AA, sua fam=C3=ADlia, o=
+u empresa, com valores 40% menores usando o CNPJ.=0A=0A=0AA hora de mudar =
+=C3=A9 agora, TE AJUDAMOS!=0A=0A=0A- Os melhores hospitais;=0A- A melhor re=
+de credenciada do Brasil;=0A- Cobertura nacional em todos os planos;=0A- Re=
+embolso com o melhor custo x benef=C3=ADcio;=0A- Descontos em farm=C3=A1cia=
+s e em v=C3=A1rios servi=C3=A7os;=0A- TeleMedicina 24 horas, e muito mais.=
+=0A=0AAtendimento imediato para os procedimentos urgentes, com acesso a nos=
+sa ampla rede credenciada referenciada de hospitais e profissionais em todo=
+ Brasil, 24 horas depois de implantado seu plano.=0A=0A=0A=0A[](http://ec2-=
+18-229-150-10.sa-east-1.compute.amazonaws.com/?qs=3D24r2y2w2t2e4o2x2x2e4247=
+3k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423v5a4k4y5k4j4h4e4x5m424o4=
+24h5o4u5t2f5i4&lin=3D11465)=0A=0A=0ASolicite uma cota=C3=A7=C3=A3o =C3=
+=A9 rapidinho, dura apenas alguns segundos, cotamos para todo o BRASIL.=0A=
+=0A=0A[QUERO FAZER MINHA COTA=C3=87=C3=83O AGORA=0Asem compromisso](http://=
+ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qs=3D24r2y2w2t2e4o2x2x2e=
+42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423v5a4k4y5k4j4h4e4x5m4=
+24o424h5o4u5t2f5i4&lin=3D11453)=0A=0A=C2=A9 2014 - 2021 - Simulador de Plan=
+os de Sa=C3=BAde=0A=0AE-mail enviado para contato@ipbtoledo.com.br.=0A=0APe=
+dimos desculpas se este e-mail lhe causou algum transtorno.=0ASe voc=C3=
+=AA n=C3=A3o deseja receber estes e-mails clique no link de cancelamento=0A=
+voc=C3=AA ser=C3=A1 removido: [Descadastre-se](http://ec2-18-229-150-10.sa-=
+east-1.compute.amazonaws.com/?qr=3D24r2y2w2t2e4o2x2x2e42473k5m4r5k474n4j4d3=
+p5x5i5z5h4e4b494m4v2j5k4h4t264p423v5a4k4y5k4j4h4e4x5m424o424h5o4u5t2f5i4)
+--b1_ezs2SiwxiEi1UcsnG1fVkyz460cT7AQsBc5KQ6xvZA
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" >
+<head>
+=09<title></title>
+</head>
+<body>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<img src=3D"http://ec2-18-229-150-10.sa-east-1.compute.amazonaws.com/?qo=3D=
+24r2y2w2t2e4o2x2x2e42473k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423v=
+5a4k4y5k4j4h4e4x5m424o424h5o4u5t2f5i4" alt=3D"" width=3D1 height=3D1 style=
+=3D"border:0 none;display:block;height:auto;line-height:100%;outline:none;-=
+webkit-text-decoration:none;text-decoration:none"></body>
+</html>
+<p><br />
+<title></title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" ><=
+/p>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" he=
+ight=3D"100%" id=3D"corpo" style=3D"background: #f5f5f5;" width=3D"100%" >
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" style=3D"padding: 0 15px 0 15px;" >
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"cont=
+eudo" style=3D"width: 540px; max-width: 540px; margin: auto; border-bottom-=
+left-radius: 12px; border-bottom-right-radius: 12px; margin-bottom: 50px; b=
+ackground: #FFF;" width=3D"540" >
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td id=3D"topo" style=3D"background: #FFF; padding: 0 0 0=
+ 0;" ><img alt=3D"Bradesco" src=3D"https://amilsaude.s3.amazonaws.com/s9Wqf=
+LZ.jpg" style=3D"width: 100%; display: table-cell;" /></td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td id=3D"fundo" style=3D"padding: 0 30px 30px 30px;" >
+=09=09=09=09=09=09<div class=3D"tituloNome" style=3D"font-family: Arial; fo=
+nt-weight: bold; font-size: 28px; font-stretch: normal; line-height: 1.07; =
+letter-spacing: -0.5px; text-align: left; color: #222222; " ><span class=3D=
+"tituloCorDestaque" style=3D"color: #CA043B;" >Ol&aacute;, tudo bom?</span>=
+</div>
+
+=09=09=09=09=09=09<div class=3D"textoCorpoEmail" style=3D"font-size: 21px; =
+font-weight: 300; text-align: left; margin-top: 20px; font-style: normal; f=
+ont-stretch: normal; font-weight: bold; line-height: 1.43; letter-spacing: =
+-0.5px; color: #000000; font-family: Arial;" >
+=09=09=09=09=09=09<p>DESCONTENTE COM A REDE OU CUSTOS DO SEU PLANO DE SA&Ua=
+cute;DE, OU AINDA N&Atilde;O TEM PLANO?</p>
+=09=09=09=09=09=09</div>
+
+=09=09=09=09=09=09<div class=3D"textoCorpoEmail" style=3D"font-size: 21px; =
+font-weight: 300; text-align: left; margin-top: 20px; font-style: normal; f=
+ont-stretch: normal;  line-height: 1.43; letter-spacing: -0.5px; color: #00=
+0000; font-family: Arial;" >
+=09=09=09=09=09=09<p>A <strong>BRADESCO</strong> possui planos empresariais=
+ a partir de 3 vidas, para atender voc&ecirc;, sua fam&iacute;lia, ou empre=
+sa, com&nbsp;<strong>valores 40% menores usando o CNPJ</strong>.</p>
+=09=09=09=09=09=09</div>
+
+=09=09=09=09=09=09<div class=3D"textoCorpoEmail" style=3D"font-size: 21px; =
+font-weight: 300; text-align: left; margin-top: 20px; font-style: normal; f=
+ont-stretch: normal; font-weight: bold;  line-height: 1.43; letter-spacing:=
+ -0.5px; color: #CA043B; font-family: Arial;" >
+=09=09=09=09=09=09<p>A hora de mudar &eacute; agora,&nbsp;TE AJUDAMOS!</p>
+=09=09=09=09=09=09</div>
+
+=09=09=09=09=09=09<div class=3D"textoCorpoEmail" style=3D"font-size: 21px; =
+font-weight: 300; text-align: left; margin-top: 20px; font-style: normal; f=
+ont-stretch: normal;  line-height: 1.43; letter-spacing: -0.5px; color: #00=
+0000; font-family: Arial;" >
+=09=09=09=09=09=09<p>- Os melhores hospitais;<br />
+=09=09=09=09=09=09-&nbsp;A melhor rede credenciada do Brasil;<br />
+=09=09=09=09=09=09-&nbsp;Cobertura nacional em todos os planos;<br />
+=09=09=09=09=09=09- Reembolso com o melhor custo x benef&iacute;cio;<br />
+=09=09=09=09=09=09- Descontos em farm&aacute;cias e em v&aacute;rios servi&=
+ccedil;os;<br />
+=09=09=09=09=09=09- TeleMedicina 24 horas, e muito mais.</p>
+=09=09=09=09=09=09</div>
+
+=09=09=09=09=09=09<div class=3D"textoCorpoEmail" style=3D"font-size: 21px; =
+font-weight: bold; text-align: left; margin-top: 20px; font-style: normal; =
+font-stretch: normal; line-height: 1.43; letter-spacing: -0.5px; color: #CA=
+043B; font-family: Arial;" >Atendimento imediato para os procedimentos urge=
+ntes, com acesso a nossa ampla rede credenciada referenciada de hospitais e=
+ profissionais em todo Brasil, 24 horas depois de implantado seu plano.
+=09=09=09=09=09=09<p>&nbsp;</p>
+=09=09=09=09=09=09</div>
+
+=09=09=09=09=09=09<div class=3D"textoCorpoEmail" style=3D"font-size: 21px; =
+font-weight: 300; text-align: left; margin-top: 20px; font-style: normal; f=
+ont-stretch: normal;  line-height: 1.43; letter-spacing: -0.5px; color: #00=
+0000; font-family: Arial;" >
+=09=09=09=09=09=09<p align=3D"center" ><a href=3D"http://ec2-18-229-150-10.=
+sa-east-1.compute.amazonaws.com/?qs=3D24r2y2w2t2e4o2x2x2e42473k5m4r5k474n4j=
+4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423v5a4k4y5k4j4h4e4x5m424o424h5o4u5t2f5i4=
+&lin=3D11465" target=3D"_blank" ><img alt=3D"bradesco whatsapp cota=
+=E7=E3o" border=3D"0" height=3D"84" name=3D"" src=3D"https://amilsaude.s3.a=
+mazonaws.com/Atendimento-via-Whatsapp.png" width=3D"288" /></a></p>
+=09=09=09=09=09=09</div>
+
+=09=09=09=09=09=09<div class=3D"textoCorpoEmail" style=3D"font-size: 21px; =
+font-weight: 300; text-align: left; margin-top: 20px; font-style: normal; f=
+ont-weight: bold; font-stretch: normal;  line-height: 1.43; letter-spacing:=
+ -0.5px; color: #000000; font-family: Arial;" >
+=09=09=09=09=09=09<p>Solicite uma cota&ccedil;&atilde;o &eacute; rapidinho,=
+ dura apenas alguns segundos, cotamos para todo o BRASIL.</p>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09&nbsp;
+
+=09=09=09=09=09=09<table bgcolor=3D"#CA043B" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"botao" style=3D"border-radius: 3px; background-=
+color: #CA043B; border-collapse: separate;" width=3D"100%" >
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"font-family: Arial=
+; font-size: 16px; padding: 15px;" valign=3D"middle" ><a href=3D"http://ec2=
+-18-229-150-10.sa-east-1.compute.amazonaws.com/?qs=3D24r2y2w2t2e4o2x2x2e424=
+73k5m4r5k474n4j4d3p5x5i5z5h4e4b494m4v2j5k4h4t264p423v5a4k4y5k4j4h4e4x5m424o=
+424h5o4u5t2f5i4&lin=3D11453" style=3D"font-weight: bold; width: 100%; heigh=
+t: 100%; display: block; text-decoration: none; color: #fff;" target=3D"_bl=
+ank" >QUERO FAZER MINHA COTA&Ccedil;&Atilde;O AGORA<br />
+=09=09=09=09=09=09=09=09=09sem compromisso</a></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+
+=09=09=09<p style=3D"font: normal 14px 'Arial',sans-serif; text-align: cent=
+er; color: #6d6d6d;" ><br />
+=09=09=09<span style=3D"font-size: x-small;" ><span><span style=3D"font-siz=
+e: small;" ><span>&copy; 2014 - 2021&nbsp;</span>- Simulador de Planos de S=
+a&uacute;de</span><br />
+=09=09=09<br />
+=09=09=09<span style=3D"font-size: small;" ><span><strong>E-mail enviado pa=
+ra contato@ipbtoledo.com.br.</strong><br />
+=09=09=09<br />
+=09=09=09<span>Pedimos desculpas se este e-mail lhe causou algum transtorno=
+.&nbsp;</span><br />
+=09=09=09Se voc&ecirc; n&atilde;o deseja receber estes e-mails clique no li=
+nk de cancelamento<br />
+=09=09=09voc&ecirc; ser&aacute; removido:&nbsp;</span></span></span></span>=
+<span style=3D"font-size: small;" ><a href=3D"http://ec2-18-229-150-10.sa-e=
+ast-1.compute.amazonaws.com/?qr=3D24r2y2w2t2e4o2x2x2e42473k5m4r5k474n4j4d3p=
+5x5i5z5h4e4b494m4v2j5k4h4t264p423v5a4k4y5k4j4h4e4x5m424o424h5o4u5t2f5i4" >D=
+escadastre-se</a></span></p>
+=09=09=09<br />
+=09=09=09&nbsp;</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+
+--b1_ezs2SiwxiEi1UcsnG1fVkyz460cT7AQsBc5KQ6xvZA--
+

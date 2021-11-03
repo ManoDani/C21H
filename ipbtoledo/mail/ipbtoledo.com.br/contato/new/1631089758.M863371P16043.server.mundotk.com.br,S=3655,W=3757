@@ -1,0 +1,102 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id mGGDMl50OGGrPgAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Wed, 08 Sep 2021 05:29:18 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Wed, 08 Sep 2021 05:29:18 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1mNsxK-0004CB-L4
+	for contato@ipbtoledo.com.br; Wed, 08 Sep 2021 05:29:18 -0300
+X-Failed-Recipients: nao-envie-email@mgviagens.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <a1ab62dfcf94f3957fdba78f548c5fa5@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1631089758-eximdsn-894296022
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1mNsxK-0004CB-L4@server.mundotk.com.br>
+Date: Wed, 08 Sep 2021 05:29:18 -0300
+
+--1631089758-eximdsn-894296022
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  nao-envie-email@mgviagens.com
+    host mgviagens.com [148.72.152.89]
+    SMTP error from remote mail server after RCPT TO:<nao-envie-email@mgviagens.com>:
+    550 No Such User Here
+
+--1631089758-eximdsn-894296022
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;nao-envie-email@mgviagens.com
+Status: 5.0.0
+Remote-MTA: dns; mgviagens.com
+Diagnostic-Code: smtp; 550 No Such User Here
+
+--1631089758-eximdsn-894296022
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=55400 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mNsxK-0004C2-5D
+	for nao-envie-email@mgviagens.com; Wed, 08 Sep 2021 05:29:17 -0300
+Date: Wed, 8 Sep 2021 08:29:17 +0000
+To: Somos a MgViagens? <nao-envie-email@mgviagens.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <a1ab62dfcf94f3957fdba78f548c5fa5@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Somos a MgViagens?
+
+                    EMAIL: nao-envie-email@mgviagens.com
+
+                    TELEFONE: (11) 982013922
+                    
+
+
+                    CORPO DA MENSAGEM: Olá Ipbtoledo tudo bem ? 
+Somos a MGVIAGENS.COM com mais 23 anos de mercado. Com especialização em destino Europa e serviços na área de turismo. Nossos produtos são oferecidos com distribuidores locais.
+
+Com inovação e investimento tecnologico, ofereçemos informaçao sobre os produtos e serviços de interesse aos nossos clientes.
+
+Conheça nosso site  www.mgviagens.com e as viagens de navio no territorio Europeu.
+
+MG Viagens  ofereçe os serviços que voce sempre buscou.
+
+Para mais informações; 
+visite o nosso site:   www.mgviagens.com
+Teleefone ou WhatsApp:    +55(11)98201-3922
+Facebook:  https://bit.ly/mgviagens-facebook
+
+
+Para conhecer mais sobre meus trabalhos entre e conheça o meu site clicando aqui!     http://bit.ly/2Ch56RK
+
+
+--1631089758-eximdsn-894296022--

@@ -1,0 +1,100 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id QEbQOnVqZmHoPwAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Wed, 13 Oct 2021 02:11:17 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Wed, 13 Oct 2021 02:11:17 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1maWXt-0004Ve-Rq
+	for contato@ipbtoledo.com.br; Wed, 13 Oct 2021 02:11:17 -0300
+X-Failed-Recipients: nao-email@maurogallotta.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <8cb825b59b94bee86eb640006e1abf0a@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1634101877-eximdsn-886110816
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1maWXt-0004Ve-Rq@server.mundotk.com.br>
+Date: Wed, 13 Oct 2021 02:11:17 -0300
+
+--1634101877-eximdsn-886110816
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  nao-email@maurogallotta.com
+    host maurogallotta.com [148.72.152.89]
+    SMTP error from remote mail server after RCPT TO:<nao-email@maurogallotta.com>:
+    550 No Such User Here
+
+--1634101877-eximdsn-886110816
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;nao-email@maurogallotta.com
+Status: 5.0.0
+Remote-MTA: dns; maurogallotta.com
+Diagnostic-Code: smtp; 550 No Such User Here
+
+--1634101877-eximdsn-886110816
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=38768 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1maWXs-0004VR-F2
+	for nao-email@maurogallotta.com; Wed, 13 Oct 2021 02:11:16 -0300
+Date: Wed, 13 Oct 2021 05:11:16 +0000
+To: =?UTF-8?Q?Ol=C3=A1_tudo_bem_meu_amigo=3F?= <nao-email@maurogallotta.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <8cb825b59b94bee86eb640006e1abf0a@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Olá tudo bem meu amigo?
+
+                    EMAIL: nao-email@maurogallotta.com
+
+                    TELEFONE: (48) 991513105
+                    
+
+
+                    CORPO DA MENSAGEM: Olá Ipbtoledo tudo bem ? 
+Visitei o seu site e pensei em te enviar esta e-mail, porque quero saber se quer melhorar ou trocar seu site, com um site mais atualizado e responsivo (que abre em qualquer dispositivo).
+
+Todos os site que desenvolvo são já prontos para receber a sua loja virtual no futuro. 
+
+No valor esta incluido: Hospedagem por 12 meses sem custo e uma divulgação para 10.000 pessoas (se quiser).
+
+Isso a partir de R$ 300 com possibilidade de parcelar em Até 12x sem juros! Esta oferta e valida só até 31/10/2021
+
+Faça seu orçamento gratuito e sem compromisso!
+
+IMPORTANTE! Não respondo as e-mails, no meu site encontra os meus contatos.
+
+Para conhecer meus trabalhos entre no meu site clique aqui!     http://bit.ly/2Ch56RK
+
+
+--1634101877-eximdsn-886110816--

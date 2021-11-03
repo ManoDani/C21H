@@ -1,0 +1,99 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id gM4nNCp89WB1MAAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Mon, 19 Jul 2021 10:20:42 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Mon, 19 Jul 2021 10:20:42 -0300
+Received: from mailnull by server.mundotk.com.br with local (Exim 4.94.2)
+	id 1m5TCM-0006CT-NS
+	for contato@ipbtoledo.com.br; Mon, 19 Jul 2021 10:20:42 -0300
+X-Failed-Recipients: enzomiguel_353@md.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server.mundotk.com.br>
+To: contato@ipbtoledo.com.br
+References: <523492e332207dc67e4b59a9d7d7b3d6@www.ipbtoledo.com.br>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1626700842-eximdsn-361828599
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1m5TCM-0006CT-NS@server.mundotk.com.br>
+Date: Mon, 19 Jul 2021 10:20:42 -0300
+
+--1626700842-eximdsn-361828599
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  enzomiguel_353@md.com
+    host mail.md.com [54.88.170.168]
+    SMTP error from remote mail server after RCPT TO:<enzomiguel_353@md.com>:
+    550 5.1.1 <enzomiguel_353@md.com>: Recipient address rejected:
+    User unknown in virtual mailbox table
+
+--1626700842-eximdsn-361828599
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server.mundotk.com.br
+
+Action: failed
+Final-Recipient: rfc822;enzomiguel_353@md.com
+Status: 5.0.0
+Remote-MTA: dns; mail.md.com
+Diagnostic-Code: smtp; 550 5.1.1 <enzomiguel_353@md.com>: Recipient address rejected: User unknown in virtual mailbox table
+
+--1626700842-eximdsn-361828599
+Content-type: message/rfc822
+
+Return-path: <contato@ipbtoledo.com.br>
+Received: from [162.241.152.79] (port=56660 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1m5TCI-0006C0-GP
+	for enzomiguel_353@md.com; Mon, 19 Jul 2021 10:20:38 -0300
+Date: Mon, 19 Jul 2021 13:20:38 +0000
+To: =?UTF-8?Q?P=C3=A9rola_dos_Santos?= <enzomiguel_353@md.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <523492e332207dc67e4b59a9d7d7b3d6@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Olá!
+
+                    Alguém entrou em contato 
+
+
+                    -----DADOS----- 
+
+                    NOME:Pérola dos Santos
+
+                    EMAIL: enzomiguel_353@md.com
+
+                    TELEFONE: (17) 98109-1556
+                    
+
+
+                    CORPO DA MENSAGEM: 😲 10 cliques no seu AdWords ou 250.000 Mensagens na caixa de entrada de um público definido apresentando seu produto? Qual você acha que pode te trazer mais retomo? 🤔 
+
+Com o 🤖 Bot de Divulgação Direta da DivulgaMais, você vai enviar mais de 250.000 mensagens por dia, direto na caixa de entrada das empresas e profissionais liberais, demonstrando seu produto ou serviço, a um custo máximo de R$13,00 por dia, sem limite de envio, quanto mais rápido seu computador e sua internet mais ele consegue enviar. 
+
+E ainda você define qual 📣 público-alvo é mais interessante para seu negócio, e não perde tempo ofertando "xampu para carecas." 
+
+🙋‍ Baixe agora o seu Robô de marketing direto, conheça as funções e sua grande capacidade de divulgação. 
+
+👉 https://www.divulgamais.com.br 👈 ou pesquise por DivulgaMais no Google...
+
+🤝 Aproveite para aumentar suas vendas para o dia dos pais...
+📈 E Boas Vendas.
+
+
+--1626700842-eximdsn-361828599--

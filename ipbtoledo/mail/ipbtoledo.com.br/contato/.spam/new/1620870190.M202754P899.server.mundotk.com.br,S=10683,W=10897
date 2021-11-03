@@ -1,0 +1,214 @@
+Return-Path: <rhappy-3py0pgdg@hospedagemgeral.info>
+Delivered-To: contato+spam@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id uO0/Cy6EnGCDAwAA85qOww
+	(envelope-from <rhappy-3py0pgdg@hospedagemgeral.info>)
+	for <contato+spam@ipbtoledo.com.br>; Wed, 12 May 2021 22:43:10 -0300
+Return-path: <rhappy-3py0pgdg@hospedagemgeral.info>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Wed, 12 May 2021 22:43:10 -0300
+Received: from server1.hospedagemgeral.info ([177.137.16.205]:39493)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <rhappy-3py0pgdg@hospedagemgeral.info>)
+	id 1lh0NV-0000VS-4m
+	for contato@ipbtoledo.com.br; Wed, 12 May 2021 22:43:10 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=default; d=hospedagemgeral.info;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:
+ Content-Type:Content-Transfer-Encoding;
+ bh=ftG3Xla0bj8c5JY1zLeXpn/G4Mdg43FHXANSRlug2kg=;
+ b=Deckdlx9rEF9zInM0KrWUqW6RxIn5OZBoyB50vbFYxU6QcTpGU81ejr2MqYazV1f9o5W1Pr/YeDa
+   c3LaqaNaaHl7Utm/Dk7aapoWHz08TwKIu5psyvxINYoA6iR1uspCpro60UgemBabE6b9yYfmab3o
+   XRKd2soe3E2ghRfvyLO8//JqP+a7S1fYiFGZE2aApYi3cM8dASD/ItRDlr1oWLgU2sc0fRzclYCl
+   5A4+JmvQXS9j6eCXqjVFEznOhIDrDuYe/KrJp262SUt0dWIADsu9zAx7NsGwxvRLnmct/NzwFFUp
+   UkVd0RhmejqKlwXn1temAPyKhATb9HTgJrLhXw==
+To: contato@ipbtoledo.com.br
+Message-ID: <7b6bad9fb0c7bf12256e0cefd51892cb@x.hospedagemgeral.info>
+Date: Thu, 13 May 2021 01:46:57 -0300
+From: "=?UTF-8?B?UGlzY2luYSBMaW1wYSBlIFNhdWTDoXZlbA==?=" <7a9hvn6o@hospedagemgeral.info>
+Reply-To: nrm90lk8@hospedagemgeral.info
+MIME-Version: 1.0
+X-Mailer-LID: 6
+List-Unsubscribe: <https://x.hospedagemgeral.info/happy/unsubscribe.php?M=3413400&C=53646ebd855a6b7d75dc37748b5221f4&L=6&N=6>
+X-Mailer-RecptId: 3413400
+X-Mailer-SID: 6
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_1ee8753bdefb76776d4b35606c15f5e7"
+Content-Transfer-Encoding: 8bit
+X-Spam-Status: Yes, score=7.0
+X-Spam-Score: 70
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Oi, bom dia! Confira essa dica! Piscina limpa Passo a passo
+    - Tudo sobre Manutenção e Limpeza. Curso de Limpeza, Tratamento e Manutenção
+    de Piscinas. Excelente para quem deseja aprender a fazer a limpeza e manutenção
+    na sua piscina no fim de semana. E também para os que querem se especiali
+    [...] 
+ Content analysis details:   (7.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: bit.ly]
+  2.4 DATE_IN_FUTURE_03_06   Date: is 3 to 6 hours after Received: date
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.0 URI_NO_WWW_INFO_CGI    URI: CGI in .info TLD other than third-level
+                              "www"
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+  0.8 KAM_INFOUSMEBIZ        Prevalent use of
+                             .info|.us|.me|.me.uk|.biz|xyz|id|rocks|life
+                              domains in spam/malware
+  0.0 KAM_SHORT              Use of a URL Shortener for very short URL
+  3.0 XM_RECPTID             Has spammy message header
+X-Spam-Flag: YES
+Subject:    Saiba a forma correta de Limpar Piscinas!
+
+--b1_1ee8753bdefb76776d4b35606c15f5e7
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Oi,
+bom dia!
+
+
+Confira essa dica! Piscina limpa Passo a passo - Tudo sobre
+Manutenção e Limpeza.
+
+Curso de Limpeza, Tratamento e Manutenção de Piscinas.
+Excelente para quem deseja aprender a fazer a limpeza e manutenção
+na sua piscina no fim de semana.
+E também para os que querem se especializar profissionalmente
+aprofundando-se em técnicas modernas e práticas.
+
+Aprenda em Casa!
+Curso em Vídeo Aulas pra estudar no lugar e horário que você
+achar melhor.
+
+Veja alguns tópicos:
+
+- Limpeza da Superfície, Bordas, Paredes e Fundo da Piscina
+- Tratamento Físico e Químico
+- Sistemas de Circulação e Drenagem
+- Utilizações de Peneiras, Aspiradores e Escovas
+- Filtros, Bombas e Registros
+- Como medir e ajustar a Alcalinidade, PH e Cloro
+- Utilização de produtos e muito mais...
+
+Você vai aprender todos os procedimentos para um serviço eficaz
+e com qualidade.
+
+Acesse nosso site para mais detalhes e veja também um os Bônus
+Especiais que preparamos pra você.
+https://bit.ly/2vbTCPw
+
+Obs: Caso o link acima não funcionar, copie e cole o endereço em
+seu navegador.
+
+Havendo alguma dúvida entre em contato através do e-mail abaixo,
+cursodepiscinas@gmail.com
+
+_ _
+Atenciosamente:
+Equipe Curso Piscinas
+
+- -
+OBS: Este email foi enviado para; contato@ipbtoledo.com.br
+Caso tenha recebido por engano ou não queira receber nossos
+informativos nos informe por favor.
+https://x.hospedagemgeral.info/happy/unsubscribe.php?M=3413400&C=53646ebd855a6b7d75dc37748b5221f4&L=6&N=6
+13 - May - 2021.
+
+Ref/ gb3but54
+
+--b1_1ee8753bdefb76776d4b35606c15f5e7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html><head><title></title></head><body>
+<span style="font-family: verdana,geneva;"><span style="color: #000000;
+font-style: normal; font-weight: normal; letter-spacing: normal; orphans:
+2; text-align: start; text-indent: 0px; text-transform: none; white-space:
+normal; widows: 2; word-spacing: 0px; float: none; font-size: small;
+display: inline ! important;">Amigo (a), como vai?<br /><br /></span><span style="font-size:
+small;"><strong style="font-weight: normal;">Essa
+informa&ccedil;&atilde;o pode ser &uacute;til. Saiba a forma correta de
+fazer Limpeza de Piscinas.<br /><br /></strong></span><span style="font-size:
+small;"><span style="font-weight: bold;">Curso de Limpeza, Tratamento e
+Manuten&ccedil;&atilde;o de Piscinas.</span><br /> Excelente para quem
+deseja aprender a fazer a limpeza e manuten&ccedil;&atilde;o na sua piscina
+no fim de semana.<br /> E tamb&eacute;m para os que querem se especializar
+profissionalmente aprofundando-se em t&eacute;cnicas modernas e
+pr&aacute;ticas.<br /><br /></span><span style="font-size: small;"><span
+style="font-weight: bold;">Aprenda em Casa.<br /></span>Curso em
+V&iacute;deo Aulas pra estudar no lugar e hor&aacute;rio que voc&ecirc;
+achar melhor.<br /><br /></span><span style="font-weight: bold; font-size:
+small;">Veja alguns t&oacute;picos</span><span style="font-weight: bold;
+font-size: small;">,</span><span style="font-size: small;"><br /> <br
+/> - Limpeza da Superf&iacute;cie, Bordas, Paredes e Fundo da
+Piscina</span></span><br style="font-family: Trebuchet MS;" /> <span
+style="font-family: verdana,geneva; font-size: small;"> - Tratamento
+F&iacute;sico /&nbsp;Qu&iacute;mico</span><br style="font-family:
+Trebuchet MS;" /> <span style="font-family: verdana,geneva; font-size:
+small;"> - Sistemas de Circula&ccedil;&atilde;o e Drenagem</span><br
+style="font-family: Trebuchet MS;" /> <span style="font-family:
+verdana,geneva; font-size: small;"> - Utiliza&ccedil;&otilde;es de
+Peneiras, Aspiradores e Escovas</span><br style="font-family: Trebuchet
+MS;" /> <span style="font-family: verdana,geneva; font-size: small;"> -
+Filtros, Bombas e Registros</span><br style="font-family: Trebuchet MS;" />
+<span style="font-family: verdana,geneva; font-size: small;"> - Como medir
+e ajustar a Alcalinidade, PH e Cloro</span><br style="font-family:
+Trebuchet MS;" /> <span style="font-family: verdana,geneva;"> <span
+style="font-size: small;"> - Utiliza&ccedil;&atilde;o de produtos e muito
+mais!</span><span style="font-weight: bold; font-size: small;"><br
+/> <br /> Voc&ecirc; vai aprender todos os procedimentos para um
+servi&ccedil;o eficaz e com qualidade.</span><span style="font-size:
+small;"><br /> <br /> Acesse nosso site para mais detalhes e veja
+tamb&eacute;m um os <span style="font-weight: bold;">B&ocirc;nus
+</span><span style="font-weight: bold;">Especiais</span> que preparamos pra
+voc&ecirc;. </span></span><br style="font-family: Trebuchet MS;" /> <span
+style="font-family: verdana,geneva; font-size: small;"><b><a
+href="https://bit.ly/2vbTCPw" title="Curso de Piscinas"
+target="_blank">https://cursodepiscinas com</a></b><br /> <span
+style="font-weight: bold;"><br /> Obs: </span>Caso o link acima n&atilde;o
+funcionar, copie e cole o endere&ccedil;o em seu navegador:<span
+style="font-weight: bold;">&nbsp;<a href="https://bit.ly/2vbTCPw"
+target="_blank">https://bit.ly/2vbTCPw</a></span><br /> <br /> Havendo
+alguma d&uacute;vida entre em contato atrav&eacute;s do e-mail
+abaixo,&nbsp;</span><br style="font-family: Trebuchet MS;" /> <span
+style="font-family: verdana,geneva; font-size: small;"> <span
+style="font-weight: bold;">cursodepiscinas@gmail.com<br /> <br />
+</span>--<br />Atenciosamente;<br /> Equipe Curso
+Piscinas<span style="font-weight: bold;"><br /> </span></span><br
+style="font-family: Trebuchet MS;" /><span style="font-family:
+verdana,geneva; font-size: small;">_ _<br />OBS:
+Este email foi enviado para: contato@ipbtoledo.com.br</span><br
+style="font-family: Trebuchet MS;" /> <span style="font-family:
+verdana,geneva; font-size: small;"> Caso tenha recebido por engano ou
+n&atilde;o queira receber nossos informativos <a
+href="https://x.hospedagemgeral.info/happy/unsubscribe.php?M=3413400&C=53646ebd855a6b7d75dc37748b5221f4&L=6&N=6"
+target="_blank">nos informe</a> por favor.<br /> 13 - May - 2021.<br /><br
+/>Ref-
+aag3gufa</span>
+<img
+src="https://x.hospedagemgeral.info/happy/open.php?M=3413400&L=6&N=6&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_1ee8753bdefb76776d4b35606c15f5e7--
+
+

@@ -1,0 +1,78 @@
+Return-Path: <drhnhcz@ketraco.co.ke>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id qLV6EyDEXGEUCAAA85qOww
+	(envelope-from <drhnhcz@ketraco.co.ke>)
+	for <contato@ipbtoledo.com.br>; Tue, 05 Oct 2021 18:31:12 -0300
+Return-path: <drhnhcz@ketraco.co.ke>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Tue, 05 Oct 2021 18:31:12 -0300
+Received: from mail.ketraco.co.ke ([41.215.60.130]:10766 helo=mailgate.ketraco.co.ke)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <drhnhcz@ketraco.co.ke>)
+	id 1mXs1h-0000Yo-Nr
+	for contato@ipbtoledo.com.br; Tue, 05 Oct 2021 18:31:12 -0300
+Received: from mail.ketraco.co.ke (172-245-186-129-host.colocrossing.com [172.245.186.129])
+	by mailgate.ketraco.co.ke  with ESMTP id 195LTq8X029308-195LTq8Z029308;
+	Wed, 6 Oct 2021 00:29:58 +0300
+Message-Id: <202110052129.195LTq8X029308-195LTq8Z029308@mailgate.ketraco.co.ke>
+From: "App Banking" <drhnhcz@ketraco.co.ke>
+Subject: Um banco positivo para =?ISO-8859-1?Q?voc=EA!?=
+To: contato@rfriends.com.br
+Content-Type: text/plain
+Reply-To: acessenossositeabaixo@gmail.com
+Date: Tue, 5 Oct 2021 14:30:00 -0700
+X-Spam-Status: No, score=4.0
+X-Spam-Score: 40
+X-Spam-Bar: ++++
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Uma conta digital é o ideal!! http://appbanking.com.br/ Internet
+    e um smartphone é tudo que você precisa para pagar contas, fazer transferências,
+    investir. 
+ Content analysis details:   (4.0 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: appbanking.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.0 PP_MIME_FAKE_ASCII_TEXT BODY: MIME text/plain claims to be ASCII
+                              but isn't
+  0.5 CTE_8BIT_MISMATCH      Header says 7bits but body disagrees
+  2.5 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: NO
+
+
+Uma conta digital é o ideal!!
+
+http://appbanking.com.br/
+
+Internet e um smartphone
+é tudo que você precisa para
+pagar contas, fazer transferências, investir.
+
+Ter conta digital é:
+Fácil
+Descomplicado
+Seguro
+E ainda tem o PIX carinha sorridente
+
+Abra sua conta e conheça as vantagens!
+
+E sem consulta no SPC
+Faça parte de um banco sem fila, sem papelada, sem porta giratória e que você pode pagar boletos, fazer 
+
+transferências, recarregar celular de qualquer lugar que você estiver.
+Abra sua conta sem consulta no SPC/SERASA, sem burocracia, sem filas.
+
+Faça seu cadastro agora mesmo de forma fácil e rápida:
+https://app.appbanking.com.br/office/auth/register
+

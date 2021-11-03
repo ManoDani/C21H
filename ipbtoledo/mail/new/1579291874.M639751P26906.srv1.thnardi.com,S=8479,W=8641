@@ -1,0 +1,162 @@
+Return-Path: <contato@solution3erp.com.br>
+Delivered-To: ipbtoledocom@srv1.thnardi.com
+Received: from srv1.thnardi.com
+	by srv1.thnardi.com with LMTP
+	id zI2bI+IUIl4aaQAApOPejg
+	(envelope-from <contato@solution3erp.com.br>)
+	for <ipbtoledocom@srv1.thnardi.com>; Fri, 17 Jan 2020 17:11:14 -0300
+Return-path: <contato@solution3erp.com.br>
+Envelope-to: ipbtoledo@ipbtoledo.com.br
+Delivery-date: Fri, 17 Jan 2020 17:11:14 -0300
+Received: from eskio.solution3erp.com.br ([63.141.245.85]:39381)
+	by srv1.thnardi.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <contato@solution3erp.com.br>)
+	id 1isXxZ-0006zd-Q8
+	for ipbtoledo@ipbtoledo.com.br; Fri, 17 Jan 2020 17:11:14 -0300
+DKIM-Signature: v=1; a=rsa-sha256; d=solution3erp.com.br;
+	s=solution3erp.com.br; q=dns/txt;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=Y/nM0RAoeKaKAVohJWgFzEj2dtVDhuX+lDedC9PxkmI=;
+	b=OpdgdErxq1iEOdPsaEXNbZuGfLKqWGxZNr2+oNuHIwi
+	 D8UGr0Gs7Tq/ZdGdPcttZqYF9fhWxKzch5q/GvrEsJQ==
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=solution3erp.com.br;
+	s=dkim; t=1579291291;
+	bh=Y/nM0RAoeKaKAVohJWgFzEj2dtVDhuX+lDedC9PxkmI=;
+	h=From:Reply-To:To:Subject:Date:From:Subject;
+	b=WKxwGIBn2eZHeJLwVdKvxUA+h1IvJ4C7tgWOp8SB5oCTjtiGUGDzB/J3j9UVaw34D
+	 3RMeDZpu+Pb2SU3tpmjpcrAI2c7fGqoaV86gUF7AhQ++q8pCKUe/0gbZ1BaDqjU+Iu
+	 koKL+dm7ntvha35T9Nqo2iLzcO0E3IcAq5lFEJYg=
+Message-ID: <00D5CC5C011C103A1D321652CA@DESKTOP-4ON41CL>
+From: contato@solution3erp.com.br
+Reply-To: contato@riade.udi.br
+To: ipbtoledo@ipbtoledo.com.br
+Subject: CONVITE -ERP com Mercado Livre.
+Date: Tue, 28 Jan 2020 16:58:28 -0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="Mark=_140114847005742206"
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "srv1.thnardi.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  <h3><font face="MS Serif" color="Blue">Boa tarde Ipbtoledo
+    , tudo bem?</font></h3> Engana-se a empresa que diz ter o melhor sistema
+   do mercado.O melhor sistema é aquele que se adapta às suas rotinas, que seja
+    confiável e com ótimo custoXbenefício. Convidamos a conhecer o nosso ERP,
+    [...] 
+ Content analysis details:   (0.8 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: solution3erp.com.br]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  1.0 HEXHASH_WORD           Multiple instances of word + hexadecimal hash
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+--Mark=_140114847005742206
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<h3><font face=3D"MS Serif" color=3D"Blue">Boa tarde Ipbtoledo , tudo b=
+em?</font></h3> 
+ 
+Engana-se a empresa que diz ter o melhor sistema do mercado.O melhor si=
+stema =E9 aquele que se adapta =E0s suas rotinas, que seja confi=E1vel =
+e com =F3timo custoXbenef=EDcio.
+Convidamos a conhecer o nosso ERP, assistindo a este v=EDdeo do Youtube=
+ (Para sua seguran=E7a, copie e cole o link). Talvez este seja este. Ag=
+ora com integra=E7=E3o total com Mercado Livre.
+https://www.youtube.com/watch?v=3Dq7hNxZOQmsA&feature=3Dyoutu.be . Vers=
+=F5es p/porte e ramo.
+Abra=E7o.
+Me responda este, me ligue 01140636207 ou pe=E7a pra remover.
+Gabriele S.Farias.
+ 
+ 
+ 
+
+--Mark=_140114847005742206
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<h3><font face=3D"MS Serif" color=3D"Blue">Boa tarde Ipbtoledo , tudo b=
+em?</font></h3><DIV class=3DWordSection1>
+<P class=3DMsoNormal style=3D"TEXT-AUTOSPACE: ; mso-layout-grid-align: =
+none"><SPAN style=3D"COLOR: black; mso-ascii-font-family: Calibri; mso-=
+hansi-font-family: Calibri; mso-bidi-font-family: Calibri"><?xml:namesp=
+ace prefix =3D "o" ns =3D "urn:schemas-microsoft-com:office:office" /><=
+o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal><o:p>&nbsp;</o:p></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D'COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; =
+mso-bidi-font-family: "Times New Roman"; mso-fareast-font-family: "Time=
+s New Roman"; mso-fareast-language: PT-BR'>Engana-se a empresa que diz =
+ter o melhor sistema do mercado.O melhor sistema =E9 aquele que se adap=
+ta =E0s suas rotinas, que seja confi=E1vel e com =F3timo custoXbenef=ED=
+cio.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D'COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; =
+mso-bidi-font-family: "Times New Roman"; mso-fareast-font-family: "Time=
+s New Roman"; mso-fareast-language: PT-BR'>Convidamos a conhecer o noss=
+o ERP, assistindo a este v=EDdeo do Youtube (Para sua seguran=E7a, copi=
+e e cole o link).&nbsp;</SPAN><B><SPAN style=3D'FONT-SIZE: 12pt; COLOR:=
+ #c00000; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibr=
+i; mso-bidi-font-family: "Times New Roman"; mso-fareast-font-family: "T=
+imes New Roman"; mso-fareast-language: PT-BR'>Talvez&nbsp;</SPAN></B><S=
+PAN style=3D'COLOR: black; mso-ascii-font-family: Calibri; mso-hansi-fo=
+nt-family: Calibri; mso-bidi-font-family: "Times New Roman"; mso-fareas=
+t-font-family: "Times New Roman"; mso-fareast-language: PT-BR'>este sej=
+a este. Agora com integra=E7=E3o total com Mercado Livre.<o:p></o:p></S=
+PAN></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D'COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; =
+mso-bidi-font-family: "Times New Roman"; mso-fareast-font-family: "Time=
+s New Roman"; mso-fareast-language: PT-BR'><A href=3D"https://www.youtu=
+be.com/watch?v=3Dq7hNxZOQmsA&amp;feature=3Dyoutu.be">https://www.youtub=
+e.com/watch?v=3Dq7hNxZOQmsA&amp;feature=3Dyoutu.be</A> . Vers=F5es p/po=
+rte e ramo.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D'COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; =
+mso-bidi-font-family: "Times New Roman"; mso-fareast-font-family: "Time=
+s New Roman"; mso-fareast-language: PT-BR'>Abra=E7o.<o:p></o:p></SPAN><=
+/P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D'COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; =
+mso-bidi-font-family: "Times New Roman"; mso-fareast-font-family: "Time=
+s New Roman"; mso-fareast-language: PT-BR'>Me responda este, me ligue 0=
+1140636207 ou pe=E7a pra remover.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D'COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; =
+mso-bidi-font-family: "Times New Roman"; mso-fareast-font-family: "Time=
+s New Roman"; mso-fareast-language: PT-BR'>Gabriele S.Farias.<o:p></o:p=
+></SPAN></P>
+<P class=3DMsoNormal style=3D"BACKGROUND: white"><SPAN style=3D'COLOR: =
+black; mso-ascii-font-family: Calibri; mso-hansi-font-family: Calibri; =
+mso-bidi-font-family: "Times New Roman"; mso-fareast-font-family: "Time=
+s New Roman"; mso-fareast-language: PT-BR'>&nbsp;<o:p></o:p></SPAN></P>=
+
+<P class=3DMsoNormal><SPAN style=3D'COLOR: black; mso-ascii-font-family=
+: Calibri; mso-hansi-font-family: Calibri; mso-bidi-font-family: "Times=
+ New Roman"; mso-fareast-font-family: "Times New Roman"; mso-fareast-la=
+nguage: PT-BR'>&nbsp;<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal><o:p>&nbsp;</o:p></P></DIV>
+
+--Mark=_140114847005742206--

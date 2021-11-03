@@ -1,0 +1,438 @@
+Return-Path: <>
+Delivered-To: contato@ipbtoledo.com.br
+Received: from server.mundotk.com.br
+	by server.mundotk.com.br with LMTP
+	id MDY2GHLDRmFsFgAA85qOww
+	(envelope-from <>)
+	for <contato@ipbtoledo.com.br>; Sun, 19 Sep 2021 01:58:26 -0300
+Return-path: <>
+Envelope-to: contato@ipbtoledo.com.br
+Delivery-date: Sun, 19 Sep 2021 01:58:26 -0300
+Received: from mail-oln040092073015.outbound.protection.outlook.com ([40.92.73.15]:9382 helo=EUR04-HE1-obe.outbound.protection.outlook.com)
+	by server.mundotk.com.br with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	id 1mRouC-0001X2-HZ
+	for contato@ipbtoledo.com.br; Sun, 19 Sep 2021 01:58:26 -0300
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=BvNj6XX7IpyAz1WetAnt7+Jy17WhQeV893Od1cyXb/cWIpEGv72C7O6W3SMIP/OKEWMgaL/OLD4GHSIgtv9tsB9DLpKi6+iqD6NziT3wlMFsNMLl08HTBjuDjU9TuzLCb8PSWb0KRokiZsDnF0JubQAvjqsibeo0kl3F7AKPtEPiBh1BBOukYNP9rW4wJn08GU+RsYm9hkMI+SaAl4BoPuoxWoiOqw1JJnzrR+Fd1dkQ2aRoD1mY6rHnMoD/zpGVma5j9bUyghNzsPXDGWStPxdIqgZVeaHLfCJzVdYT2OaLs+n5aDNs6kwlPWTkV0ObYdiYtwgBmyo+7VroNAYECQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=+wpghcvDLHxhoh7AxalLOeyO7aueByEtEcxMKAgsnws=;
+ b=WaUHEdOmgfZasSsoC4ZtYUMVzhAynTjFojKyaTlHvDBqHnAzaHMihjYpiTVjFWYn7Mbrum7Xug2KcM46uBRaugfxIr3jWtbRAT0OiSKsEfRvUKqUHmZ1DUZjtbvPQzh/vlso66Q6GBl+6xJ1LT8aGov2l9DkjZyMGfFUwfs71hnwKG4xln5OdZw8XF3/hGzKD0QWwio4WvidcCVMOIYLpEUF/WAzLMLUQiXdHUNnEmElMi0yF+bIGo4CBFi7kf2rUyIydTCCEXUIMBK8DeHi3UNG2DwZPWaG0MNzpfOC2mo7FDFfUrNB81yIXnimJU2g2aW8AIrecag4b3KPve5Nfw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+MIME-Version: 1.0
+From: <postmaster@outlook.com>
+To: <contato@ipbtoledo.com.br>
+Date: Sun, 19 Sep 2021 04:57:39 +0000
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="2153ea28-eb96-46db-b4df-d12e0a4d0b0b"
+X-MS-Exchange-Message-Is-Ndr:
+Content-Language: en-US
+Message-ID:
+ <b2756c65-99b6-44e4-98f6-77da3a86de21@HE1EUR04HT197.mail.protection.outlook.com>
+In-Reply-To: <3e5d18f6a2956852b88357ce6d9a9ecf@www.ipbtoledo.com.br>
+References: <3e5d18f6a2956852b88357ce6d9a9ecf@www.ipbtoledo.com.br>
+Subject: Undeliverable: Contato via Website
+Auto-Submitted: auto-replied
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic: HE1EUR04HT197:
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	rz8JbQVsLhruJfZc+7t4Ydxrj525M14/M5dgfdLX2Of/cH9+mk+xhwjbSFapdRDBT6yXr32m/4GKpqWY+Ajeb8QrSpYzeSrntW+wq3O3abeqSzDn/ZF/4PsdDFSIVt/B4N/53gQIP6oMx2268wJdxO6f8yV/Hskfzo80Vm5pRZ1MLElYW27+hSBqSOeXvtcSLBYkWH3B8sLW3jjMJrHoAW/RtGJ5+Y0PpJ+/zA0m1O9hyFgd6THNqwTzrI1QiIYznG1h1XEYUMX9EJ104z/IehyX8xJQu5X4qpCZGFktizEKnyaggOIdFi3dOVL4IZaFaEDuCfTDd/EjiS5K42Oyrm6EeWQnXuyuYwe24u6/i4VDMCWCiOyspMjlICrnhwc/XcIORTtx80hgcL8qrNh8weO1eYyLVopwtGYBbsFxugmbzP5EtMUSTzlbZB/2E2bcOIFp7aDlirDmI/msW2rB9yCmcwAckJVLqVsaFKvYdt4=
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 19 Sep 2021 04:57:39.9606
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-AuthSource:
+	HE1EUR04HT197.eop-eur04.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-Network-Message-Id:
+	78b89376-27be-4470-1e26-08d97b2a01db
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: HE1EUR04HT197
+X-Spam-Status: No, score=1.7
+X-Spam-Score: 17
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "server.mundotk.com.br",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Delivery has failed to these recipients or groups: Bruno Campos
+    (musica_352@live.com)<mailto:musica_352@live.com> A communication failure
+    occurred during the delivery of this message. Please try to resend the message
+    later. If the problem continues, c [...] 
+ Content analysis details:   (1.7 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: live.com]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.2 FORGED_SPF_HELO        No description available.
+  0.5 PDS_BTC_ID             FP reduced Bitcoin ID
+X-Spam-Flag: NO
+
+--2153ea28-eb96-46db-b4df-d12e0a4d0b0b
+Content-Type: multipart/alternative; differences=Content-Type;
+	boundary="3acb0a41-bb9a-4209-8f8d-11557e67c481"
+
+--3acb0a41-bb9a-4209-8f8d-11557e67c481
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Delivery has failed to these recipients or groups:
+
+Bruno Campos (musica_352@live.com)<mailto:musica_352@live.com>
+A communication failure occurred during the delivery of this message. Pleas=
+e try to resend the message later. If the problem continues, contact your e=
+mail admin.
+
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: HE1EUR04HT197.mail.protection.outlook.com
+
+musica_352@live.com
+Remote Server returned '550 5.5.0 Requested action not taken: mailbox unava=
+ilable.'
+
+Original message headers:
+
+Received: from HE1EUR04FT011.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0d::45) by
+ HE1EUR04HT197.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0d::3=
+95)
+ with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4523.14; Sun, 19 =
+Sep
+ 2021 04:57:39 +0000
+Authentication-Results: spf=3Dsoftfail (sender IP is 162.241.6.206)
+ smtp.mailfrom=3Dipbtoledo.com.br; live.com; dkim=3Dpass (signature was ver=
+ified)
+ header.d=3Dipbtoledo.com.br;live.com; dmarc=3Dbestguesspass action=3Dnone
+ header.from=3Dipbtoledo.com.br;
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+ ipbtoledo.com.br discourages use of 162.241.6.206 as permitted sender)
+Received: from server.mundotk.com.br (162.241.6.206) by
+ HE1EUR04FT011.mail.protection.outlook.com (10.152.26.177) with Microsoft S=
+MTP
+ Server (version=3DTLS1_2, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) =
+id
+ 15.20.4523.14 via Frontend Transport; Sun, 19 Sep 2021 04:57:39 +0000
+X-IncomingTopHeaderMarker: OriginalChecksum:0DE144CB2A693B797EAFE6E03D0C384=
+7798EF29BB89E1436B786635E332B14A1;UpperCasedChecksum:283459F71EB3BE1894D31A=
+2DFF5F8931EEC934E8B4C4CAE91D887E8A77992B05;SizeAsReceived:2060;Count:21
+DKIM-Signature: v=3D1; a=3Drsa-sha256; q=3Ddns/txt; c=3Drelaxed/relaxed;
+        d=3Dipbtoledo.com.br; s=3Ddefault; h=3DContent-Transfer-Encoding:Co=
+ntent-Type:
+        MIME-Version:Message-ID:Subject:From:To:Date:Sender:Reply-To:Cc:Con=
+tent-ID:
+        Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To=
+:Resent-Cc
+        :Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Un=
+subscribe:
+        List-Subscribe:List-Post:List-Owner:List-Archive;
+        bh=3DBr/r5z8QEExm5H5UxNfkEkvFzt1gv9+grlcBYtQUX3E=3D; b=3DPVoTbK8VJ/=
+eP8+MBYFHITuFc83
+        yc8bxk5KquaeUC/c5j9ofDHcmxom1gyjqdA9KxDo2ixAevG7qJNpuoxA6uKEnb1Dxgg=
+EjCINcuxeB
+        4bGNmTuTao568BLmkUFMCEv1ek4IuPHsf6jyso3jybBg5Ooukh62EaMGJqLPaXnLDBl=
+Cr34lUyqW2
+        LmSI05xvD912XIPA1Cs9onwtqcC75I6F7/vvTj2Oj5RnkQ5Q2i0hV0+dd56PeZrozuB=
+UMDAsdBifS
+        2Rx1WpT+A4Y4tkC6rx24jmZviyNUk8u88KBHNxuxx43KSr2dgJ7fcRba1fHn1BirCsA=
+SgXvzh1PV/
+        ygHk1suA=3D=3D;
+Received: from [162.241.152.79] (port=3D48048 helo=3Dwww.ipbtoledo.com.br)
+        by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_W=
+ITH_AES_128_GCM_SHA256
+        (Exim 4.94.2)
+        (envelope-from <contato@ipbtoledo.com.br>)
+        id 1mRotT-0001Wq-Up
+        for musica_352@live.com; Sun, 19 Sep 2021 01:57:36 -0300
+Date: Sun, 19 Sep 2021 04:57:36 +0000
+To: Bruno Campos <musica_352@live.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <3e5d18f6a2956852b88357ce6d9a9ecf@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=3DUTF-8
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with a=
+ny abuse report
+X-AntiAbuse: Primary Hostname - server.mundotk.com.br
+X-AntiAbuse: Original Domain - live.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - ipbtoledo.com.br
+X-Get-Message-Sender-Via: server.mundotk.com.br: authenticated_id: contato@=
+ipbtoledo.com.br
+X-Authenticated-Sender: server.mundotk.com.br: contato@ipbtoledo.com.br
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+X-IncomingHeaderCount: 21
+Return-Path: contato@ipbtoledo.com.br
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 59dc2e33-edea-498e-55f7-08d97b2a01=
+78
+X-MS-TrafficTypeDiagnostic: HE1EUR04HT197:
+X-MS-Exchange-EOPDirect: true
+X-Sender-IP: 162.241.6.206
+X-SID-PRA: CONTATO@IPBTOLEDO.COM.BR
+X-SID-Result: PASS
+
+
+--3acb0a41-bb9a-4209-8f8d-11557e67c481
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<Head></head><body>
+<p><b><font color=3D"#000066" size=3D"3" face=3D"Arial">Delivery has failed=
+ to these recipients or groups:</font></b></p>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><p><a href=3D"mailto:mus=
+ica_352@live.com">Bruno Campos (musica_352@live.com)</a><br>
+</font>
+<font color=3D"#000000" size=3D"3" face=3D"Arial">A communication failure o=
+ccurred during the delivery of this message. Please try to resend the messa=
+ge later. If the problem continues, contact your email admin.<br>
+</font>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><br>
+</p>
+</font>
+<br><br><br><br><br><br>
+<font color=3D"#808080" size=3D"2" face=3D"Tahoma"><p><b>Diagnostic informa=
+tion for administrators:</b></p>
+<p>Generating server: HE1EUR04HT197.mail.protection.outlook.com<br>
+</p>
+<p>musica_352@live.com<br>
+Remote Server  returned '550 5.5.0 Requested action not taken: mailbox unav=
+ailable.'<br>
+</p>
+<p>Original message headers:</p>
+<pre>Received: from HE1EUR04FT011.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0d::45) by
+ HE1EUR04HT197.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0d::3=
+95)
+ with Microsoft SMTP Server (version=3DTLS1_2,
+ cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4523.14; Sun, 19 =
+Sep
+ 2021 04:57:39 +0000
+Authentication-Results: spf=3Dsoftfail (sender IP is 162.241.6.206)
+ smtp.mailfrom=3Dipbtoledo.com.br; live.com; dkim=3Dpass (signature was ver=
+ified)
+ header.d=3Dipbtoledo.com.br;live.com; dmarc=3Dbestguesspass action=3Dnone
+ header.from=3Dipbtoledo.com.br;
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+ ipbtoledo.com.br discourages use of 162.241.6.206 as permitted sender)
+Received: from server.mundotk.com.br (162.241.6.206) by
+ HE1EUR04FT011.mail.protection.outlook.com (10.152.26.177) with Microsoft S=
+MTP
+ Server (version=3DTLS1_2, cipher=3DTLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) =
+id
+ 15.20.4523.14 via Frontend Transport; Sun, 19 Sep 2021 04:57:39 +0000
+X-IncomingTopHeaderMarker: OriginalChecksum:0DE144CB2A693B797EAFE6E03D0C384=
+7798EF29BB89E1436B786635E332B14A1;UpperCasedChecksum:283459F71EB3BE1894D31A=
+2DFF5F8931EEC934E8B4C4CAE91D887E8A77992B05;SizeAsReceived:2060;Count:21
+DKIM-Signature: v=3D1; a=3Drsa-sha256; q=3Ddns/txt; c=3Drelaxed/relaxed;
+	d=3Dipbtoledo.com.br; s=3Ddefault; h=3DContent-Transfer-Encoding:Content-T=
+ype:
+	MIME-Version:Message-ID:Subject:From:To:Date:Sender:Reply-To:Cc:Content-ID=
+:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent=
+-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscri=
+be:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=3DBr/r5z8QEExm5H5UxNfkEkvFzt1gv9+grlcBYtQUX3E=3D; b=3DPVoTbK8VJ/eP8+MBY=
+FHITuFc83
+	yc8bxk5KquaeUC/c5j9ofDHcmxom1gyjqdA9KxDo2ixAevG7qJNpuoxA6uKEnb1DxggEjCINcu=
+xeB
+	4bGNmTuTao568BLmkUFMCEv1ek4IuPHsf6jyso3jybBg5Ooukh62EaMGJqLPaXnLDBlCr34lUy=
+qW2
+	LmSI05xvD912XIPA1Cs9onwtqcC75I6F7/vvTj2Oj5RnkQ5Q2i0hV0+dd56PeZrozuBUMDAsdB=
+ifS
+	2Rx1WpT+A4Y4tkC6rx24jmZviyNUk8u88KBHNxuxx43KSr2dgJ7fcRba1fHn1BirCsASgXvzh1=
+PV/
+	ygHk1suA=3D=3D;
+Received: from [162.241.152.79] (port=3D48048 helo=3Dwww.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES=
+_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from &lt;contato@ipbtoledo.com.br&gt;)
+	id 1mRotT-0001Wq-Up
+	for musica_352@live.com; Sun, 19 Sep 2021 01:57:36 -0300
+Date: Sun, 19 Sep 2021 04:57:36 +0000
+To: Bruno Campos &lt;musica_352@live.com&gt;
+From: Website IPB Toledo &lt;contato@ipbtoledo.com.br&gt;
+Subject: Contato via Website
+Message-ID: &lt;3e5d18f6a2956852b88357ce6d9a9ecf@www.ipbtoledo.com.br&gt;
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=3DUTF-8
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with a=
+ny abuse report
+X-AntiAbuse: Primary Hostname - server.mundotk.com.br
+X-AntiAbuse: Original Domain - live.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - ipbtoledo.com.br
+X-Get-Message-Sender-Via: server.mundotk.com.br: authenticated_id: contato@=
+ipbtoledo.com.br
+X-Authenticated-Sender: server.mundotk.com.br: contato@ipbtoledo.com.br
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+X-IncomingHeaderCount: 21
+Return-Path: contato@ipbtoledo.com.br
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 59dc2e33-edea-498e-55f7-08d97b2a01=
+78
+X-MS-TrafficTypeDiagnostic: HE1EUR04HT197:
+X-MS-Exchange-EOPDirect: true
+X-Sender-IP: 162.241.6.206
+X-SID-PRA: CONTATO@IPBTOLEDO.COM.BR
+X-SID-Result: PASS
+</pre>
+</font>
+</body>
+</html>=
+
+--3acb0a41-bb9a-4209-8f8d-11557e67c481--
+
+--2153ea28-eb96-46db-b4df-d12e0a4d0b0b
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;HE1EUR04HT197.mail.protection.outlook.com
+Received-From-MTA: dns;server.mundotk.com.br
+Arrival-Date: Sun, 19 Sep 2021 04:57:39 +0000
+
+Final-Recipient: rfc822;musica_352@live.com
+Action: failed
+Status: 5.5.0
+Diagnostic-Code: smtp;550 5.5.0 Requested action not taken: mailbox unavailable.
+X-Display-Name: Bruno Campos
+
+
+--2153ea28-eb96-46db-b4df-d12e0a4d0b0b
+Content-Type: message/rfc822
+
+Received: from HE1EUR04FT011.eop-eur04.prod.protection.outlook.com
+ (2a01:111:e400:7e0d::45) by
+ HE1EUR04HT197.eop-eur04.prod.protection.outlook.com (2a01:111:e400:7e0d::395)
+ with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.4523.14; Sun, 19 Sep
+ 2021 04:57:39 +0000
+Authentication-Results: spf=softfail (sender IP is 162.241.6.206)
+ smtp.mailfrom=ipbtoledo.com.br; live.com; dkim=pass (signature was verified)
+ header.d=ipbtoledo.com.br;live.com; dmarc=bestguesspass action=none
+ header.from=ipbtoledo.com.br;
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+ ipbtoledo.com.br discourages use of 162.241.6.206 as permitted sender)
+Received: from server.mundotk.com.br (162.241.6.206) by
+ HE1EUR04FT011.mail.protection.outlook.com (10.152.26.177) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.4523.14 via Frontend Transport; Sun, 19 Sep 2021 04:57:39 +0000
+X-IncomingTopHeaderMarker: OriginalChecksum:0DE144CB2A693B797EAFE6E03D0C3847798EF29BB89E1436B786635E332B14A1;UpperCasedChecksum:283459F71EB3BE1894D31A2DFF5F8931EEC934E8B4C4CAE91D887E8A77992B05;SizeAsReceived:2060;Count:21
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=ipbtoledo.com.br; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Message-ID:Subject:From:To:Date:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=Br/r5z8QEExm5H5UxNfkEkvFzt1gv9+grlcBYtQUX3E=; b=PVoTbK8VJ/eP8+MBYFHITuFc83
+	yc8bxk5KquaeUC/c5j9ofDHcmxom1gyjqdA9KxDo2ixAevG7qJNpuoxA6uKEnb1DxggEjCINcuxeB
+	4bGNmTuTao568BLmkUFMCEv1ek4IuPHsf6jyso3jybBg5Ooukh62EaMGJqLPaXnLDBlCr34lUyqW2
+	LmSI05xvD912XIPA1Cs9onwtqcC75I6F7/vvTj2Oj5RnkQ5Q2i0hV0+dd56PeZrozuBUMDAsdBifS
+	2Rx1WpT+A4Y4tkC6rx24jmZviyNUk8u88KBHNxuxx43KSr2dgJ7fcRba1fHn1BirCsASgXvzh1PV/
+	ygHk1suA==;
+Received: from [162.241.152.79] (port=48048 helo=www.ipbtoledo.com.br)
+	by server.mundotk.com.br with esmtpsa  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <contato@ipbtoledo.com.br>)
+	id 1mRotT-0001Wq-Up
+	for musica_352@live.com; Sun, 19 Sep 2021 01:57:36 -0300
+Date: Sun, 19 Sep 2021 04:57:36 +0000
+To: Bruno Campos <musica_352@live.com>
+From: Website IPB Toledo <contato@ipbtoledo.com.br>
+Subject: Contato via Website
+Message-ID: <3e5d18f6a2956852b88357ce6d9a9ecf@www.ipbtoledo.com.br>
+X-Mailer: PHPMailer 5.2.24 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.mundotk.com.br
+X-AntiAbuse: Original Domain - live.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - ipbtoledo.com.br
+X-Get-Message-Sender-Via: server.mundotk.com.br: authenticated_id: contato@ipbtoledo.com.br
+X-Authenticated-Sender: server.mundotk.com.br: contato@ipbtoledo.com.br
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+X-IncomingHeaderCount: 21
+Return-Path: contato@ipbtoledo.com.br
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa:0
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 59dc2e33-edea-498e-55f7-08d97b2a0178
+X-MS-TrafficTypeDiagnostic: HE1EUR04HT197:
+X-MS-Exchange-EOPDirect: true
+X-Sender-IP: 162.241.6.206
+X-SID-PRA: CONTATO@IPBTOLEDO.COM.BR
+X-SID-Result: PASS
+
+Ol=C3=A1!
+
+                    Algu=C3=A9m entrou em contato=20
+
+
+                    -----DADOS-----=20
+
+                    NOME:Bruno Campos
+
+                    EMAIL: musica_352@live.com
+
+                    TELEFONE: (14) 9.1234.5678
+                   =20
+
+
+                    CORPO DA MENSAGEM: Ol=C3=A1 Ipbtoledo, tudo bem? Aqui =
+=C3=A9 o Bruno!=20
+
+Ipbtoledo, Voc=C3=AA gosta de ouvir m=C3=BAsica? Nosso canal no Youtube tem=
+ diversos tipos de m=C3=BAsica para voc=C3=AA ouvir e curtir.
+
+Voc=C3=AA vai ouvir as M=C3=9ASICAS tipo: Ambiente, Piano, Rom=C3=A2ntica, =
+Mantra, Bossa Nova, Medita=C3=A7=C3=A3o e Relaxamento, Infantil, Cl=C3=A1ss=
+ica, Country, Natalina, Jazz e Blues, Cl=C3=A1ssica e muito mais.
+
+N=C3=A3o estou vendendo nada, kkkk. =C3=89 somente para voc=C3=AA ouvir e c=
+urtir.
+
+N=C3=A3o perca tempo, clique ou copie o link em seu navegador.
+
+Ipbtoledo, viste nosso Canal e OU=C3=87A AS MELHORES MUSICAS https://www.yo=
+utube.com/channel/UCgVGLAHdHYQ8BHzBc8wHvPQ e saiba mais!=20
+
+Te vejo em nosso Canal no Youtube!=20
+Bruno=20
+
+
+--2153ea28-eb96-46db-b4df-d12e0a4d0b0b--
