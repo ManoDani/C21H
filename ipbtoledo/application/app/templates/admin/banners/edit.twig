@@ -1,0 +1,131 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Banners - Administração - {{ parent() }}{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+{% endblock %}
+{% set nav_active = 'banners' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/banners/edit/{{ post.id }}">{{ banner.id }}</a></li>
+  <li class="active">Editar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header" style="margin-top:10px;">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12">
+      <h1>Editar Banner</h1>
+    </div>
+  </div>
+
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12  col-sm-12">
+      <form role="form" data-toggle="validator" action="{{ base_url() }}/admin/banners/edit" method="POST"  enctype="multipart/form-data">
+        <div class="row">
+          <input id="postid" type="hidden" name="id" value="{{ banner.id }}">
+          <div class="col-sm-2">
+            <p><strong>Mobile?</strong></p>
+              <label class="radio-inline">
+                <input type="radio" name="is_mobile" id="is_mobile_1" value="1" {% if banner.is_mobile == '1' %} checked="  checked "  {% endif %}> Sim
+              </label>
+              <label class="radio-inline">
+                <input type="radio" name="is_mobile" id="is_mobile_0" value="0"  {% if banner.is_mobile == '0' %} checked="  checked "  {% endif %}> Não
+              </label>
+
+
+          </div>
+          <div class="col-sm-2">
+
+            <label for="upload_date">Data</label>
+            <input id="upload_date" class="form-control form-group" type="date" name="upload_date" placeholder="Título" value="{{ banner.upload_date }}" required>
+          </div>
+          <div class="col-sm-2">
+            <div class="row">
+              <div class="col-sm-12">
+                <label for="priority">Prioridade 0 - 9.</label>
+              </div>
+              <div class="col-sm-4">
+                <input id="priority" class="form-control form-group" type="text" name="priority" placeholder="0" value="{{ banner.priority }}" maxlength="1" required>
+              </div>
+            </div>
+
+
+          </div>
+          <div class="col-sm-6">
+
+            <label for="link">Link</label>
+            <input id="link" class="form-control form-group" type="text" name="link" placeholder="#" value="{{ banner.link }}" required>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="panel panel-default">
+              <div class="panel-heading text-center">
+                Banner
+              </div>
+              <div class="panel-body">
+                <img id="img-perfil" src="{{ base_url() }}/{{ banner.image }}" alt="Imagem de destaque" class="img-responsive">
+              </div>
+              <div class="panel-footer">
+                <p class="text-center" >Tamanho Máximo: 2MB</p>
+                <input id="postid" type="hidden" name="image_load" value="{{ banner.image }}">
+                <input id="image" type="file" class="btn btn-default btn-lg" style="display: block; margin: 0 auto; position:relative; max-width: 100%;" name="image"></input>
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr>
+
+        <div class="row" style="margin-bottom:3vh;">
+          <a href="{{ base_url() }}/admin/" class="btn btn-default">Cancelar</a>
+
+          </button>
+          <button type="submit" class="btn btn-success ">Atualizar</button>
+        </div>
+
+      </form>
+    </div>
+  </div>
+</div>
+
+
+{% endblock %}
+
+
+{% block javascripts %}
+
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+var editor = new SimpleMDE({
+  spellChecker: false,
+  toolbar: [
+    "bold", "italic", "heading", "|",
+    "quote", "unordered-list", "ordered-list", "|",
+    "link", "image", "table", "|",
+    "preview", "|", "guide"
+  ],
+});
+</script>
+
+<script type="text/javascript">
+
+  var imagem = $("#img-perfil");
+  var arquivo = $("#inputFile");
+  arquivo.on("change", function (){
+      if (arquivo[0].files.length == 0)
+      return false;
+      var file = arquivo[0].files[0];
+      var url = URL.createObjectURL(file);
+      imagem.attr("src", url);
+      imagem.attr("title", file.name);
+      console.log(arquivo[0].files[0]);
+   });
+</script>
+
+{% endblock %}

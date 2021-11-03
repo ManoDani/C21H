@@ -1,0 +1,57 @@
+{% extends "layout.twig" %}
+{% set nav_active = 'oracao' %}
+{% set header_type = 'index' %}
+{% block content -%}
+
+<div id="contato">
+  <div class="container">
+    <div class="row">
+      <div class="page-header">
+        <h1 style="    color: #353535; margin-top: 10px;">Entre em Contato!</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+        <p style="text-align:justify;" class="h3">Utilize esse espaço para tirar suas dúvidas, fazer sugestões, reclamações e ainda, compartilhar seu ponto de vista conosco (seja ele qual for).</p>
+        <hr>
+      </div>
+      <div id="contato-container" class="col-xs-12 col-sm-offset-3 col-sm-6">
+        <form action="{{ base_url() }}/contato" method="POST">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label for="nome">Nome</label>
+                  <input type="nome" class="form-control" name="nome" id="nome" placeholder="Digite seu nome">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" name="email" class="form-control" id="email" placeholder="Digite seu email">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                    <label for="telefone">Telefone (opcional)</label>
+                    <input type="telefone" class="form-control" name="telefone" id="telefone" placeholder="Digite seu telefone">
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="corpo-email">Deixe sua mensagem</label>
+              <textarea id="corpo-email" name="corpo-email" class="form-control" rows="5"></textarea>
+            </div>
+            <button type="submit" class="btn btn-default">Enviar</button>
+          </form>
+      </div>
+      <div class="col-md-4">
+      </div>
+    </div>
+  </div>
+</div>
+
+{%- endblock %}
+{% block javascripts %} {{ parent()}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+{% endblock %}

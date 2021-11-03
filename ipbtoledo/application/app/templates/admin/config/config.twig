@@ -1,0 +1,24 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'configs' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li >Início</li>
+  <li class="active">Configurações</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <h3>Lista De Séries:</h3>
+      <hr>
+      {% for post in postSerie %}
+        {{post.id}}
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+{% endblock %}

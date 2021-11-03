@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Farol360">
+
+    <title>{% block html_title %}IPB Toledo{% endblock %}</title>
+
+    <link rel="shortcut icon" href="{{ base_url() }}/favicon.jpg" type="image/x-icon">
+    <link rel="icon" href="{{ base_url() }}/favicon.jpg" type="image/x-icon">
+
+    {#<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">#}
+
+    <link href="{{ base_url() }}/css/admin.css" rel="stylesheet">
+    {% block stylesheets %}{% endblock %}
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ base_url() }}/admin">IPB Toledo</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            {% if p_admin_posts %}
+            <li{% if nav_active == "courses" %} class="active" {% endif %}>
+              <a href="{{ base_url() }}/admin/posts">Mídias</a>
+            </li>
+            {% endif %}
+
+            {% if p_admin_configs %}
+            <li{% if nav_active == "series" %} class="active" {% endif %}>
+              <a href="{{ base_url() }}/admin/series">Series de Mensagens</a>
+            </li>
+            {% endif %}
+
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            {% if p_admin_user or p_admin_role or p_admin_permission %}
+            <li class="dropdown">
+
+              <ul class="dropdown-menu" role="menu">
+                {% if p_admin_user %}<li><a href="{{ base_url() }}/admin/user/all">Usuários</a></li>{% endif %}
+                {% if p_admin_role %}<li><a href="{{ base_url() }}/admin/role">Cargos</a></li>{% endif %}
+                {% if p_admin_permission %}<li><a href="{{ base_url() }}/admin/permission">Permissões</a></li>{% endif %}
+              </ul>
+            </li>
+            {% endif %}
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ base_url() }}">Voltar ao site</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="{{ base_url() }}/users/signout">Sair</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container container-admin">
+      {% block breadcrumbs %}{% endblock %}
+      {% if (flash['success']) %}
+      <div class="alert alert-success alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['success'] }}
+      </div>
+      {% endif %}
+      {% if (flash['info']) %}
+      <div class="alert alert-info alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['info'] }}
+      </div>
+      {% endif %}
+      {% if (flash['warning']) %}
+      <div class="alert alert-warning alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['warning'] }}
+      </div>
+      {% endif %}
+      {% if (flash['danger']) %}
+      <div class="alert alert-danger alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['danger'] }}
+      </div>
+      {% endif %}
+      {% block content %}{% endblock %}
+    </div> <!-- /container -->
+
+    <footer class="footer">
+      <div class="container">
+        <p>
+          Website IPB Toledo. <small>Desenvolvido com amor por <a href="https://farol360.com.br">Farol360</a>.</small>
+        </p>
+      </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    {% block javascripts %}{% endblock %}
+  </body>
+</html>

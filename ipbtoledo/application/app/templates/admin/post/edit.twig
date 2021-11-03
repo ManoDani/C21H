@@ -1,0 +1,194 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Mídias - Administração - {{ parent() }}{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+{% endblock %}
+{% set nav_active = 'posts' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/posts">Mídias</a></li>
+  <li><a href="{{ base_url() }}/admin/posts/{{ post.id }}">{{ post.titulo }}</a></li>
+  <li class="active">Editar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <div class="row">
+    <div class="col-xs-12 col-sm-offset-1 col-sm-10">
+      <h1>Editar Mídia</h1>
+    </div>
+  </div>
+
+</div>
+
+<div class="container">
+  <div class="col-xs-12 col-sm-offset-1 col-sm-10">
+    <form role="form" novalidate action="{{ base_url() }}/admin/posts/update" method="POST"  enctype="multipart/form-data">
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="form-group">
+            <label for="inputTitle">Título:</label>
+            <input class="form-control" type="text" id="inputTitle" name="titulo" value="{{ post.titulo }}" >
+            <input id="postid" type="hidden" name="id" value="{{ post.id }}">
+          </div>
+          <div class="form-group">
+            <label for="descricao">Descrição:</label>
+            <textarea class="form-control form-group" rows="2" name="descricao" placeholder="Descrição" value="{{ post.descricao }}">{{ post.descricao }}</textarea>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="form-group">
+            <label for="data_alteracao">Data:</label>
+            <input class="form-control form-group" type="date" name="data_alteracao" id="data_alteracao" value="{{ post.data_alteracao }}">
+          </div>
+          <div class="row">
+            <div class="col-xs-6">
+              <div class="form-group">
+                <label>Tipo de Mídia</label>
+                <select id="tipoPost" name="id_tipo_post" class="form-control">
+                  {% for postType in postTypes %}
+                    {% if postType.id == post.id_tipo_post %}
+                      <option name="{{ postType.id }}" value="{{ postType.id }}" selected="selected">{{ postType.nome }}</option>
+                    {% else %}
+                      <option name="{{ postType.id }}" value="{{ postType.id }}">{{ postType.nome }}</option>
+                    {% endif %}
+                  {% endfor %}
+                </select>
+              </div>
+
+            </div>
+
+            <div class="col-xs-6">
+              <div class="form-group">
+                <label>Série de Mensagens</label>
+                <select id="serieMensagem" name="id_categoria" class="form-control">
+                  <option name="0" value="0">Sem Série</option>
+                    {% for postSerie in postSeries if postSerie.status == 1 %}
+                      {% if postSerie.id == post.id_categoria %}
+                        <option name="{{ postSerie.id }}"  value="{{ postSerie.id }}" selected="selected">
+                          {{ postSerie.nome_serie }}
+                        </option>
+                      {% else %}
+                        <option name="{{ postSerie.id }}"  value="{{ postSerie.id }}">
+                          {{ postSerie.nome_serie }}
+                        </option>
+                      {% endif %}
+                    {% endfor %}
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <div id="img" style="display:none;" class="form-group">
+              <div class="row">
+                <div class="col-xs-12 col-sm-12">
+                  <div class="form-group">
+                      <label for="inputFile">Imagem de Destaque</label>
+                      <div class="panel panel-default">
+                        <div class="panel-heading">
+                        </div>
+                        <div class="panel-body">
+                          <img id="img-perfil" src="{{ base_url() }}/{{ post.destaque }}" alt="Imagem de destaque" class="img-responsive">
+                        </div>
+                        <p class="text-center"> máximo: 300kb</p>
+                        <input id="destaque_old" type="hidden" name="destaque_old" value="{{ post.destaque }}">
+                        <input class="form-control" type="file" id="inputFile" name="destaque-img" value="{{ post.destaque }}">
+                      </div>
+
+                    </div>
+                </div>
+              </div>
+            </div>
+          <div id="video" class="form-group">
+            <label>Vídeo</label>
+            <input   class="form-group form-control" type="url" name="destaque" placeholder="Vídeo" value="{{ post.destaque }}">
+          </div>
+
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="form-group">
+          <a href="{{ base_url }}/admin/posts" class="btn btn-default"> Voltar</a>
+          <button type="submit" class="btn btn-primary">Atualizar</button>
+        </div>
+      </div>
+
+    </form>
+  </div>
+</div>
+
+
+{% endblock %}
+{% block javascripts %}
+
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+var editor = new SimpleMDE({
+  spellChecker: false,
+  toolbar: [
+    "bold", "italic", "heading", "|",
+    "quote", "unordered-list", "ordered-list", "|",
+    "link", "image", "table", "|",
+    "preview", "|", "guide"
+  ],
+});
+</script>
+
+<script>
+  // script for change opost type
+
+  $(document).ready(function () {
+    var tipo = $("#tipoPost option:selected").val();
+
+      if(tipo == 2) {
+        $("#img").hide();
+        $("#video").show();
+      } else {
+        if(tipo == 1) {
+          $("#img").show();
+          $("#video").hide();
+        }
+      }
+  });
+
+  $("#tipoPost").change(function() {
+    var tipo = $("#tipoPost option:selected").val();
+
+    if(tipo == 2) {
+      $("#img").hide();
+      $("#video").show();
+    } else {
+      if(tipo == 1) {
+        $("#img").show();
+        $("#video").hide();
+      }
+    }
+
+  }
+  );
+</script>
+
+<script type="text/javascript">
+
+  var imagem = $("#img-perfil");
+  var arquivo = $("#inputFile");
+  arquivo.on("change", function (){
+      if (arquivo[0].files.length == 0)
+      return false;
+      var file = arquivo[0].files[0];
+      var url = URL.createObjectURL(file);
+      imagem.attr("src", url);
+      imagem.attr("title", file.name);
+      console.log(arquivo[0].files[0]);
+   });
+</script>
+
+<script type="text/javascript">
+
+  document.getElementById('data_alteracao').valueAsDate = new Date($("#data_alteracao").val());
+</script>
+
+{% endblock %}

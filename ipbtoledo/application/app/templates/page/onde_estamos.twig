@@ -1,0 +1,61 @@
+{% extends "layout.twig" %}
+{% set nav_active = 'onde_estamos' %}
+{% set header_type = 'index' %}
+{% block content -%}
+<div id="onde_estamos">
+
+  <div id="banner-onde_estamos">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <h1 class="" style="margin-top:10px; font-style:italic;     color: #353535;">/ Onde Estamos</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <ol class="breadcrumb" style="margin-bottom:5px;">
+          <li><a href="{{ base_url() }}">Início</a></li>
+          <li class="active">Onde Estamos</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+
+  <div id="onde_estamos-content" style="margin-top:5px; ">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-xs-12 col-sm-7">
+          <img src="{{ base_url() }}/images/fachada.jpeg" style="width:100%; margin-bottom:5px;">
+        </div>
+
+        <div class="col-xs-12 col-sm-5" >
+
+          <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d5125.48892318025!2d-53.738932413948234!3d-24.7176787870305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x94f3958a83c5ba69%3A0x5e47b96fca09ad69!2sigreja+presbiteriana+toledo!3m2!1d-24.7175627!2d-53.7370887!5e0!3m2!1spt-BR!2sbr!4v1512306697559"  height="250" frameborder="0" style="border:0; width:100%;" allowfullscreen></iframe>
+          <h3 style="margin-top:10px; margin-bottom:5px;">Igreja Presbiteriana de Toledo</h3>
+          <p style="margin-bottom:2px;">Rua Rui Barbosa, 2966. Jardim Gisela. CEP: 85905-060. </p>
+          <p style="margin-bottom:2px;">Toledo/PR</p>
+          <p style="margin-bottom:2px;">Tel: 3054-6767</p>
+          <p> Whatsapp : (45) 9.9906-6144</p>
+
+
+        </div>
+
+        <div class="col-x-12 col-sm-4">
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+{%- endblock %}
+{% block javascripts %} {{ parent()}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+{% endblock %}

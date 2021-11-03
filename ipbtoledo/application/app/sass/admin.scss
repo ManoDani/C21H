@@ -1,0 +1,46 @@
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "variables";
+
+body {
+  padding-top: 60px;
+}
+
+.add-galeria-img {
+  width: 100%;
+}
+
+.img-responsive{
+  position: relative;
+  margin: 0 auto;
+}
+
+@media screen and (max-width:768px) {
+  #midias {
+    .panel-body {
+        padding: 1px;
+        padding-top: 5px;
+    }
+
+  }
+}
+
+@media screen and (max-width:320px) {
+  #midias-embed-iphone {
+    display:block !important;
+  }
+  #midias-embed-samsung {
+    display:none !important;
+  }
+}
+
+@media screen and (max-width:732px) and (min-width:321px) {
+  #midias-embed-iphone {
+    display:none !important;
+  }
+  #midias-embed-samsung {
+    display:block !important;
+  }
+}
+
+
+

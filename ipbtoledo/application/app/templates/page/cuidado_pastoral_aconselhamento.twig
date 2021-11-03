@@ -1,0 +1,128 @@
+{% extends "layout.twig" %}
+{% set nav_active = 'cuidado_pastoral' %}
+{% set header_type = 'index' %}
+{% block content -%}
+<div id="cuidado_pastoral" style="padding-bottom:20vh;">
+
+  <div id="banner-cuidado_pastoral">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <h1 class="" style="font-style:italic;     color: #353535; margin-top: 10px;">/ Aconselhamento</h1>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+
+  {% if (tipo == 0) %}
+    <div id="cuidado_pastoral-content" style="margin-top:5px; ">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="row">
+              <div class="col-xs-12 col-sm-offset-1 col-sm-5">
+                <a href="{{ base_url() }}/cuidado_pastoral/pedido" class="btn btn-default btn-lg" id="btn-pedido"><h1>Pedido de Oração</h1></a>
+              </div>
+              <div class="col-xs-12 col-sm-5">
+                <a href="{{ base_url() }}/cuidado_pastoral/aconselhamento" class="btn btn-default btn-lg" id="btn-aconselhamento"><h1>Aconselhamento</h1></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+
+
+  {% if (tipo == 1) %}
+  {% endif %}
+
+  {% if (tipo == 2) %}
+    <div id="cuidado_pastoral-aconselhamento" style="margin-top:0px;">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <ol class="breadcrumb" style="background-color: rgba(245, 245, 245, 0.58); margin-top: 2px;">
+              <li><a href="{{ base_url() }}">Início</a></li>
+              <li><a href="{{ base_url() }}/cuidado_pastoral">Cuidado Pastoral</a></li>
+              <li class="active">Aconselhamento</li>
+            </ol>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 col-sm-offset-6 col-sm-6">
+            <p style="text-align:justify;" class="h3">Utilize este espaço para enviar seu pedido de aconselhamento espiritual.</p>
+            <hr>
+          </div>
+        </div>
+        <div class="row">
+
+          <div id="contato-container" class="col-xs-12 col-sm-offset-6 col-sm-6">
+            <form action="{{ base_url() }}/cuidado_pastoral/aconselhamento" method="POST">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      {% if (erro == "nome") %}
+                        <label id="nome" for="nome" style="color:red;">Nome* - Obrigatório</label>
+                        <input type="nome" class="form-control" name="nome" id="nome" placeholder="Digite seu nome">
+                      {% else %}
+                        <label id="nome" for="nome">Nome</label>
+                        <input type="nome" class="form-control" name="nome" id="nome" placeholder="Digite seu nome">
+                      {% endif %}
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      {% if (erro == "email") %}
+                        <label for="email" style="color:red;">Email * - Obrigatório</label>
+                        <input type="email" name="email" class="form-control" id="email" placeholder="Digite seu email">
+                      {% else %}
+                        <label for="email">Email</label>
+                        <input type="email" name="email" class="form-control" id="email" placeholder="Digite seu email">
+                      {% endif %}
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      {% if (erro == "telefone") %}
+                        <label for="telefone" style="color:red;">Telefone* - Obrigatório</label>
+                        <input type="telefone" class="form-control" name="telefone" id="telefone" placeholder="Digite seu telefone">
+                      {% else %}
+                        <label for="telefone">Telefone</label>
+                        <input type="telefone" class="form-control" name="telefone" id="telefone" placeholder="Digite seu telefone">
+                      {% endif %}
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="checkbox">
+                      <label style="margin-top: 15px; margin-left:17px;">
+
+                        <input type="checkbox"> <img src="{{ base_url() }}/images/path30.png" style="width:28px; "> Whatsapp.
+                      </label>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label for="corpo-email">Deixe sua mensagem</label>
+                  <textarea id="corpo-email" name="corpo-email" class="form-control" rows="5"></textarea>
+                </div>
+                <button type="submit" class="btn btn-default" style="margin-bottom:10px;">Enviar</button>
+              </form>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  {% endif %}
+
+</div>
+{%- endblock %}
+{% block javascripts %} {{ parent()}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+{% endblock %}

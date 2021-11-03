@@ -1,0 +1,116 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Banners - Administração - {{ parent() }}{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+{% endblock %}
+{% set nav_active = 'courses' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li class="active">Adicionar Novo Banner</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Adicionar novo Banner</h1>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12  col-sm-12">
+      <form role="form" data-toggle="validator" action="{{ base_url() }}/admin/banners/add" method="POST"  enctype="multipart/form-data">
+        <div class="row">
+
+          <div class="col-sm-2">
+            <p><strong>Mobile?</strong></p>
+            <label class="radio-inline">
+              <input type="radio" name="is_mobile" id="is_mobile_1" value="1"> Sim
+            </label>
+            <label class="radio-inline">
+              <input type="radio" name="is_mobile" id="is_mobile_0" value="0" checked="checked"> Não
+            </label>
+          </div>
+          <div class="col-sm-2">
+
+            <label for="upload_date">Data</label>
+            <input id="upload_date" class="form-control form-group" type="date" name="upload_date" placeholder="Título" value="{{ date }}" required>
+          </div>
+          <div class="col-sm-1">
+
+            <label for="priority">Prioridade</label>
+            <input id="priority" class="form-control form-group" type="text" name="priority" placeholder="0" value="0" required>
+          </div>
+          <div class="col-sm-7">
+
+            <label for="link">Link</label>
+            <input id="link" class="form-control form-group" type="text" name="link" placeholder="#" value="#" required>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-12">
+            <div class="panel panel-default">
+              <div class="panel-heading text-center">
+                Banner
+              </div>
+              <div class="panel-body">
+                <img id="img-perfil" src="{{ base_url() }}/images/default-img.png" alt="Imagem de destaque" class="img-responsive">
+              </div>
+              <div class="panel-footer">
+                <p class="text-center" >Tamanho Máximo: 2MB</p>
+                <input id="image" type="file" class="btn btn-default btn-lg" style="display: block; margin: 0 auto; position:relative; max-width: 100%;" name="image"></input>
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <hr>
+
+        <div class="row" style="margin-bottom:3vh;">
+          <a href="{{ base_url() }}/admin/" class="btn btn-default">Cancelar</a>
+
+          </button>
+          <button type="submit" class="btn btn-success ">Adicionar</button>
+        </div>
+
+      </form>
+    </div>
+  </div>
+</div>
+
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+var editor = new SimpleMDE({
+  spellChecker: false,
+  toolbar: [
+    "bold", "italic", "heading", "|",
+    "quote", "unordered-list", "ordered-list", "|",
+    "link", "image", "table", "|",
+    "preview", "|", "guide"
+  ],
+});
+</script>
+<script type="text/javascript">
+document.getElementById('data_alteracao').valueAsDate = new Date();
+</script>
+
+<script type="text/javascript">
+
+  var imagem = $("#img-perfil");
+  var arquivo = $("#image");
+  arquivo.on("change", function (){
+      if (arquivo[0].files.length == 0)
+      return false;
+      var file = arquivo[0].files[0];
+      var url = URL.createObjectURL(file);
+      imagem.attr("src", url);
+      imagem.attr("title", file.name);
+      console.log(arquivo[0].files[0]);
+   });
+
+</script>
+
+{% endblock %}

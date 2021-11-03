@@ -1,0 +1,54 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Cursos - Administração - {{ parent() }}{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+{% endblock %}
+{% set nav_active = 'courses' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/courses">Cursos</a></li>
+  {% for module in modules if module.id == module_id %}
+  <li><a href="{{ base_url() }}/admin/courses/{{ module.course_id }}">{{ module.course_title }}</a></li>
+  <li><a href="{{ base_url() }}/admin/modules/{{ module.id }}">{{ module.title }}</a></li>
+  {% endfor %}
+  <li class="active">Adicionar nível</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Adicionar novo nível</h1>
+</div>
+
+<form role="form" data-toggle="validator" action="{{ base_url() }}/admin/levels/add" method="POST" enctype="multipart/form-data">
+  <input class="form-control form-group" type="text" name="title" placeholder="Título" autofocus required>
+  <select class="form-control form-group" name="module_id">
+    {% for module in modules -%}
+      <option value="{{ module.id }}"{{ module_id == module.id ? " selected" }}>{{ module.title }}</option>
+    {% endfor -%}
+  </select>
+  <div class="form-group">
+    <input type="file" name="attachments[]" multiple>
+  </div>
+  <input class="form-control form-group" type="url" name="video" placeholder="Vídeo">
+  <textarea class="form-control form-group" rows="10" name="content" placeholder="Conteúdo"></textarea>
+  <button type="submit" class="btn btn-success">Adicionar</button>
+</form>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+var editor = new SimpleMDE({
+  spellChecker: false,
+  toolbar: [
+    "bold", "italic", "heading", "|",
+    "quote", "unordered-list", "ordered-list", "|",
+    "link", "image", "table", "|",
+    "preview", "|", "guide"
+  ],
+});
+</script>
+{% endblock %}

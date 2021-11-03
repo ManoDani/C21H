@@ -1,0 +1,524 @@
+{% extends "layout.twig" %}
+{% set nav_active = 'series' %}
+{% set header_type = 'index' %}
+{% block content -%}
+<div id="mensagens_series" style="">
+
+  <div id="banner-cuidado_pastoral">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <h2 class="" style="font-style:italic;     color: #353535; margin-top: 10px;">/ Séries de Mensagens</h2>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <ol class="breadcrumb">
+          <li><a href="{{ base_url() }}">Início</a></li>
+          <li class="active">Séries de Mensagens</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+
+  <div id="series-catalog">
+    <div class="container">
+      <div class="row">
+
+        <div class="hidden-xs">
+
+          <ul id="" class="nav nav-tabs nav-series">
+            <li id="" data-id="todas-as-series" class=" active"><a  href="#">Todas as Séries</a></li>
+            <li id="" data-id="serie-atual" class=""><a href="#">Série Atual</a> </li>
+            <li id="" data-id="programa-devocional" class=""><a href="#">Programa Devocional</a> </li>
+            <li id="" data-id="serie-especial" class=""><a href="#">Série Especial</a> </li>
+
+          </ul>
+
+        </div>
+        <div class="visible-xs">
+          <!-- Large button group -->
+          <div class="btn-group" style="display:block;">
+            <button class="btn btn-default btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="    margin: 0 auto;
+              display: block;
+              position: relative;
+              float: none;" id="series-mobile-btn"><span id="text">Todas as Séries</span>
+              <span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu nav-series" style="position: relative; float:none;">
+              <li id="" data-id="todas-as-series" class="active"><a  href="#">Todas as Séries</a></li>
+              <li id="" data-id="serie-atual"><a href="#">Série Atual</a> </li>
+              <li id="" data-id="programa-devocional"><a href="#">Programa Devocional</a> </li>
+              <li id="" data-id="serie-especial"><a href="#">Série Especial</a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="todas-as-series-view" class="series-view">
+      <div class="container">
+        <div class="row">
+          {% for mensagem_serie in mensagens_series if mensagem_serie.status == 1  %}
+            <div class="col-xs-12 col-sm-3">
+              <div class="serie-inner" style="margin-top:10px;">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="inner-image" style="width: 100%;">
+                      <a href="{{ base_url() }}/series/{{ mensagem_serie.slug }}">
+                        <img style="display:block; margin: 0 auto; max-height: 240px;" src="{{ base_url() }}/{{ mensagem_serie.img_destaque }}">
+                      </a>
+                      </div>
+
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+
+                      <p style=" font-size:medium; text-align:center; margin-top: 5px;"><a href="{{ base_url() }}/series/{{ mensagem_serie.id }}" style="color: #555; ">{{ mensagem_serie.nome_serie }}</a> </p>
+
+                  </div>
+                </div>
+
+
+                <hr style="margin-top:8px;">
+              </div>
+
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+
+    <div id="serie-atual-view" class="series-view" >
+      {% if serie_atual.status == 1 %}
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <h3 style="text-align:center;">{{ serie_atual.nome_serie }}</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-offset-2 col-sm-8">
+              <div class="player-container" style="border-style:solid; border-width:1px; border-color:#ddd; margin-top:15px; padding-right: 15px; border-radius:5px; border-left-radius:0px;">
+                <div class="row">
+                  <div class="hidden-xs col-sm-9" style="padding-right:0px; margin-bottom: -5px;">
+
+                    {% set i = 1 %}
+                    {% for serie_atual_post in serie_atual_posts if serie_atual_post.status == 1 %}
+                      {% if i == 1 %}
+                        <div id="video-desktop-serie-atual-{{ serie_atual_post.id }}" class="serie-atual-video-container active">
+                          {{ serie_atual_post.embed_desktop|raw }}
+                        </div>
+                      {% else %}
+                        <div id="video-desktop-serie-atual-{{ serie_atual_post.id }}" class="serie-atual-video-container">
+                          {{ serie_atual_post.embed_desktop|raw }}
+                        </div>
+                      {% endif %}
+
+                      {% set i = i + 1 %}
+                    {% else %}
+                      <h2 style="padding-left: 15px; color: #ddd;">Não existem vídeos cadastrados nesta série no momento.</h2>
+                    {% endfor %}
+                  </div>
+
+                  <div class="visible-xs" style="padding-top: 5px; padding-left:15px; ">
+
+                    {% set i = 1 %}
+                    {% for serie_atual_post in serie_atual_posts if serie_atual_post.status == 1 %}
+                      {% if i == 1 %}
+                        <div id="video-mobile-serie-atual-{{ serie_atual_post.id }}" class="serie-atual-video-container active">
+                          {{ serie_atual_post.embed_mobile|raw }}
+                        </div>
+                      {% else %}
+                        <div id="video-mobile-serie-atual-{{ serie_atual_post.id }}" class="serie-atual-video-container">
+                          {{ serie_atual_post.embed_mobile|raw }}
+                        </div>
+                      {% endif %}
+
+                      {% set i = i + 1 %}
+                    {% else %}
+                      <h2 style="padding-left: 15px; color: #ddd;">Não existem vídeos cadastrados nesta série no momento.</h2>
+                    {% endfor %}
+                  </div>
+
+                  <div class="hidden-xs col-sm-3 playlist">
+                    {% set i = 1 %}
+                    {% for serie_atual_post in serie_atual_posts if serie_atual_post.status == 1 %}
+                      {% if i == 1 %}
+                        <p id="desktop-serie-atual-{{ serie_atual_post.id }}" data-post-id="{{ serie_atual_post.id }}" class="serie-atual-playlist-item active">{{ serie_atual_post.titulo }}</p>
+                      {% else %}
+                        <p id="desktop-serie-atual-{{ serie_atual_post.id }}" data-post-id="{{ serie_atual_post.id }}" class="serie-atual-playlist-item">{{ serie_atual_post.titulo }}</p>
+                      {% endif %}
+                      {% set i = i + 1 %}
+                    {% endfor %}
+                  </div>
+
+                  <div class="visible-xs playlist">
+                    {% set i = 1 %}
+                    {% for serie_atual_post in serie_atual_posts if serie_atual_post.status == 1 %}
+                      {% if i == 1 %}
+                        <p id="mobile-serie-atual-{{ serie_atual_post.id }}" data-post-id="{{ serie_atual_post.id }}" class="serie-atual-playlist-item active">{{ serie_atual_post.titulo }}</p>
+                      {% else %}
+                        <p id="mobile-serie-atual-{{ serie_atual_post.id }}" data-post-id="{{ serie_atual_post.id }}" class="serie-atual-playlist-item">{{ serie_atual_post.titulo }}</p>
+                      {% endif %}
+                      {% set i = i + 1 %}
+
+                    {% endfor %}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      {% else %}
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <h1 style="text-align:center; "> A série Atual não está habilitada no momento.</h1>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+
+    <div id="programa-devocional-view" class="series-view" >
+      {% if programa_devocional.status == 1 %}
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <h3 style="text-align:center;">{{ programa_devocional.nome_serie }}</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-offset-2 col-sm-8">
+              <div class="player-container" style="border-style:solid; border-width:1px; border-color:#ddd; margin-top:15px; padding-right: 15px; border-radius:5px; border-left-radius:0px;">
+                <div class="row">
+                  <div class="hidden-xs col-sm-9" style="padding-right:0px; margin-bottom: -5px;">
+
+                    {% set i = 1 %}
+                    {% for programa_devocional_post in programa_devocional_posts if programa_devocional_post.status == 1 %}
+                      {% if i == 1 %}
+                        <div id="video-desktop-programa-devocional-{{ programa_devocional_post.id }}" class="programa-devocional-video-container active">
+                          {{ programa_devocional_post.embed_desktop|raw }}
+                        </div>
+                      {% else %}
+                        <div id="video-desktop-programa-devocional-{{ programa_devocional_post.id }}" class="programa-devocional-video-container">
+                          {{ programa_devocional_post.embed_desktop|raw }}
+                        </div>
+                      {% endif %}
+
+                      {% set i = i + 1 %}
+                    {% else %}
+                      <h2 style="padding-left: 15px; color: #ddd;">Não existem vídeos cadastrados nesta série no momento.</h2>
+                    {% endfor %}
+                  </div>
+
+                  <div class="visible-xs" style="padding-top: 5px; padding-left:15px; ">
+
+                    {% set i = 1 %}
+                    {% for programa_devocional_post in programa_devocional_posts if programa_devocional_post.status == 1 %}
+                      {% if i == 1 %}
+                        <div id="video-mobile-programa-devocional-{{ programa_devocional_post.id }}" class="programa-devocional-video-container active">
+                          {{ programa_devocional_post.embed_mobile|raw }}
+                        </div>
+                      {% else %}
+                        <div id="video-mobile-programa-devocional-{{ programa_devocional_post.id }}" class="programa-devocional-video-container">
+                          {{ programa_devocional_post.embed_mobile|raw }}
+                        </div>
+                      {% endif %}
+
+                      {% set i = i + 1 %}
+                    {% else %}
+                      <h2 style="padding-left: 15px; color: #ddd;">Não existem vídeos cadastrados nesta série no momento.</h2>
+                    {% endfor %}
+                  </div>
+
+                  <div class="hidden-xs col-sm-3 playlist">
+                    {% set i = 1 %}
+                    {% for programa_devocional_post in programa_devocional_posts if programa_devocional_post.status == 1 %}
+                      {% if i == 1 %}
+                        <p id="desktop-programa-devocional-{{ programa_devocional_post.id }}" data-post-id="{{ programa_devocional_post.id }}" class="programa-devocional-playlist-item active">{{ programa_devocional_post.titulo }}</p>
+                      {% else %}
+                        <p id="desktop-programa-devocional-{{ programa_devocional_post.id }}" data-post-id="{{ programa_devocional_post.id }}" class="programa-devocional-playlist-item">{{ programa_devocional_post.titulo }}</p>
+                      {% endif %}
+                      {% set i = i + 1 %}
+                    {% endfor %}
+                  </div>
+
+                  <div class="visible-xs playlist">
+                    {% set i = 1 %}
+                    {% for programa_devocional_post in programa_devocional_posts if programa_devocional_post.status == 1 %}
+                      {% if i == 1 %}
+                        <p id="mobile-programa-devocional-{{ programa_devocional_post.id }}" data-post-id="{{ programa_devocional_post.id }}" class="programa-devocional-playlist-item active">{{ serie_atual_post.titulo }}</p>
+                      {% else %}
+                        <p id="mobile-programa-devocional-{{ programa_devocional_post.id }}" data-post-id="{{ programa_devocional_post.id }}" class="programa-devocional-playlist-item">{{ programa_devocional_post.titulo }}</p>
+                      {% endif %}
+                      {% set i = i + 1 %}
+                    {% endfor %}
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      {% else %}
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <h1 style="text-align:center;">O Programa Devocional não está habilitádo no momento.</h1>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+
+    <div id="serie-especial-view" class="series-view" >
+      {% if serie_especial.status == 1 %}
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <h3 style="text-align:center;">{{ serie_especial.nome_serie }}</h3>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-offset-2 col-sm-8">
+              <div class="player-container" style="border-style:solid; border-width:1px; border-color:#ddd; margin-top:15px; padding-right: 15px; border-radius:5px; border-left-radius:0px;">
+                <div class="row">
+                  <div class="hidden-xs col-sm-9" style="padding-right:0px; margin-bottom: -5px;">
+
+                    {% set i = 1 %}
+                    {% for serie_especial_post in serie_especial_posts if serie_especial_post.status == 1 %}
+                      {% if i == 1 %}
+                        <div id="video-desktop-serie-especial-{{ serie_especial_post.id }}" class="serie-especial-video-container active">
+                          {{ serie_especial_post.embed_desktop|raw }}
+                        </div>
+                      {% else %}
+                        <div id="video-desktop-serie-especial-{{ serie_especial_post.id }}" class="serie-especial-video-container">
+                          {{ serie_especial_post.embed_desktop|raw }}
+                        </div>
+                      {% endif %}
+
+                      {% set i = i + 1 %}
+                    {% else %}
+                      <h2 style="padding-left: 15px; color: #ddd;">Não existem vídeos cadastrados nesta série no momento.</h2>
+                    {% endfor %}
+                  </div>
+
+                  <div class="visible-xs" style="padding-top: 5px; padding-left:15px; ">
+
+                    {% set i = 1 %}
+                    {% for serie_especial_post in serie_especial_posts if serie_especial_post.status == 1 %}
+                      {% if i == 1 %}
+                        <div id="video-mobile-serie-especial-{{ serie_especial_post.id }}" class="serie-especial-video-container active">
+                          {{ serie_especial_post.embed_mobile|raw }}
+                        </div>
+                      {% else %}
+                        <div id="video-mobile-serie-especial-{{ serie_especial_post.id }}" class="serie-especial-video-container">
+                          {{ serie_especial_post.embed_mobile|raw }}
+                        </div>
+                      {% endif %}
+
+                      {% set i = i + 1 %}
+                    {% else %}
+                      <h2 style="padding-left: 15px; color: #ddd;">Não existem vídeos cadastrados nesta série no momento.</h2>
+                    {% endfor %}
+                  </div>
+
+                  <div class="hidden-xs col-sm-3 playlist">
+                    {% set i = 1 %}
+                    {% for serie_especial_post in serie_especial_posts if serie_especial_post.status == 1 %}
+                      {% if i == 1 %}
+                        <p id="desktop-serie-especial-{{ serie_especial_post.id }}" data-post-id="{{ serie_especial_post.id }}" class="serie-especial-playlist-item active">{{ serie_especial_post.titulo }}</p>
+                      {% else %}
+                        <p id="desktop-serie-especial-{{ serie_especial_post.id }}" data-post-id="{{ serie_especial_post.id }}" class="serie-especial-playlist-item">{{ serie_especial_post.titulo }}</p>
+                      {% endif %}
+                      {% set i = i + 1 %}
+                    {% endfor %}
+                  </div>
+
+                  <div class="visible-xs playlist">
+                    {% set i = 1 %}
+                    {% for serie_especial_post in serie_especial_posts if serie_especial_post.status == 1 %}
+                      {% if i == 1 %}
+                        <p id="mobile-serie-especial-{{ serie_especial_post.id }}" data-post-id="{{ serie_especial_post.id }}" class="serie-especial-playlist-item active">{{ serie_atual_post.titulo }}</p>
+                      {% else %}
+                        <p id="mobile-serie-especial-{{ serie_especial_post.id }}" data-post-id="{{ serie_especial_post.id }}" class="serie-especial-playlist-item">{{ serie_especial_post.titulo }}</p>
+                      {% endif %}
+                      {% set i = i + 1 %}
+                    {% endfor %}
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      {% else %}
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <h1 style="text-align:center;">A Série Especial não está habilitada no momento.</h1>
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+
+  </div>
+
+
+
+</div>
+{%- endblock %}
+{% block javascripts %} {{ parent()}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+//Stack menu when collapsed
+$('#navbar-collapse-1').on('show.bs.collapse', function() {
+    $('#menu-series-btn').addClass('active');
+    $('.nav-tabs').addClass('nav-stacked mobile-layout');
+});
+
+//Unstack menu when not collapsed
+$('#navbar-collapse-1').on('hide.bs.collapse', function() {
+    $('#menu-series-btn').removeClass('active');
+    $('.nav-tabs').removeClass('nav-stacked mobile-layout');
+});
+</script>
+
+<script type="text/javascript">
+
+  // scripts for change panels
+  $(document).ready( function () {
+    $(".series-view").hide();
+    $("#todas-as-series-view").show();
+  });
+
+// when click on some panel
+  $('.nav-series').find('li').find('a').click(function () {
+
+  var text = $(this).text();
+
+  // get nav li id
+  var view = $(this).parent().data('id');
+  console.log(view);
+
+  // remove nav active
+  $(this).parent().parent().find('.active').removeClass('active');
+
+  // hide all views
+  $(".series-view").css( "display", "none",  function () {
+
+  });
+
+  // add new class
+  $(this).parent().addClass('active');
+
+  // add btn text
+  $("#series-mobile-btn").find('#text').text(text);
+
+
+  // show active view
+  view = "#" + view + '-view';
+  $(view).css( "display", "inline");
+  });
+</script>
+
+<script type="text/javascript">
+
+  // scripts for playists
+
+  // on page load
+  $(document).ready( function () {
+    $(".serie-atual-video-container").hide();
+    $(".serie-atual-video-container").parent().find(".active").show();
+
+    $(".programa-devocional-video-container").hide();
+    $(".programa-devocional-video-container").parent().find(".active").show();
+
+    $(".serie-especial-video-container").hide();
+    $(".serie-especial-video-container").parent().find(".active").show();
+  });
+
+  // on playlist item click
+  $(".serie-atual-playlist-item").click(function () {
+
+    // 1 - remove active class for all playlist item
+    $(".serie-atual-playlist-item").removeClass("active");
+
+    var id = "#" + "video-" + $(this).attr("id");
+    console.log(id);
+
+    // 2 - hide all video
+    $(".serie-atual-video-container").css( "display", "none", function() {
+
+    });
+
+    // 3 - set active class to playlist item
+    $(this).addClass("active");
+
+    // 4 - set video show
+    $(id).addClass('active');
+    $(id).css( "display", "block");
+  });
+
+  // on playlist item click
+  $(".programa-devocional-playlist-item").click(function () {
+
+    // 1 - remove active class for all playlist item
+    $(".programa-devocional-playlist-item").removeClass("active");
+
+    var id = "#" + "video-" + $(this).attr("id");
+    console.log(id);
+
+    // 2 - hide all video
+    $(".programa-devocional-video-container").css( "display", "none", function() {
+
+    });
+
+    // 3 - set active class to playlist item
+    $(this).addClass("active");
+
+    // 4 - set video show
+    $(id).addClass('active');
+    $(id).css( "display", "block");
+  });
+
+  // on playlist item click
+  $(".serie-especial-playlist-item").click(function () {
+
+    // 1 - remove active class for all playlist item
+    $(".serie-especial-playlist-item").removeClass("active");
+
+    var id = "#" + "video-" + $(this).attr("id");
+    console.log(id);
+
+    // 2 - hide all video
+    $(".serie-especial-video-container").css( "display", "none", function() {
+
+    });
+
+    // 3 - set active class to playlist item
+    $(this).addClass("active");
+
+    // 4 - set video show
+    $(id).addClass('active');
+    $(id).css( "display", "block");
+  });
+
+</script>
+
+{% endblock %}

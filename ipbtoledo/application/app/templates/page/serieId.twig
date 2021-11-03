@@ -1,0 +1,162 @@
+{% extends "layout.twig" %}
+{% set nav_active = 'mensagens' %}
+{% set header_type = 'index' %}
+
+{% block stylesheets -%}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+{%- endblock %}
+
+{% block content -%}
+
+<div id="banner-midia" style="height:70px;">
+  <div class="container">
+      <div class="row">
+        <div class="col-xs-7 col-sm-6">
+          <h2 class=" " style="    color: #353535; margin-top: 10px;">/ Séries de Mensagens</h2>
+        </div>
+
+      </div>
+    </div>
+</div>
+
+<div class="container" style="padding-bottom:20vh;">
+  <div class="row">
+    <div class="col-xs-12">
+      <ol class="breadcrumb" style="margin-bottom:0px;">
+        <li><a href="{{ base_url() }}">Início</a></li>
+        <li><a href="{{ base_url() }}/mensagens_series">Séries de Mensagens</a></li>
+        <li class="active">{{ serie.nome_serie }}</li>
+      </ol>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12 col-sm-12">
+      <h2 style="text-align:center;">{{ serie.nome_serie }}</h2>
+    </div>
+  </div>
+  <hr style="margin-top:0px;">
+  <div class="row">
+    <div class="visible-xs" style="padding-left: 5px; padding-right: 5px;">
+      <img class="img-responsive" src="{{ base_url() }}/{{ serie.img_destaque }}" style="max-width:none;">
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="hidden-xs col-sm-4">
+      <img class="img-responsive" src="{{ base_url() }}/{{ serie.img_destaque }}" style="max-width:none;">
+    </div>
+    <div class="col-sm-8">
+      <div class="player-container" style="border-style:solid; border-width:1px; border-color:#ddd; margin-top:15px; padding-right: 15px; border-radius:5px; border-left-radius:0px; margin-bottom: 5px;">
+        <div class="row">
+          <div class="hidden-xs col-sm-9" style="padding-right:0px; margin-bottom: -5px;">
+
+            {% set i = 1 %}
+            {% for serie_post in serie_posts if serie_post.status == 1 %}
+              {% if i == 1 %}
+                <div id="video-desktop-serie-{{ serie_post.id }}" class="serie-video-container active">
+                  {{ serie_post.embed_desktop|raw }}
+                </div>
+              {% else %}
+                <div id="video-desktop-serie-{{ serie_post.id }}" class="serie-video-container">
+                  {{ serie_post.embed_desktop|raw }}
+                </div>
+              {% endif %}
+
+              {% set i = i + 1 %}
+            {% else %}
+              <h2 style="padding-left: 15px; color: #eee;">Não existem vídeos cadastrados nesta série no momento.</h2>
+            {% endfor %}
+          </div>
+
+          <div class="visible-xs" style="padding-top: 5px; padding-left:15px; ">
+
+            {% set i = 1 %}
+            {% for serie_post in serie_posts if serie_post.status == 1 %}
+              {% if i == 1 %}
+                <div id="video-mobile-serie-{{ serie_post.id }}" class="serie-video-container active">
+                  {{ serie_post.embed_mobile|raw }}
+                </div>
+              {% else %}
+                <div id="video-mobile-serie-{{ serie_post.id }}" class="serie-video-container">
+                  {{ serie_post.embed_mobile|raw }}
+                </div>
+              {% endif %}
+
+              {% set i = i + 1 %}
+            {% else %}
+              <h2 style="padding-left: 15px; color: #eee;">Não existem vídeos cadastrados nesta série no momento.</h2>
+            {% endfor %}
+          </div>
+
+          <div class="hidden-xs col-sm-3 playlist">
+            {% set i = 1 %}
+            {% for serie_post in serie_posts if serie_post.status == 1 %}
+              {% if i == 1 %}
+                <p id="desktop-serie-{{ serie_post.id }}" data-post-id="{{ serie_post.id }}" class="serie-playlist-item active">  {{ serie_post.titulo }}</p>
+              {% else %}
+                <p id="desktop-serie-{{ serie_post.id }}" data-post-id="{{ serie_post.id }}" class="serie-playlist-item">{{ serie_post.titulo }}</p>
+              {% endif %}
+              {% set i = i + 1 %}
+            {% endfor %}
+          </div>
+
+          <div class="visible-xs playlist">
+            {% set i = 1 %}
+            {% for serie_post in serie_posts if serie_post.status == 1 %}
+              {% if i == 1 %}
+                <p id="mobile-serie-{{ serie_post.id }}" data-post-id="{{ serie_post.id }}" class="serie-playlist-item active">{{ serie_post.titulo }}</p>
+              {% else %}
+                <p id="mobile-serie-{{ serie_post.id }}" data-post-id="{{ serie_post.id }}" class="serie-playlist-item">{{ serie_post.titulo }}</p>
+              {% endif %}
+              {% set i = i + 1 %}
+
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{%- endblock %}
+
+{% block javascripts %} {{ parent()}}
+
+<script type="text/javascript">
+  $(document).ready( function () {
+    $(".serie-video-container").hide();
+    $(".serie-video-container").parent().find(".active").show();
+  });
+
+</script>
+
+<script type="text/javascript">
+
+  // on playlist item click
+  $(".serie-playlist-item").click(function () {
+
+    // 1 - remove active class for all playlist item
+    $(".serie-playlist-item").removeClass("active");
+
+    var id = "#" + "video-" + $(this).attr("id");
+    console.log(id);
+
+    // 2 - hide all video
+    $(".serie-video-container").css( "display", "none", function() {
+
+    });
+
+    // 3 - set active class to playlist item
+    $(this).addClass("active");
+
+    // 4 - set video show
+    $(id).addClass('active');
+    $(id).css( "display", "block");
+  });
+
+</script>
+
+
+{% endblock %}

@@ -1,0 +1,164 @@
+{% extends "layout.twig" %}
+{% set nav_active = 'midia' %}
+{% set header_type = 'index' %}
+{% block content -%}
+<style>.embera-embed-responsive {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+.embera-embed-responsive-item {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}</style>
+<div id="banner-midia">
+  <div class="container">
+      <div class="row">
+        <div class="col-xs-5 col-sm-6 col-md-7">
+          <h1 class="font-style:italic     color: #353535; margin-top: 10px;">/ Mídias</h1>
+        </div>
+        <div class="col-xs-7 col-sm-6 col-md-5" >
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="" id="midia-menu" style="">
+            <ul class="nav navbar-nav navbar-right">
+
+              <li class="dropdown col-xs-6">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style=""><h4>  TODAS AS MÍDIAS <span class="caret"></span></h4></a>
+                <ul class="dropdown-menu">
+                  <li><a href="{{ base_url() }}/midia/fotos?ordem={{ ordem }}" class="dropdown-inner"><h4>FOTOS</h4></a></li>
+                  <li><a href="{{ base_url() }}/midia/videos?ordem={{ ordem }}" class="dropdown-inner"><h4>VÍDEOS</h4></a></li>
+                </ul>
+              </li>
+              <li class="dropdown col-xs-6">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style=""><p style="margin:0px; padding:0px;">ORDENAR POR</p><h4 style="margin-top:3px;"> {% if ordem == 1 %} MAIS RECENTE {% elseif ordem == 2 %} MAIS ANTIGO {% endif %}<span class="caret"></span></h4></a>
+                <ul class="dropdown-menu">
+                  <li><a href="{{ base_url() }}/midia?ordem=1&page={{ page }}" class="dropdown-inner"> <h4 class="txt-right">MAIS RECENTE</h4></a></li>
+                  <li><a href="{{ base_url() }}/midia?ordem=2&page={{ page }}" class="dropdown-inner"><h4 class="txt-right">MAIS ANTIGO</h4></a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <ol class="breadcrumb" style="background-color: rgba(245, 245, 245, 0.58); margin-top: 2px;">
+        <li><a href="{{ base_url() }}">Início</a></li>
+        <li class="active">Mídias</li>
+
+      </ol>
+    </div>
+  </div>
+</div>
+
+<div id="midia" style="margin-top:3vh; ">
+  <div class="container">
+    <div class="row ">
+      <div class="col-xs-12 col-sm-12">
+        {% for post in posts if post.status %}
+          <div class="row">
+            <div class="col-xs-12 col-sm-12">
+              <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-4">
+                  {% if post.id_tipo_post == 2 %}
+                    {% if post.embed_desktop %}
+                      <div
+                          class="embera-embed-responsive embera-embed-responsive-video embera-embed-responsive-provider-youtube"
+                        >{{ post.embed_desktop|raw }}
+                    </div>
+                    {% endif %}
+                  {% endif %}
+                  {% if post.id_tipo_post == 1 %}
+                    <img class="img-responsive" src="{{ post.destaque }}">
+                  {% endif %}
+                </div>
+                <div class="post-list col-xs-12 col-sm-6 col-md-8">
+                  <h3 >
+                    {{ post.titulo }}
+                  </h3>
+                  <p style="color:#888;">{{ post.data_alteracao }}</p>
+                  <p >{{ post.descricao }}</p>
+                  <a class="btn btn-info" href="{{ base_url() }}/posts/{{ post.id }}?ordem={{ ordem }}&page={{ page }}&tipo_post=midia">
+                    Ver Mais
+                  </a>
+                </div>
+
+              </div>
+              <hr>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      {#
+      <div class="hidden-xs col-sm-3">
+
+        <div class="row">
+          <div class="col-xs-12">
+            <h3>Pesquisar</h3>
+            <div class="input-group">
+              <input type="text" class="form-control" placeholder="Pesquisar..." name="">
+              <span class="input-group-btn">
+                <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search"></span></button>
+              </span>
+            </div>
+            <hr>
+          </div>
+        </div>
+                <div class="row">
+          <div class="col-xs-12">
+            <h3>Ordenar Por</h3>
+            <div class="radio">
+              <label><input type="radio" name="data" checked>Data Crescente</label>
+            </div>
+            <div class="radio">
+              <label><input type="radio" name="data_decrescente" >Data Descrecente</label>
+            </div>
+            <hr>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-12">
+            <h3>Etiquetas</h3>
+            <div class="btn btn-default" style="padding:2px;"><h4>Vídeos</h4></div>
+            <div class="btn btn-default" style="padding:2px;"><h4>Orações</h4></div>
+            <div class="btn btn-default" style="padding:2px;"><h4>Fotos</h4></div>
+          </div>
+        </div>
+
+      </div>
+      #}
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <ul class="pager">
+          <li{% if page == 1 %} class="disabled"{% endif %}>
+            <a{% if page > 1 %} href="{{ base_url() }}/midia?ordem={{ ordem }}&page={{ page - 1 }}"{% endif %}>Anterior</a>
+          </li>
+          <li{% if page >= amountPages %} class="disabled"{% endif %}>
+            <a{% if page < amountPages %} href="{{ base_url() }}/midia?ordem={{ ordem }}&page={{ page + 1 }}"{% endif %}>Próximo</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{%- endblock %}
+{% block javascripts %} {{ parent()}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+{% endblock %}

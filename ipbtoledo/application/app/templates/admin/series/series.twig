@@ -1,0 +1,160 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'series' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li >Início</li>
+  <li class="active">Series</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-6">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="page-header">
+            <h2>Série Atual</h2>
+          </div>
+          <div>
+            <form role="form" action="{{ base_url() }}/admin/series/alteraSerieAtual" method="POST"  enctype="multipart/form-data">
+              <div class="form-group">
+                <select id="seriePost" name="serieAtual" class="form-control" style="">
+                  <option name="{{ serieAtualid }}" selected="selected" value="{{ serieAtualid }}">{{ serieAtualnome }}</option>
+                  {% for serie in postSerieTotal if serie.id != serieAtualid and serie.status == 1 %}
+                    <option name="{{ serie.id }}"  value="{{ serie.id }}">
+                      {{ serie.nome_serie }}
+                    </option>
+                  {% endfor %}
+                </select>
+              </div>
+
+              <button class="btn btn-info">Alterar</button>
+            </form>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="page-header">
+            <h2>Programa Devocional</h2>
+          </div>
+          <div>
+            <form role="form" action="{{ base_url() }}/admin/series/alteraProgramaDevocional" method="POST"  enctype="multipart/form-data">
+              <div class="form-group">
+                <select id="programaPost" name="programaDevocional" class="form-control" style="">
+                  <option name="{{ programaDevocional.id }}" selected="selected" value="{{ programaDevocional.id }}">{{ programaDevocional.nome_serie }}</option>
+                  {% for serie in postSerieTotal if serie.id != programaDevocional.id and serie.status == 1 %}
+                    <option name="{{ serie.id }}"  value="{{ serie.id }}">
+                      {{ serie.nome_serie }}
+                    </option>
+                  {% endfor %}
+                </select>
+              </div>
+
+              <button class="btn btn-info">Alterar</button>
+            </form>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="page-header">
+            <h2>Série Especial</h2>
+          </div>
+          <div>
+            <form role="form" action="{{ base_url() }}/admin/series/alteraSerieEspecial" method="POST"  enctype="multipart/form-data">
+              <div class="form-group">
+                <select id="seriePost" name="serieEspecial" class="form-control" style="">
+                  <option name="{{ serieEspecial.id }}" selected="selected" value="{{ serieEspecial.id }}">{{ serieEspecial.nome_serie }}</option>
+                  {% for serie in postSerieTotal if serie.id != serieEspecial.id and serie.status == 1 %}
+                    <option name="{{ serie.id }}"  value="{{ serie.id }}">
+                      {{ serie.nome_serie }}
+                    </option>
+                  {% endfor %}
+                </select>
+              </div>
+
+              <button class="btn btn-info">Alterar</button>
+            </form>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6">
+      <div class="page-header">
+        <p class="pull-right"><a class="btn btn-success" href="{{ base_url() }}/admin/series/add">
+          <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+        </a></p>
+        <h2>Séries de Mensagens</h2>
+      </div>
+      <div class="row">
+        <table class="table table-striped">
+          {% if postSerie is not empty %}
+            {% for post in postSerie %}
+              <tr>
+                <td class="col-xs-12 col-sm-2">
+                  <img src="{{ base_url() }}/{{ post.img_destaque }}" style="max-width:100%;">
+                </td>
+                <td>
+                  <h4>{{ post.nome_serie }}</h4>
+                </td>
+                <td class="col-sm-4">
+                  <h4 style="border-style:solid; border-width:1px; border-radius:3px; border-color:gray; padding:3px; text-align:center;" >
+                    Data: {{ post.usr_date }}
+                  </h4>
+                  <p>
+                    <a class="btn btn-block btn-danger" href="{{ base_url() }}/admin/series/delete/{{ post.id }}">
+                      <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+                    </a>
+                  </p>
+
+                  <p>
+                    <a class="btn btn-info btn-block" href="{{ base_url() }}/admin/series/edit/{{ post.id }}">
+                            Editar
+                    </a>
+                  </p>
+                  {% if post.status %}
+                    <p><a href="{{ base_url() }}/admin/series/{{ post.id }}/disable" class="btn btn-default btn-block">
+                            Despublicar
+                          </a></p>
+                  {% else %}
+                    <p><a href="{{ base_url() }}/admin/series/{{ post.id }}/enable" class="btn btn-success btn-block">
+                            Publicar
+                          </a></p>
+                  {% endif %}
+                </td>
+              </tr>
+            {% endfor %}
+          {% else %}
+            <div class="alert alert-danger" role="alert">
+              Não existem Séries Cadastradas.
+            </div>
+          {% endif %}
+        </table>
+
+        <div class="row">
+          <div class="col-xs-12">
+            <ul class="pager">
+              <li{% if page == 1 %} class="disabled"{% endif %}>
+                <a{% if page > 1 %} href="{{ base_url() }}/admin/series?page={{ page - 1 }}"{% endif %}>Anterior</a>
+              </li>
+              <li{% if page >= amountPages %} class="disabled"{% endif %}>
+                <a{% if page < amountPages %} href="{{ base_url() }}/admin/series?page={{ page + 1 }}"{% endif %}>Próximo</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <hr>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

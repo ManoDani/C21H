@@ -1,0 +1,54 @@
+{% extends "layout.twig" %}
+{% block html_title %}{{ course.module.level.title }} - {{ parent() }}{% endblock %}
+{% set nav_active = 'courses' %}
+{% block content %}
+<div class="container">
+<div class="page-header">
+  <h1>{{ course.module.level.number }}. {{ course.module.level.title }}</h1>
+</div>
+
+{% if course.module.level.video -%}
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="embed-responsive embed-responsive-16by9">
+        <div class="embed-responsive-item">{{ course.module.level.embed|raw }}</div>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endif %}
+
+<div class="row">
+  <div class="col-lg-9">
+    {{ markdown(course.module.level.content|striptags)|raw }}
+  </div>
+  {% if attachments %}
+  <div class="col-lg-3">
+    <h3>Anexos</h3>
+    {% for attachment in attachments %}
+    <p>
+      <a class="btn btn-sm btn-default" href="{{ base_url() }}/{{ attachment.path }}" download="{{ attachment.file_name }}">
+        <span class="glyphicon glyphicon-save-file" aria-hidden="true"></span> {{ attachment.file_name }}
+      </a>
+    </p>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
+<nav aria-label="Paginação">
+  <ul class="pager">
+    <li class="previous{% if previous_disabled %} disabled{% endif %}">
+        <a href="{{ base_url() }}/course/{{ course.id }}
+        {%- if not previous_disabled %}/module/{{ previous_module }}/level/{{ previous_level }}{% endif %}"><span aria-hidden="true">&larr;</span> Anterior</a>
+    </li>
+    <li class="next{% if next_disabled %} disabled{% endif %}">
+        <a href="{{ base_url() }}/course/{{ course.id }}
+        {%- if not next_disabled %}/module/{{ next_module }}/level/{{ next_level }}{% endif %}">Próximo <span aria-hidden="true">&rarr;</span></a>
+    </li>
+  </ul>
+</nav>
+</div>
+
+{% endblock %}

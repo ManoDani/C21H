@@ -1,0 +1,119 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Midias - Administração - {{ parent() }}{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+{% endblock %}
+{% set nav_active = 'series' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/series">Series</a></li>
+  <li class="active">Adicionar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <div class="row">
+    <div class="col-xs-12 col-sm-osset-1 col-sm-10">
+      <h2>Adicionar nova Série de Mensagens</h2>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-offset-1  col-sm-10">
+      <form role="form" data-toggle="validator" action="{{ base_url() }}/admin/series/add" method="POST"  enctype="multipart/form-data">
+
+        <div class="row">
+          <div class="col-sm-offset-3 col-sm-6">
+            <label for="titulo">Titulo</label>
+            <input id="titulo" class="form-control form-group" type="text" name="nome_serie" placeholder="Título" value="{{ post.titulo }}" required>
+            <input id="postid" type="hidden" name="id" value="{{ post.id }}">
+          </div>
+          <div class="col-sm-offset-3 col-sm-6">
+            <label for="slug">Slug</label>
+            <input id="slug" class="form-control form-group" type="text" name="slug" placeholder="Slug" value="{{ post.slug }}" required>
+            
+          </div>
+          <div class="col-sm-offset-3 col-sm-6">
+            <label for="titulo">Data</label>
+            <input id="titulo" class="form-control form-group" type="date" name="usr_date" placeholder="Título" value="{{ post.usr_date }}" required>
+          </div>
+        </div>
+
+        <div id="img" class="row">
+
+            <div class="col-xs-12 col-sm-offset-3 col-sm-6">
+
+              <div class="panel panel-default">
+                <div class="panel-heading text-center">
+                  Imagem de detaque
+                </div>
+                <div class="panel-body">
+                  <img id="img-perfil" src="{{ base_url() }}/images/default-img.png" alt="Imagem de destaque" class="img-responsive">
+                </div>
+                <div class="panel-footer">
+                  <p class="text-center" >Tamanho Máximo: 200kb</p>
+                  <input id="inputFile" type="file" class="btn btn-default btn-lg" style="display: block; margin: 0 auto; position:relative; max-width: 100%;" name="img_destaque"></input>
+
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+
+        </div>
+
+        <hr>
+
+        <div class="row" style="margin-bottom:3vh;">
+          <div class="col-xs-12 col-sm-offset-1 col-sm-10">
+            <a href="{{ base_url() }}/admin/series" class="btn btn-default btn-lg">Voltar</a>
+
+
+            <button type="submit" class="btn btn-success btn-lg">Adicionar</button>
+          </div>
+
+        </div>
+
+      </form>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+var editor = new SimpleMDE({
+  spellChecker: false,
+  toolbar: [
+    "bold", "italic", "heading", "|",
+    "quote", "unordered-list", "ordered-list", "|",
+    "link", "image", "table", "|",
+    "preview", "|", "guide"
+  ],
+});
+</script>
+
+<script type="text/javascript">
+
+  var imagem = $("#img-perfil");
+  var arquivo = $("#inputFile");
+  arquivo.on("change", function (){
+      if (arquivo[0].files.length == 0)
+      return false;
+      var file = arquivo[0].files[0];
+      var url = URL.createObjectURL(file);
+      imagem.attr("src", url);
+      imagem.attr("title", file.name);
+      console.log(arquivo[0].files[0]);
+   });
+
+</script>
+
+{% endblock %}

@@ -1,0 +1,81 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Cursos - Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'courses' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/courses">Cursos</a></li>
+  <li class="active">{{ course.title }}</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+{% if course.image != null %}
+<div class="jumbotron">
+  <img class="img-responsive center-block" src="{{ base_url() }}/{{ course.image }}">
+</div>
+{% endif %}
+
+<div class="page-header">
+  <div class="pull-right">
+    <a class="btn btn-primary" href="{{ base_url() }}/admin/courses/edit/{{ course.id }}">
+      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+    </a>
+    <a class="btn btn-danger" href="{{ base_url() }}/admin/courses/delete/{{ course.id }}">
+      <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+    </a>
+  </div>
+  <h1>{{ course.title }} <small>R${{ course.price }}</small></h1>
+</div>
+
+<div class="well">{{ course.description }}</div>
+
+{{ markdown(course.long_description|striptags)|raw }}
+
+<p class="text-right">
+  <a class="btn btn-xs btn-success" href="{{ base_url() }}/admin/modules/add?course={{ course.id }}">
+    <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Adicionar módulo
+  </a>
+</p>
+{% for module in modules %}
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div class="pull-right">
+      <a class="btn btn-xs btn-default" href="{{ base_url() }}/admin/modules/edit/{{ module.id }}/up">
+        <span class="glyphicon glyphicon-menu-up" aria-hidden="true"></span>
+      </a>
+      <a class="btn btn-xs btn-default" href="{{ base_url() }}/admin/modules/edit/{{ module.id }}/down">
+        <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+      </a>
+      <a class="btn btn-xs btn-primary" href="{{ base_url() }}/admin/modules/edit/{{ module.id }}">
+        <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+      </a>
+      <a class="btn btn-xs btn-danger" href="{{ base_url() }}/admin/modules/delete/{{ module.id }}">
+        <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+      </a>
+    </div>
+    <h3 class="panel-title">
+      {{ module.number }}.
+      <a href="{{ base_url() }}/admin/modules/{{ module.id }}">{{ module.title }}</a>
+    </h3>
+  </div>
+  <div class="panel-body">
+    <p>{{ module.description }}</p>
+    {% if module.levels %}
+    <ul class="list-group">
+      {% for level in module.levels %}
+      <li class="list-group-item">
+        {{ module.number }}.{{ level.number }}.
+        <a href="{{ base_url() }}/admin/levels/{{ level.id }}">{{ level.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+</div>
+{% else %}
+<div class="alert alert-danger" role="alert">Não existem módulos cadastrados</div>
+{% endfor %}
+
+{% endblock %}

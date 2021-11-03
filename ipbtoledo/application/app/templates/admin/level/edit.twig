@@ -1,0 +1,66 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Cursos - Administração - {{ parent() }}{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+{% endblock %}
+{% set nav_active = 'courses' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/courses">Cursos</a></li>
+  <li><a href="{{ base_url() }}/admin/courses/{{ level.course_id }}">{{ level.course_title }}</a></li>
+  <li><a href="{{ base_url() }}/admin/modules/{{ level.module_id }}">{{ level.module_title }}</a></li>
+  <li><a href="{{ base_url() }}/admin/levels/{{ level.id }}">{{ level.title }}</a></li>
+  <li class="active">Editar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Editar nível</h1>
+</div>
+
+{% for attachment in attachments %}
+<p>
+  <a class="btn btn-xs btn-danger" href="{{ base_url() }}/admin/levels/edit/{{ level.id }}/delete-attachment/{{ attachment.id }}">
+    <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+  </a>
+  <a class="btn btn-sm btn-default" href="{{ base_url() }}/{{ attachment.path }}" download="{{ attachment.file_name }}">
+    <span class="glyphicon glyphicon-save-file" aria-hidden="true"></span> {{ attachment.file_name }}
+  </a>
+</p>
+{% endfor %}
+
+<form role="form" data-toggle="validator" action="{{ base_url() }}/admin/levels/update" method="POST" enctype="multipart/form-data">
+  <input type="hidden" name="id" value="{{ level.id }}">
+  <input type="hidden" name="number" value="{{ level.number }}">
+  <input class="form-control form-group" type="text" name="title" value="{{ level.title }}" autofocus required>
+  <select class="form-control form-group" name="module_id">
+    {% for module in modules %}
+    <option {% if module.id == level.module_id %}selected {% endif %}value="{{ module.id }}">{{ module.title }}</option>
+    {% endfor %}
+  </select>
+  <div class="form-group">
+    <input type="file" name="attachments[]" multiple>
+  </div>
+  <input class="form-control form-group" type="url" name="video" placeholder="Vídeo" value="{{ level.video }}">
+  <textarea class="form-control form-group" rows="10" name="content" required>{{ level.content }}</textarea>
+  <button type="submit" class="btn btn-primary">Atualizar</button>
+</form>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+var editor = new SimpleMDE({
+  spellChecker: false,
+  toolbar: [
+    "bold", "italic", "heading", "|",
+    "quote", "unordered-list", "ordered-list", "|",
+    "link", "image", "table", "|",
+    "preview", "|", "guide"
+  ],
+});
+</script>
+{% endblock %}

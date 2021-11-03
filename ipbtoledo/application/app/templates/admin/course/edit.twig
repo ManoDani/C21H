@@ -1,0 +1,75 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Cursos - Administração - {{ parent() }}{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+{% endblock %}
+{% set nav_active = 'courses' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/courses">Cursos</a></li>
+  <li><a href="{{ base_url() }}/admin/courses/{{ course.id }}">{{ course.title }}</a></li>
+  <li class="active">Editar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Editar curso</h1>
+</div>
+
+<form role="form" data-toggle="validator" action="{{ base_url() }}/admin/courses/update" method="POST"  enctype="multipart/form-data">
+  <input type="hidden" name="id" value="{{ course.id }}">
+  <div class="form-group">
+    <label for="inputTitle">Título</label>
+    <input class="form-control" type="text" id="inputTitle" name="title" value="{{ course.title }}" autofocus required>
+  </div>
+  <div class="form-group">
+    <label for="inputPrice">Preço</label>
+    <input class="form-control" type="text" id="inputPrice" name="price" value="{{ course.price }}" required>
+  </div>
+  {% if course.image is not empty %}
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      Imagem de destaque atual
+      <a href="{{ base_url() }}/admin/courses/remove-image/{{ course.id }}"" type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></a>
+    </div>
+    <div class="panel-body">
+      <img src="{{ base_url() }}/{{ course.image }}" alt="Imagem do curso" class="img-responsive">
+    </div>
+  </div>
+  {% else %}
+  <div class="form-group">
+    <label for="inputFile">Imagem de destaque</label>
+    <input class="form-control" type="file" id="inputFile" name="image">
+  </div>
+  {% endif %}
+  <div class="form-group">
+    <label for="inputDescription">Breve descrição</label>
+    <input class="form-control" type="text" id="inputDescription" name="description" value="{{ course.description }}" required>
+  </div>
+  <div class="form-group">
+    <label for="inputLongDescription">Descrição completa</label>
+    <textarea class="form-control" rows="5" id="inputLongDescription" name="long_description" required>{{ course.long_description }}</textarea>
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary">Atualizar</button>
+  </div>
+</form>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+var editor = new SimpleMDE({
+  spellChecker: false,
+  toolbar: [
+    "bold", "italic", "heading", "|",
+    "quote", "unordered-list", "ordered-list", "|",
+    "link", "image", "table", "|",
+    "preview", "|", "guide"
+  ],
+});
+</script>
+{% endblock %}

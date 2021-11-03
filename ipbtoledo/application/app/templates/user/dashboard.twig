@@ -1,0 +1,94 @@
+{% extends "layout.twig" %}
+{% block html_title %}Meu painel - {{ parent() }}{% endblock %}
+{% set header_type = 'dashboard'%}
+{% block content -%}
+
+<div class="container dashboard">
+  <div class="page-header">
+    <h1>Meu painel</h1>
+  </div>
+<div class="container">
+      {% if (flash['success']) %}
+      <div class="alert alert-success alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['success'] }}
+      </div>
+      {% endif %}
+      {% if (flash['info']) %}
+      <div class="alert alert-info alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['info'] }}
+      </div>
+      {% endif %}
+      {% if (flash['warning']) %}
+      <div class="alert alert-warning alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['warning'] }}
+      </div>
+      {% endif %}
+      {% if (flash['danger']) %}
+      <div class="alert alert-danger alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['danger'] }}
+      </div>
+      {% endif %}
+    </div>
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10">
+        <h2>Meus pedidos</h2>
+      {% if orders %}
+      <table class="table table-hover data-table">
+        <thead>
+          <tr>
+            <th>Código do Pedido</th>
+            <th>Curso</th>
+            <th>Preço</th>
+            <th>Código da Transação</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for order in orders %}
+          <tr>
+            <td>{{ order.reference }}</td>
+            <td>{{ order.course_name }}</td>
+            <td>R${{ order.amount }}</td>
+            <td>{{ order.transaction }}</td>
+            <td>{{ order.status }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% else %}
+      <div class="alert alert-warning" role="alert">Não existem pedidos</div>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-offset-1 col-md-10">
+      <h2>Meus cursos</h2>
+      {% for course in courses %}
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">
+            {{ course.name }}
+          </h3>
+        </div>
+        <div class="panel-body">
+          <div class="pull-right">
+            <a class="btn btn-default" href="{{ base_url() }}/course/{{ course.id }}/module/1/level/1">
+              Iniciar curso
+            </a>
+          </div>
+          <p>{{ course.description }}</p>
+        </div>
+      </div>
+      {% else %}
+      <div class="alert alert-warning" role="alert">Você ainda não possui cursos</div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+{%- endblock %}

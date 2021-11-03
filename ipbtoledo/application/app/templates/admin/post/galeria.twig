@@ -1,0 +1,91 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Midias - Administração - {{ parent() }}{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+{% endblock %}
+{% set nav_active = 'courses' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/posts">Midias</a></li>
+  <li class="active">Galeria</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Adicionar fotos a Galeria</h1>
+</div>
+
+<form id="myform" name="myform" action="{{ base_url() }}/admin/posts/galeria/add" method="POST"  enctype="multipart/form-data">
+<div class="container">
+
+  <div class="row">
+    <div class="col-xs-12 col-sm-6">
+      <div class="panel panel-default">
+        <div class="panel-body" style="background-color:whitesmoke">
+          <div class="col-xs-12 col-sm-8">
+            <input id="input-img" type="file" name="imagens[]" multiple style="    padding-top: 5px;">
+            <input id="{{ post.id }}" type="hidden" value="{{ post.id }}" name="id_post" class="postid">
+          </div>
+          <div class="col-xs-12 col-sm-4">
+            <button type="submit" class="btn btn-success">Adicionar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12">
+      <div id="img-galery">
+      </div>
+      {% for postFile in postFiles %}
+        <div class="col-xs-12 col-sm-3">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <a href="{{ base_url() }}/admin/posts/galeria/remove/{{ postFile.id }}"><div class="btn btn-default">x </div></a>
+            </div>
+            <div class="panel-body" style="height:250px;">
+              <img class="add-galeria-img" src="{{ base_url() }}/{{ postFile.file }}" style="max-height:220px;">
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+
+</div>
+
+</form>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+var editor = new SimpleMDE({
+  spellChecker: false,
+  toolbar: [
+    "bold", "italic", "heading", "|",
+    "quote", "unordered-list", "ordered-list", "|",
+    "link", "image", "table", "|",
+    "preview", "|", "guide"
+  ],
+});
+</script>
+
+
+<script>
+
+function removerImagem() {
+
+}
+
+</script>
+
+
+{% endblock %}

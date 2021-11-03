@@ -1,0 +1,24 @@
+{% extends "layout.twig" %}
+{% set nav_active = 'manutencao' %}
+{% set header_type = 'manutencao' %}
+{% block content -%}
+
+<div id="manutencao-content">
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+
+        <h1 class="text-center">Aguarde!</h1>
+        <h2 class="text-center">A página estará pronta em breve!</h2>
+      </div>
+    </div>
+  </div>
+
+
+</div>
+{%- endblock %}
+{% block javascripts %} {{ parent()}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+{% endblock %}

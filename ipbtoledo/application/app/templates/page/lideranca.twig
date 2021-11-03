@@ -1,0 +1,85 @@
+{% extends "layout.twig" %}
+{% set nav_active = 'igreja_lideranca' %}
+{% set header_type = 'index' %}
+{% block content -%}
+<div id="content-igreja">
+
+  <div id="banner-igreja">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <h1 class="" style="    color: #353535; margin-top: 10px;">/ Liderança</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <ol class="breadcrumb">
+          <li><a href="{{ base_url() }}">Início</a></li>
+          <li class="active">Liderança</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+
+  <div id="lideranca-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+          <div class="row">
+            <div class="col-xs-12">
+              <h1>Pastor</h1>
+            </div>
+            <div class="col-xs-4">
+              <img src="{{ base_url() }}/images/pastor.jpeg">
+            </div>
+            <div class="col-xs-8">
+              <h3>Rev. José Ricardo Capelari</h3>
+              <p>ricardocapelari@hotmail.com</p>
+              <p>45 3054-6767</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-xs-12 col-sm-4">
+
+
+        </div>
+        <div class="col-xs-12 col-sm-3">
+          <h1>Presbíteros</h1>
+          <p style="font-size:medium;">Presbítero Douglas Sindeaux da Cruz</p>
+          <p style="font-size:medium;">Presbítero Geraldo Domingues do Nascimento</p>
+          <p style="font-size:medium;">Presbítero Jonatan Vallegas de Aguiar</p>
+          <p style="font-size:medium;">Presbítero Vilson Wiedermann Gallo</p>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+          <h1>Diáconos</h1>
+
+          <p style="font-size:medium;  margin-bottom:1px;"><strong>Diácono Daniel Felipe</strong> </p>
+          <p style="margin-bottom:15px;">dnielfesilva@gmail.com</p>
+
+          <p style="font-size:medium; margin-bottom:1px;"><strong>Diácono Douglas Sindeaux</strong> </p>
+          <p style="margin-bottom:15px;">douglassindeaux@gmail.com</p>
+
+          <p style="font-size:medium;  margin-bottom:1px;"><strong>Diácono Matheus Henrique</strong> </p>
+          <p style="margin-bottom:15px;">matheushcvieira@hotmail.com</p>
+
+          <p style="font-size:medium;  margin-bottom:1px;"><strong>Diácono Nelson Kodama</strong> </p>
+          <p style="margin-bottom:15px;">nel_mv@hotmail.com</p>
+
+          
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+{%- endblock %}
+{% block javascripts %} {{ parent()}}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+{% endblock %}

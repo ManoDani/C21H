@@ -1,0 +1,65 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Cursos - Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'courses' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/courses">Cursos</a></li>
+  <li><a href="{{ base_url() }}/admin/courses/{{ level.course_id }}">{{ level.course_title }}</a></li>
+  <li><a href="{{ base_url() }}/admin/modules/{{ level.module_id }}">{{ level.module_title }}</a></li>
+  <li class="active">{{ level.title }}</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <div class="pull-right">
+    <a class="btn btn-primary" href="{{ base_url() }}/admin/levels/edit/{{ level.id }}">
+      <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+    </a>
+    <a class="btn btn-danger" href="{{ base_url() }}/admin/levels/delete/{{ level.id }}">
+      <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+    </a>
+  </div>
+  <h1>{{ level.number }}. {{ level.title }}</h1>
+</div>
+
+{% if level.video -%}
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <div class="embed-responsive embed-responsive-16by9">
+        <div class="embed-responsive-item">{{ level.embed|raw }}</div>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endif %}
+
+<div class="row">
+  {% if attachments %}
+  <div class="col-lg-9">
+    {{ markdown(level.content|striptags)|raw }}
+  </div>
+
+  <div class="col-lg-3">
+    <h3>Anexos</h3>
+    {% for attachment in attachments %}
+    <p>
+      <a class="btn btn-sm btn-default" href="{{ base_url() }}/{{ attachment.path }}" download="{{ attachment.file_name }}">
+        <span class="glyphicon glyphicon-save-file" aria-hidden="true"></span> {{ attachment.file_name }}
+      </a>
+    </p>
+    {% endfor %}
+  </div>
+  {% else %}
+
+      <div class="col-lg-12">
+      {{ markdown(level.content|striptags)|raw }}
+      </div
+
+  {% endif %}
+</div>
+
+
+{% endblock %}

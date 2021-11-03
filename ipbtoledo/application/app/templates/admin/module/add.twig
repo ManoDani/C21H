@@ -1,0 +1,38 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Cursos - Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'courses' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/courses">Cursos</a></li>
+  {% for course in courses if course.id == course_id %}
+  <li><a href="{{ base_url() }}/admin/courses/{{ course.id }}">{{ course.title }}</a></li>
+  {% endfor %}
+  <li class="active">Adicionar módulo</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Adicionar novo módulo</h1>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <form role="form" data-toggle="validator" action="{{ base_url() }}/admin/modules/add" method="POST">
+      <input class="form-control form-group" type="text" name="title" placeholder="Título" autofocus required>
+      <input class="form-control form-group" type="text" name="description" placeholder="Breve descrição" required>
+      <select class="form-control form-group" name="course_id">
+        {% for course in courses %}
+        <option value="{{ course.id }}"{{ course.id == course_id ? " selected" }}>{{ course.title }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit" class="btn btn-success">Adicionar</button>
+    </form>
+  </div>
+</div>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+{% endblock %}

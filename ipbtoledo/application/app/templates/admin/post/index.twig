@@ -1,0 +1,214 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Postagens - Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'posts' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li class="active">Postagens</li>
+</ol>
+{% endblock %}
+{% block content %}
+<div id="admin-curses">
+  <div class="page-header">
+    <p class="pull-right"><a class="btn btn-success" href="{{ base_url() }}/admin/posts/add">
+      <span class="glyphicon glyphicon-plus" aria-hidden="true"></span>
+    </a></p>
+    <h1>Mídias</h1>
+  </div>
+  <div id="midias" class="container">
+    {% if posts is not empty %}
+      {% for post in posts %}
+        {% if post.id_tipo_post == 2 %}
+
+          <div class="video row">
+            <div class="col-xs-12 col-sm-offset-1 col-sm-10">
+
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <div class="pull-right">
+                    <a class="btn btn-xs btn-danger" href="{{ base_url() }}/admin/posts/delete/{{ post.id }}">
+                      <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+                    </a>
+                  </div>
+                  <h3 class="panel-title">
+                    <a href="{{ base_url() }}/admin/posts/{{ post.id }}">{{ post.titulo }}</a>
+                  </h3>
+                </div>
+                <div class="panel-body">
+                  <div class="col-sm-4 hidden-xs">
+                    {{ post.embed_desktop|raw }}
+                  </div>
+                  <div id="midias-embed-iphone" class="col-sm-4 visible-xs">
+                    {{ post.embed_mobile_iphone|raw }}
+                  </div>
+                  <div id="midias-embed-samsung" class="col-sm-4 visible-xs">
+                    {{ post.embed_mobile_samsung|raw }}
+                  </div>
+                  <div class="col-sm-5">
+                    <p>{{ post.descricao }}</p>
+                  </div>
+                  <div class="col-sm-3" style="border-width: 1px; border-style: solid; border-color: #ccc; #f9f9f9">
+                    <div class="row">
+                      <div class="col-xs-12">
+
+                        <h4 class="text-center" style="border-radius: 5px; border-style: solid; border-width:1px; padding-top: 3px; padding-bottom: 3px; border-color: #ccc; background-color:white;"><strong>Série: </strong> {{ post.categoria }}</h4>
+                        <h4 class="text-center" style="border-radius: 5px; border-style: solid; border-width:1px; padding-top: 3px; padding-bottom: 3px; border-color: #ccc; background-color:white;"><strong>Data:</strong> {{ post.data_alteracao }}</h4>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-12">
+                        <p><a class="btn btn-primary btn-block" href="{{ base_url() }}/admin/posts/{{ post.id }}">
+                          Editar
+                        </a>
+                        </p>
+                      </div>
+                    </div>
+                    {% if post.status %}
+
+                      <div class="row">
+
+                        <div class="col-xs-12">
+                          <p><a href="{{ base_url() }}/admin/posts/{{ post.id }}/disable" class="btn btn-default btn-block">
+                            Despublicar
+                          </a></p>
+                        </div>
+                      </div>
+                    {% else %}
+                      <div class="row">
+                        <div class="col-xs-12">
+                          <p><a href="{{ base_url() }}/admin/posts/{{ post.id }}/enable" class="btn btn-success btn-block">
+                            Publicar
+                          </a></p>
+                        </div>
+                      </div>
+                    {% endif %}
+
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        {% endif %}
+
+        {% if post.id_tipo_post == 1 %}
+
+          <div class="foto row">
+            <div class="col-xs-12 col-sm-offset-1 col-sm-10">
+
+              <div class="panel panel-default ">
+                <div class="panel-heading">
+                  <div class="pull-right">
+                    <a class="btn btn-xs btn-danger" href="{{ base_url() }}/admin/posts/delete/{{ post.id }}">
+                      <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+                    </a>
+                  </div>
+                  <h3 class="panel-title">
+                    <a href="{{ base_url() }}/admin/posts/{{ post.id }}">{{ post.titulo }}</a>
+                  </h3>
+                </div>
+                <div class="panel-body">
+
+                  {% if post.destaque is not empty %}
+                  <div class="col-sm-4">
+
+                    <img class="img-responsive" src="{{ base_url() }}/{{ post.destaque }}">
+                  </div>
+                  <div class="col-sm-5">
+                     <p>{{ post.descricao }}</p>
+                  </div>
+
+                  {% else %}
+                  <div class="col-sm-9">
+                     <p>{{ post.descricao }}</p>
+                  </div>
+
+                  {% endif %}
+                  <div class="col-sm-3" style="border-width: 1px; border-style: solid; border-color: #ccc; #f9f9f9">
+                    <div class="row">
+                      <div class="col-xs-12">
+                        <h4 class="text-center" style="border-radius: 5px; border-style: solid; border-width:1px; padding-top: 3px; padding-bottom: 3px; border-color: #ccc; background-color:white;"><strong>Série:</strong> {{ post.categoria }}</h4>
+                        <h4 class="text-center" style="border-radius: 5px; border-style: solid; border-width:1px; padding-top: 3px; padding-bottom: 3px; border-color: #ccc; background-color:white;"><strong>Data:</strong> {{ post.data_alteracao }}</h4>
+                      </div>
+                    </div>
+
+                    <div class="row">
+                      <div class="col-xs-12">
+                      <p><a class="btn btn-primary btn-block" href="{{ base_url() }}/admin/posts/{{ post.id }}">
+                        Editar
+                      </a>
+                      </p>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-12">
+                      <p><a class="btn btn-success btn-warning" href="{{ base_url() }}/admin/posts/galeria/{{ post.id }}" style="width:100%;">
+                        Galeria
+                      </a>
+                      </p>
+                      </div>
+                    </div>
+                    {% if post.status %}
+                    <div class="row">
+                      <div class="col-xs-12">
+                        <p><a href="{{ base_url() }}/admin/posts/{{ post.id }}/disable" class="btn btn-default btn-block">
+                          Despublicar
+                        </a></p>
+                      </div>
+                    </div>
+                    {% else %}
+                    <div class="row">
+                      <div class="col-xs-12">
+                        <p><a href="{{ base_url() }}/admin/posts/{{ post.id }}/enable" class="btn btn-success btn-block">
+                          Publicar
+                        </a></p>
+                      </div>
+                    </div>
+                    {% endif %}
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      <div class="alert alert-danger" role="alert">Não existem posts cadastrados</div>
+    {% endif %}
+  </div>
+
+    <div class="row">
+      <div class="col-xs-12">
+        <ul class="pager">
+          <li{% if page == 1 %} class="disabled"{% endif %}>
+            <a{% if page > 1 %} href="{{ base_url() }}/admin/posts?page={{ page - 1 }}"{% endif %}>Anterior</a>
+          </li>
+          <li{% if page >= amountPages %} class="disabled"{% endif %}>
+            <a{% if page < amountPages %} href="{{ base_url() }}/admin/posts?page={{ page + 1 }}"{% endif %}>Próximo</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+</div>
+
+{% endblock %}
+{% block javascripts %}
+<script>
+  $("#filtro-tipo-post").change(function() {
+    var tipo = $("#tipoPost option:selected").val();
+
+    if(tipo == 2) {
+      $("#img").hide();
+      $("#video").show();
+    } else {
+      if(tipo == 1) {
+        $("#img").show();
+        $("#video").hide();
+      }
+    }
+
+  }
+  );
+</script>
+{% endblock %}

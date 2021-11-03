@@ -1,0 +1,112 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'index' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li class="active">Início</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="main">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1><strong>Website IPB Toledo</strong> </h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 ">
+        <p>Sessão administrativa.</p>
+        <p>Este website pode ser evoluido e customizado conforme necessidade.</p>
+        <hr>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12" >
+        <div class="page-header" style="margin-top:10px;">
+          <h2><strong>Homepage - Banners</strong> <p class="pull-right"><a class="btn btn-success" href="{{ base_url() }}/admin/banners/add">
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"> </span>
+            </a>
+          </p></h2>
+
+        </div>
+
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-sm-6">
+        <h4><strong>Banners Desktop</strong></h4>
+        <p>Melhor resolução: <strong>2000 x 755 px</strong></p>
+        <table class="table table-striped">
+          {% for banner in banners if banner.is_mobile == 0 %}
+            <tr class="col-xs-12 ">
+              <td class="col-sm-8">
+                <img src="{{ base_url() }}/{{ banner.image }}" style="max-width:100%;">
+              </td>
+              <td class="col-sm-4">
+                <h4>Prioridade: {{ banner.priority }}</h4>
+                <h4 style="border-style:solid; border-width:1px; border-radius:3px; border-color:gray; padding:3px; text-align:center;" >
+                  Data: {{ banner.upload_date }}
+                </h4>
+                <p>
+                  <a class="btn btn-block btn-danger" href="{{ base_url() }}/admin/banners/delete/{{ banner.id }}">
+                    <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+                  </a>
+                </p>
+
+                <p>
+                  <a class="btn btn-info btn-block" href="{{ base_url() }}/admin/banners/edit/{{ banner.id }}">
+                          Editar
+                  </a>
+                </p>
+
+              </td>
+            </tr>
+          {% else %}
+            <p>Não há banners para esta sessão.</p>
+          {% endfor %}
+        </table>
+
+
+      </div>
+      <div class="col-xs-12 col-sm-6">
+        <h4><strong>Banners Mobile</strong></h4>
+        <p>Melhor resolução: <strong>800 x 800px</strong></p>
+        <table class="table table-striped">
+          {% for banner in banners if banner.is_mobile == 1 %}
+            <tr class="col-xs-12 ">
+              <td class="col-sm-8">
+                <img src="{{ base_url() }}/{{ banner.image }}" style="max-width:100%;">
+              </td>
+              <td class="col-sm-4">
+                <h4>Prioridade: {{ banner.priority }}</h4>
+                <h4 style="border-style:solid; border-width:1px; border-radius:3px; border-color:gray; padding:3px; text-align:center;" >
+                  Data: {{ banner.upload_date }}
+                </h4>
+                <p>
+                  <a class="btn btn-block btn-danger" href="{{ base_url() }}/admin/banners/delete/{{ banner.id }}">
+                    <span class="glyphicon glyphicon-trash" aria-hidden="true"></span>
+                  </a>
+                </p>
+
+                <p>
+                  <a class="btn btn-info btn-block" href="{{ base_url() }}/admin/banners/edit/{{ banner.id }}">
+                          Editar
+                  </a>
+                </p>
+
+              </td>
+            </tr>
+          {% else %}
+            <p>Não há banners para esta sessão.</p>
+          {% endfor %}
+        </table>
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+{% endblock %}

@@ -1,0 +1,291 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Midias - Administração - {{ parent() }}{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+{% endblock %}
+{% set nav_active = 'courses' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/posts">Midias</a></li>
+  <li class="active">Adicionar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Adicionar nova Mídia</h1>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12  col-sm-12">
+      <form role="form" data-toggle="validator" action="{{ base_url() }}/admin/posts/add" method="POST"  enctype="multipart/form-data">
+        <div class="row">
+          <div class="col-sm-6">
+            <label for="titulo">Titulo</label>
+            <input id="titulo" class="form-control form-group" type="text" name="titulo" placeholder="Título" value="{{ post.titulo }}" required>
+            <input id="postid" type="hidden" name="id" value="{{ post.id }}">
+            <label for></label>
+            <textarea class="form-control form-group" rows="2" name="descricao" placeholder="Descrição"></textarea>
+          </div>
+          <div class="col-sm-6">
+            <div class="form-group">
+              <label>Data:</label>
+              <input class="form-control form-group" type="date" name="data_alteracao" id="data_alteracao" value="">
+            </div>
+            <div class="row">
+              <div class="col-xs-6">
+                <div class="form-group">
+                  <label>Tipo de Mídia</label>
+                  <select id="tipoPost" name="id_tipo_post" class="form-control" style="max-width:200px;">
+                    {% for postType in postTypes %}
+                      {% if postType.id == 1 %}
+                        <option name="{{ postType.id }}" selected="selected" value="{{ postType.id }}" >{{ postType.nome }}</option>
+                      {% elseif postType.id != 3 %}
+                        <option name="{{ postType.id }}" value="{{ postType.id }}">{{ postType.nome }}</option>
+                      {% endif %}
+                    {% endfor %}
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-6">
+                <div class="form-group">
+                  <label>Série de Mensagens</label>
+                  <select id="seriePost" name="id_categoria" class="form-control" style="max-width:200px;">
+                    <option name="0" selected="selected" value="0">Sem Série</option>
+                    {% for postSerie in postSeries if postSerie.status == 1 %}
+                      <option name="{{ postSerie.id }}"  value="{{ postSerie.id }}">
+                        {{ postSerie.nome_serie }}
+                      </option>
+                    {% endfor %}
+                  </select>
+                </div>
+              </div>
+            </div>
+
+
+            <div id="img" style="display:none;" class="form-group">
+            <div class="row">
+              <div class="col-xs-12 col-sm-12">
+                {% if post.destaque is not empty %}
+                  <div class="panel panel-default">
+                    <div class="panel-heading text-center">
+                      Imagem de detaque
+                    </div>
+                    <div class="panel-body">
+                      <img id="img-perfil" src="{{ base_url() }}/{{ post.destaque }}" alt="Imagem de destaque" class="img-responsive">
+                    </div>
+                    <div class="panel-footer">
+                      <p class="text-center" >Tamanho Máximo: 300kb</p>
+                      <input id="inputFile" type="file" class="btn btn-default btn-lg" style="display: block; margin: 0 auto; position:relative; max-width: 100%;" name="destaque-img">Alterar</input>
+
+                    </div>
+                  </div>
+                {% else %}
+                  <div class="form-group">
+                    <label for="inputFile">Imagem de Destaque</label>
+                    <div class="panel panel-default">
+                      <div class="panel-heading">
+                      </div>
+                      <div class="panel-body">
+                      </div>
+
+
+                    </div>
+
+                  </div>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+          <div id="video" class="form-group">
+            <label>Vídeo</label>
+            <input   class="form-control form-group" type="url" name="destaque" placeholder="Link do Vídeo" style="max-width:600px;">
+          </div>
+            {#
+            <div class="form-group">
+              <label for="tags">Etiquetas:</label>
+              <input id="newtag" class="form-control form-group" type="text" name="tags">
+              <div id="tagmsg"></div>
+              <div id="addtag" class="btn btn-default">add</div>
+              <div class="panel panel-default">
+                <div class="row">
+                  <div id="taglist"></div>
+                </div>
+              </div>
+            </div>
+            #}
+          </div>
+        </div>
+
+        <hr>
+
+        <div class="row" style="margin-bottom:3vh;">
+          <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#confirma-exit">
+            Cancelar
+          </button>
+          <button type="submit" class="btn btn-success btn-lg">Adicionar</button>
+        </div>
+
+      </form>
+    </div>
+  </div>
+</div>
+
+<div id="confirma-exit" class="modal fade" role="dialog" aria-labeledby="confirma-exit-label">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 id="confirma-exit-label" class="modal-title" >Conformar Saída</h4>
+      </div>
+      <div class="modal-body">
+        <p>Deseja realmente sair e perder as informações não salvas?</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Voltar</button>
+        <a href="{{ base_url() }}/admin/posts" class="btn btn-primary" >Sair</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+var editor = new SimpleMDE({
+  spellChecker: false,
+  toolbar: [
+    "bold", "italic", "heading", "|",
+    "quote", "unordered-list", "ordered-list", "|",
+    "link", "image", "table", "|",
+    "preview", "|", "guide"
+  ],
+});
+</script>
+
+<script>
+//alter type of post in interface
+$(document).ready(function () {
+  var tipo = $("#tipoPost option:selected").val();
+
+    if(tipo == 2) {
+      $("#img").hide();
+      $("#video").show();
+    } else {
+      if(tipo == 1) {
+        $("#img").show();
+        $("#video").hide();
+      }
+    }
+});
+
+  $("#tipoPost").change(function() {
+    var tipo = $("#tipoPost option:selected").val();
+
+    if(tipo == 2) {
+      $("#img").hide();
+      $("#video").show();
+    } else {
+      if(tipo == 1) {
+        $("#img").show();
+        $("#video").hide();
+      }
+    }
+
+  }
+  );
+</script>
+
+<script>
+  // select post type
+  $("#tipoPost").change(function() {
+    var tipo = $("#tipoPost option:selected").val();
+
+    if(tipo == 2) {
+      $("#img").hide();
+      $("#video").show();
+    } else {
+      if(tipo == 1) {
+        $("#img").show();
+        $("#video").hide();
+      }
+    }
+
+  }
+  );
+</script>
+
+<script type="text/javascript">
+
+  var imagem = $("#img-perfil");
+  var arquivo = $("#inputFile");
+  arquivo.on("change", function (){
+      if (arquivo[0].files.length == 0)
+      return false;
+      var file = arquivo[0].files[0];
+      var url = URL.createObjectURL(file);
+      imagem.attr("src", url);
+      imagem.attr("title", file.name);
+      console.log(arquivo[0].files[0]);
+   });
+
+</script>
+
+<script type="text/javascript">
+document.getElementById('data_alteracao').valueAsDate = new Date();
+</script>
+
+<script>
+  $("#addtag").click(function() {
+
+    //pega os dados do form
+    var postid = $("#postid").val();
+    var nome = $("#newtag").val();
+
+    var baseURL = window.location.protocol + "//" + window.location.host;
+
+    //testa se nome é vazio
+    if (nome.trim().length == 0) {
+      $("#tagmsg").html("o nome é obrigatório.");
+    } else {
+      $.ajax({
+        type: "POST",
+        url: "/admin/posts/" + postid + "/tag/add",
+        data: "id_post=" + postid + "&nome="+ nome,
+        success: function(result){
+          var json = JSON.parse(result);
+          console.log(json);
+          console.log(json.nome);
+          $("#taglist").after('<div id="tag-'+json.id+'" value="'+json.id+'" class="col-xs-12"><div id="tag-rem-'+json.id+'" class="btn btn-default" style="padding:3px;">X</div>'+json.nome+'</div>');
+
+          $('#tag-rem-'+json.id).click( function() {
+
+            console.log(json.id);
+            console.log(postid);
+
+            $.ajax({
+              type: "POST",
+              url: "/admin/posts/"+ postid + "/tag/remove",
+              data:"id="+json.id,
+              success: function(result) {
+                var json = JSON.parse(result);
+                console.log(json.id);
+                $('#tag-'+json.id).remove();
+              }
+            });
+
+          });
+
+        },
+
+      });
+    }
+  });
+
+</script>
+
+
+{% endblock %}

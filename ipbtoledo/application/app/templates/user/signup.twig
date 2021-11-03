@@ -1,0 +1,57 @@
+{% extends "layout.twig" %}
+{% block html_title %}Crie a sua Conta - {{ parent() }}{% endblock %}
+{% block content -%}
+
+<div id="signup">
+  <div class="container">
+      {% if (flash['success']) %}
+      <div class="alert alert-success alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['success'] }}
+      </div>
+      {% endif %}
+      {% if (flash['info']) %}
+      <div class="alert alert-info alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['info'] }}
+      </div>
+      {% endif %}
+      {% if (flash['warning']) %}
+      <div class="alert alert-warning alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['warning'] }}
+      </div>
+      {% endif %}
+      {% if (flash['danger']) %}
+      <div class="alert alert-danger alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['danger'] }}
+      </div>
+      {% endif %}
+    </div>
+  <form role="form" data-toggle="validator" class="form-signup" action="{{ base_url() }}/users/signup" method="POST">
+    <div class="form-signup-heading">
+      <h2>Crie a sua conta</h2>
+      <p class="small">
+        Já possui uma conta? <a href="{{ base_url() }}/users/signin">Entre!</a>
+      </p>
+    </div>
+    <label for="input-name" class="sr-only">Nome</label>
+    <input type="text" name="name" id="input-name" class="form-control" placeholder="Nome" autofocus required>
+    <label for="input-email" class="sr-only">Email</label>
+    <input type="email" name="email" id="input-email" class="form-control" placeholder="Email" required>
+    <label for="input-password" class="sr-only">Senha</label>
+    <input type="password" name="password" id="input-password" class="form-control" placeholder="Senha" required>
+    <label for="input-confirm-password" class="sr-only">Confirme a senha</label>
+    <input type="password" name="confirm_password" id="input-confirm-password" class="form-control" placeholder="Confirme a senha" required>
+    {% if(flash['danger']) -%}
+    <div class='alert alert-danger'>{{ flash['danger'] }}</div>
+    {%- endif %}
+    <button class="btn btn-lg btn-primary btn-block" type="submit">Cadastrar</button>
+  </form>
+</div>
+
+{%- endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+{% endblock %}

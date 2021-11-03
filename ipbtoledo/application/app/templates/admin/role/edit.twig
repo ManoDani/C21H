@@ -1,0 +1,32 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Cargos - Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'role' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/role">Cargos</a></li>
+  <li>{{ role.description }}</li>
+  <li class="active">Editar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Editar cargo</h1>
+</div>
+
+<form role="form" data-toggle="validator" action="{{ base_url() }}/admin/role/update" method="POST">
+  <input type="hidden" name="id" value="{{ role.id }}">
+  <input class="form-control form-group" type="text"
+    name="name" pattern="[a-z]{1,}" title="Somente letras minúsculas"
+    value="{{ role.name }}" autofocus required>
+  <input class="form-control form-group" type="text"
+    name="description" value="{{ role.description }}" required>
+  <input class="form-control form-group" type="number" name="access_level" value="{{ role.access_level }}" autofocus required>
+  <button type="submit" class="btn btn-primary">Atualizar</button>
+</form>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+{% endblock %}

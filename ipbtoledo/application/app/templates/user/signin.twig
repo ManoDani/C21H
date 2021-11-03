@@ -1,0 +1,60 @@
+{% extends "layout.twig" %}
+{% block html_title %}Entre, por favor - {{ parent() }}{% endblock %}
+{% block content -%}
+<div id="signin">
+  <div class="container">
+      {% if (flash['success']) %}
+      <div class="alert alert-success alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['success'] }}
+      </div>
+      {% endif %}
+      {% if (flash['info']) %}
+      <div class="alert alert-info alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['info'] }}
+      </div>
+      {% endif %}
+      {% if (flash['warning']) %}
+      <div class="alert alert-warning alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['warning'] }}
+      </div>
+      {% endif %}
+      {% if (flash['danger']) %}
+      <div class="alert alert-danger alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Fechar"><span aria-hidden="true">&times;</span></button>
+        {{ flash['danger'] }}
+      </div>
+      {% endif %}
+    </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-4 col-sm-offset-4">
+        <form role="form" data-toggle="validator" class="form-signin" action="{{ base_url() }}/users/signin" method="POST">
+          <div class="form-signin-heading">
+            <h2>Entre, por favor</h2>
+            <p class="small">Ainda não possui conta? <a href="{{ base_url() }}/users/signup">Cadastre-se!</a></p>
+          </div>
+          <label for="input-email" class="sr-only">Email</label>
+          <input type="email" name="email" id="input-email" class="form-control" placeholder="Email" required autofocus>
+          <label for="input-password" class="sr-only">Senha</label>
+          <input type="password" name="password" id="input-password" class="form-control" placeholder="Senha" required>
+          {% if(flash['errorLogin']) -%}
+          <div class='alert alert-danger'>{{ flash['errorLogin'] }}</div>
+          {%- endif %}
+          <button class="btn btn-lg btn-primary btn-block" type="submit">Entrar</button>
+          <p class="small">Problemas para se conectar?<br><a href="{{ base_url() }}/users/recover">Recupere a sua conta.</a></p>
+        </form>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+{%- endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+{% endblock %}

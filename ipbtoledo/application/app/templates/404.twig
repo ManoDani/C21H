@@ -1,0 +1,14 @@
+{% extends "layout.twig" %}
+{% block html_title %}Página não encontrada - Erro 404 - {{ parent() }}{% endblock %}
+{% block content -%}
+
+<div class="container">
+  <h1>Página não encontrada</h1>
+  <h2 class="text-center">Erro 404</h2>
+  <p class="text-center">
+    A página que você está procurando não pode ser encontrada.<br>
+    Confira a barra de endereço para verificar se sua URL foi digitada corretamente.
+  </p>
+</div>
+
+{%- endblock %}

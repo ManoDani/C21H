@@ -1,0 +1,35 @@
+{% extends "layout.twig" %}
+{% block html_title %}Contato - {{ parent() }}{% endblock %}
+{% set nav_active = 'contrate' %}
+{% block content -%}
+
+
+<div id="banner-cursos">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="contato">
+
+  <div class="container">
+
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center">Muito Obrigado(a)!</h1>
+        <p class="text-center">Seu email foi enviado com sucesso. Em breve entraremos em contato.</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+{%- endblock %}
+
+{% block javascripts %} {{ parent()}}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+{% endblock %}

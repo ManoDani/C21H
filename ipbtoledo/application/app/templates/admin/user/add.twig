@@ -1,0 +1,131 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Usuários - Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'user' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/user">Usuários</a></li>
+  <li class="active">Adicionar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Cadastrar um usuário</h1>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-sm-12 col-md-offset-2 col-md-8">
+    <form role="form" data-toggle="validator" action="{{ base_url() }}/admin/user/add" method="POST">
+      <div class="form-group">
+        <label for="inputName">Nome</label>
+        <input type="text" class="form-control" id="inputName" name="name" placeholder="Nome" required>
+      </div>
+      <div class="form-group">
+        <label for="inputEmail">Email</label>
+        <input type="email" class="form-control" id="inputEmail" name="email" placeholder="Email" required>
+      </div>
+      <div class="row">
+        <div class="col-sm-6 form-group">
+          <label for="inputNascimento">Data de nascimento</label>
+          <input type="date" class="form-control" id="inputNascimento" name="nascimento">
+        </div>
+        <div class="col-sm-6 form-group">
+          <label for="inputCpf">CPF</label>
+          <input type="text" class="form-control" id="inputCpf" name="cpf" placeholder="CPF" pattern="^([0-9]){3}\.([0-9]){3}\.([0-9]){3}-([0-9]){2}$" title="Número do CPF com pontos e traço">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-3 form-group">
+          <label for="inputTelArea">DDD</label>
+          <input type="number" class="form-control" id="inputTelArea" name="tel_area" placeholder="DDD">
+        </div>
+        <div class="col-sm-9 form-group">
+          <label for="inputTelefone">Telefone</label>
+          <input type="number" class="form-control" id="inputTelefone" name="tel_numero" placeholder="Telefone">
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="inputCep">CEP</label>
+        <input type="text" class="form-control" id="inputCep" name="end_cep" placeholder="CEP" pattern="^([0-9]){5}-([0-9]){3}$" title="Código do CEP com traço">
+      </div>
+      <div class="row">
+        <div class="col-sm-9 form-group">
+          <label for="inputRua">Rua</label>
+          <input type="text" class="form-control" id="inputRua" name="end_rua" placeholder="Rua">
+        </div>
+        <div class="col-sm-3 form-group">
+          <label for="inputNumero">Número</label>
+          <input type="text" class="form-control" id="inputNumero" name="end_numero" placeholder="Número">
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="inputComplemento">Complemento</label>
+        <input type="text" class="form-control" id="inputComplemento" name="end_complemento" placeholder="Complemento">
+      </div>
+      <div class="form-group">
+        <label for="inputBairro">Bairro</label>
+        <input type="text" class="form-control" id="inputBairro" name="end_bairro" placeholder="Bairro">
+      </div>
+      <div class="row">
+        <div class="col-sm-9 form-group">
+          <label for="inputCidade">Cidade</label>
+          <input type="text" class="form-control" id="inputCidade" name="end_cidade" placeholder="Cidade">
+        </div>
+        <div class="col-sm-3 form-group">
+          <label for="selectEstado">Estado</label>
+          <select class="form-control" id="selectEstado" name="end_estado">
+            <option value="" selected>Estado</option>
+            <option value="AC">Acre</option>
+            <option value="AL">Alagoas</option>
+            <option value="AP">Amapá</option>
+            <option value="AM">Amazonas</option>
+            <option value="BA">Bahia</option>
+            <option value="CE">Ceará</option>
+            <option value="DF">Distrito Federal</option>
+            <option value="ES">Espírito Santo</option>
+            <option value="GO">Goiás</option>
+            <option value="MA">Maranhão</option>
+            <option value="MT">Mato Grosso</option>
+            <option value="MS">Mato Grosso do Sul</option>
+            <option value="MG">Minas Gerais</option>
+            <option value="PA">Pará</option>
+            <option value="PB">Paraíba</option>
+            <option value="PR">Paraná</option>
+            <option value="PE">Pernambuco</option>
+            <option value="PI">Piauí</option>
+            <option value="RJ">Rio de Janeiro</option>
+            <option value="RN">Rio Grande do Norte</option>
+            <option value="RS">Rio Grande do Sul</option>
+            <option value="RO">Rondônia</option>
+            <option value="RR">Roraima</option>
+            <option value="SC">Santa Catarina</option>
+            <option value="SP">São Paulo</option>
+            <option value="SE">Sergipe</option>
+            <option value="TO">Tocantins</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-group">
+        <label for="inputPassword">Senha</label>
+        <input type="password" class="form-control" id="inputPassword" name="password" placeholder="Senha">
+      </div>
+      <div class="form-group">
+        <label for="selectRole">Cargo</label>
+        <select class="form-control" id="selectRole" name="role_id">
+          {% for role in roles if role.name != 'guest' %}
+          <option value="{{ role.id }}">{{ role.description }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="form-group">
+        <button type="submit" class="btn btn-success">Cadastrar</button>
+      </div>
+    </form>
+
+  </div>
+</div>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+{% endblock %}

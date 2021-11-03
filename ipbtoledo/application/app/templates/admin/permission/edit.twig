@@ -1,0 +1,33 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Permissões - Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'permission' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/permission">Permissões</a></li>
+  <li>{{ permission.resource }}</li>
+  <li class="active">Editar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Editar permissão</h1>
+</div>
+
+<form role="form" data-toggle="validator" action="{{ base_url() }}/admin/permission/update" method="POST">
+  <input type="hidden" name="id" value="{{ permission.id }}">
+  <input class="form-control form-group" type="text" name="resource" value="{{ permission.resource }}" autofocus>
+  <input class="form-control form-group" type="text" name="description" value="{{ permission.description }}">
+  <select class="form-control form-group" name="role_id">
+    {% for role in roles %}
+    <option {% if role.id == permission.role_id %} selected {% endif %} value="{{ role.id }}">{{ role.description }}</option>
+    {% endfor %}
+  </select>
+  <button type="submit" class="btn btn-primary">Atualizar</button>
+</form>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+{% endblock %}

@@ -1,0 +1,847 @@
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+//@import "variables";
+
+body {
+  height:100%;
+
+  background-color:#fff;
+
+  .container {
+
+  }
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Exo', sans-serif;
+}
+
+header {
+  .active {
+    border-bottom-color: #f26a2d;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+  }
+}
+
+@media screen and (min-width:768px) {
+  header {
+    height: 9vh;
+  }
+}
+
+#banner-igreja {
+  height: 65px;
+  color: white;
+
+  border-top-color: #f26a2d;
+  border-top-style: solid;
+  border-top-width: 2px;
+
+  h1 {
+    font-size: 42px;
+    font-style: italic;
+    margin-top: 10px;
+    margin-bottom:0px;
+    display: inline-block;
+    color: black;
+
+  }
+
+  img {
+    max-width: 66px;
+    padding-bottom: 15px;
+  }
+}
+
+#banner-index {
+  background-color:transparent;
+
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+@media screen and (min-width:768px) {
+  #banner-index {
+    height:71vh;
+  }
+}
+
+#banner-lideranca {
+  height: 110px;
+  background-color: orange;
+  color: white;
+  background-image: url('../images/ceu2.jpg');
+  background-size:cover;
+
+  h1 {
+    font-size: 56px;
+    font-style: italic;
+
+  }
+
+  img {
+    max-width: 66px;
+    padding-bottom: 15px;
+  }
+}
+
+#banner-midia {
+  height: 80px;
+  border-top-color: #f26a2d;
+  border-top-style: solid;
+  border-top-width: 2px;
+  color: black;
+  img {
+    max-width: 66px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  #banner-midia {
+    h1 {
+      font-size: 28px;
+    }
+  }
+
+  #midia-menu {
+    li {
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+
+    p {
+      font-size: 9px;
+    }
+    .nav > li > a {
+      padding: 2px 2px;
+    }
+
+    h4 {
+      font-size: 13px;
+    }
+
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-nav .open .dropdown-menu {
+      margin-top: 0;
+      background-color: rgb(255, 255, 255);
+      border: 0;
+      z-index: 999;
+      text-align:center;
+}
+
+}
+
+#banner-onde_estamos {
+  height: auto;
+
+  color: black;
+
+  border-top-color: #f26a2d;
+  border-top-style: solid;
+  border-top-width: 2px;
+  img {
+    max-width: 66px;
+  }
+}
+
+#onde_estamos, #mensagens_series {
+  padding-bottom: 20vh;
+}
+
+@media screen and (max-width: 768px) {
+  #onde_estamos, #mensagens_series {
+    padding-bottom: 0vh;
+  }
+}
+
+#banner-cuidado_pastoral {
+  height: auto;
+  color: black;
+  border-top-color: #f26a2d;
+  border-top-style: solid;
+  border-top-width: 2px;
+  img {
+    max-width: 66px;
+  }
+}
+
+#btn-pedido {
+  background-image: url('../images/pedido.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  color: #555;
+  margin-top: 2vh;
+
+
+}
+
+#btn-aconselhamento {
+  background-image: url('../images/aconselhamento-interno.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+  color: #555;
+  margin-top: 2vh;
+
+}
+
+#carousel {
+  height: 350px;
+}
+
+#call1 {
+  height: 250px;
+
+}
+
+#copyright {
+  background-color: #222;
+  p {
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    color: #eee;
+  }
+}
+
+#content-igreja {
+  padding-bottom: 20vh;
+
+}
+
+@media screen and (max-width:768px) {
+  #content-igreja {
+    padding-bottom: 0vh;
+  }
+}
+
+#postid {
+  padding-bottom: 20vh;
+}
+
+@media screen and (max-width: 768px) {
+  #postid {
+    padding-bottom: 0vh;
+  }
+}
+
+#cuidado_pastoral-aconselhamento {
+  background-image: url('../images/nova_aconselhamento.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  color: #555;
+  margin-top: 2vh;
+
+  min-height: 68vh;
+  label {
+    //background-color: rgba(255, 255, 255, 0.68);
+    padding: 2px;
+  }
+}
+
+#cuidado_pastoral-pedido {
+  background-image: url('../images/pedido.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  color: #555;
+  margin-top: 2vh;
+  min-height: 68vh;
+}
+
+
+#footer-info{
+  img {
+    filter: grayscale(100);
+  }
+  .img:hover{
+    filter: grayscale(0);
+  }
+}
+
+#geral {
+  min-height: 100vh;
+  margin-bottom: -20vh;
+}
+
+@media screen and (max-width:768px) {
+  #geral {
+    min-height:68vh;
+    margin-bottom: 0vh;
+  }
+}
+
+#igreja-content {
+  img {
+    max-width: 100%;
+    padding: 2px;
+  }
+}
+
+#igreja-menu {
+  background-color: #fbfbfb;
+  height: 50px;
+
+  .active {
+    font-style: italic;
+    background-color: #eeeeee;
+  }
+}
+
+#index-content {
+  .navbar {
+    li {
+      padding-top: 45px;
+    }
+  }
+  .txt {
+    padding-top: 35px;
+  }
+
+}
+
+@media screen and (min-width:768px) {
+  #index-content {
+    height: 71vh;
+
+  }
+}
+
+#index-icons {
+  img {
+    margin-top: 5vh;
+    width:  100px;
+    position: relative;
+    left: 50%;
+    margin-left: -50px;
+  }
+  min-height: 350px;
+}
+
+#logo {
+  width: 150px;
+}
+
+#lideranca-content {
+  margin-top: 5px;
+  img {
+    max-width: 100%;
+    border-radius:10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #4fafd5;
+  }
+}
+
+#midia-call {
+  background-color: orange;
+  background-image: url('../images/teste-aves.jpg');
+  color: white;
+  height: 250px;
+
+  padding-top: 30px;
+
+  h3 {
+    margin-top: 10px;
+  }
+
+  .btn {
+    margin-top: 20px;
+  }
+}
+
+#midia-head {
+  height: 150px;
+
+
+}
+
+#midia {
+  padding-bottom: 20vh;
+}
+
+@media screen and (max-width:768px) {
+  #midia {
+    padding-bottom: 0vh;
+
+    .btn {
+      position: relative;
+      left: 50%;
+      margin-left: -40px;
+    }
+  }
+
+
+
+  .post-list {
+    h3 {
+      text-align: center;
+    }
+
+    p {
+      text-align: center;
+    }
+  }
+}
+
+#midia-menu {
+  a {
+      color:#333;
+  }
+
+  .dropdown-inner {
+    color:#444;
+  }
+
+  .nav > li > a:hover, .nav > li > a:focus {
+    text-decoration: underline;
+    background-color:rgba(255, 255, 255, 0.15);
+  }
+}
+
+@media screen and (max-width:768px) {
+  #midia-menu {
+
+    .dropdown-menu {
+      min-width: 100px;
+    }
+
+    .dropdown-inner {
+      color:#444;
+      padding-left: 2px;
+      padding-right: 2px;
+
+
+      h4 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+    }
+
+  }
+}
+
+#menu-principal-direita {
+
+  a {
+    padding-top:20px;
+    padding-bottom: 20px;
+    color:#666;
+    border-width: 0px;
+    border-style: solid;
+    border-color: #f36d2e;
+    /*border-bottom-width: 2px;*/
+
+  }
+
+  a:hover {
+    color:#444;
+    border-width: 0px;
+
+  }
+
+  li {
+    border-width: 0px;
+    /*border-color: #f36d2e;
+    border-style: solid;
+    border-top-width: 2px*/
+  }
+
+  .dropdown-menu > li > a {
+    color: #353535;
+  }
+
+  .active {
+    font-style: italic;
+    font-weight: 700;
+  }
+}
+
+@media screen and (min-width:768px) {
+  #menu-principal-direita {
+    li {
+      width: 20%;
+    }
+
+
+    .li-interno {
+      width: 100%;
+    }
+  }
+}
+
+#navbar-imagens{
+  float: none;
+
+  a {
+    padding-right:0px;
+  }
+
+  a:hover{
+    background-color:hsla(0, 0%, 93%, 0);
+  }
+
+  li {
+    float: right;
+  }
+}
+
+#navbar-igreja {
+
+  margin-top: 10px;
+  margin-bottom: 0px;
+
+  a {
+    color: white;
+  }
+
+  a:hover {
+    background-color:rgba(255, 255, 255, 0.15);
+  }
+
+
+  .active {
+    border-bottom: solid;
+  }
+}
+
+#navbar-cuidado_pastoral {
+
+  margin-top: 2px;
+  margin-bottom: 0px;
+
+  a {
+    color: white;
+    padding-top:10px;
+  }
+
+  a:hover {
+    background-color:rgba(255, 255, 255, 0.15);
+  }
+
+
+  .active {
+    h3 {
+      border-bottom: solid;
+      font-style: italic;
+    }
+
+  }
+}
+
+.add-galeria-img {
+  width: 100%;
+}
+
+.admin-video-list {
+  width: 100%;
+
+}
+
+.footer {
+  background-color: #333;
+  color: #eee;
+  p {
+    color: #aaa;
+  }
+
+  padding-bottom: 5px;
+  min-height: 20vh;
+  width: 100%;
+  position: relative;
+  img {
+    margin-top: 18px;
+    width: 100%;
+  }
+
+  .container {
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    background-color: #333;
+    color: #eee;
+    p {
+      color: #aaa;
+    }
+
+    padding-bottom: 0px;
+    height: 32vh;
+    width: 100%;
+    img {
+      margin-top: 7px;
+      width: 100%;
+    }
+
+    .container {
+      padding-bottom: 3px;
+    }
+  }
+}
+
+
+
+.galeria-prev {
+  .panel-body {
+    img {
+      width: 30px;
+      max-width: 30px;
+    }
+  }
+}
+
+.img-responsive {
+  display: block;
+  max-width: 300px;
+  height: auto;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #d8d8d8;
+  border-width: 2px;
+  width: 100%;
+}
+
+@media screen and (max-width:768px) {
+  .img-responsive {
+    max-width: none;
+  }
+}
+
+.embera-facebook-iframe {
+
+
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #d8d8d8;
+  border-width: 2px;
+
+
+}
+
+.embera-youtube-iframe {
+  max-width: 330px;
+
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #d8d8d8;
+  border-width: 2px;
+  }
+
+#postid{
+  .embera-facebook-iframe {
+
+
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #d8d8d8;
+    border-width: 2px;
+
+
+  }
+}
+
+.navbar {
+  margin-bottom: 0px;
+
+
+  img {
+    width: 40px;
+    -webkit-transition: .1s ease-in-out;
+    transition: .1s ease-in-out;
+  }
+
+  img:hover {
+    filter: grayscale(0);
+    -webkit-filter: grayscale(0);
+
+  }
+
+  a {
+    color: #333;
+  }
+}
+
+.navbar-brand {
+  float: left;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+
+}
+
+.navbar-nav {
+  float: none;
+}
+
+.post-list {
+  padding-left:0px;
+}
+
+#slide1 {
+  background-image: url('../images/adult.jpg');
+  height: 600px;
+  background-position: center;
+  background-size:cover;
+}
+
+#slide2 {
+  background-image: url('../images/1508.jpg');
+  height: 600px;
+  background-position: center;
+  background-size:cover;
+}
+
+#slide3 {
+  background-image: url('../images/banner3.jpg');
+  height: 600px;
+  background-position: center;
+  background-size:cover;
+}
+
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    float: none !important;
+
+    margin: 0;
+  }
+}
+
+#manutencao-content {
+  background-image: url('../images/aconselhamento.jpg');
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  height: 69vh;
+}
+
+
+@media screen and (max-width:768px) {
+  .admin-video-list {
+     position: relative; margin: 0 auto;
+  }
+}
+
+.modal {
+  max-width: 100%;
+
+  div {
+    margin-top: 5px;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: white;
+  }
+
+  img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .modal {
+    img {
+      margin-top: 49%;
+    }
+  }
+}
+
+.grid-modal {
+  max-width:100%;
+  padding: 2px;
+  border-style: solid;
+  border-radius: 5px;
+
+  border-color: gray;
+  -webkit-box-shadow: 3px 3px 8px -4px rgba(85,5,5,1);
+  -moz-box-shadow: 3px 3px 8px -4px rgba(85,5,5,1);
+  box-shadow: 3px 3px 8px -4px rgba(85,5,5,1);
+  margin: 3px;
+  max-height: 120px;
+}
+
+.player-container {
+  heigh: 310px;
+  background-color: #333;
+}
+
+.playlist {
+
+  border-left: 1px;
+  //border-left-style: solid;
+  //border-left-color: #ddd;
+  padding-left: 0px;
+  padding-right: 0px;
+  max-height: 318px;
+  overflow: auto;
+
+  p {
+    margin: 0px;
+  }
+
+  .active {
+    background-color: rgba(239, 239, 239, 0.28);
+    font-weight: 700;
+    border-right-radius: 5px;
+  }
+
+  .serie-atual-playlist-item, .serie-playlist-item, .programa-devocional-playlist-item, .serie-especial-playlist-item {
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #ddd;
+    a {
+      color: #ddd;
+    }
+
+    a:hover, a:focus {
+      text-decoration: none;
+
+    }
+  }
+
+  .serie-atual-playlist-item:hover, .serie-playlist-item:hover, .programa-devocional-playlist-item:hover, .serie-especial-playlist-item:hover  {
+    background-color: rgba(238, 238, 238, 0.78);
+
+  }
+}
+@media screen and (max-width:768px) {
+  .playlist {
+    padding-left:15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+}
+
+#series-catalog {
+  .navbar-header {
+    .active{
+
+    background-color: #eee;
+    }
+  }
+}
+
+.mobile-layout {
+  li {
+    .active {
+      border: 1px solid #ddd;
+      border-radius: 2px;
+    }
+  }
+
+}
+
+

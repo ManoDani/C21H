@@ -1,0 +1,90 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'inscricao' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li class="active">Início</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <p class="pull-right">
+    {% if inscricoes -%}
+    <a class="btn btn-default" href="{{ base_url() }}/admin/inscricao/export">
+      <span class="glyphicon glyphicon-export" aria-hidden="true">Exportar</span>
+    </a>
+    {%- endif %}
+
+  </p>
+  <h1>Inscrições</h1>
+</div>
+
+<div class="main">
+  {% if inscricoes %}
+  <form>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+
+        </div>
+      </div>
+    </div>
+    <div class="table-responsive">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>
+
+            </th>
+            <th style="width:15%;">N. Inscrição</th>
+            <th>Nome</th>
+            <th>Cadastrado Em</th>
+            <th>Curso</th>
+            <th class="th-button">Status</th>
+            <th class="th-button"></th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for inscricao in inscricoes %}
+          <tr>
+            <td>
+              <div id="checkbox-{{ inscricao.id }}" class="checkbox">
+                <label>
+                  <input type="checkbox">
+                </label>
+              </div>
+            </td>
+            <td>
+              <a href="{{ base_url() }}/admin/inscricao/{{ user.id }}">
+                {{ inscricao.id }}
+              </a>
+            </td>
+            <td>{{ inscricao.nome }}</td>
+            <td>{{ inscricao.data_cadastro }}</td>
+            <td>
+              {% for curso in cursos if inscricao.curso == curso.id %}
+                {{ curso.nome }}
+              {% endfor %}
+            </td>
+            <td>
+              {% for status in statuses if inscricao.status == status.id %}
+                {{ status.descricao }}
+              {% endfor %}
+            </td>
+            <td>
+
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </form>
+
+  {% else %}
+  <div class="alert alert-danger" role="alert">Não existem inscriçoes cadastradas</div>
+  {% endif %}
+</div>
+
+{% endblock %}

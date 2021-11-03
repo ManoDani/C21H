@@ -1,0 +1,129 @@
+{% extends "admin/layout.twig" %}
+{% block html_title %}Usuários - Administração - {{ parent() }}{% endblock %}
+{% set nav_active = 'user' %}
+{% block breadcrumbs %}
+<ol class="breadcrumb">
+  <li><a href="{{ base_url() }}/admin">Início</a></li>
+  <li><a href="{{ base_url() }}/admin/user">Usuários</a></li>
+  <li><a href="{{ base_url() }}/admin/user/{{ user.id }}">{{ user.name }}</a></li>
+  <li class="active">Editar</li>
+</ol>
+{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1>Editar usuário</h1>
+</div>
+
+<form role="form" data-toggle="validator" action="{{ base_url() }}/admin/user/update" method="POST">
+  <input type="hidden" name="id" value="{{ user.id }}">
+  <div class="form-group">
+    <label for="inputName">Nome</label>
+    <input type="text" class="form-control" id="inputName" name="name" placeholder="Nome" value="{{ user.name }}" data-minlength="5" required>
+  </div>
+  <div class="form-group">
+    <label for="inputEmail">Email</label>
+    <input type="email" class="form-control" id="inputEmail" name="email" placeholder="Email" value="{{ user.email }}" required>
+  </div>
+  <div class="row">
+    <div class="col-sm-6 form-group">
+      <label for="inputNascimento">Data de nascimento</label>
+      <input type="date" class="form-control" id="inputNascimento" name="nascimento" value="{{ user.nascimento }}">
+    </div>
+    <div class="col-sm-6 form-group">
+      <label for="inputCpf">CPF</label>
+      <input type="text" class="form-control" id="inputCpf" name="cpf" placeholder="CPF" value="{{ user.cpf }}" pattern="^([0-9]){3}\.([0-9]){3}\.([0-9]){3}-([0-9]){2}$" title="Número do CPF com pontos e traço">
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-3 form-group">
+      <label for="inputTelArea">DDD</label>
+      <input type="number" class="form-control" id="inputTelArea" name="tel_area" placeholder="DDD" value="{{ user.tel_area }}">
+    </div>
+    <div class="col-sm-9 form-group">
+      <label for="inputTelefone">Telefone</label>
+      <input type="number" class="form-control" id="inputTelefone" name="tel_numero" placeholder="Telefone" value="{{ user.tel_numero }}">
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="inputCep">CEP</label>
+    <input type="text" class="form-control" id="inputCep" name="end_cep" placeholder="CEP" value="{{ user.end_cep }}" pattern="^([0-9]){5}-([0-9]){3}$" title="Código do CEP com traço">
+  </div>
+  <div class="row">
+    <div class="col-sm-9 form-group">
+      <label for="inputRua">Rua</label>
+      <input type="text" class="form-control" id="inputRua" name="end_rua" placeholder="Rua" value="{{ user.end_rua }}">
+    </div>
+    <div class="col-sm-3 form-group">
+      <label for="inputNumero">Número</label>
+      <input type="text" class="form-control" id="inputNumero" name="end_numero" placeholder="Número" value="{{ user.end_numero }}">
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="inputComplemento">Complemento</label>
+    <input type="text" class="form-control" id="inputComplemento" name="end_complemento" placeholder="Complemento" value="{{ user.end_complemento }}">
+  </div>
+  <div class="form-group">
+    <label for="inputBairro">Bairro</label>
+    <input type="text" class="form-control" id="inputBairro" name="end_bairro" placeholder="Bairro" value="{{ user.end_bairro }}">
+  </div>
+  <div class="row">
+    <div class="col-sm-9 form-group">
+      <label for="inputCidade">Cidade</label>
+      <input type="text" class="form-control" id="inputCidade" name="end_cidade" placeholder="Cidade" value="{{ user.end_cidade }}">
+    </div>
+    <div class="col-sm-3 form-group">
+      <label for="selectEstado">Estado</label>
+      <select class="form-control" id="selectEstado" name="end_estado">
+        <option value=""{{ user.end_estado is empty ? ' selected' }}>Estado</option>
+        <option value="AC"{{ user.end_estado == 'AC' ? ' selected' }}>Acre</option>
+        <option value="AL"{{ user.end_estado == 'AL' ? ' selected' }}>Alagoas</option>
+        <option value="AP"{{ user.end_estado == 'AP' ? ' selected' }}>Amapá</option>
+        <option value="AM"{{ user.end_estado == 'AM' ? ' selected' }}>Amazonas</option>
+        <option value="BA"{{ user.end_estado == 'BA' ? ' selected' }}>Bahia</option>
+        <option value="CE"{{ user.end_estado == 'CE' ? ' selected' }}>Ceará</option>
+        <option value="DF"{{ user.end_estado == 'DF' ? ' selected' }}>Distrito Federal</option>
+        <option value="ES"{{ user.end_estado == 'ES' ? ' selected' }}>Espírito Santo</option>
+        <option value="GO"{{ user.end_estado == 'GO' ? ' selected' }}>Goiás</option>
+        <option value="MA"{{ user.end_estado == 'MA' ? ' selected' }}>Maranhão</option>
+        <option value="MT"{{ user.end_estado == 'MT' ? ' selected' }}>Mato Grosso</option>
+        <option value="MS"{{ user.end_estado == 'MS' ? ' selected' }}>Mato Grosso do Sul</option>
+        <option value="MG"{{ user.end_estado == 'MG' ? ' selected' }}>Minas Gerais</option>
+        <option value="PA"{{ user.end_estado == 'PA' ? ' selected' }}>Pará</option>
+        <option value="PB"{{ user.end_estado == 'PB' ? ' selected' }}>Paraíba</option>
+        <option value="PR"{{ user.end_estado == 'PR' ? ' selected' }}>Paraná</option>
+        <option value="PE"{{ user.end_estado == 'PE' ? ' selected' }}>Pernambuco</option>
+        <option value="PI"{{ user.end_estado == 'PI' ? ' selected' }}>Piauí</option>
+        <option value="RJ"{{ user.end_estado == 'RJ' ? ' selected' }}>Rio de Janeiro</option>
+        <option value="RN"{{ user.end_estado == 'RN' ? ' selected' }}>Rio Grande do Norte</option>
+        <option value="RS"{{ user.end_estado == 'RS' ? ' selected' }}>Rio Grande do Sul</option>
+        <option value="RO"{{ user.end_estado == 'RO' ? ' selected' }}>Rondônia</option>
+        <option value="RR"{{ user.end_estado == 'RR' ? ' selected' }}>Roraima</option>
+        <option value="SC"{{ user.end_estado == 'SC' ? ' selected' }}>Santa Catarina</option>
+        <option value="SP"{{ user.end_estado == 'SP' ? ' selected' }}>São Paulo</option>
+        <option value="SE"{{ user.end_estado == 'SE' ? ' selected' }}>Sergipe</option>
+        <option value="TO"{{ user.end_estado == 'TO' ? ' selected' }}>Tocantins</option>
+      </select>
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="inputPassword">Nova senha</label>
+    <input type="password" class="form-control" id="inputPassword" name="password" placeholder="Nova senha">
+  </div>
+  <div class="form-group">
+    <label for="selectRole">Cargo</label>
+    <select class="form-control" id="selectRole" name="role_id">
+      {% for role in roles if role.name != 'guest' %}
+      <option {% if role.id == user.role_id %}selected {% endif %}value="{{ role.id }}">{{ role.description }}</option>
+      {% endfor %}
+    </select>
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-primary">Atualizar</button>
+  </div>
+</form>
+
+{% endblock %}
+{% block javascripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/1000hz-bootstrap-validator/0.11.9/validator.min.js"></script>
+{% endblock %}
