@@ -1,0 +1,29 @@
+cache:
+  paths:
+  - vendor/
+  - node_modules/
+
+before_script:
+- curl -sL https://deb.nodesource.com/setup_6.x | bash -
+- curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
+- echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
+- apt-get update -yqq
+- apt-get install -yqq git nodejs yarn libxml2-dev zlib1g-dev libcurl4-gnutls-dev
+- docker-php-ext-install xml zip curl
+- curl -sS https://getcomposer.org/installer | php
+- php composer.phar install
+
+test:phpcs:
+  image: php:7.1
+  script:
+  - vendor/bin/phpcs
+
+test:7.0:
+  image: php:7.0
+  script:
+  - vendor/bin/phpunit --configuration phpunit.xml.dist
+
+test:7.1:
+  image: php:7.1
+  script:
+  - vendor/bin/phpunit --configuration phpunit.xml.dist
